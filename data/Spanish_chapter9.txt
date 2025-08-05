@@ -1,0 +1,1960 @@
+#% tag chap9_coronation
+tag chap9_coronation
+#% mus mus_colors_full
+mus mus_colors_full
+#% dbg hide
+dbg hide
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% dbg spr_bg_palace
+dbg spr_bg_palace
+#% sou sou_fanfare
+sou sou_fanfare
+#% cha kry_armout_angry_wide_yell
+cha kry_armout_angry_wide_yell
+# kry All hail her majesty the Queen! All hail Queen Asaga di Ryuvia!
+kry All hail her majesty the Queen! All hail Queen Asaga di Ryuvia!
+# eve All hail Asaga di Ryuvia!
+eve All hail Asaga di Ryuvia!
+#% hid kry
+hid kry
+#% cha asa_wedding_focus_closedeye_frown
+cha asa_wedding_focus_closedeye_frown
+# asa ... ... ...
+asa ... ... ...
+#% cha asa_wedding_focus_neutral_smalltalk
+cha asa_wedding_focus_neutral_smalltalk
+# asa Everyone... Thank you.
+asa Everyone... Thank you.
+# asa I know I wasn't always the best Princess... In fact, all I did was run away from my responsibilities... I couldn't even be the Sharr who saved everyone.
+asa I know I wasn't always the best Princess... In fact, all I did was run away from my responsibilities... I couldn't even be the Sharr who saved everyone.
+# asa But I swear upon my father's name. I shall be a Queen for all Ryuvians. Not just for the High Elves! But for all the Maan who have come to call our kingdom home. For all the Demonfolk who have left their lands in search of a better life. And for all those of mixed parentage, who represent all the best aspects of our kingdom's heritage.
+asa But I swear upon my father's name. I shall be a Queen for all Ryuvians. Not just for the High Elves! But for all the Maan who have come to call our kingdom home. For all the Demonfolk who have left their lands in search of a better life. And for all those of mixed parentage, who represent all the best aspects of our kingdom's heritage.
+# asa As my first act as Queen, I abolish the Monolithic Truth as a policy of the state! No longer shall age alone determine one's status in our society! For as wise as we High Elves can be, we cannot compare to the ingenuity to be found among the other races of our kingdom. From this day on, let both experience and ability be celebrated in equal measure.
+asa As my first act as Queen, I abolish the Monolithic Truth as a policy of the state! No longer shall age alone determine one's status in our society! For as wise as we High Elves can be, we cannot compare to the ingenuity to be found among the other races of our kingdom. From this day on, let both experience and ability be celebrated in equal measure.
+# asa Further, I shall issue no mandate as to the worship of any gods or religion within the realm. Let that be a personal choice, to be made in light of each of my subject's proud heritage. For no matter what race we belong to, no matter what god we worship, we are all Ryuvians.
+asa Further, I shall issue no mandate as to the worship of any gods or religion within the realm. Let that be a personal choice, to be made in light of each of my subject's proud heritage. For no matter what race we belong to, no matter what god we worship, we are all Ryuvians.
+# asa For my third decree, I turn now to the matter of the peace treaty with the Pact of Maan...
+asa For my third decree, I turn now to the matter of the peace treaty with the Pact of Maan...
+# asa You may speak, Lord Fontana.
+asa You may speak, Lord Fontana.
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+# fon Let it be known to Ryuvia: Veniczar Arcadius was a true hero to the Maan of the Asahi Isle, who tragically fell before his dream of liberating his people from the Dark Prince and his Ork minions could be realized.
+fon Let it be known to Ryuvia: Veniczar Arcadius was a true hero to the Maan of the Asahi Isle, who tragically fell before his dream of liberating his people from the Dark Prince and his Ork minions could be realized.
+# fon The ones who instigated this war stole his name and his valor.
+fon The ones who instigated this war stole his name and his valor.
+# fon But now, with this peace, let that valor be restored to my people.
+fon But now, with this peace, let that valor be restored to my people.
+# fon I, Veniczar Fontana, pledge to return our forces to the Asahi Isle, and to rule it in peace, just as the great Arcadius dreamed.
+fon I, Veniczar Fontana, pledge to return our forces to the Asahi Isle, and to rule it in peace, just as the great Arcadius dreamed.
+#% cha asa_wedding_neutral_neutral_smirk
+cha asa_wedding_neutral_neutral_smirk
+# asa Ryuvia shall demand no reparations. There shall be no revenge. Let our two nations co-exist in peace.
+asa Ryuvia shall demand no reparations. There shall be no revenge. Let our two nations co-exist in peace.
+#% cha fon_neu_focus_closedeye_smile
+cha fon_neu_focus_closedeye_smile
+# fon I accept your clemency, your grace. So long as the two of us rule our nations, let there be peace.
+fon I accept your clemency, your grace. So long as the two of us rule our nations, let there be peace.
+#% cha asa_wedding_focus_wide2_yell
+cha asa_wedding_focus_wide2_yell
+# asa Let there be peace! For this is your Queen's decree!
+asa Let there be peace! For this is your Queen's decree!
+#% cha kry_fistup_angry_wide_yell
+cha kry_fistup_angry_wide_yell
+# kry All hail the Queen!
+kry All hail the Queen!
+#% hid kry
+hid kry
+#% hid fon
+hid fon
+#% hid asa
+hid asa
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay And so, the war is officially over, and Ryuvia has a new Queen...
+kay And so, the war is officially over, and Ryuvia has a new Queen...
+#% cha ava_armscrossed_neutral_neutral_smalltalk
+cha ava_armscrossed_neutral_neutral_smalltalk
+# ava I would not be so relieved, captain. The pomp and circumstance of the coronation notwithstanding, the reign of our new queen will not be an easy one.
+ava I would not be so relieved, captain. The pomp and circumstance of the coronation notwithstanding, the reign of our new queen will not be an easy one.
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+# ava Already, the Song Alliance stirs to the West. The High Elves will not take well to the Queen's heresy of abolishing the Monolithic Truth.
+ava Already, the Song Alliance stirs to the West. The High Elves will not take well to the Queen's heresy of abolishing the Monolithic Truth.
+# ava I fear we may have extinguished one war, merely to fan the flames of another.
+ava I fear we may have extinguished one war, merely to fan the flames of another.
+#% cha kay_neu_confuse_thinking_smile
+cha kay_neu_confuse_thinking_smile
+# kay Well, good thing Asaga seems up to the challenge. And this Fontana fellow, well, I suppose he's not as bad as I first thought... Ugh, for some reason, I just can't shake the feeling we were sworn enemies in another life though...
+kay Well, good thing Asaga seems up to the challenge. And this Fontana fellow, well, I suppose he's not as bad as I first thought... Ugh, for some reason, I just can't shake the feeling we were sworn enemies in another life though...
+#% cha ava_armscrossed_focus_closedeye_smalltalk
+cha ava_armscrossed_focus_closedeye_smalltalk
+# ava We shall see, captain...
+ava We shall see, captain...
+#% hid ava
+hid ava
+#% mus stop
+mus stop
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_asanormal_false
+tag chap9_asanormal_false
+#% mus mus_hatsukoi
+mus mus_hatsukoi
+#% cha asa_wedding_neutral_neutral_smirk
+cha asa_wedding_neutral_neutral_smirk
+# asa Hey, capt'n...
+asa Hey, capt'n...
+#% cha kay_neu_confuse_thinking_smile
+cha kay_neu_confuse_thinking_smile
+# kay Your majesty.
+kay Your majesty.
+#% cha asa_wedding_confuse_neutral_smalltalk
+cha asa_wedding_confuse_neutral_smalltalk
+# asa You remember what I said, all those days ago, when you first found out I was the Princess?
+asa You remember what I said, all those days ago, when you first found out I was the Princess?
+#% cha asa_wedding_sad_closedeye_smirk
+cha asa_wedding_sad_closedeye_smirk
+# asa I'm still Asaga. Just Asaga.
+asa I'm still Asaga. Just Asaga.
+#% cha kay_neu_confuse_thinking_smile
+cha kay_neu_confuse_thinking_smile
+# kay Heh. I suppose so.
+kay Heh. I suppose so.
+#% cha asa_wedding_raised_narrow2_awkwardsm_blush
+cha asa_wedding_raised_narrow2_awkwardsm_blush
+# asa Hey uhh...
+asa Hey uhh...
+# asa Now that the coronation's over and things are settling down a bit... Why don't you stay in Ryuvia for a while?
+asa Now that the coronation's over and things are settling down a bit... Why don't you stay in Ryuvia for a while?
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay Hmmm...
+kay Hmmm...
+#% cha asa_wedding_confuse_narrow2_catmouth_blush
+cha asa_wedding_confuse_narrow2_catmouth_blush
+# asa You know... For some... private time.
+asa You know... For some... private time.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Heh... I'm sorry.
+kay Heh... I'm sorry.
+# kay I'm afraid I'll have to decline.
+kay I'm afraid I'll have to decline.
+# kay The sea's where I belong. Not here.
+kay The sea's where I belong. Not here.
+# kay The Sunrider's calling my name.
+kay The Sunrider's calling my name.
+# kay 'Til next time, your majesty.
+kay 'Til next time, your majesty.
+#% cha asa_wedding_sad_closedeye_cry
+cha asa_wedding_sad_closedeye_cry
+# asa ... ... ...
+asa ... ... ...
+# asa ... ...
+asa ... ...
+# asa ...
+asa ...
+#% cha asa_wedding_focus_narrow2_laugh_blush
+cha asa_wedding_focus_narrow2_laugh_blush
+# asa Figures as much~!
+asa Figures as much~!
+# asa Well then, time to get outta this ridiculous dress and sneak onboard!
+asa Well then, time to get outta this ridiculous dress and sneak onboard!
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% mus mus_colors_main
+mus mus_colors_main
+#% cha ava_armup_focus_neutral_smirk
+cha ava_armup_focus_neutral_smirk
+# ava The Sunrider is at your command, captain.
+ava The Sunrider is at your command, captain.
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay What news do the tides bring?
+kay What news do the tides bring?
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+# ava Though Veniczar Fontana has ordered the Crimson Fleet to fall back to New Eden, some Pact captains have chosen to defect and traded their red sails for black ones.
+ava Though Veniczar Fontana has ordered the Crimson Fleet to fall back to New Eden, some Pact captains have chosen to defect and traded their red sails for black ones.
+# ava Worse, the Emerald Fleet appears to be mobilizing for something big. With their blockade of Far Port, unrest is spreading throughout the realm. It is only a matter of time until a spark ignites a civil war...
+ava Worse, the Emerald Fleet appears to be mobilizing for something big. With their blockade of Far Port, unrest is spreading throughout the realm. It is only a matter of time until a spark ignites a civil war...
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay Well, so long as our paperwork is in order, I'm sure they'll let the heroes of the war pass.
+kay Well, so long as our paperwork is in order, I'm sure they'll let the heroes of the war pass.
+#% cha ava_facepalm_focus_closedeye_sigh
+cha ava_facepalm_focus_closedeye_sigh
+# ava Yes. So long as our paperwork is in order.
+ava Yes. So long as our paperwork is in order.
+#% cha ava_facepalm_focus_narrow_smalltalk
+cha ava_facepalm_focus_narrow_smalltalk
+# ava Finally, I am hearing strange rumors about an Ork apparition who now haunts the Forbidden Abyss...
+ava Finally, I am hearing strange rumors about an Ork apparition who now haunts the Forbidden Abyss...
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Oh boy... I get the feeling we traded Crow Harbor for someone even worse.
+kay Oh boy... I get the feeling we traded Crow Harbor for someone even worse.
+#% cha ava_armscrossed_focus_closedeye_smalltalk
+cha ava_armscrossed_focus_closedeye_smalltalk
+# ava Your list of admirers grow ever larger. Well then...
+ava Your list of admirers grow ever larger. Well then...
+#% cha ava_armup_neutral_neutral_smalltalk
+cha ava_armup_neutral_neutral_smalltalk
+# ava Your orders, captain?
+ava Your orders, captain?
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay This is not our mission's end.
+kay This is not our mission's end.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Set sails! To our next adventure!
+kay Set sails! To our next adventure!
+#% hid ava
+hid ava
+#% dbg hide
+dbg hide
+#% mus stop
+mus stop
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_avaonsen
+tag chap9_avaonsen
+#% mus mus_hinokageri
+mus mus_hinokageri
+#% ccc kay_nude
+ccc kay_nude
+#% dbg spr_bg_bathhouse
+dbg spr_bg_bathhouse
+#% cha kay_neu_neutral_closed_smallsmil
+cha kay_neu_neutral_closed_smallsmil
+# kay ... ... ...
+kay ... ... ...
+#% cha kay_neu_sad_closed_smirk
+cha kay_neu_sad_closed_smirk
+# kay (Whew... I've finally managed to find some downtime between all our adventures...)
+kay (Whew... I've finally managed to find some downtime between all our adventures...)
+# kay (But I am truly surprised... To think a certain someone would actually agree to join me here...)
+kay (But I am truly surprised... To think a certain someone would actually agree to join me here...)
+#% dcg spr_cg_avaonsen
+dcg spr_cg_avaonsen
+# ava Sigh... I... really needed this...
+ava Sigh... I... really needed this...
+# kay Yeah... haha...
+kay Yeah... haha...
+# kay You know, uhh, I thought you were still opposed to the whole mixed bathing thing...
+kay You know, uhh, I thought you were still opposed to the whole mixed bathing thing...
+# ava You know what, Kayto? After having to deal with the Monolithic Truth this and sacred tradition that, I've decided to just stop worrying about it all...
+ava You know what, Kayto? After having to deal with the Monolithic Truth this and sacred tradition that, I've decided to just stop worrying about it all...
+# ava Ugh, you have no idea how much I need this bath... Out of all the horrible adventures you've put me through, this one truly has got to be the worst one out of them all!
+ava Ugh, you have no idea how much I need this bath... Out of all the horrible adventures you've put me through, this one truly has got to be the worst one out of them all!
+# ava Just how many times did we nearly get killed?! Please captain, Wishalls are hard to come by! You cannot keep using them to get out of every mishap!
+ava Just how many times did we nearly get killed?! Please captain, Wishalls are hard to come by! You cannot keep using them to get out of every mishap!
+# kay Don't worry, Ava. I think I still have a spare I got ages ago, which ended up never being used for anything...
+kay Don't worry, Ava. I think I still have a spare I got ages ago, which ended up never being used for anything...
+# ava Unbelievable...
+ava Unbelievable...
+# ava You are truly... unbelievable...
+ava You are truly... unbelievable...
+# kay Don't worry. Despite everything, I still haven't crashed the ship yet. You can count on me.
+kay Don't worry. Despite everything, I still haven't crashed the ship yet. You can count on me.
+# ava Sigh... I am truly going to regret this...
+ava Sigh... I am truly going to regret this...
+#% dcg spr_cg_avaonsen2
+dcg spr_cg_avaonsen2
+# kay ...!
+kay ...!
+# kay A-Ava?!
+kay A-Ava?!
+# ava Yes, captain?
+ava Yes, captain?
+# kay Wha-?
+kay Wha-?
+# ava Oh, don't be such a child. So you can go save the realm, but a little kiss is too much for you?
+ava Oh, don't be such a child. So you can go save the realm, but a little kiss is too much for you?
+# kay W-Well... erm...
+kay W-Well... erm...
+# ava Here, another one... Mm...
+ava Here, another one... Mm...
+# ava A little reward, for the savior of the realm...
+ava A little reward, for the savior of the realm...
+# ava My... is the water hotter than usual? You're turning awfully red...
+ava My... is the water hotter than usual? You're turning awfully red...
+# kay Eh heh... I... don't think it's the water.
+kay Eh heh... I... don't think it's the water.
+# ava Yes, captain. We best stop here, lest we strike an... unexpected shoal beneath our keel, let's say.
+ava Yes, captain. We best stop here, lest we strike an... unexpected shoal beneath our keel, let's say.
+# kay Indeed, that would be most unfortunate...
+kay Indeed, that would be most unfortunate...
+# ava My... We do seem to be properly overheating... What say we relax some more in the night breeze, beneath the stars?
+ava My... We do seem to be properly overheating... What say we relax some more in the night breeze, beneath the stars?
+# kay Exactly my thoughts.
+kay Exactly my thoughts.
+# ava It would be truly unfortunate if the hero of the realm were to pass out in the bath...
+ava It would be truly unfortunate if the hero of the realm were to pass out in the bath...
+# kay Nay, it would be more unfortunate if the first mate to the hero of the realm were to pass out in the bath!
+kay Nay, it would be more unfortunate if the first mate to the hero of the realm were to pass out in the bath!
+# ava Worry not, captain. I am more than capable of withstanding a little bit of heat...
+ava Worry not, captain. I am more than capable of withstanding a little bit of heat...
+# kay No, no! Let us be on our way!
+kay No, no! Let us be on our way!
+# kay The stars are indeed beautiful this night! Among other things...
+kay The stars are indeed beautiful this night! Among other things...
+# ava You certainly do have a way with words, captain...
+ava You certainly do have a way with words, captain...
+# ava Then, let us be on our way...
+ava Then, let us be on our way...
+#% mus stop
+mus stop
+#% dcg hide
+dcg hide
+#% dbg hide
+dbg hide
+#% sou sou_affectiongain
+sou sou_affectiongain
+# nar (2 Affection Points Gained!)
+nar (2 Affection Points Gained!)
+# nar (The waters rejuvenate your soul...)
+nar (The waters rejuvenate your soul...)
+#% sou sou_onsengain
+sou sou_onsengain
+# nar (The Communal EN cap has been increased by 10!)
+nar (The Communal EN cap has been increased by 10!)
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% mus mus_asifigure
+mus mus_asifigure
+#% ccc kay_uni
+ccc kay_uni
+#% ifj normalendepi,claudegone
+ifj normalendepi,claudegone
+#% tag normalendepi_true
+tag normalendepi_true
+#% cha cla_pout_focus_funnysmug_pout
+cha cla_pout_focus_funnysmug_pout
+# cla ... ... ...
+cla ... ... ...
+# cla ... ...
+cla ... ...
+# cla ...
+cla ...
+# cla ... ...
+cla ... ...
+# cla ... ... ...
+cla ... ... ...
+#% cha cla_pout_focus_smug_smalltalk
+cha cla_pout_focus_smug_smalltalk
+# cla How horrible of you captain, leaving poor ol' Claude behind like that. Don't think that reaching this ending forgives you for abandoning your goddess!
+cla How horrible of you captain, leaving poor ol' Claude behind like that. Don't think that reaching this ending forgives you for abandoning your goddess!
+# cla What? You left me because I tried to kill you? Oh no, mon capitaine! I was merely joking around.
+cla What? You left me because I tried to kill you? Oh no, mon capitaine! I was merely joking around.
+# cla How about next time, you don't forget to get me back?
+cla How about next time, you don't forget to get me back?
+#% cha cla_pout_sad_smug_pout
+cha cla_pout_sad_smug_pout
+# cla Sigh... Besides that...
+cla Sigh... Besides that...
+#% tag normalendepi_false
+tag normalendepi_false
+#% cha cla_armscrossed_sad_smug_laugh
+cha cla_armscrossed_sad_smug_laugh
+# cla Oh la la! What a steamy ending you've found, mon capitaine!
+cla Oh la la! What a steamy ending you've found, mon capitaine!
+#% cha cla_handsonhips_confuse_smug_catopensm_blush
+cha cla_handsonhips_confuse_smug_catopensm_blush
+# cla I knew you'd be able to do it, ya big horndog you.
+cla I knew you'd be able to do it, ya big horndog you.
+#% cha cla_armscrossed_neutral_closedeye_laugh
+cha cla_armscrossed_neutral_closedeye_laugh
+# cla Congratulations, you've found the Normal End! Yes, you heard me right! There is still a True End waiting for you!
+cla Congratulations, you've found the Normal End! Yes, you heard me right! There is still a True End waiting for you!
+# cla As a matter of fact, let me unlock that for you now!
+cla As a matter of fact, let me unlock that for you now!
+#% cha cla_handsonhips_raised_neutral_laugh
+cha cla_handsonhips_raised_neutral_laugh
+# cla Not only that, but NewGame+ will now commence! All of your stats, affection levels, and gear will carry over into this new mode!
+cla Not only that, but NewGame+ will now commence! All of your stats, affection levels, and gear will carry over into this new mode!
+#% cha cla_pout_focus_smug_catopensm
+cha cla_pout_focus_smug_catopensm
+# cla All new story content and items await you in NewGame+!
+cla All new story content and items await you in NewGame+!
+# cla It is highly recommended that you save at this point on a new save slot to always have access to NewGame+!
+cla It is highly recommended that you save at this point on a new save slot to always have access to NewGame+!
+#% cha cla_pout_sad_smug_pout
+cha cla_pout_sad_smug_pout
+# cla Are you doing it, captain? Save!
+cla Are you doing it, captain? Save!
+#% cha cla_armscrossed_sad_closedeye_awkwardsm
+cha cla_armscrossed_sad_closedeye_awkwardsm
+# cla Ahem... Moving on...
+cla Ahem... Moving on...
+#% cha cla_armscrossed_sad_smug_laugh
+cha cla_armscrossed_sad_smug_laugh
+# cla Beware! It's not all just good stuff in NewGame+. The difficulty of all battles have been increased! Far more enemies will now confront you in all battles!
+cla Beware! It's not all just good stuff in NewGame+. The difficulty of all battles have been increased! Far more enemies will now confront you in all battles!
+# cla Keep your eyes out for special elite ships with familiar sounding names. They are formidable enemies and even better prizes if taken in hand-to-hand combat.
+cla Keep your eyes out for special elite ships with familiar sounding names. They are formidable enemies and even better prizes if taken in hand-to-hand combat.
+# cla But don't go out of control and board ships left and right! In NewGame+, all ships with 0 morale will suffer the demoralized penalty!
+cla But don't go out of control and board ships left and right! In NewGame+, all ships with 0 morale will suffer the demoralized penalty!
+# cla That means if a boarding operation fails, you could be highly vulnerable to an enemy boarding attempt.
+cla That means if a boarding operation fails, you could be highly vulnerable to an enemy boarding attempt.
+#% cha cla_squish_sad_smug_catopensm
+cha cla_squish_sad_smug_catopensm
+# cla Can you recruit all the girls to your party and unlock the True End?
+cla Can you recruit all the girls to your party and unlock the True End?
+# cla Good luck, captain! And remember... Your goddess is always looking after you!
+cla Good luck, captain! And remember... Your goddess is always looking after you!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_asanormal_true
+tag chap9_asanormal_true
+#% dbg spr_bg_sunriderbelowdeck
+dbg spr_bg_sunriderbelowdeck
+#% mus mus_colors_chigara
+mus mus_colors_chigara
+#% cha kay_neu_neutral_closed_smallsmil
+cha kay_neu_neutral_closed_smallsmil
+# kay (With Admiral Grey defeated for good and Pact's retreat back to the Asahi Isle, we've taken a huge step towards restoring peace to the realm...)
+kay (With Admiral Grey defeated for good and Pact's retreat back to the Asahi Isle, we've taken a huge step towards restoring peace to the realm...)
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay (Yet, I cannot help but feel like our tale's not yet over...)
+kay (Yet, I cannot help but feel like our tale's not yet over...)
+# kay (I should talk with one of the girls...)
+kay (I should talk with one of the girls...)
+# kay (Whoever I decide to talk to could have huge implications for the future.)
+kay (Whoever I decide to talk to could have huge implications for the future.)
+# kay (I better think this through and decide carefully...)
+kay (I better think this through and decide carefully...)
+#% dbg hide
+dbg hide
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_ava
+tag chap9_end_ava
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% mus mus_hinokageri
+mus mus_hinokageri
+#% cha ava_armscrossed_surprised_wide_slight
+cha ava_armscrossed_surprised_wide_slight
+# ava Captain? I did not expect you to be making the rounds at this hour...
+ava Captain? I did not expect you to be making the rounds at this hour...
+#% cha kay_neu_confuse_thinking_smirk
+cha kay_neu_confuse_thinking_smirk
+# kay Actually Ava, there's something I wanted to talk to you about...
+kay Actually Ava, there's something I wanted to talk to you about...
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+# ava Yes, there certainly is much to discuss. With Queen Asaga's proclamation about the reformed Monolithic Truth, there will be countless High Elves who refuse to accept her decree and turn to Orks. I'd say our troubles may just be beginning...
+ava Yes, there certainly is much to discuss. With Queen Asaga's proclamation about the reformed Monolithic Truth, there will be countless High Elves who refuse to accept her decree and turn to Orks. I'd say our troubles may just be beginning...
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay I'm not talking about that, Ava.
+kay I'm not talking about that, Ava.
+#% cha ava_armup_surprised_wide_smalltalk
+cha ava_armup_surprised_wide_smalltalk
+# ava You're not...?
+ava You're not...?
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay I want to talk about us.
+kay I want to talk about us.
+#% cha ava_armup_surprised_surprise_smalltalk
+cha ava_armup_surprised_surprise_smalltalk
+# ava Us...?
+ava Us...?
+#% cha kay_neu_confuse_thinking_smile
+cha kay_neu_confuse_thinking_smile
+# kay You know, we make a good team together. But I'm not talking about us as just captain and first mate.
+kay You know, we make a good team together. But I'm not talking about us as just captain and first mate.
+# kay You're the one I've always counted on the most. I want us to be together forever, Ava.
+kay You're the one I've always counted on the most. I want us to be together forever, Ava.
+# kay Let's head to Cera after we're finished with business at Ryuvia and get married. It's really about time, isn't it?
+kay Let's head to Cera after we're finished with business at Ryuvia and get married. It's really about time, isn't it?
+#% cha ava_armup_surprised_surprise_smalltalk_blush
+cha ava_armup_surprised_surprise_smalltalk_blush
+# ava My... Kayto, I... well...
+ava My... Kayto, I... well...
+#% cha ava_armscrossed_raised_closedeye_opensmile_blush
+cha ava_armscrossed_raised_closedeye_opensmile_blush
+# ava ...Heh. Well, I suppose you've certainly earned it.
+ava ...Heh. Well, I suppose you've certainly earned it.
+#% cha ava_armscrossed_neutral_neutral_smirk_blush
+cha ava_armscrossed_neutral_neutral_smirk_blush
+# ava All right, Kayto. From now on, let's embark on our adventures as one.
+ava All right, Kayto. From now on, let's embark on our adventures as one.
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Yeah... As one.
+kay Yeah... As one.
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_avaoutro
+tag chap9_avaoutro
+#% dcg spr_cg_avaend
+dcg spr_cg_avaend
+# nar And so, Captain Kayto Shields and Ava returned to Cera to be happily wedded...
+nar And so, Captain Kayto Shields and Ava returned to Cera to be happily wedded...
+# nar All their family and friends were present to witness the momentous occasion.
+nar All their family and friends were present to witness the momentous occasion.
+# nar After a honey moon filled with what Ava termed "so many typical misadventures," the two of them returned to sea to embark on countless new adventures...
+nar After a honey moon filled with what Ava termed "so many typical misadventures," the two of them returned to sea to embark on countless new adventures...
+# nar Though they would encounter countless new villains in the years ahead, Kayto and Ava defeated them together.
+nar Though they would encounter countless new villains in the years ahead, Kayto and Ava defeated them together.
+# nar Kayto would captain the Sunrider on countless adventures to come, alongside his faithful first mate and wife, Ava...
+nar Kayto would captain the Sunrider on countless adventures to come, alongside his faithful first mate and wife, Ava...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_asa
+tag chap9_end_asa
+#% mus mus_hatsukoi
+mus mus_hatsukoi
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha asa_armup_confuse_narrow2_awkwardsm
+cha asa_armup_confuse_narrow2_awkwardsm
+# asa Oh, hey capt'n. Fancy seein' you at this hour...
+asa Oh, hey capt'n. Fancy seein' you at this hour...
+#% cha kay_neu_confuse_thinking_smile
+cha kay_neu_confuse_thinking_smile
+# kay Actually Asaga, I was looking for you...
+kay Actually Asaga, I was looking for you...
+#% cha asa_shrug_sad_narrow2_awkwardsm
+cha asa_shrug_sad_narrow2_awkwardsm
+# asa Eh? You were?
+asa Eh? You were?
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay About what you told me earlier, about staying at Ryuvia once all of this was over... I've given it some thought.
+kay About what you told me earlier, about staying at Ryuvia once all of this was over... I've given it some thought.
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay And I've decided to accept your offer. Even though Admiral Grey is defeated, there will be countless other High Elves who will try to force you to cast the Final Tear.
+kay And I've decided to accept your offer. Even though Admiral Grey is defeated, there will be countless other High Elves who will try to force you to cast the Final Tear.
+# kay More than that, I want to stay with you, Asaga. Now, I know what you're thinking. It's a big responsibility to be with the Queen. But I want you to know, I'm not going to run away just because the going gets tough!
+kay More than that, I want to stay with you, Asaga. Now, I know what you're thinking. It's a big responsibility to be with the Queen. But I want you to know, I'm not going to run away just because the going gets tough!
+#% cha asa_armscrossed_focus_wide_bigopensm
+cha asa_armscrossed_focus_wide_bigopensm
+# asa Oh, that's good to hear! But I wasn't thinkin' that all, capt'n! Heck, ya already had me at "I've decided to accept your offer!"
+asa Oh, that's good to hear! But I wasn't thinkin' that all, capt'n! Heck, ya already had me at "I've decided to accept your offer!"
+#% cha asa_excited_angry_closedeye_catopensm
+cha asa_excited_angry_closedeye_catopensm
+# asa It's me who needs to stop running away. From now on, let's take on the entire world together!
+asa It's me who needs to stop running away. From now on, let's take on the entire world together!
+#% cha asa_fist_angry_neutral_bigopensm
+cha asa_fist_angry_neutral_bigopensm
+# asa Then, will you rule Ryuvia side-by-side with me forever?
+asa Then, will you rule Ryuvia side-by-side with me forever?
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay I will.
+kay I will.
+#% cha asa_excited_focus_wide_bigopensm
+cha asa_excited_focus_wide_bigopensm
+# asa Then good! We have so much old traditions to smash down and new reforms to pass. Oooh man, all the old geezers on the council of elders are gonna be SO upset. Well, if they haven't sprouted snouts already.
+asa Then good! We have so much old traditions to smash down and new reforms to pass. Oooh man, all the old geezers on the council of elders are gonna be SO upset. Well, if they haven't sprouted snouts already.
+# asa The first thing I'm gonna do is tear down the old drapery though. My father did have good sense in many things, but interior decor was never his strong suit... 
+asa The first thing I'm gonna do is tear down the old drapery though. My father did have good sense in many things, but interior decor was never his strong suit... 
+#% cha kay_neu_confuse_thinking_smile
+cha kay_neu_confuse_thinking_smile
+# kay Sounds like we'll have our hands full...
+kay Sounds like we'll have our hands full...
+#% cha asa_armup_confuse_neutral_laugh
+cha asa_armup_confuse_neutral_laugh
+# asa We'll also have to come up with a good lordly title for ya. The Hero of Far Port isn't going to cut it in the royal court...
+asa We'll also have to come up with a good lordly title for ya. The Hero of Far Port isn't going to cut it in the royal court...
+#% cha asa_fingerpoint_angry_narrow2_laugh_blush
+cha asa_fingerpoint_angry_narrow2_laugh_blush
+# asa How about the Lord of the Charged Vanguard?
+asa How about the Lord of the Charged Vanguard?
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay I think I'll pass on that...
+kay I think I'll pass on that...
+#% cha asa_bendover_focus_neutral_smirk
+cha asa_bendover_focus_neutral_smirk
+# asa Don't worry, I've got so many other ideas... How about the Lord of the Twin Tail Appreciators?
+asa Don't worry, I've got so many other ideas... How about the Lord of the Twin Tail Appreciators?
+#% cha kay_neu_sad_closed_talk
+cha kay_neu_sad_closed_talk
+# kay Pass.
+kay Pass.
+#% cha asa_armup_sad_funnyclos_catopensm
+cha asa_armup_sad_funnyclos_catopensm
+# asa Aw man...
+asa Aw man...
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_asaoutro
+tag chap9_asaoutro
+#% dcg spr_cg_asagaend
+dcg spr_cg_asagaend
+# nar Kayto Shields and Asaga were shortly thereafter wedded in a grand royal ceremony.
+nar Kayto Shields and Asaga were shortly thereafter wedded in a grand royal ceremony.
+# nar As King Consort of Ryuvia, Kayto helped his Queen pass countless edicts granting equal rights to the Maan and Demonfolk of Ryuvia.
+nar As King Consort of Ryuvia, Kayto helped his Queen pass countless edicts granting equal rights to the Maan and Demonfolk of Ryuvia.
+# nar The Elves of Ryuvia became mortal and eventually came to accept the truth of the Great Monolith. The reign of Queen Asaga restored prosperity to her once decaying lands, as people of all trades came to Ryuvia to co-exist in peace.
+nar The Elves of Ryuvia became mortal and eventually came to accept the truth of the Great Monolith. The reign of Queen Asaga restored prosperity to her once decaying lands, as people of all trades came to Ryuvia to co-exist in peace.
+# nar Yet, conflict brewed with Song, which clung to their old ways...
+nar Yet, conflict brewed with Song, which clung to their old ways...
+# nar As Song grew ever more corrupted, its hidden darkness was exposed to the world. The remaining Dark Elves came to rule over an ever growing Ork hoard which once again threatened the security of Halla...
+nar As Song grew ever more corrupted, its hidden darkness was exposed to the world. The remaining Dark Elves came to rule over an ever growing Ork hoard which once again threatened the security of Halla...
+# nar And so, Kayto and Asaga returned to sea with their old allies to deal with this new threat.
+nar And so, Kayto and Asaga returned to sea with their old allies to deal with this new threat.
+# nar However, the full account of that war is a story for another time...
+nar However, the full account of that war is a story for another time...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_chi
+tag chap9_end_chi
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha chi_armsbehind_raised_wide_smile
+cha chi_armsbehind_raised_wide_smile
+# chi Captain? Did you have something to say to Chigara?
+chi Captain? Did you have something to say to Chigara?
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay The night air certainly is refreshing... Certainly makes the challenges of sea travel worth it.
+kay The night air certainly is refreshing... Certainly makes the challenges of sea travel worth it.
+#% cha chi_handonchest_raised_closedeye_smile
+cha chi_handonchest_raised_closedeye_smile
+# chi Eh-heh... It sure is...
+chi Eh-heh... It sure is...
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay Ahem...
+kay Ahem...
+#% cha chi_shocked_focus_funnyclos_yell_blush
+cha chi_shocked_focus_funnyclos_yell_blush
+# chi You know, Chigara wants to say something!
+chi You know, Chigara wants to say something!
+#% cha chi_holdinghands_sad_wide2_smirk
+cha chi_holdinghands_sad_wide2_smirk
+# chi She's glad that we managed to save Alice! So... Thank you, captain!
+chi She's glad that we managed to save Alice! So... Thank you, captain!
+#% cha kay_neu_focus_closed_smirk
+cha kay_neu_focus_closed_smirk
+# kay Hah, well, it was a piece of cake, really. So any time, Chigara.
+kay Hah, well, it was a piece of cake, really. So any time, Chigara.
+#% cha chi_handtoface_sad_closedeye_smirk
+cha chi_handtoface_sad_closedeye_smirk
+# chi Thank goodness in the end, Alice never managed to take over my body or anything like that. Chigara was holding her breath for some really suspenseful moments back there...
+chi Thank goodness in the end, Alice never managed to take over my body or anything like that. Chigara was holding her breath for some really suspenseful moments back there...
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay Haha, as if something that crazy would ever happen. There's no need for us to worry about something like that happening any more, Chigara.
+kay Haha, as if something that crazy would ever happen. There's no need for us to worry about something like that happening any more, Chigara.
+#% cha chi_holdinghands_sad_funnyclos_smirk_blush
+cha chi_holdinghands_sad_funnyclos_smirk_blush
+# chi Yes, captain...
+chi Yes, captain...
+#% cha chi_holdinghands_sad_wide2_smirk
+cha chi_holdinghands_sad_wide2_smirk
+# chi There is one other thing... Please listen carefully...
+chi There is one other thing... Please listen carefully...
+#% cha chi_handonchest_raised_funnyclos_bigopensm_blush
+cha chi_handonchest_raised_funnyclos_bigopensm_blush
+# chi Once we arrive at Ryuvia, Chigara's finally going to pursue her dream of opening a bakery!
+chi Once we arrive at Ryuvia, Chigara's finally going to pursue her dream of opening a bakery!
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Oh... Is that so? Well, I guess we'll be parting ways then...
+kay Oh... Is that so? Well, I guess we'll be parting ways then...
+#% cha chi_handtoface_raised_narrow_smile
+cha chi_handtoface_raised_narrow_smile
+# chi But before that, I'll have to sail with the captain throughout the world to collect all the necessary bakery ingredients!
+chi But before that, I'll have to sail with the captain throughout the world to collect all the necessary bakery ingredients!
+#% cha chi_handtoface_neutral_funnyclos_bigopensm_blush
+cha chi_handtoface_neutral_funnyclos_bigopensm_blush
+# chi Chigara never knew how many ingredients there are to be found on the high seas! She'll need the captain's help more than ever!
+chi Chigara never knew how many ingredients there are to be found on the high seas! She'll need the captain's help more than ever!
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay Hah, I see...
+kay Hah, I see...
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay Well then, I look forward to sailing with you for a while longer.
+kay Well then, I look forward to sailing with you for a while longer.
+#% cha chi_handonchest_sad_narrow_smallopen_blush
+cha chi_handonchest_sad_narrow_smallopen_blush
+# chi Ummm... Once Chigara's found all her ingredients though...
+chi Ummm... Once Chigara's found all her ingredients though...
+#% cha chi_handonchest_sad_closedeye_bigopensm_blush
+cha chi_handonchest_sad_closedeye_bigopensm_blush
+# chi Will the captain want to run the bakery together with me?
+chi Will the captain want to run the bakery together with me?
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay I see... I see... Well, that would be quite a challenge...
+kay I see... I see... Well, that would be quite a challenge...
+#% cha kay_neu_neutral_closed2_smallopen
+cha kay_neu_neutral_closed2_smallopen
+# kay But it would be my honor!
+kay But it would be my honor!
+#% cha chi_shocked_neutral_wide1_bigtalk_blush
+cha chi_shocked_neutral_wide1_bigtalk_blush
+# chi E-Eh?! The captain's okay with it so easily?!
+chi E-Eh?! The captain's okay with it so easily?!
+#% cha kay_neu_neutral_closed2_smallopen
+cha kay_neu_neutral_closed2_smallopen
+# kay Of course! I know how important your dream of opening a bakery is to you. I will not make light of your resolve.
+kay Of course! I know how important your dream of opening a bakery is to you. I will not make light of your resolve.
+# kay Let's open a bakery together, Chigara!
+kay Let's open a bakery together, Chigara!
+#% cha chi_armsdown_raised_closedeye_bigopensm_blush
+cha chi_armsdown_raised_closedeye_bigopensm_blush
+# chi Yes, let's!
+chi Yes, let's!
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_chioutro
+tag chap9_chioutro
+#% dcg spr_cg_chigaraend
+dcg spr_cg_chigaraend
+# nar And so Captain Kayto Shields and Chigara sailed the high seas for many years, collecting legendary bakery ingredients from across the world...
+nar And so Captain Kayto Shields and Chigara sailed the high seas for many years, collecting legendary bakery ingredients from across the world...
+# nar After the ship's hold was packed to the brim with ingredients, they sailed back to Ryuvia, where they proudly opened Chigara's Bakery!
+nar After the ship's hold was packed to the brim with ingredients, they sailed back to Ryuvia, where they proudly opened Chigara's Bakery!
+# nar Ryuvians flocked to the bakery to sample all the exotic pastries. Some customers even suggested that the bread might have unexpected medicinal benefits...
+nar Ryuvians flocked to the bakery to sample all the exotic pastries. Some customers even suggested that the bread might have unexpected medicinal benefits...
+# nar It was only a matter of time until travelers arrived from all over the world to try Chigara's creations...
+nar It was only a matter of time until travelers arrived from all over the world to try Chigara's creations...
+# nar Kayto and Chigara realized they would have to expand the scope of their operations to fulfill the demand...
+nar Kayto and Chigara realized they would have to expand the scope of their operations to fulfill the demand...
+# nar And that was how Kayto found himself the viceroy of a vast merchant fleet transporting bakery goods all throughout Halla!
+nar And that was how Kayto found himself the viceroy of a vast merchant fleet transporting bakery goods all throughout Halla!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_mar
+tag chap9_end_mar
+#% mus mus_myhometown
+mus mus_myhometown
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha mar_lean_confuse_neutral_slight
+cha mar_lean_confuse_neutral_slight
+# mar Eh? What are you doin' bro?
+mar Eh? What are you doin' bro?
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Nothing. I just thought I'd make my rounds...
+kay Nothing. I just thought I'd make my rounds...
+#% cha mar_lean_confuse_smug_smirk
+cha mar_lean_confuse_smug_smirk
+# mar Oh...? Eh-heh... I see, I see....
+mar Oh...? Eh-heh... I see, I see....
+# mar So big bro failed to win the hearts of any of the other women on board the ship, so he's come to his little sister to complain, eh...
+mar So big bro failed to win the hearts of any of the other women on board the ship, so he's come to his little sister to complain, eh...
+#% cha kay_neu_confuse_narrowloo_smallopen
+cha kay_neu_confuse_narrowloo_smallopen
+# kay Oy... Stop. I'm a pretty popular man, I would say. I've even had some women chase me across the map...
+kay Oy... Stop. I'm a pretty popular man, I would say. I've even had some women chase me across the map...
+# kay Maybe I should go chat with Chigara instead...
+kay Maybe I should go chat with Chigara instead...
+#% cha mar_lean_sad_wide2_cry
+cha mar_lean_sad_wide2_cry
+# mar Wait, wait, stop! Okay, okay, sorry... Siggh... I can't believe you, Kayto...
+mar Wait, wait, stop! Okay, okay, sorry... Siggh... I can't believe you, Kayto...
+#% cha mar_neu_focus_neutral_smile
+cha mar_neu_focus_neutral_smile
+# mar You know, I did pretty fine on my very first adventure with you, right?
+mar You know, I did pretty fine on my very first adventure with you, right?
+#% cha mar_excited_raised_closedeye_bigopensm
+cha mar_excited_raised_closedeye_bigopensm
+# mar We managed to save dad and take down the big bad guy! Kapow!
+mar We managed to save dad and take down the big bad guy! Kapow!
+#% cha mar_lean_confuse_smug_smirk
+cha mar_lean_confuse_smug_smirk
+# mar So... how about taking me along for your adventures from now?
+mar So... how about taking me along for your adventures from now?
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay Sigh... You know what, Maray? About that...
+kay Sigh... You know what, Maray? About that...
+#% cha kay_neu_sad_narrowloo_smalltalk
+cha kay_neu_sad_narrowloo_smalltalk
+# kay I've been thinking... All this time, I swore I'd be different from my dad. But in the end, I'm turning out exactly like him. And I don't want that.
+kay I've been thinking... All this time, I swore I'd be different from my dad. But in the end, I'm turning out exactly like him. And I don't want that.
+# kay I'm thinking of settling down in Cera after we've finished our business in Ryuvia. I want the two of us to be able to live together with dad from now, as a family.
+kay I'm thinking of settling down in Cera after we've finished our business in Ryuvia. I want the two of us to be able to live together with dad from now, as a family.
+#% cha mar_excited_raised_wide2_smalltalk
+cha mar_excited_raised_wide2_smalltalk
+# mar Woah... Is that really you, Kayto?
+mar Woah... Is that really you, Kayto?
+# mar But what about saving the world? Who's gonna do that?
+mar But what about saving the world? Who's gonna do that?
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay I'm confident the world can work its problems out without me. Besides, you and dad are much more important.
+kay I'm confident the world can work its problems out without me. Besides, you and dad are much more important.
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Let's go home, Maray...
+kay Let's go home, Maray...
+#% cha mar_excited_raised_closedeye_bigopensm
+cha mar_excited_raised_closedeye_bigopensm
+# mar All right!! Let's go home!
+mar All right!! Let's go home!
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_maroutro
+tag chap9_maroutro
+#% dcg spr_cg_marayend
+dcg spr_cg_marayend
+# nar And so, Captain Kayto Shields retired into quiet obscurity with Maray at his dainty seaside hometown...
+nar And so, Captain Kayto Shields retired into quiet obscurity with Maray at his dainty seaside hometown...
+# nar The two of them dragged their father away from his misbegotten ways and forced him to move in with them - after settling his numerous tavern and gambling debts...
+nar The two of them dragged their father away from his misbegotten ways and forced him to move in with them - after settling his numerous tavern and gambling debts...
+# nar Ava was always there for them as well, as the new village mayor.
+nar Ava was always there for them as well, as the new village mayor.
+# nar Though the course of history ran on, their little community never found itself the center of attention ever again...
+nar Though the course of history ran on, their little community never found itself the center of attention ever again...
+# nar Kayto Shields, once known as the Hero of Far Port, returned home from the war and lived happily ever after as a simple family man...
+nar Kayto Shields, once known as the Hero of Far Port, returned home from the war and lived happily ever after as a simple family man...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_ica
+tag chap9_end_ica
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha ica_back_confuse_neutral_smallsmil
+cha ica_back_confuse_neutral_smallsmil
+# ica Fancy seeing you at this hour, cap. You need something?
+ica Fancy seeing you at this hour, cap. You need something?
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay I only wanted to talk, Icari...
+kay I only wanted to talk, Icari...
+#% cha ica_back_raised_closedeye_smalltalk
+cha ica_back_raised_closedeye_smalltalk
+# ica I guess we all have a lot to talk about, considering everything that's happened...
+ica I guess we all have a lot to talk about, considering everything that's happened...
+#% cha ica_armscrossed_worry_closedeye_slight
+cha ica_armscrossed_worry_closedeye_slight
+# ica Sigh... In the end, I never was able to avenge my father. To think he was killed by the ghost of an ancient dead Sharr...
+ica Sigh... In the end, I never was able to avenge my father. To think he was killed by the ghost of an ancient dead Sharr...
+# ica All this time, all I ever wanted to kill the Veniczar... But now, my revenge seems insignificant compared to the massive web of conspiracies we uncovered...
+ica All this time, all I ever wanted to kill the Veniczar... But now, my revenge seems insignificant compared to the massive web of conspiracies we uncovered...
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay That sort of thing does seem to happen quite often with me...
+kay That sort of thing does seem to happen quite often with me...
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay But I'm glad you are no longer blinded by your mission for vengeance. In truth, it may be better to move on.
+kay But I'm glad you are no longer blinded by your mission for vengeance. In truth, it may be better to move on.
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay What matters is that we have exorcised the ghost of Sharr Myren. Now, it's time for the living to figure out what to do next...
+kay What matters is that we have exorcised the ghost of Sharr Myren. Now, it's time for the living to figure out what to do next...
+#% cha ica_armscrossed_neutral_closedeye_smalltalk
+cha ica_armscrossed_neutral_closedeye_smalltalk
+# ica What to do next, huh...
+ica What to do next, huh...
+#% cha ica_handsonhips_neutral_neutral_smirk
+cha ica_handsonhips_neutral_neutral_smirk
+# ica I've been giving that a lot of thought. You know cap, you saw first hand how important a role mercenaries played in this war, right?
+ica I've been giving that a lot of thought. You know cap, you saw first hand how important a role mercenaries played in this war, right?
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Indeed, they did make the difference between victory and defeat on more than one occasion...
+kay Indeed, they did make the difference between victory and defeat on more than one occasion...
+#% cha ica_handsonhips_focus_neutral_smalltalk
+cha ica_handsonhips_focus_neutral_smalltalk
+# ica Well, even though Admiral Grey's defeated, that doesn't mean the rest of the Song's just going to go down without a fight.
+ica Well, even though Admiral Grey's defeated, that doesn't mean the rest of the Song's just going to go down without a fight.
+# ica With their religious doctrine on the line, I think they'll fight to the bitter end to enforce their version of the Monolithic Truth...
+ica With their religious doctrine on the line, I think they'll fight to the bitter end to enforce their version of the Monolithic Truth...
+#% cha ica_handsonhips_neutral_neutral_smirk
+cha ica_handsonhips_neutral_neutral_smirk
+# ica That's where I'm hoping to come in. The realm's gonna need mercenaries to deal with what's gonna come. That's why I'm gonna head the Mercenary Guild myself.
+ica That's where I'm hoping to come in. The realm's gonna need mercenaries to deal with what's gonna come. That's why I'm gonna head the Mercenary Guild myself.
+#% cha ica_back_sad_neutral_3mouth
+cha ica_back_sad_neutral_3mouth
+# ica It's just... I guess I'm looking for a partner. Someone who's worked with lots of mercenaries before who has a half decent sense of battlefield tactics...
+ica It's just... I guess I'm looking for a partner. Someone who's worked with lots of mercenaries before who has a half decent sense of battlefield tactics...
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Huh... Well, I think I fit the bill!
+kay Huh... Well, I think I fit the bill!
+#% cha ica_surprised_annoyed_surprise_yell
+cha ica_surprised_annoyed_surprise_yell
+# ica W-Well, t-too bad! N-Not that I even wanted you in the first pla- Wait what?!
+ica W-Well, t-too bad! N-Not that I even wanted you in the first pla- Wait what?!
+#% cha ica_surprised_surprised_wide_smallopen_blush
+cha ica_surprised_surprised_wide_smallopen_blush
+# ica You're actually fine with heading the Mercenary Guild with me?!
+ica You're actually fine with heading the Mercenary Guild with me?!
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay Of course! I had no intention of retiring from my privateering days in the first place, and we are in dire need of crew. What better path forward is there but to operate our very own Mercenary Guild! All within the bounds of the law, of course.
+kay Of course! I had no intention of retiring from my privateering days in the first place, and we are in dire need of crew. What better path forward is there but to operate our very own Mercenary Guild! All within the bounds of the law, of course.
+#% cha ica_point_sad_surprise_cry_blush
+cha ica_point_sad_surprise_cry_blush
+# ica H-Eeeeh?! I thought you'd turn me down for sure!
+ica H-Eeeeh?! I thought you'd turn me down for sure!
+#% cha kay_neu_focus_closed_bigopensm
+cha kay_neu_focus_closed_bigopensm
+# kay Of course not, Icari! In fact, I believe we shall share a bright future together!
+kay Of course not, Icari! In fact, I believe we shall share a bright future together!
+#% cha ica_surprised_worry_widesmall_bigopensm_blush
+cha ica_surprised_worry_widesmall_bigopensm_blush
+# ica Share... a bright future... together...
+ica Share... a bright future... together...
+# ica Oh father... Please give your daughter strength...
+ica Oh father... Please give your daughter strength...
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_icaoutro
+tag chap9_icaoutro
+#% dcg spr_cg_icariend
+dcg spr_cg_icariend
+# nar And so, it came to pass that Captain Kayto Shields and Icari became the co-heads of the Mercenary Guild...
+nar And so, it came to pass that Captain Kayto Shields and Icari became the co-heads of the Mercenary Guild...
+# nar Thanks to their fame, Kayto and Icari recruited skilled warriors from across the realm. In the years ahead, their mercenaries gained a reputation for their might, matched only by their immaculate professionalism.
+nar Thanks to their fame, Kayto and Icari recruited skilled warriors from across the realm. In the years ahead, their mercenaries gained a reputation for their might, matched only by their immaculate professionalism.
+# nar Icari forever left her mark on the mercenary profession by passing an extensive Code of Conduct during her long tenure as head, which would one day influence the creation of the laws governing warfare.
+nar Icari forever left her mark on the mercenary profession by passing an extensive Code of Conduct during her long tenure as head, which would one day influence the creation of the laws governing warfare.
+# nar Kayto became the admiral of the largest privateer fleet in Halla, his exploits to forever be remembered in song and legend...
+nar Kayto became the admiral of the largest privateer fleet in Halla, his exploits to forever be remembered in song and legend...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_kry
+tag chap9_end_kry
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha kry_armdown_focus_neutral_smallopen
+cha kry_armdown_focus_neutral_smallopen
+# kry Greetings, captain! What news do you have at this hour?
+kry Greetings, captain! What news do you have at this hour?
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay No news, Kryska. I just wanted to talk...
+kay No news, Kryska. I just wanted to talk...
+#% cha kry_armdown_focus_closedeye_neutral
+cha kry_armdown_focus_closedeye_neutral
+# kry Indeed, with all that has happened, I had been meaning to speak as well...
+kry Indeed, with all that has happened, I had been meaning to speak as well...
+#% cha kry_armdown_sad_neutrallo_smalltalk
+cha kry_armdown_sad_neutrallo_smalltalk
+# kry So in the end, the Monolithic Truth was nothing but an ancient sham created by the high elders who first discovered a path to immortality...
+kry So in the end, the Monolithic Truth was nothing but an ancient sham created by the high elders who first discovered a path to immortality...
+# kry I saw the real Monolith of Truth with my own eyes. I now know the true, dark history of our people...
+kry I saw the real Monolith of Truth with my own eyes. I now know the true, dark history of our people...
+# kry ...Like how we created the Sharr cycle to designate someone as our sacrifice whenever our monoliths are nearly full with corruption... And how we used the so-called Monolithic Truth to create a world order where we would hold all the positions of power.
+kry ...Like how we created the Sharr cycle to designate someone as our sacrifice whenever our monoliths are nearly full with corruption... And how we used the so-called Monolithic Truth to create a world order where we would hold all the positions of power.
+#% cha kry_fistup_worry_narrow_clench
+cha kry_fistup_worry_narrow_clench
+# kry At first, I was so ashamed of my own people upon discovering the truth that I even considered cutting off my own ears!
+kry At first, I was so ashamed of my own people upon discovering the truth that I even considered cutting off my own ears!
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay C-Cutting off your own ears?! Hold, Kryska! There is no need to resort to self-mutilation...
+kay C-Cutting off your own ears?! Hold, Kryska! There is no need to resort to self-mutilation...
+#% cha kry_fistup_raised_neutral_smile
+cha kry_fistup_raised_neutral_smile
+# kry Of course, captain! In fact, that is the very next thing I realized!
+kry Of course, captain! In fact, that is the very next thing I realized!
+#% cha kry_fistup_focus_neutral_bigopensm
+cha kry_fistup_focus_neutral_bigopensm
+# kry Instead of lamenting our sins, I have resolved to help Queen Asaga reform the Church of Ryuvia!
+kry Instead of lamenting our sins, I have resolved to help Queen Asaga reform the Church of Ryuvia!
+# kry No longer shall we preach the lies that the Talbur and the Song perpetuate! We must spread the true words of the Great Monolith, as shameful as they may be!
+kry No longer shall we preach the lies that the Talbur and the Song perpetuate! We must spread the true words of the Great Monolith, as shameful as they may be!
+# kry We must preach a new faith, that no matter our age, we still have much to learn from the other races!
+kry We must preach a new faith, that no matter our age, we still have much to learn from the other races!
+#% cha kry_armdown_focus_closedeye_neutral
+cha kry_armdown_focus_closedeye_neutral
+# kry Countless High Elves will continue to declare themselves superior... Believe me, I was one of them.
+kry Countless High Elves will continue to declare themselves superior... Believe me, I was one of them.
+#% cha kry_armdown_focus_neutral_smalltalk
+cha kry_armdown_focus_neutral_smalltalk
+# kry I understand now that we believed in the fake Monolithic Truth simply because it made us feel strong. We were arrogant and emotional. Though we claimed to be the learned race, it was us who were acting as children...
+kry I understand now that we believed in the fake Monolithic Truth simply because it made us feel strong. We were arrogant and emotional. Though we claimed to be the learned race, it was us who were acting as children...
+#% cha kay_neu_neutral_thinking_smile
+cha kay_neu_neutral_thinking_smile
+# kay I see... That certainly sounds like quite the mission...
+kay I see... That certainly sounds like quite the mission...
+#% cha kry_fistup_raised_neutral_smile
+cha kry_fistup_raised_neutral_smile
+# kry It will be difficult, perhaps even impossible to achieve...
+kry It will be difficult, perhaps even impossible to achieve...
+# kry Yet, I believe this is the only way we may atone for the lies we have perpetuated...
+kry Yet, I believe this is the only way we may atone for the lies we have perpetuated...
+#% cha kry_fistup_neutral_closedeye_bigopensm
+cha kry_fistup_neutral_closedeye_bigopensm
+# kry ...That is why I ask for your hand in accomplishing this feat!
+kry ...That is why I ask for your hand in accomplishing this feat!
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay M-My hand?!
+kay M-My hand?!
+#% cha kry_armout_angry_neutral_bigopensm
+cha kry_armout_angry_neutral_bigopensm
+# kry Indeed, your hand, captain!
+kry Indeed, your hand, captain!
+# kry Though Admiral Grey may be defeated, I believe our true mission of changing the Song Alliance has only begun! Will you assist me on this quest?
+kry Though Admiral Grey may be defeated, I believe our true mission of changing the Song Alliance has only begun! Will you assist me on this quest?
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay Well, you know I never turn down a request from a member of my crew.
+kay Well, you know I never turn down a request from a member of my crew.
+# kay All right. After we're finished with business at Ryuvia, let us set sail for Song and reform the Church from within.
+kay All right. After we're finished with business at Ryuvia, let us set sail for Song and reform the Church from within.
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_kryoutro
+tag chap9_kryoutro
+#% dcg spr_cg_kryend
+dcg spr_cg_kryend
+# nar And so, Captain Kayto Shields and Kryska sailed to the Song Alliance to spread word of the fake Monolith of Truth...
+nar And so, Captain Kayto Shields and Kryska sailed to the Song Alliance to spread word of the fake Monolith of Truth...
+# nar Though they were initially met with scorn, the unveiling of the real Great Monolith caused many High Elves to accept the truth.
+nar Though they were initially met with scorn, the unveiling of the real Great Monolith caused many High Elves to accept the truth.
+# nar Many elders chose the dignified end of dissolving their bodies into mana, sparing the realm of an immediate Ork invasion.
+nar Many elders chose the dignified end of dissolving their bodies into mana, sparing the realm of an immediate Ork invasion.
+# nar However, others refused to abandon their decrepit traditions, and retreated deep underground, clinging to their chests the final remaining fake monoliths...
+nar However, others refused to abandon their decrepit traditions, and retreated deep underground, clinging to their chests the final remaining fake monoliths...
+# nar They would come to be known as Dark Elves, the commanders of a new underground Ork hoard. Talk of the rise of a second Dark King would one day terrify all the free people of Halla...
+nar They would come to be known as Dark Elves, the commanders of a new underground Ork hoard. Talk of the rise of a second Dark King would one day terrify all the free people of Halla...
+# nar Yet, for as long as Kryska lived, the Dark Elves stayed deep underground, never to reveal themselves.
+nar Yet, for as long as Kryska lived, the Dark Elves stayed deep underground, never to reveal themselves.
+# nar Perhaps they were too intimidated by Kryska, who became the greatest of the Church's paladins.
+nar Perhaps they were too intimidated by Kryska, who became the greatest of the Church's paladins.
+# nar As for Kayto, he decided to pass up on joining the Paladins, despite never again being called a Lessor by the Song. He was, after all, a terrible swordsman.
+nar As for Kayto, he decided to pass up on joining the Paladins, despite never again being called a Lessor by the Song. He was, after all, a terrible swordsman.
+# nar Instead, he would ask Kryska for a seal which granted him free passage through the Strait of Far Port without the filing of any paperwork.
+nar Instead, he would ask Kryska for a seal which granted him free passage through the Strait of Far Port without the filing of any paperwork.
+# nar That seal would come to embody the eternal bond they shared... And be a source of endless gratitude for Kayto.
+nar That seal would come to embody the eternal bond they shared... And be a source of endless gratitude for Kayto.
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_cla
+tag chap9_end_cla
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% mus mus_asifigure
+mus mus_asifigure
+#% cha cla_armscrossed_neutral_smug_grin
+cha cla_armscrossed_neutral_smug_grin
+# cla My... Hello there, Mr. Big Hero... Come to look for your goddess for a reward?
+cla My... Hello there, Mr. Big Hero... Come to look for your goddess for a reward?
+#% cha kay_neu_confuse_thinking_smile
+cha kay_neu_confuse_thinking_smile
+# kay Ahem... Not quite a reward, Claude. Rather, I came to express my gratitude for you looking after my back all this time...
+kay Ahem... Not quite a reward, Claude. Rather, I came to express my gratitude for you looking after my back all this time...
+#% cha kay_neu_confuse_thinking_neutral
+cha kay_neu_confuse_thinking_neutral
+# kay There's also something else...
+kay There's also something else...
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay Look, uhh... I suppose this might sound crazy, but I swear I've seen you in my dreams before... We're both naked in a beautiful Elvish bath house...
+kay Look, uhh... I suppose this might sound crazy, but I swear I've seen you in my dreams before... We're both naked in a beautiful Elvish bath house...
+#% cha cla_armscrossed_sad_smug_laugh
+cha cla_armscrossed_sad_smug_laugh
+# cla My, I think I know where this is going already~
+cla My, I think I know where this is going already~
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay That's not the important part though. You confess that you were actually inside the Dreadstone all along, and that you needed me to free you from your prison. Pretty crazy, huh?
+kay That's not the important part though. You confess that you were actually inside the Dreadstone all along, and that you needed me to free you from your prison. Pretty crazy, huh?
+#% cha cla_handsonhips_neutral_smug_smallopen
+cha cla_handsonhips_neutral_smug_smallopen
+# cla What if I told you those were no mere dreams, but rather visions I sent to you?
+cla What if I told you those were no mere dreams, but rather visions I sent to you?
+#% cha kay_neu_sad_closed_yell
+cha kay_neu_sad_closed_yell
+# kay Dooh... I was afraid of that...
+kay Dooh... I was afraid of that...
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay I suppose it's already too late though. The Dreadstone has been shattered, and thus, you are now be free. Strange though, how your powers stayed basically the same...
+kay I suppose it's already too late though. The Dreadstone has been shattered, and thus, you are now be free. Strange though, how your powers stayed basically the same...
+#% cha cla_armscrossed_sad_closedeye_awkwardsm
+cha cla_armscrossed_sad_closedeye_awkwardsm
+# cla I'm afraid to say that is indeed the truth. Cosette proved most capable at burning away most of my mana, saving us all from an explosive death when the Dreadstone cracked.
+cla I'm afraid to say that is indeed the truth. Cosette proved most capable at burning away most of my mana, saving us all from an explosive death when the Dreadstone cracked.
+#% cha cla_pout_sad_smug_pout
+cha cla_pout_sad_smug_pout
+# cla But that also had the unfortunate effect of severely weakening my abilities. In the end, despite having been freed of my prison, I regret to say my powers remain just as limited as before.
+cla But that also had the unfortunate effect of severely weakening my abilities. In the end, despite having been freed of my prison, I regret to say my powers remain just as limited as before.
+#% cha cla_handsonhips_focus_neutral_awkwardsm
+cha cla_handsonhips_focus_neutral_awkwardsm
+# cla Therefore, I shall remain your friendly neighborhood goddess of the local pond and light sea breeze.
+cla Therefore, I shall remain your friendly neighborhood goddess of the local pond and light sea breeze.
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay I see... Then, I suppose nothing shall change between us.
+kay I see... Then, I suppose nothing shall change between us.
+#% cha cla_armscrossed_sad_closedeye_smalltalk
+cha cla_armscrossed_sad_closedeye_smalltalk
+# cla Yes... It will be a thousand or so years until I've regained all my mana...
+cla Yes... It will be a thousand or so years until I've regained all my mana...
+#% cha cla_armscrossed_focus_funnyclos_grin
+cha cla_armscrossed_focus_funnyclos_grin
+# cla Huehuehue... Once Claude has her powers back though, who knows what kind of pranks I'll be able to pull on unsuspecting sea captains...
+cla Huehuehue... Once Claude has her powers back though, who knows what kind of pranks I'll be able to pull on unsuspecting sea captains...
+#% cha kay_neu_sad_wide_clench
+cha kay_neu_sad_wide_clench
+# kay I have never been so glad to be mortal in my entire life...
+kay I have never been so glad to be mortal in my entire life...
+#% cha kay_neu_sad_closed_smirk
+cha kay_neu_sad_closed_smirk
+# kay Well, I suppose this means nothing shall change between us. It is probably for the best this way.
+kay Well, I suppose this means nothing shall change between us. It is probably for the best this way.
+#% cha cla_handsonhips_neutral_smug_smallopen
+cha cla_handsonhips_neutral_smug_smallopen
+# cla Hmm... There is still the question of how to reward our captain...
+cla Hmm... There is still the question of how to reward our captain...
+#% cha cla_handsonhips_raised_closedeye_smallopen
+cha cla_handsonhips_raised_closedeye_smallopen
+# cla Well, I suppose I still have enough mana for this little party trick...
+cla Well, I suppose I still have enough mana for this little party trick...
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Wait, Claude, what are you-?
+kay Wait, Claude, what are you-?
+#% cha cla_handsonhips_raised_neutral_laugh
+cha cla_handsonhips_raised_neutral_laugh
+# cla Don't worry, captain. Let your goddess reward you!
+cla Don't worry, captain. Let your goddess reward you!
+#% cha cla_squish_raised_closedeye_droolmout
+cha cla_squish_raised_closedeye_droolmout
+# cla The tick tocks on the clock stop! Wisk our glorious captain off to his paradise vacation~!
+cla The tick tocks on the clock stop! Wisk our glorious captain off to his paradise vacation~!
+#% sou sou_holymagic
+sou sou_holymagic
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Where are you taking meeee-----
+kay Where are you taking meeee-----
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_claoutro
+tag chap9_claoutro
+#% dcg spr_cg_claudeend
+dcg spr_cg_claudeend
+# nar And so Kayto and Claude spent a whirlwind vacation in their dream world to celebrate their victory...
+nar And so Kayto and Claude spent a whirlwind vacation in their dream world to celebrate their victory...
+# nar Although his memories of what happened become increasingly fuzzy with each passing day, Kayto enjoyed his long overdue vacation to his heart's content.
+nar Although his memories of what happened become increasingly fuzzy with each passing day, Kayto enjoyed his long overdue vacation to his heart's content.
+# nar After all, what happened in the dreamworld stayed in the dreamworld...
+nar After all, what happened in the dreamworld stayed in the dreamworld...
+# nar Following what felt like months of fun and relaxation, Kayto and Claude returned to real world, feeling more refreshed and refueled for their next grand adventure than ever.
+nar Following what felt like months of fun and relaxation, Kayto and Claude returned to real world, feeling more refreshed and refueled for their next grand adventure than ever.
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_sol
+tag chap9_end_sol
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha sol_back_raised_narrow_smallopen
+cha sol_back_raised_narrow_smallopen
+# sol ...Captain?
+sol ...Captain?
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay There you are, Sola. I've been meaning to talk to you...
+kay There you are, Sola. I've been meaning to talk to you...
+#% cha sol_side_raised_neutral_smallopen
+cha sol_side_raised_neutral_smallopen
+# sol Is that so? Then we have been thinking alike...
+sol Is that so? Then we have been thinking alike...
+#% cha kay_neu_sad_closed_slight
+cha kay_neu_sad_closed_slight
+# kay About your mother...
+kay About your mother...
+# kay It was a difficult choice to make, but we couldn't sacrifice Asaga and let Song continue to rule the realm. I'm sorry...
+kay It was a difficult choice to make, but we couldn't sacrifice Asaga and let Song continue to rule the realm. I'm sorry...
+#% cha sol_side_sad_closedeye_frown
+cha sol_side_sad_closedeye_frown
+# sol Nay... In the end, I believe we made the right choice.
+sol Nay... In the end, I believe we made the right choice.
+# sol My mother chose to join us in defeating the Emerald Fleet. She chose this path just as much as we did.
+sol My mother chose to join us in defeating the Emerald Fleet. She chose this path just as much as we did.
+#% cha sol_side_sad_narrowloo_talk
+cha sol_side_sad_narrowloo_talk
+# sol I admit, I was overcome with emotion when I saw her for the last time. Yet, she seemed utterly unconcerned about her death. She cast the spell to dissolve into mana as nonchalantly as she would cast a spell to warm her tea.
+sol I admit, I was overcome with emotion when I saw her for the last time. Yet, she seemed utterly unconcerned about her death. She cast the spell to dissolve into mana as nonchalantly as she would cast a spell to warm her tea.
+#% cha sol_side_sad_narrow_smallopen
+cha sol_side_sad_narrow_smallopen
+# sol A smile did appear on her face though. It was like a distant star. Not warm or radiant like the sun. It may have been but a twinkle in her eye.
+sol A smile did appear on her face though. It was like a distant star. Not warm or radiant like the sun. It may have been but a twinkle in her eye.
+# sol According to the others, it was the first time they had ever seen her smile.
+sol According to the others, it was the first time they had ever seen her smile.
+# sol I suppose I am too young to even fathom what it must be like to have lived for over one thousand years. Perhaps one day, even life and death shall become so trivial that even I come to forget what it is to smile.
+sol I suppose I am too young to even fathom what it must be like to have lived for over one thousand years. Perhaps one day, even life and death shall become so trivial that even I come to forget what it is to smile.
+#% cha sol_front_sad_closedeye_smallopen
+cha sol_front_sad_closedeye_smallopen
+# sol Eh-heh... But I suppose, I shall not live nearly as long as my mother. Nor do I have any desire to.
+sol Eh-heh... But I suppose, I shall not live nearly as long as my mother. Nor do I have any desire to.
+#% cha sol_front_raised_neutral_smallopen
+cha sol_front_raised_neutral_smallopen
+# sol In any matter, I owe you a debt of gratitude for many things, captain.
+sol In any matter, I owe you a debt of gratitude for many things, captain.
+# sol Thanks to you, I was able to see my mother again, and fulfill my duty to save Ryuvia. Though, just not in the way I expected.
+sol Thanks to you, I was able to see my mother again, and fulfill my duty to save Ryuvia. Though, just not in the way I expected.
+#% cha sol_side_raised_neutral_smallsmil
+cha sol_side_raised_neutral_smallsmil
+# sol Yet, I have one, last request, captain...
+sol Yet, I have one, last request, captain...
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay Of course. What must I do?
+kay Of course. What must I do?
+#% cha sol_front_sad_neutral_smallopen
+cha sol_front_sad_neutral_smallopen
+# sol My mother left her final will and testament to me. Ahem. As of now, I am the proprietor of her entire fishing empire, as well as the mistress of the considerable estate you saw back at Far Port...
+sol My mother left her final will and testament to me. Ahem. As of now, I am the proprietor of her entire fishing empire, as well as the mistress of the considerable estate you saw back at Far Port...
+#% cha sol_front_sad_closedeye_smallopen
+cha sol_front_sad_closedeye_smallopen
+# sol A responsibility which far exceeds my expertise, I confess.
+sol A responsibility which far exceeds my expertise, I confess.
+#% cha sol_side_concern_narrow_smallopen_blush
+cha sol_side_concern_narrow_smallopen_blush
+# sol A-Ahem... B-But... I suppose the captain may know a thing or two about operating ships... And you saw firsthand the natural beauty of my mother's estate! So...
+sol A-Ahem... B-But... I suppose the captain may know a thing or two about operating ships... And you saw firsthand the natural beauty of my mother's estate! So...
+# sol Will you stay with me and help me take over my mother's work?
+sol Will you stay with me and help me take over my mother's work?
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay I see... Well, that would be a huge honor!
+kay I see... Well, that would be a huge honor!
+#% cha kay_neu_neutral_closed2_smallopen
+cha kay_neu_neutral_closed2_smallopen
+# kay Of course I'll help! Let's spend the rest of our lives together, Sola!
+kay Of course I'll help! Let's spend the rest of our lives together, Sola!
+#% cha sol_surprise_raised_wide_smallopen_blush
+cha sol_surprise_raised_wide_smallopen_blush
+# sol E-Eh...?! You will?
+sol E-Eh...?! You will?
+#% cha kay_neu_raised_closed2_smirk
+cha kay_neu_raised_closed2_smirk
+# kay Of course! You know, I happen to know a thing or two about operating a navy...
+kay Of course! You know, I happen to know a thing or two about operating a navy...
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay I'm sure we'll build the greatest merchant marine in the realm!
+kay I'm sure we'll build the greatest merchant marine in the realm!
+#% cha sol_front_raised_closedeye_smallsmil_blush
+cha sol_front_raised_closedeye_smallsmil_blush
+# sol E-Eh heh... Our captain certainly never fails to surprise me...
+sol E-Eh heh... Our captain certainly never fails to surprise me...
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_soloutro
+tag chap9_soloutro
+#% dcg spr_cg_solaend
+dcg spr_cg_solaend
+# nar And so, Captain Kayto Shields went to Far Port with Sola to head her fishing fleet...
+nar And so, Captain Kayto Shields went to Far Port with Sola to head her fishing fleet...
+# nar Their operations eventually came to encompass the entire Dragon's Foot Sea. A day came when there was not a fishery in Halla that did not do business with Kayto and Sola's vast fleet.
+nar Their operations eventually came to encompass the entire Dragon's Foot Sea. A day came when there was not a fishery in Halla that did not do business with Kayto and Sola's vast fleet.
+# nar However, Kayto was always the happiest soaking in the onsen with his beautiful wife at their estate.
+nar However, Kayto was always the happiest soaking in the onsen with his beautiful wife at their estate.
+# nar And so, the girl who once claimed to be destined for woe found happiness in the unlikeliest of places...
+nar And so, the girl who once claimed to be destined for woe found happiness in the unlikeliest of places...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_lyn
+tag chap9_end_lyn
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha lyn_armup_confuse_lookaway_slight
+cha lyn_armup_confuse_lookaway_slight
+# lyn Eh? What are you doing here, Shields...
+lyn Eh? What are you doing here, Shields...
+#% cha kay_neu_confuse_neutral_slight
+cha kay_neu_confuse_neutral_slight
+# kay What's with that attitude? Shouldn't you be celebrating our victory with the others, Lynn?
+kay What's with that attitude? Shouldn't you be celebrating our victory with the others, Lynn?
+#% cha lyn_armdown_concern_closedeye_talk
+cha lyn_armdown_concern_closedeye_talk
+# lyn Sigh... It hardly feels like much of a victory when you were on the baddies' side for half the war...
+lyn Sigh... It hardly feels like much of a victory when you were on the baddies' side for half the war...
+#% cha lyn_armdown_sad_narrowloo_pout
+cha lyn_armdown_sad_narrowloo_pout
+# lyn Honestly, working for Pact was a nightmare... I was just getting pushed around left and right by the bosses with no private time at all...
+lyn Honestly, working for Pact was a nightmare... I was just getting pushed around left and right by the bosses with no private time at all...
+# lyn Heh, you think you had it bad as a Lessor Elf? Well, that's nothing compared to the treatment we Demonfolk get!
+lyn Heh, you think you had it bad as a Lessor Elf? Well, that's nothing compared to the treatment we Demonfolk get!
+#% cha lyn_armup_angry_closedeye_bigtalk
+cha lyn_armup_angry_closedeye_bigtalk
+# lyn Just because some of us decided to work for the Demon King thousands of years ago, everyone just assumes we're up to no good... Case in point, we Kitsune got kidnapped by mad wizards to be used as lab rats for their experiments!
+lyn Just because some of us decided to work for the Demon King thousands of years ago, everyone just assumes we're up to no good... Case in point, we Kitsune got kidnapped by mad wizards to be used as lab rats for their experiments!
+#% cha lyn_armup_angry_neutral_talk
+cha lyn_armup_angry_neutral_talk
+# lyn But even beyond that, we Demonfolk get, well, demonized just for existing. We gotta work jobs that nobody else wants to do, and even if we do, everyone thinks we're here to steal their jobs anyways! It just goes to show you, there's just no way to win if you're a Demonfolk!
+lyn But even beyond that, we Demonfolk get, well, demonized just for existing. We gotta work jobs that nobody else wants to do, and even if we do, everyone thinks we're here to steal their jobs anyways! It just goes to show you, there's just no way to win if you're a Demonfolk!
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay I see... You've truly had it tough, huh...
+kay I see... You've truly had it tough, huh...
+#% cha lyn_armdown_sad_narrowloo_pout
+cha lyn_armdown_sad_narrowloo_pout
+# lyn Sigh... Sorry, Shields. I don't think I can really celebrate with the others.
+lyn Sigh... Sorry, Shields. I don't think I can really celebrate with the others.
+#% cha lyn_armdown_concern_closedeye_talk
+cha lyn_armdown_concern_closedeye_talk
+# lyn Now that the war with Pact's winding down, I think I'm finished with fighting. This sort of thing really doesn't suit me. All war gives me is anxiety and grumpiness.
+lyn Now that the war with Pact's winding down, I think I'm finished with fighting. This sort of thing really doesn't suit me. All war gives me is anxiety and grumpiness.
+#% cha lyn_armdown_sad_narrowloo_pout
+cha lyn_armdown_sad_narrowloo_pout
+# lyn Once we get to Ryuvia, I think we should go our separate ways...
+lyn Once we get to Ryuvia, I think we should go our separate ways...
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay Very well. If that's truly what you want, Lynn.
+kay Very well. If that's truly what you want, Lynn.
+# kay But you were never a Demonfolk to me. You were a friend.
+kay But you were never a Demonfolk to me. You were a friend.
+#% cha lyn_armdown_sad2_narrowloo_talk_blush
+cha lyn_armdown_sad2_narrowloo_talk_blush
+# lyn U-Uggnn... I know, all right? Ugh, stop, before I hop on a raft and start rowing towards Ryuvia by myself...
+lyn U-Uggnn... I know, all right? Ugh, stop, before I hop on a raft and start rowing towards Ryuvia by myself...
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay All right. But I want you to know. If there's anything I can do for you, I'll always be there for you.
+kay All right. But I want you to know. If there's anything I can do for you, I'll always be there for you.
+#% cha lyn_armdown_concern_closedeye_opensmile_blush
+cha lyn_armdown_concern_closedeye_opensmile_blush
+# lyn Thanks Shields. I really mean it...
+lyn Thanks Shields. I really mean it...
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% dbg spr_bg_volarisdock
+dbg spr_bg_volarisdock
+# nar (After the ship arrived at Ryuvia...)
+nar (After the ship arrived at Ryuvia...)
+#% sou sou_whip
+sou sou_whip
+# elf Git to work, you lot! The bosses want these ships fixed up by tomorrow!
+elf Git to work, you lot! The bosses want these ships fixed up by tomorrow!
+# dem Kyaaaa-! T-This is too much...
+dem Kyaaaa-! T-This is too much...
+#% sou sou_whip
+sou sou_whip
+# elf Not a word outta you, demon! If you're not gonna do the work, I can always find someone else!
+elf Not a word outta you, demon! If you're not gonna do the work, I can always find someone else!
+# elf There's always more of you darklings comin' from beyond the Wall, after all!
+elf There's always more of you darklings comin' from beyond the Wall, after all!
+# dem No way...
+dem No way...
+#% cha lyn_armup_angry_bigeyes_shout
+cha lyn_armup_angry_bigeyes_shout
+# lyn Wait, wait, wait! What are you doing?!
+lyn Wait, wait, wait! What are you doing?!
+# elf What, you have something to say to my face, Kitsune? Or are you just here to suck my mana?!
+elf What, you have something to say to my face, Kitsune? Or are you just here to suck my mana?!
+# lyn Can't you see the child is on the verge of starvation? There's no way she can work!
+lyn Can't you see the child is on the verge of starvation? There's no way she can work!
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay I do not believe the Queen would want to see these workers harmed in her name. Surely they deserve a break?
+kay I do not believe the Queen would want to see these workers harmed in her name. Surely they deserve a break?
+# elf Wait-- The Hero of Far Port?!
+elf Wait-- The Hero of Far Port?!
+# elf O-Of course... I'll attend to them right away!
+elf O-Of course... I'll attend to them right away!
+#% cha lyn_armdown_concern_closedeye_talk
+cha lyn_armdown_concern_closedeye_talk
+# lyn Sigh... See? This is the sort of thing I was talking about, Shields...
+lyn Sigh... See? This is the sort of thing I was talking about, Shields...
+#% cha kay_neu_focus_closed_smalltalk
+cha kay_neu_focus_closed_smalltalk
+# kay But you stood up to that dock master. I can't believe I never noticed the sorry state of this port until now...
+kay But you stood up to that dock master. I can't believe I never noticed the sorry state of this port until now...
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Starving Demonfolk children, being forced to work jobs that would exhaust even grown men... This is hardly better than slavery.
+kay Starving Demonfolk children, being forced to work jobs that would exhaust even grown men... This is hardly better than slavery.
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay You know Lynn, we should do something about this...
+kay You know Lynn, we should do something about this...
+#% cha lyn_armup_neutral_wideeyes_opensmile_blush
+cha lyn_armup_neutral_wideeyes_opensmile_blush
+# lyn Eh? What do you mean...?
+lyn Eh? What do you mean...?
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_lynoutro
+tag chap9_lynoutro
+#% dcg spr_cg_lynnend
+dcg spr_cg_lynnend
+# nar And so it came to pass that Captain Kayto Shields and Lynn formed the first labor union in the realm...
+nar And so it came to pass that Captain Kayto Shields and Lynn formed the first labor union in the realm...
+# nar Though many Ryuvians at first scorned Lynn's efforts, the support of the Hero of Far Port helped turn the tide of public opinion.
+nar Though many Ryuvians at first scorned Lynn's efforts, the support of the Hero of Far Port helped turn the tide of public opinion.
+# nar Lynn is now a renown union leader, who traded in her daggers for the picket lines.
+nar Lynn is now a renown union leader, who traded in her daggers for the picket lines.
+# nar With the help of Queen Asaga, she passed the realm's first laws regulating workplace safety.
+nar With the help of Queen Asaga, she passed the realm's first laws regulating workplace safety.
+# nar After the end of fierce negotiations, Lynn and Kayto were given the construction contract to renovate the Star Palace.
+nar After the end of fierce negotiations, Lynn and Kayto were given the construction contract to renovate the Star Palace.
+# nar Restored to its original splendor, it stands to this day as a towering monument to their dedication...
+nar Restored to its original splendor, it stands to this day as a towering monument to their dedication...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_qis
+tag chap9_end_qis
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha qis_neu_focus_neutral_smirk
+cha qis_neu_focus_neutral_smirk
+# qis Ah, there you are, captain! Exactly the man I wished to see at this hour!
+qis Ah, there you are, captain! Exactly the man I wished to see at this hour!
+#% cha qis_neu_raised_neutral_opensmile
+cha qis_neu_raised_neutral_opensmile
+# qis I have a barrel of fine Ryuvian wine I have been saving for an occasion such as this! Let us toast to our great victory!
+qis I have a barrel of fine Ryuvian wine I have been saving for an occasion such as this! Let us toast to our great victory!
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay It would be my honor, Pre'ator Qisah!
+kay It would be my honor, Pre'ator Qisah!
+#% cha qis_neu_raised_closedeye_opensmile
+cha qis_neu_raised_closedeye_opensmile
+# qis Ah! The wine is exquisite, but the feeling of vanquishing our foe is sweeter still!
+qis Ah! The wine is exquisite, but the feeling of vanquishing our foe is sweeter still!
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay Indeed it is.
+kay Indeed it is.
+#% cha qis_neu_focus_neutral_opensmile
+cha qis_neu_focus_neutral_opensmile
+# qis So tell me, Captain Shields. Have you had enough time to decide on my proposition?
+qis So tell me, Captain Shields. Have you had enough time to decide on my proposition?
+#% cha qis_neu_focus_neutral_bigtalk
+cha qis_neu_focus_neutral_bigtalk
+# qis Wait! Before you give me your answer, allow me to make my final appeal.
+qis Wait! Before you give me your answer, allow me to make my final appeal.
+# qis Though you have claimed mastery of the seas, there is yet one final ocean you have yet to conquer! The vast dunes of the Denari Outlands!
+qis Though you have claimed mastery of the seas, there is yet one final ocean you have yet to conquer! The vast dunes of the Denari Outlands!
+#% cha qis_neu_focus_neutral_smirk
+cha qis_neu_focus_neutral_smirk
+# qis There is yet glory to be found in our lands. Our people have for years whispered of a vast new land beyond the dune sea, resided by the legendary Dwarves of the iron mountains. It is said that their contraptions of metal can sail upon the dune sea like the mighty ships of the Hallaen sea.
+qis There is yet glory to be found in our lands. Our people have for years whispered of a vast new land beyond the dune sea, resided by the legendary Dwarves of the iron mountains. It is said that their contraptions of metal can sail upon the dune sea like the mighty ships of the Hallaen sea.
+#% cha qis_neu_raised_closedeye_opensmile
+cha qis_neu_raised_closedeye_opensmile
+# qis Whoever establishes a trade route through the dune sea shall rule over a Denari kingdom to rival even the greatest Elf nations of Halla! What say we undertake this quest and become the king and queen of our own nation?!
+qis Whoever establishes a trade route through the dune sea shall rule over a Denari kingdom to rival even the greatest Elf nations of Halla! What say we undertake this quest and become the king and queen of our own nation?!
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay I see... Well, this certainly does sound like a worthy challenge.
+kay I see... Well, this certainly does sound like a worthy challenge.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Very well, Qisah! Once we are finished with business in Ryuvia, I shall join you in your expedition! Let us see these metal ships that sail on sand with our own eyes!
+kay Very well, Qisah! Once we are finished with business in Ryuvia, I shall join you in your expedition! Let us see these metal ships that sail on sand with our own eyes!
+#% cha qis_neu_raised_neutral_opensmile
+cha qis_neu_raised_neutral_opensmile
+# qis Hah! I knew you would understand. Indeed, you are the only man in this world worthy of standing by my side!
+qis Hah! I knew you would understand. Indeed, you are the only man in this world worthy of standing by my side!
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_qisoutro
+tag chap9_qisoutro
+#% mus mus_empireonthedesert
+mus mus_empireonthedesert
+#% dcg spr_cg_qisend
+dcg spr_cg_qisend
+# nar And so, Captain Kayto Shields and Qisah journeyed to the West, into the vast dune seas of the Denari Outlands...
+nar And so, Captain Kayto Shields and Qisah journeyed to the West, into the vast dune seas of the Denari Outlands...
+# nar The countless strange and fascinating peoples and contraptions they discovered beyond any map sold in Halla cannot be described in words.
+nar The countless strange and fascinating peoples and contraptions they discovered beyond any map sold in Halla cannot be described in words.
+# nar Many years after they departed Halla, their old friends were shocked when Kayto and Qisah returned from the desert on top of a massive metal ship greater than even the legendary vessels of ancient Ryuvia...
+nar Many years after they departed Halla, their old friends were shocked when Kayto and Qisah returned from the desert on top of a massive metal ship greater than even the legendary vessels of ancient Ryuvia...
+# nar Together, they would come to found their own new kingdom after establishing Halla's first trade route to the Dwarven mountains.
+nar Together, they would come to found their own new kingdom after establishing Halla's first trade route to the Dwarven mountains.
+# nar The technology Kayto's fleet of dune ships brought to Halla would come to completely change the realm forever...
+nar The technology Kayto's fleet of dune ships brought to Halla would come to completely change the realm forever...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_jem
+tag chap9_end_jem
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha jem_neu_neutral_neutral_smirk
+cha jem_neu_neutral_neutral_smirk
+# jem Kukuku. Perhaps the bonds you share with your crew are not as powerful as I thought, for you to choose to speak to me out of everyone...
+jem Kukuku. Perhaps the bonds you share with your crew are not as powerful as I thought, for you to choose to speak to me out of everyone...
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay That's not the case at all, Jem'hyre. The bond I have with you is as mighty as the bonds that allowed all of us to defeat Admiral Grey.
+kay That's not the case at all, Jem'hyre. The bond I have with you is as mighty as the bonds that allowed all of us to defeat Admiral Grey.
+#% cha jem_neu_neutral_narrowloo_talk
+cha jem_neu_neutral_narrowloo_talk
+# jem Then, why else have you come to speak with an outcast such as I?
+jem Then, why else have you come to speak with an outcast such as I?
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Well, for the very opposite reason, in fact. I believe we have become trusted comrades.
+kay Well, for the very opposite reason, in fact. I believe we have become trusted comrades.
+#% cha jem_neu_neutral_narrowloo_slysmile
+cha jem_neu_neutral_narrowloo_slysmile
+# jem Oh? So you will allow a member of Pact among you?
+jem Oh? So you will allow a member of Pact among you?
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Of course. Though we may have fought Pact once, now it is time for peace. In any matter, you have been exiled from there, so it seems hardly right to call you one of them.
+kay Of course. Though we may have fought Pact once, now it is time for peace. In any matter, you have been exiled from there, so it seems hardly right to call you one of them.
+#% cha jem_neu_concern_neutral_slysmile
+cha jem_neu_concern_neutral_slysmile
+# jem Oya oya... Then, would you surprised to learn that I have been invited back to the Crimson Fleet? Hardly surprising, given the recent turn of events...
+jem Oya oya... Then, would you surprised to learn that I have been invited back to the Crimson Fleet? Hardly surprising, given the recent turn of events...
+#% cha kay_neu_sad_closed_slight
+cha kay_neu_sad_closed_slight
+# kay I see... So you will leave the ship to rejoin Pact? Well... I will not stop you.
+kay I see... So you will leave the ship to rejoin Pact? Well... I will not stop you.
+#% cha jem_neu_concern_neutrallo_smirk
+cha jem_neu_concern_neutrallo_smirk
+# jem Oh? I thought you would be angry with me.
+jem Oh? I thought you would be angry with me.
+#% cha kay_neu_sad_thinking_smallopen
+cha kay_neu_sad_thinking_smallopen
+# kay Nay. Long must have you wished for your exile to be lifted. I will not deprive you of your freedom.
+kay Nay. Long must have you wished for your exile to be lifted. I will not deprive you of your freedom.
+# kay However, I want you to know that you will always be welcome among us.
+kay However, I want you to know that you will always be welcome among us.
+#% cha jem_neu_concern_closedeye_smirk
+cha jem_neu_concern_closedeye_smirk
+# jem I see...
+jem I see...
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Why don't we join the others in the celebrations? You are a part of the team now.
+kay Why don't we join the others in the celebrations? You are a part of the team now.
+# kay Let us make the most out of the time you have remaining onboard.
+kay Let us make the most out of the time you have remaining onboard.
+#% cha jem_neu_raised_wide_talk
+cha jem_neu_raised_wide_talk
+# jem Wait... I dunno if-
+jem Wait... I dunno if-
+#% cha kay_neu_raised_closed2_smirk
+cha kay_neu_raised_closed2_smirk
+# kay Come on! Let's go!
+kay Come on! Let's go!
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_jemoutro
+tag chap9_jemoutro
+#% dcg spr_cg_jemend
+dcg spr_cg_jemend
+# nar And so, Captain Kayto Shields convinced Jem'hyre down to the lower decks to celebrate. They joined the others in laughing and partying the night away...
+nar And so, Captain Kayto Shields convinced Jem'hyre down to the lower decks to celebrate. They joined the others in laughing and partying the night away...
+# nar By morning, Jem'hyre had lost all intention of rejoining the Crimson Fleet.
+nar By morning, Jem'hyre had lost all intention of rejoining the Crimson Fleet.
+# nar She decided to leave her old life behind and join the Sunrider as a permanent member of her crew.
+nar She decided to leave her old life behind and join the Sunrider as a permanent member of her crew.
+# nar The scars of her past fulled healed, she and Kayto went on countless adventures after that...
+nar The scars of her past fulled healed, she and Kayto went on countless adventures after that...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_mii
+tag chap9_end_mii
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha mii_neu_neutral_narrow_smallopen
+cha mii_neu_neutral_narrow_smallopen
+# mii Good evening, Captain Shields. It is my pleasure to see you...
+mii Good evening, Captain Shields. It is my pleasure to see you...
+# mii In fact, I have been meaning to speak...
+mii In fact, I have been meaning to speak...
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Of course, Sister. What is it?
+kay Of course, Sister. What is it?
+#% cha mii_neu_sad_narrow_smalltalk
+cha mii_neu_sad_narrow_smalltalk
+# mii Now that the war against Pact is over, I have fulfilled my end of our original bargain, captain. Now, I believe the time has come for me to find my way back to my homeland.
+mii Now that the war against Pact is over, I have fulfilled my end of our original bargain, captain. Now, I believe the time has come for me to find my way back to my homeland.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay I see... But that would be a problem, indeed...
+kay I see... But that would be a problem, indeed...
+#% cha mii_neu_surprised_wide_smalltalk
+cha mii_neu_surprised_wide_smalltalk
+# mii Do you mean you have some other task I must fulfill before I am absolved of my penance?
+mii Do you mean you have some other task I must fulfill before I am absolved of my penance?
+#% cha kay_neu_confuse_big_slight
+cha kay_neu_confuse_big_slight
+# kay I do not mean that all. Rather, the I am concerned as to how exactly you would get to the lands beyond Asahi.
+kay I do not mean that all. Rather, the I am concerned as to how exactly you would get to the lands beyond Asahi.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Those are uncharted waters you would need to cross. The few sailors who somehow return from there speak of nothing but unimaginable terrors. In fact, I have never before met a sailor who has seen the lands beyond my entire career.
+kay Those are uncharted waters you would need to cross. The few sailors who somehow return from there speak of nothing but unimaginable terrors. In fact, I have never before met a sailor who has seen the lands beyond my entire career.
+#% cha mii_neu_focus_closedeye_neutral
+cha mii_neu_focus_closedeye_neutral
+# mii The lands beyond are as real to me as your homeland is to you, captain. I shall entrust my life to the Heavenly Father and make the voyage myself.
+mii The lands beyond are as real to me as your homeland is to you, captain. I shall entrust my life to the Heavenly Father and make the voyage myself.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay No, you mustn't! Very well. I believe we have our next mission then.
+kay No, you mustn't! Very well. I believe we have our next mission then.
+# kay I shall accompany you to your home personally. Let the Sunrider be the first vessel of Halla to reach the lands beyond Asahi and return to tell the tale!
+kay I shall accompany you to your home personally. Let the Sunrider be the first vessel of Halla to reach the lands beyond Asahi and return to tell the tale!
+#% cha mii_neu_surprised_wide_smile
+cha mii_neu_surprised_wide_smile
+# mii Captain Shields! Are you sure? Have you not already given me enough?
+mii Captain Shields! Are you sure? Have you not already given me enough?
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Of course I'm sure! This already sounds like an adventure of a lifetime!
+kay Of course I'm sure! This already sounds like an adventure of a lifetime!
+#% cha mii_neu_neutral_closedeye_smile
+cha mii_neu_neutral_closedeye_smile
+# mii Then... very well. Ahem...
+mii Then... very well. Ahem...
+#% cha mii_neu_raised_closedeye_bigopensm
+cha mii_neu_raised_closedeye_bigopensm
+# mii As a Sister of the Heavenly Father, I am grateful for your assistance, Captain Shields. Let us return home.
+mii As a Sister of the Heavenly Father, I am grateful for your assistance, Captain Shields. Let us return home.
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_miioutro
+tag chap9_miioutro
+#% dcg spr_cg_miiend
+dcg spr_cg_miiend
+# nar And so, it came to pass that Kayto and Miirage set out from Ryuvia to reach the lands beyond Asahi...
+nar And so, it came to pass that Kayto and Miirage set out from Ryuvia to reach the lands beyond Asahi...
+# nar The tales of that voyage have become the stuff of minstrel shows and tavern folklore for ages...
+nar The tales of that voyage have become the stuff of minstrel shows and tavern folklore for ages...
+# nar Nobody knows just what parts of the tales are real and which parts are legends...
+nar Nobody knows just what parts of the tales are real and which parts are legends...
+# nar Hundreds of years later, the denizens of Halla were stunned to be visited by a ship which claimed to be from beyond Asahi, which was crewed by a never before seen race of Maan who looked puzzlingly Elvish...
+nar Hundreds of years later, the denizens of Halla were stunned to be visited by a ship which claimed to be from beyond Asahi, which was crewed by a never before seen race of Maan who looked puzzlingly Elvish...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_kuu
+tag chap9_end_kuu
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha kuu_neu_annoyed_neutral_smallopen
+cha kuu_neu_annoyed_neutral_smallopen
+# kuu So you come before me, Shields. Hah! Have you come to confess your undying love for me as well?
+kuu So you come before me, Shields. Hah! Have you come to confess your undying love for me as well?
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Why, you read my mind entirely, admiral.
+kay Why, you read my mind entirely, admiral.
+#% cha kuu_neu_focus_closedeye_bigopensm
+cha kuu_neu_focus_closedeye_bigopensm
+# kuu Hahaha! You are a funny man. That is why I like you.
+kuu Hahaha! You are a funny man. That is why I like you.
+#% cha kuu_neu_focus_narrow_smirk
+cha kuu_neu_focus_narrow_smirk
+# kuu Very well, Shields. I suppose you have earned the right to stand by me tonight with your earlier display of skill.
+kuu Very well, Shields. I suppose you have earned the right to stand by me tonight with your earlier display of skill.
+#% cha kuu_shout_focus_wide_smallopen
+cha kuu_shout_focus_wide_smallopen
+# kuu To think a man of your caliber has escaped my notice until now! Had you stood by my side when we fought against the Orks, we would have defeated the Dark Prince with only half our losses!
+kuu To think a man of your caliber has escaped my notice until now! Had you stood by my side when we fought against the Orks, we would have defeated the Dark Prince with only half our losses!
+#% cha kuu_neu_sad_closedeye_smallsmir
+cha kuu_neu_sad_closedeye_smallsmir
+# kuu Perhaps even our greatest loss would not have come to pass...
+kuu Perhaps even our greatest loss would not have come to pass...
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Or perhaps fate would remain unchanged. I'm afraid I have little expertise beyond the seas, admiral.
+kay Or perhaps fate would remain unchanged. I'm afraid I have little expertise beyond the seas, admiral.
+#% cha kuu_neu_focus_neutral_smirk
+cha kuu_neu_focus_neutral_smirk
+# kuu I would put a humble man in command over a braggart in a heartbeat. Already far too many of those among our ranks...
+kuu I would put a humble man in command over a braggart in a heartbeat. Already far too many of those among our ranks...
+#% cha kay_neu_confuse_thinking_talk
+cha kay_neu_confuse_thinking_talk
+# kay Somehow, I think I know what you're talking about...
+kay Somehow, I think I know what you're talking about...
+# kuu But I am not merely speaking empty praise. I have a proposition for you, Shields.
+kuu But I am not merely speaking empty praise. I have a proposition for you, Shields.
+#% cha kay_neu_confuse_neutral_slight
+cha kay_neu_confuse_neutral_slight
+# kay A proposition?
+kay A proposition?
+#% cha kuu_neu_annoyed_neutral_smallopen
+cha kuu_neu_annoyed_neutral_smallopen
+# kuu Once we sign the peace treaty at Ryuvia, how about you visit Asahi with me, Shields?
+kuu Once we sign the peace treaty at Ryuvia, how about you visit Asahi with me, Shields?
+# kuu Though the war may be over, there will be countless diplomatic talks on the horizon to fully normalize relations between our nations. As the hero of the Neutral Banners, your voice will be indispensable in creating a new era of peace.
+kuu Though the war may be over, there will be countless diplomatic talks on the horizon to fully normalize relations between our nations. As the hero of the Neutral Banners, your voice will be indispensable in creating a new era of peace.
+#% cha kuu_shout_shouttral_lookup_bigopensm
+cha kuu_shout_shouttral_lookup_bigopensm
+# kuu And I shall even offer you a personal tour of New Eden, as an added bonus.
+kuu And I shall even offer you a personal tour of New Eden, as an added bonus.
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay Well, who am I to refuse an admiral! Of course, I shall join you in New Eden!
+kay Well, who am I to refuse an admiral! Of course, I shall join you in New Eden!
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay I look forward to fully hashing out the terms of the peace treaty with you.
+kay I look forward to fully hashing out the terms of the peace treaty with you.
+#% cha kuu_shout_focus_wide_smallopen
+cha kuu_shout_focus_wide_smallopen
+# kuu Then it is done!
+kuu Then it is done!
+# kuu I have no doubt you will find the splendors of New Eden more than accommodating. Let the Pact of Maan come to be known for our fineries and hospitality, not war!
+kuu I have no doubt you will find the splendors of New Eden more than accommodating. Let the Pact of Maan come to be known for our fineries and hospitality, not war!
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay I look forward to working with you, admiral...
+kay I look forward to working with you, admiral...
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_kuuoutro
+tag chap9_kuuoutro
+#% dcg spr_cg_kuuend
+dcg spr_cg_kuuend
+# nar And so, Captain Kayto Shields came to sail to the Asahi Isle with Admiral Kuushana to open diplomatic ties with Pact.
+nar And so, Captain Kayto Shields came to sail to the Asahi Isle with Admiral Kuushana to open diplomatic ties with Pact.
+# nar Though the negotiations took far longer than originally anticipated, at long last, Pact opened embassies throughout Halla in the name of fostering peace and prosperity.
+nar Though the negotiations took far longer than originally anticipated, at long last, Pact opened embassies throughout Halla in the name of fostering peace and prosperity.
+# nar The agreement was saved largely in part due to the intervention of Kayto and Kuushana.
+nar The agreement was saved largely in part due to the intervention of Kayto and Kuushana.
+# nar Their relationship came to mirror the international relations between Pact and Ryuvia.
+nar Their relationship came to mirror the international relations between Pact and Ryuvia.
+# nar Never did the realm fear total war more than during their brief falling outs, only to then turn to relief each time the two reconciled.
+nar Never did the realm fear total war more than during their brief falling outs, only to then turn to relief each time the two reconciled.
+# nar For over one hundred years, Pact never again stirred the pot of conflict, not until long after Admiral Kuushana departed the world.
+nar For over one hundred years, Pact never again stirred the pot of conflict, not until long after Admiral Kuushana departed the world.
+# nar For Maan's lives were short, and their memories even shorter.
+nar For Maan's lives were short, and their memories even shorter.
+# nar Thus, it fell upon a new generation of heroes born during the great peace to face that challenge.
+nar Thus, it fell upon a new generation of heroes born during the great peace to face that challenge.
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap9_end_cos
+tag chap9_end_cos
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% cha cos_armscrossed_flat_narrowloo_smirk_blush
+cha cos_armscrossed_flat_narrowloo_smirk_blush
+# cos Arr, why have you come to speak with me? I would much rather be left alone with me rum...
+cos Arr, why have you come to speak with me? I would much rather be left alone with me rum...
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay So you say, Cosette. But I know the look of a sea dog looking for a drinking partner.
+kay So you say, Cosette. But I know the look of a sea dog looking for a drinking partner.
+# kay So... Who would have thought we would find ourselves here.
+kay So... Who would have thought we would find ourselves here.
+#% cha cos_fists_confused_narrowloo_guh_blush
+cha cos_fists_confused_narrowloo_guh_blush
+# cos Your surprise is mutual...
+cos Your surprise is mutual...
+# cos A Demonfolk pirate like me, with a straight laced captain like you... Peh! The Heavens have a strange sense of humor.
+cos A Demonfolk pirate like me, with a straight laced captain like you... Peh! The Heavens have a strange sense of humor.
+#% cha cos_fists_flat_closedeye_grin_blush
+cha cos_fists_flat_closedeye_grin_blush
+# cos But I suppose a good team we do make. I tip my hat at thee.
+cos But I suppose a good team we do make. I tip my hat at thee.
+#% cha cos_armscrossed_neutral_narrow_talk_blush
+cha cos_armscrossed_neutral_narrow_talk_blush
+# cos In truth, I thought I had met my judgment day when the Dreadstone shattered. I did not think you would be able to burn away so much mana...
+cos In truth, I thought I had met my judgment day when the Dreadstone shattered. I did not think you would be able to burn away so much mana...
+#% cha kay_neu_confuse_thinking_smirk
+cha kay_neu_confuse_thinking_smirk
+# kay You were the one who did that, Cosette. Magic goes completely above my head. There's no way I would even have been able wield even a drop of that mana.
+kay You were the one who did that, Cosette. Magic goes completely above my head. There's no way I would even have been able wield even a drop of that mana.
+#% cha cos_armscrossed_neutral_closedeye_talk_blush
+cha cos_armscrossed_neutral_closedeye_talk_blush
+# cos Nay, Shields. There is simply no other explanation. A miracle was performed on that day.
+cos Nay, Shields. There is simply no other explanation. A miracle was performed on that day.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay My personal policy is to attribute miracles to simply my good luck and not to think too deeply about it. Trust me, you will become a happier person that way.
+kay My personal policy is to attribute miracles to simply my good luck and not to think too deeply about it. Trust me, you will become a happier person that way.
+#% cha cos_armscrossed_neutral_narrowloo_neutral_blush
+cha cos_armscrossed_neutral_narrowloo_neutral_blush
+# cos I suppose so... But in the end, I have been granted a new life...
+cos I suppose so... But in the end, I have been granted a new life...
+#% cha cos_facepalm_confused_narrow_neutral_blush
+cha cos_facepalm_confused_narrow_neutral_blush
+# cos Thanks to recent events, I have had somewhat of a personal revelation, Shields.
+cos Thanks to recent events, I have had somewhat of a personal revelation, Shields.
+#% cha cos_fists_flat_narrow_talk_blush
+cha cos_fists_flat_narrow_talk_blush
+# cos All this time, I believed that my mother had turned to an Ork as punishment for sheltering me. Yet, upon reading the real Monolith of Truth, I realized that could not have been.
+cos All this time, I believed that my mother had turned to an Ork as punishment for sheltering me. Yet, upon reading the real Monolith of Truth, I realized that could not have been.
+# cos I investigated the matter with the others and discovered my mother was no ordinary priestess, but the leader of a rebel group within Song who resisted the fake teachings of Admiral Grey and the other elders...
+cos I investigated the matter with the others and discovered my mother was no ordinary priestess, but the leader of a rebel group within Song who resisted the fake teachings of Admiral Grey and the other elders...
+# cos In the end, she was excommunicated from the Church and banned from using the monoliths to purify herself.
+cos In the end, she was excommunicated from the Church and banned from using the monoliths to purify herself.
+#% cha cos_fists_angry_closedeye_clench_blush
+cha cos_fists_angry_closedeye_clench_blush
+# cos It was Admiral Grey all along who turned her into an Ork. It was never about me at all...
+cos It was Admiral Grey all along who turned her into an Ork. It was never about me at all...
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay I see... That does make sense. In the end, turning into an Ork had nothing to do with losing belief in the Monolithic Truth...
+kay I see... That does make sense. In the end, turning into an Ork had nothing to do with losing belief in the Monolithic Truth...
+#% cha cos_armscrossed_flat_narrow_smirk_blush
+cha cos_armscrossed_flat_narrow_smirk_blush
+# cos Though I always expected I would meet a terrible end as my punishment, I now find myself thinking I may have been spared of that fate. Perhaps you were right, Shields.
+cos Though I always expected I would meet a terrible end as my punishment, I now find myself thinking I may have been spared of that fate. Perhaps you were right, Shields.
+# cos Perhaps the Terror of the Seas truly did die that day, and the me who stands before you now can start anew...
+cos Perhaps the Terror of the Seas truly did die that day, and the me who stands before you now can start anew...
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Of course. It behooves you to make the most of the Queen's pardon. You truly have been made anew.
+kay Of course. It behooves you to make the most of the Queen's pardon. You truly have been made anew.
+# kay Let me help you make the most out of your second chance, Cosette.
+kay Let me help you make the most out of your second chance, Cosette.
+#% cha cos_armscrossed_confused_narrow_talk_blush
+cha cos_armscrossed_confused_narrow_talk_blush
+# cos You would do that for an Imp?
+cos You would do that for an Imp?
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay I have been called Lessor far too many times. I shall not do that to you.
+kay I have been called Lessor far too many times. I shall not do that to you.
+#% cha cos_armscrossed_sadorscar_closedeye_neutral_blush
+cha cos_armscrossed_sadorscar_closedeye_neutral_blush
+# cos I see...
+cos I see...
+#% cha cos_armscrossed_flat_narrow_smirk_blush
+cha cos_armscrossed_flat_narrow_smirk_blush
+# cos Then, I wish to first return to Ongess, to the site of my mother's chapel...
+cos Then, I wish to first return to Ongess, to the site of my mother's chapel...
+# cos Perhaps there, I will finally be able to understand why she accepted me, an Imp, as a daughter...
+cos Perhaps there, I will finally be able to understand why she accepted me, an Imp, as a daughter...
+#% flag
+flag
+#% stop
+stop
+#% tag chap9_cosoutro
+tag chap9_cosoutro
+#% dcg spr_cg_cosend
+dcg spr_cg_cosend
+# nar And so, it came to be that Captain Kayto Shields and Cosette returned to Ongess to visit the site of her adoptive mother's chapel...
+nar And so, it came to be that Captain Kayto Shields and Cosette returned to Ongess to visit the site of her adoptive mother's chapel...
+# nar Though initially shocked to find it in ruins, Cosette wordlessly got to work restoring it to its former glory...
+nar Though initially shocked to find it in ruins, Cosette wordlessly got to work restoring it to its former glory...
+# nar Many years passed, and she opened an orphanage where it stood. Like her mother, she would come to take in all the unwanted children of Halla and raise them as if they were her own, together with Kayto...
+nar Many years passed, and she opened an orphanage where it stood. Like her mother, she would come to take in all the unwanted children of Halla and raise them as if they were her own, together with Kayto...
+# nar The legend of the Terror of the Seas eventually faded away from the people's memories. In its place, word spread of a saintly Demonfolk Priestess who looked after all the orphans of the realm.
+nar The legend of the Terror of the Seas eventually faded away from the people's memories. In its place, word spread of a saintly Demonfolk Priestess who looked after all the orphans of the realm.
+# nar And so, Cosette never again returned to piracy and lived out her days in peace, surrounded by all her children...
+nar And so, Cosette never again returned to piracy and lived out her days in peace, surrounded by all her children...
+#% flag
+flag
+#% stop
+stop

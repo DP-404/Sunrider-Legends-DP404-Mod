@@ -1,0 +1,1988 @@
+# Long ago, in a realm reminiscent to our own...
+Long ago, in a realm reminiscent to our own...
+#%    
+   
+# The High Elves believe that history began when they fell to Halla on a fragment of the moon...
+The High Elves believe that history began when they fell to Halla on a fragment of the moon...
+# From the peak of Mount Destiny where they fell, the great Elf elders brought down the Monolith of Truth to the other races of the realm...
+From the peak of Mount Destiny where they fell, the great Elf elders brought down the Monolith of Truth to the other races of the realm...
+# According to the Monolith, the elder would rule the younger. The High Elves founded the Holy Ryuvian Empire and subjugated all the other races under their gospel.
+According to the Monolith, the elder would rule the younger. The High Elves founded the Holy Ryuvian Empire and subjugated all the other races under their gospel.
+# For over ten thousand years, the Elves ruled all of Halla, their grace unmatched.
+For over ten thousand years, the Elves ruled all of Halla, their grace unmatched.
+# Yet not even the Holy Ryuvian Empire would last forever... A schism formed between two factions within Ryuvia: The New Empire and the Song Alliance.
+Yet not even the Holy Ryuvian Empire would last forever... A schism formed between two factions within Ryuvia: The New Empire and the Song Alliance.
+# Civil War between the two factions decimated Ryuvia. In the end, the Song Alliance emerged as the victors, and the New Imperials were exiled to the faraway Asahi Isle, to struggle alongside mortal Maan...
+Civil War between the two factions decimated Ryuvia. In the end, the Song Alliance emerged as the victors, and the New Imperials were exiled to the faraway Asahi Isle, to struggle alongside mortal Maan...
+# Yet, a far worse fate would await the New Imperials. Cut off from the faith, their bodies became twisted and they became monstrous Orks.
+Yet, a far worse fate would await the New Imperials. Cut off from the faith, their bodies became twisted and they became monstrous Orks.
+# From the vast Ork city of New Edar, the Dark Prince Erizlo ruled over the New Empire, enslaving the Maan of Asahi.
+From the vast Ork city of New Edar, the Dark Prince Erizlo ruled over the New Empire, enslaving the Maan of Asahi.
+# Yet, Maan would not be enslaved forever.
+Yet, Maan would not be enslaved forever.
+# A mysterious figure named Veniczar Arcadius unified the Asahi tribes under a singular banner: The Pact of Maan.
+A mysterious figure named Veniczar Arcadius unified the Asahi tribes under a singular banner: The Pact of Maan.
+# The armies of Veniczar Arcadius met the forces of the Dark Prince at New Edar to determine the fate of humanity.
+The armies of Veniczar Arcadius met the forces of the Dark Prince at New Edar to determine the fate of humanity.
+# It is here that the Dark Prince fell to his blade - and the rule of the Orks came to an end.
+It is here that the Dark Prince fell to his blade - and the rule of the Orks came to an end.
+# Yet, Veniczar Arcadius would not stop at defeating the Orks.
+Yet, Veniczar Arcadius would not stop at defeating the Orks.
+# His eyes turned to his true foe: The High Elves of the Song Alliance, who had subjugated Maan for time eternal under the guise of the Monolithic Truth.
+His eyes turned to his true foe: The High Elves of the Song Alliance, who had subjugated Maan for time eternal under the guise of the Monolithic Truth.
+# It is here that your story begins: You are Captain Kayto Shields, a demi-elf born without magic, but with great wit - Or perhaps, you are simply luckier than most.
+It is here that your story begins: You are Captain Kayto Shields, a demi-elf born without magic, but with great wit - Or perhaps, you are simply luckier than most.
+# Your tale is not yet written...
+Your tale is not yet written...
+# Perhaps what has yet to pass may still play out exactly as before. Or will your fate diverge from Canon?
+Perhaps what has yet to pass may still play out exactly as before. Or will your fate diverge from Canon?
+# Your Legend begins...
+Your Legend begins...
+#%    
+   
+#% //Sunrider top deck, storm
+//Sunrider top deck, storm
+#% tag chap1_start
+tag chap1_start
+#% dbg spr_bg_sunriderbridge_storm
+dbg spr_bg_sunriderbridge_storm
+#% mus mus_shipcreak
+mus mus_shipcreak
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+# ava Captain, I told you this was a bad idea!
+ava Captain, I told you this was a bad idea!
+# ava The ship can hardly stay upright in this gale! I advise turning back to Far Port until the storm clears!
+ava The ship can hardly stay upright in this gale! I advise turning back to Far Port until the storm clears!
+#% cha kay_neu_confuse_thinking_smirk
+cha kay_neu_confuse_thinking_smirk
+# kay Turn back?
+kay Turn back?
+#% cha ava_facepalm_focus_closedeye_sigh
+cha ava_facepalm_focus_closedeye_sigh
+# ava Captain, this is no time for jokes!
+ava Captain, this is no time for jokes!
+#% cha kay_neu_neutral_closed_talk
+cha kay_neu_neutral_closed_talk
+# kay Hold fast, commander. Everyone in the village's counting on us to deliver this shipment. Remember what we heard from that Demonfolk merchant back at Volaris? The Asahi Coast has been stripped of all timber - Pact's preparing for an invasion of the Neutral Banners.
+kay Hold fast, commander. Everyone in the village's counting on us to deliver this shipment. Remember what we heard from that Demonfolk merchant back at Volaris? The Asahi Coast has been stripped of all timber - Pact's preparing for an invasion of the Neutral Banners.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay We've got to get back and warn everyone. We can't risk turning back now.
+kay We've got to get back and warn everyone. We can't risk turning back now.
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+# ava Surely, you cannot risk this vessel based upon some bar top gossip!
+ava Surely, you cannot risk this vessel based upon some bar top gossip!
+#% cha kay_neu_confuse_big_slight
+cha kay_neu_confuse_big_slight
+# kay ... ... ...
+kay ... ... ...
+#% cha ava_armscrossed_focus_closedeye_smalltalk
+cha ava_armscrossed_focus_closedeye_smalltalk
+# ava Captain, are you even listening?
+ava Captain, are you even listening?
+#% cha kay_neu_angry_big_smalltalk
+cha kay_neu_angry_big_smalltalk
+# kay Wait...
+kay Wait...
+#% cha ava_armup_focus_closedeye_bigtalk
+cha ava_armup_focus_closedeye_bigtalk
+# ava We must-
+ava We must-
+#% cha kay_neu_angry_big_smalltalk
+cha kay_neu_angry_big_smalltalk
+# kay Hang on. Look!
+kay Hang on. Look!
+# kay A raft! With... two survivors!
+kay A raft! With... two survivors!
+#% cha ava_armup_raised_surprise_smalltalk
+cha ava_armup_raised_surprise_smalltalk
+# ava Wha-?
+ava Wha-?
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Over there! Look!
+kay Over there! Look!
+#% var chap1_flare
+var chap1_flare
+# kay They're calling for rescue! Signal back to them!
+kay They're calling for rescue! Signal back to them!
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+# ava Ugh...! Unbelievable! Aye aye, captain. Deploying flare!
+ava Ugh...! Unbelievable! Aye aye, captain. Deploying flare!
+#% cha kay_neu_angry_big_smalltalk
+cha kay_neu_angry_big_smalltalk
+# kay All hands: Man your oars! We've got two souls, adrift in the storm! Prepare for rescue operations!
+kay All hands: Man your oars! We've got two souls, adrift in the storm! Prepare for rescue operations!
+#% bat roo_chap1_battle1
+bat roo_chap1_battle1
+#% 
+
+#% tag chap1_battle1_tut1_pc
+tag chap1_battle1_tut1_pc
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+#% voi ava_vns_ang_02
+voi ava_vns_ang_02
+# ava The seas are angry, captain. We best be careful - just one moment in a bad sea swell, and we will find ourselves driven off course.
+ava The seas are angry, captain. We best be careful - just one moment in a bad sea swell, and we will find ourselves driven off course.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (I can select a ship to command by left clicking it.)
+kay (I can select a ship to command by left clicking it.)
+# kay (Once a ship is selected, click the MOVE action button or numpad0 to command the ship to move.)
+kay (Once a ship is selected, click the MOVE action button or numpad0 to command the ship to move.)
+# kay (After moving a ship, I must decide the ship's facing direction. This is important, as most ships can only fire broadsides on their sides.)
+kay (After moving a ship, I must decide the ship's facing direction. This is important, as most ships can only fire broadsides on their sides.)
+# kay (Currently, the wind is blowing northeast, allowing the ship to move in that direction much further. The wind direction and strength are displayed in the Wind Compass at the bottom right side of the screen.)
+kay (Currently, the wind is blowing northeast, allowing the ship to move in that direction much further. The wind direction and strength are displayed in the Wind Compass at the bottom right side of the screen.)
+# kay (Since the stricken raft is northeast of us, I can use the wind to quickly get the ship to the raft.)
+kay (Since the stricken raft is northeast of us, I can use the wind to quickly get the ship to the raft.)
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Those poor souls need our help. Let's move up beside them and initiate the rescue!
+kay Those poor souls need our help. Let's move up beside them and initiate the rescue!
+#% obj MAIN: On a Stormy Sea...
+obj MAIN: On a Stormy Sea...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap1_battle1_tut1_console
+tag chap1_battle1_tut1_console
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+#% voi ava_vns_ang_02
+voi ava_vns_ang_02
+# ava The seas are angry, captain. We best be careful - just one moment in a bad sea swell, and we will find ourselves driven off course.
+ava The seas are angry, captain. We best be careful - just one moment in a bad sea swell, and we will find ourselves driven off course.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (I can select a ship to command by hovering the pointer over it and pressing the face1 button. Also, the shoulder buttons can be used to quickly select nearby ships.)
+kay (I can select a ship to command by hovering the pointer over it and pressing the face1 button. Also, the shoulder buttons can be used to quickly select nearby ships.)
+# kay (Once a ship is selected, press the MOVE action button to command the ship to move.)
+kay (Once a ship is selected, press the MOVE action button to command the ship to move.)
+# kay (I can scroll through the currently selected ship's actions with the up and down dpad.)
+kay (I can scroll through the currently selected ship's actions with the up and down dpad.)
+# kay (After moving a ship, I must decide the ship's facing direction. This is important, as most ships can only fire broadsides on their sides.)
+kay (After moving a ship, I must decide the ship's facing direction. This is important, as most ships can only fire broadsides on their sides.)
+# kay (Currently, the wind is blowing northeast, allowing the ship to move in that direction much further. The wind direction and strength are displayed in the Wind Compass at the bottom right side of the screen.)
+kay (Currently, the wind is blowing northeast, allowing the ship to move in that direction much further. The wind direction and strength are displayed in the Wind Compass at the bottom right side of the screen.)
+# kay (Since the stricken raft is northeast of us, I can use the wind to quickly get the ship to the raft.)
+kay (Since the stricken raft is northeast of us, I can use the wind to quickly get the ship to the raft.)
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Those poor souls need our help. Let's move up beside them and initiate the rescue!
+kay Those poor souls need our help. Let's move up beside them and initiate the rescue!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% //After moving
+//After moving
+#% tag chap1_battle1_tut2_pc
+tag chap1_battle1_tut2_pc
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (Tip: You can order the ship to drift with the wind by holding down the shift key while moving or rotating the ship. This allows the ship to sail with the wind without expending any EN.)
+kay (Tip: You can order the ship to drift with the wind by holding down the shift key while moving or rotating the ship. This allows the ship to sail with the wind without expending any EN.)
+# kay (The Sunrider's done all it can this turn. End the turn by deselecting the Sunrider, then pressing and holding the End Turn button.)
+kay (The Sunrider's done all it can this turn. End the turn by deselecting the Sunrider, then pressing and holding the End Turn button.)
+# kay (If I ever need to review my current objectives, I can open the Journal by pressing the button at the top left of the screen.)
+kay (If I ever need to review my current objectives, I can open the Journal by pressing the button at the top left of the screen.)
+#% stop
+stop
+#% 
+
+#% tag chap1_battle1_tut2_console
+tag chap1_battle1_tut2_console
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (Tip: You can order the ship to drift with the wind by holding down the face3 button while moving or rotating the ship. This allows the ship to sail with the wind without expending any EN.)
+kay (Tip: You can order the ship to drift with the wind by holding down the face3 button while moving or rotating the ship. This allows the ship to sail with the wind without expending any EN.)
+# kay (The Sunrider's done all it can this turn. End the turn by deselecting the Sunrider with the face2 button then pressing and holding the same button.)
+kay (The Sunrider's done all it can this turn. End the turn by deselecting the Sunrider with the face2 button then pressing and holding the same button.)
+# kay (If I ever need to review my current objectives, I can open the Journal by either pressing the select button or by pressing the left thumb stick.)
+kay (If I ever need to review my current objectives, I can open the Journal by either pressing the select button or by pressing the left thumb stick.)
+#% stop
+stop
+#% 
+
+#% //Approach the raft
+//Approach the raft
+#% tag chap1_battle1_tut3
+tag chap1_battle1_tut3
+#% cha asa_excited_raised_wide_laugh
+cha asa_excited_raised_wide_laugh
+# asa Oooyy!!! We're over here! We sure could use your help!
+asa Oooyy!!! We're over here! We sure could use your help!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Ahoy! Hold fast - we're here to rescue you! How many souls are aboard?!
+kay Ahoy! Hold fast - we're here to rescue you! How many souls are aboard?!
+#% cha asa_armup_sad_wide2_laugh
+cha asa_armup_sad_wide2_laugh
+# asa Just the two of us! But we've got a problem...
+asa Just the two of us! But we've got a problem...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap1_battle1_tut4_pc
+tag chap1_battle1_tut4_pc
+#% mus mus_wishiwasapirate
+mus mus_wishiwasapirate
+#% cha ava_armup_angry_surprise_yell
+cha ava_armup_angry_surprise_yell
+# ava Two black sails spotted, captain! It's pirates!
+ava Two black sails spotted, captain! It's pirates!
+#% cha asa_shrug_sad_funnyclos_awkwardsm
+cha asa_shrug_sad_funnyclos_awkwardsm
+# asa They've been tailin' us ever since we left port - you'd think they'd give up in this gale, but whaddyaknow!
+asa They've been tailin' us ever since we left port - you'd think they'd give up in this gale, but whaddyaknow!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay All hands: Battle stations! We've got a pair of pirate rafts, coming in from the southwest! Let's show 'em the Sunrider's bite.
+kay All hands: Battle stations! We've got a pair of pirate rafts, coming in from the southwest! Let's show 'em the Sunrider's bite.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay The two of you better come aboard - that rickety raft's bound to come undone any time in the storm.
+kay The two of you better come aboard - that rickety raft's bound to come undone any time in the storm.
+#% cha asa_excited_angry_closedeye_catopensm
+cha asa_excited_angry_closedeye_catopensm
+# asa Aye aye, captain!
+asa Aye aye, captain!
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (The pirates are coming in from our rear - directly against the wind. When sailing against the wind, it's better to fold the ship's sails and rely on the oars.)
+kay (The pirates are coming in from our rear - directly against the wind. When sailing against the wind, it's better to fold the ship's sails and rely on the oars.)
+# kay (Folding the sails increases the ship's move range upwind and keeps the ship in place if I end the turn without moving. If I end the turn without moving when the sails are active, the ship will automatically be blown in the direction of the wind.)
+kay (Folding the sails increases the ship's move range upwind and keeps the ship in place if I end the turn without moving. If I end the turn without moving when the sails are active, the ship will automatically be blown in the direction of the wind.)
+#% xob MAIN: On a Stormy Sea...
+xob MAIN: On a Stormy Sea...
+#% obj MAIN: On a Stormy Sea... Pirates!
+obj MAIN: On a Stormy Sea... Pirates!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap1_battle1_tut4_console
+tag chap1_battle1_tut4_console
+#% mus mus_wishiwasapirate
+mus mus_wishiwasapirate
+#% cha ava_armup_angry_surprise_yell
+cha ava_armup_angry_surprise_yell
+# ava Two black sails spotted, captain! It's pirates!
+ava Two black sails spotted, captain! It's pirates!
+#% cha asa_shrug_sad_funnyclos_awkwardsm
+cha asa_shrug_sad_funnyclos_awkwardsm
+# asa They've been tailin' us ever since we left port - you'd think they'd give up in this gale, but whaddyaknow!
+asa They've been tailin' us ever since we left port - you'd think they'd give up in this gale, but whaddyaknow!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay All hands: Battle stations! We've got a pair of pirate rafts, coming in from the southwest! Let's show 'em the Sunrider's bite.
+kay All hands: Battle stations! We've got a pair of pirate rafts, coming in from the southwest! Let's show 'em the Sunrider's bite.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay The two of you better come aboard - that rickety raft's bound to come undone any time in the storm.
+kay The two of you better come aboard - that rickety raft's bound to come undone any time in the storm.
+#% cha asa_excited_angry_closedeye_catopensm
+cha asa_excited_angry_closedeye_catopensm
+# asa Aye aye, captain!
+asa Aye aye, captain!
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (The pirates are coming in from our rear - directly against the wind. When sailing against the wind, it's better to fold the ship's sails and rely on the oars.)
+kay (The pirates are coming in from our rear - directly against the wind. When sailing against the wind, it's better to fold the ship's sails and rely on the oars.)
+# kay (Just like before, I can use the up and down dpad to scroll between the ship's available actions to select FOLD SAILS.)
+kay (Just like before, I can use the up and down dpad to scroll between the ship's available actions to select FOLD SAILS.)
+# kay (Folding the sails increases the ship's move range upwind and keeps the ship in place if I end the turn without moving. If I end the turn without moving when the sails are active, the ship will automatically be blown in the direction of the wind.)
+kay (Folding the sails increases the ship's move range upwind and keeps the ship in place if I end the turn without moving. If I end the turn without moving when the sails are active, the ship will automatically be blown in the direction of the wind.)
+#% xob MAIN: On a Stormy Sea...
+xob MAIN: On a Stormy Sea...
+#% obj MAIN: On a Stormy Sea... Pirates!
+obj MAIN: On a Stormy Sea... Pirates!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap1_battle1_tut5
+tag chap1_battle1_tut5
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (The Sunrider is armed with 18 cannons alongside each side of the ship to fire broadsides within her two firing arcs.)
+kay (The Sunrider is armed with 18 cannons alongside each side of the ship to fire broadsides within her two firing arcs.)
+# kay (Remember, most ships can only fire cannons to their sides, with the exception of these annoying pirate rafts, so positioning is key in all naval battles.)
+kay (Remember, most ships can only fire cannons to their sides, with the exception of these annoying pirate rafts, so positioning is key in all naval battles.)
+# kay (Select the ROUNDSHOT button to see the hit chances of striking each enemy. The higher the percentage, the more rounds will hit the enemy.)
+kay (Select the ROUNDSHOT button to see the hit chances of striking each enemy. The higher the percentage, the more rounds will hit the enemy.)
+# kay (Enemies with a zero percent hit chance are out of range. Move in closer in order to increase the hit chance.)
+kay (Enemies with a zero percent hit chance are out of range. Move in closer in order to increase the hit chance.)
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap1_battle1_warning
+tag chap1_battle1_warning
+#% var chap1_windwarning
+var chap1_windwarning
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (The ship's being blown off course by the wind.)
+kay (The ship's being blown off course by the wind.)
+# kay (Tip: When you need to move against the wind, you should fold the ship's sails.)
+kay (Tip: When you need to move against the wind, you should fold the ship's sails.)
+#% stop
+stop
+#% 
+
+#% tag chap1_battle1_tut6
+tag chap1_battle1_tut6
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (The number of cannons available on each side of the ship are indicated the red dots surrounding a selected ship. Solid red dots indicate cannons which are loaded. Empty dots with red outlines indicate cannons which are empty. Black dots indicate cannons which have been destroyed by enemy fire.)
+kay (The number of cannons available on each side of the ship are indicated the red dots surrounding a selected ship. Solid red dots indicate cannons which are loaded. Empty dots with red outlines indicate cannons which are empty. Black dots indicate cannons which have been destroyed by enemy fire.)
+# kay (The cannons on the attacking side of the ship become empty after firing. Ordering a second broadside from empty cannons requires additional EN for the crew to reload before firing.)
+kay (The cannons on the attacking side of the ship become empty after firing. Ordering a second broadside from empty cannons requires additional EN for the crew to reload before firing.)
+# kay (The cannons on other sides of the ship will still be loaded, so it's possible to fire twice without reloading when two enemies are on opposite sides of the ship.)
+kay (The cannons on other sides of the ship will still be loaded, so it's possible to fire twice without reloading when two enemies are on opposite sides of the ship.)
+# kay (As the ship takes damage, its cannons will get destroyed on the side it is hit. However, if the enemy lands an attack on an unarmored side of the ship, cannons on both sides may be destroyed.)
+kay (As the ship takes damage, its cannons will get destroyed on the side it is hit. However, if the enemy lands an attack on an unarmored side of the ship, cannons on both sides may be destroyed.)
+# kay (That's why it's essential that I deliver broadsides to the enemy's unarmored sides while receiving enemy attacks on my armored sides.)
+kay (That's why it's essential that I deliver broadsides to the enemy's unarmored sides while receiving enemy attacks on my armored sides.)
+# kay (These pirate scum are more nimble than the Sunrider, but lack armor and weaponry. Let's take them out!)
+kay (These pirate scum are more nimble than the Sunrider, but lack armor and weaponry. Let's take them out!)
+#% stop
+stop
+#% 
+
+#% tag chap1_story2
+tag chap1_story2
+#% dbg spr_bg_sunriderbridge_storm
+dbg spr_bg_sunriderbridge_storm
+#% xob MAIN: On a Stormy Sea... Pirates!
+xob MAIN: On a Stormy Sea... Pirates!
+#% cha ava_armup_focus_neutral_smirk
+cha ava_armup_focus_neutral_smirk
+# ava All pirate ships sent to the bottom of the sea, captain. Now, about our pair of guests...
+ava All pirate ships sent to the bottom of the sea, captain. Now, about our pair of guests...
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay I'm Captain Kayto Shields. Welcome onboard the Sunrider. This is my first mate, Ava Crescentia.
+kay I'm Captain Kayto Shields. Welcome onboard the Sunrider. This is my first mate, Ava Crescentia.
+#% mus mus_colors_pt1
+mus mus_colors_pt1
+#% cha asa_armup_sad_closedeye_catopensm
+cha asa_armup_sad_closedeye_catopensm
+# asa Whew! Thanks for the rescue, kind stranger! Ya know, I kinda thought you'd be the one needin' rescue from those pirates for a moment there!
+asa Whew! Thanks for the rescue, kind stranger! Ya know, I kinda thought you'd be the one needin' rescue from those pirates for a moment there!
+#% cha chi_armsbehind_sad_closedeye_smirk
+cha chi_armsbehind_sad_closedeye_smirk
+# chi Eh-heheh... There's no way something like that would have happened, Asaga...
+chi Eh-heheh... There's no way something like that would have happened, Asaga...
+#% cha asa_fist_angry_neutral_bigopensm
+cha asa_fist_angry_neutral_bigopensm
+# asa Asaga Oakrun's my name! And this is my pal, Chigara Ashada!
+asa Asaga Oakrun's my name! And this is my pal, Chigara Ashada!
+#% cha chi_handtoface_raised_neutral_smirk
+cha chi_handtoface_raised_neutral_smirk
+# chi Greetings, Captain. You have my thanks for the rescue.
+chi Greetings, Captain. You have my thanks for the rescue.
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Don't worry. Those pirates were just sea trash. Not a problem at all!
+kay Don't worry. Those pirates were just sea trash. Not a problem at all!
+#% cha ava_armscrossed_focus_closedeye_smalltalk
+cha ava_armscrossed_focus_closedeye_smalltalk
+# ava Sigh... Sailing on the open seas on a raft during the middle of a storm. Surely, you two must have a death wish?
+ava Sigh... Sailing on the open seas on a raft during the middle of a storm. Surely, you two must have a death wish?
+#% cha asa_bendover_angry_neutral_bigtalk
+cha asa_bendover_angry_neutral_bigtalk
+# asa No, no, no! It wasn't a death wish that made me get on that raft! Rather the opposite, in fact. You could say it was a matter of life and death that I escaped!
+asa No, no, no! It wasn't a death wish that made me get on that raft! Rather the opposite, in fact. You could say it was a matter of life and death that I escaped!
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay A matter of life and death, you say? You were being held captive by someone?
+kay A matter of life and death, you say? You were being held captive by someone?
+#% cha asa_shrug_sad_narrow2_awkwardsm
+cha asa_shrug_sad_narrow2_awkwardsm
+# asa Eeehh... Nothing as grim as being chained up against our wills by a gang of pirates, mind you.
+asa Eeehh... Nothing as grim as being chained up against our wills by a gang of pirates, mind you.
+#% cha asa_armup_sad_closedeye_smirk
+cha asa_armup_sad_closedeye_smirk
+# asa Let's just say, I had a wee bit of a disagreement with mah old man... so I got my pal Chigara here to bust me out! We made our escape on that old raft, but got caught out here in this gale, with pirates on our tail to boot!
+asa Let's just say, I had a wee bit of a disagreement with mah old man... so I got my pal Chigara here to bust me out! We made our escape on that old raft, but got caught out here in this gale, with pirates on our tail to boot!
+#% cha asa_armup_sad_closedeye_smirk
+cha asa_armup_sad_closedeye_smirk
+# asa I suppose we woulda been goners if you hadn't shown up! Or at least a whole lot more soaked to the bone, eh?
+asa I suppose we woulda been goners if you hadn't shown up! Or at least a whole lot more soaked to the bone, eh?
+#% cha chi_handtoface_sad_closedeye_smile
+cha chi_handtoface_sad_closedeye_smile
+# chi Eh-heh... G-Good thing the captain was here to rescue us, huh...? Who knows what would have happened...
+chi Eh-heh... G-Good thing the captain was here to rescue us, huh...? Who knows what would have happened...
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay It's plenty dangerous for a pair of maidens to venture into the open seas in the best of times. You can count yourselves lucky we happened to be near.
+kay It's plenty dangerous for a pair of maidens to venture into the open seas in the best of times. You can count yourselves lucky we happened to be near.
+#% cha ava_facepalm_sad_closedeye_smalltalk
+cha ava_facepalm_sad_closedeye_smalltalk
+# ava Ugh. Captain, a moment, before you say another word...
+ava Ugh. Captain, a moment, before you say another word...
+#% hid asa
+hid asa
+#% hid chi
+hid chi
+#% cha kay_neu_neutral_closed_talk
+cha kay_neu_neutral_closed_talk
+# kay Commander?
+kay Commander?
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+# ava Clearly, these vagabonds are a pair of runaways - most likely some nobleman's daughter and her attendant. Whatever dispute this "Asaga" has with her father, we best not get involved. Who knows what secrets they may be hiding.
+ava Clearly, these vagabonds are a pair of runaways - most likely some nobleman's daughter and her attendant. Whatever dispute this "Asaga" has with her father, we best not get involved. Who knows what secrets they may be hiding.
+# ava The port of Versta's but a day away. We should drop our guests off there and clean our hands of this affair.
+ava The port of Versta's but a day away. We should drop our guests off there and clean our hands of this affair.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Normally, I'd agree... but like I was saying earlier-
+kay Normally, I'd agree... but like I was saying earlier-
+#% cha ava_armscrossed_sad_closedeye_smalltalk
+cha ava_armscrossed_sad_closedeye_smalltalk
+# ava Sigh... I was afraid of that...
+ava Sigh... I was afraid of that...
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+# ava Is it truly wise to take our two guests all the way to Cera, though? What if her father has hired bounty hunters to track her down?
+ava Is it truly wise to take our two guests all the way to Cera, though? What if her father has hired bounty hunters to track her down?
+#% cha kay_neu_neutral_neutral_smalltalk
+cha kay_neu_neutral_neutral_smalltalk
+# kay Then we can tell them the truth: That we are a merchant vessel that happened to rescue a pair of girls from the rough seas, then proceeded as scheduled back to our home port. Hardly a crime.
+kay Then we can tell them the truth: That we are a merchant vessel that happened to rescue a pair of girls from the rough seas, then proceeded as scheduled back to our home port. Hardly a crime.
+#% cha ava_armscrossed_focus_closedeye_smalltalk
+cha ava_armscrossed_focus_closedeye_smalltalk
+# ava I suppose so, captain. Still...
+ava I suppose so, captain. Still...
+#% cha ava_armup_focus_closedeye_smalltalk
+cha ava_armup_focus_closedeye_smalltalk
+# ava There is something odd about our new guests...
+ava There is something odd about our new guests...
+#% cha kay_neu_confuse_big_slight
+cha kay_neu_confuse_big_slight
+# kay Huh? What makes you think that, Ava?
+kay Huh? What makes you think that, Ava?
+#% cha ava_facepalm_focus_closedeye_slight
+cha ava_facepalm_focus_closedeye_slight
+# ava Hmph! You are far too trusting! But a moment's glance at a fair face and your backbone has turned straight to jelly! Unbelievable... 
+ava Hmph! You are far too trusting! But a moment's glance at a fair face and your backbone has turned straight to jelly! Unbelievable... 
+#% cha ava_facepalm_focus_narrow_smalltalk
+cha ava_facepalm_focus_narrow_smalltalk
+# ava Ugh, I tire of the ship's constant swaying - reminds me too much of our captain's mettle. Thankfully, I sense that the gale will clear up soon. Looks like you will have your way in the end. The rest of the voyage to Cera should be smooth sailings.
+ava Ugh, I tire of the ship's constant swaying - reminds me too much of our captain's mettle. Thankfully, I sense that the gale will clear up soon. Looks like you will have your way in the end. The rest of the voyage to Cera should be smooth sailings.
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay We can count our blessings then.
+kay We can count our blessings then.
+# kay All right, you two. We've decided that we've got to get on our way to Cera. We can drop you off there, then we'll go our separate ways. We're still three days out from our destination, so why don't you get settled in?
+kay All right, you two. We've decided that we've got to get on our way to Cera. We can drop you off there, then we'll go our separate ways. We're still three days out from our destination, so why don't you get settled in?
+#% cha asa_excited_neutral_closedeye_laugh
+cha asa_excited_neutral_closedeye_laugh
+#% cha chi_armsbehind_neutral_closedeye_smile
+cha chi_armsbehind_neutral_closedeye_smile
+# asa All right! I'm taking a liking to ya already, capt'n. Come on Chigara, let's head below deck.
+asa All right! I'm taking a liking to ya already, capt'n. Come on Chigara, let's head below deck.
+# chi Okay~
+chi Okay~
+#% sou sou_partygain
+sou sou_partygain
+# nar [ASAGA HAS JOINED YOUR PARTY]
+nar [ASAGA HAS JOINED YOUR PARTY]
+#% sou sou_partygain
+sou sou_partygain
+# nar [CHIGARA HAS JOINED YOUR PARTY]
+nar [CHIGARA HAS JOINED YOUR PARTY]
+#% hid chi
+hid chi
+#% hid asa
+hid asa
+#% cha kay_neu_confuse_thinking_smile
+cha kay_neu_confuse_thinking_smile
+# kay Lovely pair. Guess luck's still on my side, eh Ava?
+kay Lovely pair. Guess luck's still on my side, eh Ava?
+#% cha ava_armup_focus_closedeye_smalltalk
+cha ava_armup_focus_closedeye_smalltalk
+# ava Luck has an unfortunate tendency of disappearing when you need it the most, captain.
+ava Luck has an unfortunate tendency of disappearing when you need it the most, captain.
+#% cha kay_neu_neutral_closed_smallsmil
+cha kay_neu_neutral_closed_smallsmil
+# kay (I can use the world map to travel to other destinations. I should open it up now.)
+kay (I can use the world map to travel to other destinations. I should open it up now.)
+#% obj MAIN: Get to Cera
+obj MAIN: Get to Cera
+#% flag
+flag
+#% roo roo_worldmap
+roo roo_worldmap
+#% 
+
+#% tag chap1_worldmap_pc
+tag chap1_worldmap_pc
+#% cha kay_neu_neutral_closed_smallsmil
+cha kay_neu_neutral_closed_smallsmil
+# kay (This is the World Map. I can move the ship on the map by left clicking on the open seas where I want to go.)
+kay (This is the World Map. I can move the ship on the map by left clicking on the open seas where I want to go.)
+# kay (The ship will automatically navigate to its target, but cannot go on land.)
+kay (The ship will automatically navigate to its target, but cannot go on land.)
+# kay (Cera is northeast of our current position. Once I get near a settlement, a list of available missions will appear on the left side of the screen.)
+kay (Cera is northeast of our current position. Once I get near a settlement, a list of available missions will appear on the left side of the screen.)
+# kay (Right now, there's only one available mission. I should click that to continue our journey.)
+kay (Right now, there's only one available mission. I should click that to continue our journey.)
+#% var chap1_maptut
+var chap1_maptut
+#% stop
+stop
+#% 
+
+#% tag chap1_worldmap_console
+tag chap1_worldmap_console
+#% cha kay_neu_neutral_closed_smallsmil
+cha kay_neu_neutral_closed_smallsmil
+# kay (This is the World Map. I can move the ship on the map directly with the controller's left stick.)
+kay (This is the World Map. I can move the ship on the map directly with the controller's left stick.)
+# kay (Cera is northeast of our current position. Once I move next to a settlement, a list of available missions will appear on the left side of the screen.)
+kay (Cera is northeast of our current position. Once I move next to a settlement, a list of available missions will appear on the left side of the screen.)
+# kay (I can use the Dpad to scroll between the various missions.)
+kay (I can use the Dpad to scroll between the various missions.)
+# kay (Right now, there's only one available mission. I should press the face1 button on that to continue our journey.)
+kay (Right now, there's only one available mission. I should press the face1 button on that to continue our journey.)
+#% var chap1_maptut
+var chap1_maptut
+#% stop
+stop
+#% 
+
+#% tag chap1_arrivalcera
+tag chap1_arrivalcera
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% mus mus_myhometown
+mus mus_myhometown
+#% xob MAIN: Get to Cera
+xob MAIN: Get to Cera
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay Home sweet home. I told you that you were worried for nothing, Ava.
+kay Home sweet home. I told you that you were worried for nothing, Ava.
+#% cha ava_armscrossed_sad_closedeye_smalltalk
+cha ava_armscrossed_sad_closedeye_smalltalk
+# ava Sigh... Given how badly I need a bath, I find it difficult to argue with you, captain.
+ava Sigh... Given how badly I need a bath, I find it difficult to argue with you, captain.
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay I wouldn't mind a dip myself. Why don't we go together then?
+kay I wouldn't mind a dip myself. Why don't we go together then?
+#% cha ava_armscrossed_focus_closedeye_frown
+cha ava_armscrossed_focus_closedeye_frown
+# ava Declined.
+ava Declined.
+#% cha kay_neu_sad_closed_talk
+cha kay_neu_sad_closed_talk
+# kay But we used to go together all the time...
+kay But we used to go together all the time...
+#% cha ava_armscrossed_focus_closedeye_smalltalk
+cha ava_armscrossed_focus_closedeye_smalltalk
+# ava When we were children. No doubt, you have less innocent designs in inviting me now.
+ava When we were children. No doubt, you have less innocent designs in inviting me now.
+#% cha kay_neu_sad_closed_talk
+cha kay_neu_sad_closed_talk
+# kay Wouldn't know what you mean, Ava...
+kay Wouldn't know what you mean, Ava...
+# por mar_excited_raised_wide2_bigopensm
+por mar_excited_raised_wide2_bigopensm
+# mar ...Kayto...!
+mar ...Kayto...!
+#% cha kay_neu_neutral_wide_bigopensm
+cha kay_neu_neutral_wide_bigopensm
+# kay ...!
+kay ...!
+#% cha kay_neu_raised_big_smallopen
+cha kay_neu_raised_big_smallopen
+# kay Maray!
+kay Maray!
+#% hid ava
+hid ava
+# por mar_excited_raised_wide2_bigopensm
+por mar_excited_raised_wide2_bigopensm
+# mar Welcome back, Kayto!
+mar Welcome back, Kayto!
+#% cha kay_neu_raised_big_smallopen
+cha kay_neu_raised_big_smallopen
+# kay Maray!! I'm back!
+kay Maray!! I'm back!
+# por mar_excited_raised_closedeye_bigopensm
+por mar_excited_raised_closedeye_bigopensm
+# mar You've got to tell me all about your voyage!
+mar You've got to tell me all about your voyage!
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Maray- watch where you're-
+kay Maray- watch where you're-
+# por mar_excited_raised_wide2_smalltalk
+por mar_excited_raised_wide2_smalltalk
+# mar What? O-Oh!! Ooooooouuoooohh!!!!
+mar What? O-Oh!! Ooooooouuoooohh!!!!
+#% hid mar
+hid mar
+#% sou sou_cannonmiss4
+sou sou_cannonmiss4
+#% cha kay_neu_sad_closed_smirk
+cha kay_neu_sad_closed_smirk
+# kay (I guess we've got to divert course for one more rescue.)
+kay (I guess we've got to divert course for one more rescue.)
+# kay (Maray... please be more careful...)
+kay (Maray... please be more careful...)
+#% dbg hide
+dbg hide
+#% hid kay
+hid kay
+#% fade
+fade
+#% mus mus_medievaltavern
+mus mus_medievaltavern
+#% dbg spr_bg_ceratavern
+dbg spr_bg_ceratavern
+#% cha mar_excited_angry_wide_bigopensm
+cha mar_excited_angry_wide_bigopensm
+# mar Another big save by big brother!
+mar Another big save by big brother!
+#% cha mar_excited_angry_closedeye_smile_blush
+cha mar_excited_angry_closedeye_smile_blush
+# mar Gulp... gulp... gulp... Pweeeh...!
+mar Gulp... gulp... gulp... Pweeeh...!
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Maray... Since when could you drink?
+kay Maray... Since when could you drink?
+#% cha mar_lean_neutral_closedeye_smallopen_blush
+cha mar_lean_neutral_closedeye_smallopen_blush
+# mar Mou... Kayto... I'm not a little girl any more. I'm just ten years younger than you and you're already the captain of a ship.
+mar Mou... Kayto... I'm not a little girl any more. I'm just ten years younger than you and you're already the captain of a ship.
+#% cha mar_excited_angry_smug_smalltalk_blush
+cha mar_excited_angry_smug_smalltalk_blush
+# mar Kuu... At this rate, it's gonna become clear to everyone that you got all of our parents' good traits and left none for me. Drinking is all I've got left!
+mar Kuu... At this rate, it's gonna become clear to everyone that you got all of our parents' good traits and left none for me. Drinking is all I've got left!
+# mar Glug... glug... glug...
+mar Glug... glug... glug...
+#% cha kay_neu_confuse_thinking_smile
+cha kay_neu_confuse_thinking_smile
+# kay That's not true, Maray. I heard from the village elder that your restoration magic's gotten better. You know magicka goes over my head.
+kay That's not true, Maray. I heard from the village elder that your restoration magic's gotten better. You know magicka goes over my head.
+#% cha mar_neu_focus_smug_smallopen_blush
+cha mar_neu_focus_smug_smallopen_blush
+# mar Heh, heh, heh! Once I can control your very life with my magic, you'll have no choice but to take me along on your voyages. After all, we've been a team ever since we were kids!
+mar Heh, heh, heh! Once I can control your very life with my magic, you'll have no choice but to take me along on your voyages. After all, we've been a team ever since we were kids!
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay I dunno... It's awfully dangerous...
+kay I dunno... It's awfully dangerous...
+#% cha mar_excited_angry_smug_smalltalk_blush
+cha mar_excited_angry_smug_smalltalk_blush
+# mar Mouuu... I'd have you to protect me!
+mar Mouuu... I'd have you to protect me!
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay Oh... Speaking of which, these are the maidens we rescued from the pirates. Meet Asaga and Chigara.
+kay Oh... Speaking of which, these are the maidens we rescued from the pirates. Meet Asaga and Chigara.
+#% cha asa_fist_neutral_neutral_bigopensm
+cha asa_fist_neutral_neutral_bigopensm
+# asa Hello, hello.
+asa Hello, hello.
+#% cha chi_holdinghands_neutral_neutral_smile
+cha chi_holdinghands_neutral_neutral_smile
+# chi I'm pleased to make your acquaintance.
+chi I'm pleased to make your acquaintance.
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay They'll be staying with us until they figure out their next destination. Let's get along well, okay?
+kay They'll be staying with us until they figure out their next destination. Let's get along well, okay?
+#% cha mar_lean_sad_smug_smirk_blush
+cha mar_lean_sad_smug_smirk_blush
+# mar So ya already invited two girls over, without even asking for your little sister's permission, eh... Big Bro's hand works fast...
+mar So ya already invited two girls over, without even asking for your little sister's permission, eh... Big Bro's hand works fast...
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay Well, you know... You weren't onboard the ship when that happened...
+kay Well, you know... You weren't onboard the ship when that happened...
+#% cha mar_lean_sad_closedeye_smirk_blush
+cha mar_lean_sad_closedeye_smirk_blush
+# mar Avvy's gonna be mad when she finds out, you know. Speaking of that, where is she anyways?
+mar Avvy's gonna be mad when she finds out, you know. Speaking of that, where is she anyways?
+#% cha kay_neu_confuse_thinking_talk
+cha kay_neu_confuse_thinking_talk
+# kay Where else. She had to report to her father.
+kay Where else. She had to report to her father.
+#% cha mar_neu_sad_neutral_smalltalk_blush
+cha mar_neu_sad_neutral_smalltalk_blush
+# mar Being the daughter of the Elder sure must be a pain, huh...
+mar Being the daughter of the Elder sure must be a pain, huh...
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay I'm sure she's got everything under control. But first, there's an important matter to discuss. I heard ill tidings while I was in the Song Alliance...
+kay I'm sure she's got everything under control. But first, there's an important matter to discuss. I heard ill tidings while I was in the Song Alliance...
+# mar Bad news?
+mar Bad news?
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Well...
+kay Well...
+#% dbg hide
+dbg hide
+#% fade
+fade
+#% dbg spr_bg_elderhouse
+dbg spr_bg_elderhouse
+#% mus mus_chant
+mus mus_chant
+#% cha ava_armscrossed_neutral_neutral_smalltalk
+cha ava_armscrossed_neutral_neutral_smalltalk
+# ava I have returned from Song, father.
+ava I have returned from Song, father.
+#% cha eld_neu
+cha eld_neu
+# eld So I have heard. And? What news do you bring, daughter?
+eld So I have heard. And? What news do you bring, daughter?
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+# ava Dark tidings. There are whispers all through Song that the Pact of Maan is on the march. I heard the testimony of a Maan who claimed to have seen the Asahi shore stripped clean of lumber. Veniczar Arcadius intends to construct a fleet to rival the Emerald Fleet.
+ava Dark tidings. There are whispers all through Song that the Pact of Maan is on the march. I heard the testimony of a Maan who claimed to have seen the Asahi shore stripped clean of lumber. Veniczar Arcadius intends to construct a fleet to rival the Emerald Fleet.
+# ava He means to sail here, to Halla, and complete his conquest over Elvenkind.
+ava He means to sail here, to Halla, and complete his conquest over Elvenkind.
+#% cha ava_armscrossed_focus_neutral_neutral
+cha ava_armscrossed_focus_neutral_neutral
+#% cha eld_neu
+cha eld_neu
+# eld The Pact of Maan has fought for centuries against the New Empire on land... but there are no sailors to be found among them. Now that the Veniczar rules the Asahi Isle, perhaps he is merely collecting lumber for reconstruction efforts. But an invasion of Halla? What folly that would be.
+eld The Pact of Maan has fought for centuries against the New Empire on land... but there are no sailors to be found among them. Now that the Veniczar rules the Asahi Isle, perhaps he is merely collecting lumber for reconstruction efforts. But an invasion of Halla? What folly that would be.
+# eld The New Empire was corrupt and full of fools. But the Song Alliance still wields the mandate of Heaven. The Pact of Maan will be destroyed at sea as well as on land if they were so bold as to attack. Mere mortal Maan are no match against us Elves.
+eld The New Empire was corrupt and full of fools. But the Song Alliance still wields the mandate of Heaven. The Pact of Maan will be destroyed at sea as well as on land if they were so bold as to attack. Mere mortal Maan are no match against us Elves.
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+# ava So too did the Dark Prince and his Ork armies believe - but did their magicka save them from the gallows when the Pact army stormed the gates of New Edar?
+ava So too did the Dark Prince and his Ork armies believe - but did their magicka save them from the gallows when the Pact army stormed the gates of New Edar?
+#% cha eld_neu
+cha eld_neu
+# eld You are still young. It is unholy to question, daughter.
+eld You are still young. It is unholy to question, daughter.
+#% cha ava_armscrossed_worry_closedeye_smalltalk
+cha ava_armscrossed_worry_closedeye_smalltalk
+# ava I...
+ava I...
+#% cha eld_neu
+cha eld_neu
+# eld Aah, it has been centuries since we could claim to be High Elves. Tell me, when you were in Song, what did they call you?
+eld Aah, it has been centuries since we could claim to be High Elves. Tell me, when you were in Song, what did they call you?
+#% cha ava_armscrossed_worry_narrowloo_smalltalk
+cha ava_armscrossed_worry_narrowloo_smalltalk
+# ava A Lessor, father.
+ava A Lessor, father.
+#% cha ava_armscrossed_worry_narrowloo_neutral
+cha ava_armscrossed_worry_narrowloo_neutral
+#% cha eld_neu
+cha eld_neu
+# eld That is what we are now. Lessor. Weakened. Now, some of us cannot weave arcana at all. The High Elves of Song, they stayed true to the teachings of the Church, and the great Sharr awarded them by keeping their bloodlines pure, and their arcana strong...
+eld That is what we are now. Lessor. Weakened. Now, some of us cannot weave arcana at all. The High Elves of Song, they stayed true to the teachings of the Church, and the great Sharr awarded them by keeping their bloodlines pure, and their arcana strong...
+# eld But we, the Elves of Ryuvia... we strayed from the Monolithic Truth. We committed the sin of intermingling with Maan. By defying the Truth and living side by side with mortals, we became diseased, just like them.
+eld But we, the Elves of Ryuvia... we strayed from the Monolithic Truth. We committed the sin of intermingling with Maan. By defying the Truth and living side by side with mortals, we became diseased, just like them.
+# eld My flesh... it is... rotting. I am... becoming old. What a disease to be wrought upon an Elf!
+eld My flesh... it is... rotting. I am... becoming old. What a disease to be wrought upon an Elf!
+#% cha ava_armup_sad_neutral_smalltalk
+cha ava_armup_sad_neutral_smalltalk
+# ava But cooperation with Maan has brought us the gifts of knowledge... of steelworking, engineering, mathematics...
+ava But cooperation with Maan has brought us the gifts of knowledge... of steelworking, engineering, mathematics...
+#% cha ava_armscrossed_worry_narrowloo_neutral
+cha ava_armscrossed_worry_narrowloo_neutral
+#% cha eld_neu
+cha eld_neu
+# eld It is unholy to question, child. I do not wish this disease upon you, daughter. Although, I imagine it is already too late...
+eld It is unholy to question, child. I do not wish this disease upon you, daughter. Although, I imagine it is already too late...
+# eld I hear the King of Ryuvia himself is bedridden with the sickness of old age. Hah! If his ancestors could see him now. They would have torched their own Star Palace in shame if they knew the fate that awaited the Holy Empire - Now a mere backwater kingdom, with hardly the power to keep the peace within their city walls.
+eld I hear the King of Ryuvia himself is bedridden with the sickness of old age. Hah! If his ancestors could see him now. They would have torched their own Star Palace in shame if they knew the fate that awaited the Holy Empire - Now a mere backwater kingdom, with hardly the power to keep the peace within their city walls.
+# eld Let the Veniczar rule his race of mortals on his isle... We Lessor Elves have enough problems to contend with as is...
+eld Let the Veniczar rule his race of mortals on his isle... We Lessor Elves have enough problems to contend with as is...
+#% cha ava_armup_sad_neutral_smalltalk
+cha ava_armup_sad_neutral_smalltalk
+# ava But if Pact does attack...?
+ava But if Pact does attack...?
+#% cha eld_neu
+cha eld_neu
+# eld Then... May the Sharr protect us.
+eld Then... May the Sharr protect us.
+# eld The hour is late, daughter. Rest. You must be tired...
+eld The hour is late, daughter. Rest. You must be tired...
+#% dbg hide
+dbg hide
+#% mus stop
+mus stop
+#% fade
+fade
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% mus mus_shipambience
+mus mus_shipambience
+#% cha mar_neu_raised_neutral_neutral
+cha mar_neu_raised_neutral_neutral
+#% cha asa_armscrossed_neutral_neutral_smirk
+cha asa_armscrossed_neutral_neutral_smirk
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay ...So when we heard about the Veniczar's plans, I got my hands on this thing off a Demonfolk arms dealer. He called it the Vanguard Cannon. Apparently, this thing can blast a hole straight through a castle wall. Well, that is if we ever figure out how the hell to fire it.
+kay ...So when we heard about the Veniczar's plans, I got my hands on this thing off a Demonfolk arms dealer. He called it the Vanguard Cannon. Apparently, this thing can blast a hole straight through a castle wall. Well, that is if we ever figure out how the hell to fire it.
+#% cha mar_neu_confuse_neutrallo_smalltalk
+cha mar_neu_confuse_neutrallo_smalltalk
+# mar Eh? What do you mean?
+mar Eh? What do you mean?
+#% cha kay_neu_confuse_thinking_talk
+cha kay_neu_confuse_thinking_talk
+# kay Sigh... Ava cast scry on it after I got it loaded onto the ship and it turned out the cannon's powered by magic. There's not an ordinance in Halla that fits into the barrel. And there's some kind of arcane seal that's been put on it. It's deep magic, so it's beyond our power to undo.
+kay Sigh... Ava cast scry on it after I got it loaded onto the ship and it turned out the cannon's powered by magic. There's not an ordinance in Halla that fits into the barrel. And there's some kind of arcane seal that's been put on it. It's deep magic, so it's beyond our power to undo.
+#% dcg hide
+dcg hide
+#% cha mar_lean_concern_closedeye_smile
+cha mar_lean_concern_closedeye_smile
+# mar So basically, big brother got conned big time by a swindler, eh...
+mar So basically, big brother got conned big time by a swindler, eh...
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Hey...! I wouldn't say that! O-Once we figure out how to lift the lock, this thing will be punching holes through any Pact ship which dares get near our town. You'll see.
+kay Hey...! I wouldn't say that! O-Once we figure out how to lift the lock, this thing will be punching holes through any Pact ship which dares get near our town. You'll see.
+#% cha mar_lean_sad_closedeye_smirk
+cha mar_lean_sad_closedeye_smirk
+# mar Siiggghh... What are we gonna do with you, bro...
+mar Siiggghh... What are we gonna do with you, bro...
+#% cha asa_armup_confuse_narrow2_awkwardsm
+cha asa_armup_confuse_narrow2_awkwardsm
+# asa Ancient magic, huh... Hey, why don't I try undoing the seal...
+asa Ancient magic, huh... Hey, why don't I try undoing the seal...
+#% sou sou_magicbuff
+sou sou_magicbuff
+#% cha asa_excited_focus_trianglee_laugh
+cha asa_excited_focus_trianglee_laugh
+# asa Toyah! Awaken from your slumber, Vanguard Cannon!
+asa Toyah! Awaken from your slumber, Vanguard Cannon!
+# asa ... ... ...
+asa ... ... ...
+#% cha kay_neu_confuse_thinking_neutral
+cha kay_neu_confuse_thinking_neutral
+# kay ... ... ...
+kay ... ... ...
+#% cha mar_neu_confuse_neutral_neutral
+cha mar_neu_confuse_neutral_neutral
+# mar Cough...
+mar Cough...
+#% cha asa_armup_concern_funnyclos_cry
+cha asa_armup_concern_funnyclos_cry
+# asa Nothing, eh... Shucks!
+asa Nothing, eh... Shucks!
+#% cha kay_neu_neutral_closed_talk
+cha kay_neu_neutral_closed_talk
+# kay Well, there you have it. Ava's already tried everything. Honestly, we might have to go back to Song and hire a mage who knows more about sealing magic.
+kay Well, there you have it. Ava's already tried everything. Honestly, we might have to go back to Song and hire a mage who knows more about sealing magic.
+#% cha kay_neu_neutral_closed_smallsmil
+cha kay_neu_neutral_closed_smallsmil
+# kay Anyways, that's it for the Vanguard Cannon. Let's head back. It's chilly out here.
+kay Anyways, that's it for the Vanguard Cannon. Let's head back. It's chilly out here.
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Let's go hit the hot springs. If there's one thing I could use right now, it's a bath.
+kay Let's go hit the hot springs. If there's one thing I could use right now, it's a bath.
+#% cha asa_excited_neutral_closedeye_laugh
+cha asa_excited_neutral_closedeye_laugh
+# asa All right, let's go!
+asa All right, let's go!
+#% hid asa
+hid asa
+#% hid chi
+hid chi
+#% hid mar
+hid mar
+#% dcg spr_cg_chibivanguard1
+dcg spr_cg_chibivanguard1
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+#% sou sou_cgvanguardactivate
+sou sou_cgvanguardactivate
+#% dcg spr_cg_chibivanguard2
+dcg spr_cg_chibivanguard2
+# nar ...
+nar ...
+#% mus stop
+mus stop
+#% dcg hide
+dcg hide
+#% dbg spr_bg_bathhouse
+dbg spr_bg_bathhouse
+#% mus mus_myhometown
+mus mus_myhometown
+# mar Yahoo!
+mar Yahoo!
+#% sou sou_cannonmiss4
+sou sou_cannonmiss4
+#% dcg spr_cg_marayonsen
+dcg spr_cg_marayonsen
+# kay Whew...
+kay Whew...
+# mar Hey Kayto...
+mar Hey Kayto...
+# kay Yeah?
+kay Yeah?
+# mar Why is it that Avvy doesn't bathe with us any more? We used to all the time...
+mar Why is it that Avvy doesn't bathe with us any more? We used to all the time...
+# kay I dunno... She read in a book she got from a Maan trader that in Asahi, it's considered shameful for a man and a woman to bathe together...
+kay I dunno... She read in a book she got from a Maan trader that in Asahi, it's considered shameful for a man and a woman to bathe together...
+# mar But we're not man or woman! We're Elves!
+mar But we're not man or woman! We're Elves!
+# kay Lately, she's been really into reading books written by Maan. They're filled with knowledge. Maan can't use magic, but instead, they have the power of science. I heard that the Veniczar wants to create a world where the Monolithic Truth doesn't matter and instead, those who accomplish great deeds rule instead.
+kay Lately, she's been really into reading books written by Maan. They're filled with knowledge. Maan can't use magic, but instead, they have the power of science. I heard that the Veniczar wants to create a world where the Monolithic Truth doesn't matter and instead, those who accomplish great deeds rule instead.
+# mar Eehh... But the Elder's always going on about how it's "unholy to question" wisdom of the High Elves. The Elves of the Song Alliance can live to be thousands of years old, right? So it's only natural that we have to listen to them - I bet they must know practically everything after having lived that long!
+mar Eehh... But the Elder's always going on about how it's "unholy to question" wisdom of the High Elves. The Elves of the Song Alliance can live to be thousands of years old, right? So it's only natural that we have to listen to them - I bet they must know practically everything after having lived that long!
+# kay I guess since Maan live for a few decades at most, they've got to make their lives matter. Who knows. Pretty soon, we might become more like Maan than Elf...
+kay I guess since Maan live for a few decades at most, they've got to make their lives matter. Who knows. Pretty soon, we might become more like Maan than Elf...
+# mar You think so? But that'd be sad...
+mar You think so? But that'd be sad...
+# kay Sad? Why?
+kay Sad? Why?
+# mar Because then I won't be able to bathe with big brother any more!
+mar Because then I won't be able to bathe with big brother any more!
+# kay That's your reason?
+kay That's your reason?
+# mar Boo! Down with the Veniczar and his split bathing ways!
+mar Boo! Down with the Veniczar and his split bathing ways!
+# kay Maray...
+kay Maray...
+# mar ... ... ...
+mar ... ... ...
+# mar Hey, big bro. I've got a request.
+mar Hey, big bro. I've got a request.
+# kay Yeah?
+kay Yeah?
+# mar Next time, take me on your voyage. I wanna be a sailor, just like you and Avvy.
+mar Next time, take me on your voyage. I wanna be a sailor, just like you and Avvy.
+# mar And don't say it's too dangerous. 'Cause I'm not a little girl any more. I think I'm old enough to follow you out into the big wide world, don't you think?
+mar And don't say it's too dangerous. 'Cause I'm not a little girl any more. I think I'm old enough to follow you out into the big wide world, don't you think?
+# kay I suppose so...
+kay I suppose so...
+# kay All right. It's a promise. Next time I head out, I'll take you along.
+kay All right. It's a promise. Next time I head out, I'll take you along.
+# mar All right!
+mar All right!
+# mar Whew... Now, I think I'll head out of here...
+mar Whew... Now, I think I'll head out of here...
+# kay Had enough?
+kay Had enough?
+# mar A hothead like big bro might be able to handle the hot springs forever, but a lady like me needs her beauty sleep.
+mar A hothead like big bro might be able to handle the hot springs forever, but a lady like me needs her beauty sleep.
+# kay All right. I'll join you in a bit.
+kay All right. I'll join you in a bit.
+# mar Good night...
+mar Good night...
+#% dcg hide
+dcg hide
+# kay (Heh... Despite what she says, Maray will always be the little sister...)
+kay (Heh... Despite what she says, Maray will always be the little sister...)
+# kay (Now then, I'll just warm up in here for a bit longer...)
+kay (Now then, I'll just warm up in here for a bit longer...)
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+# nar ... ...
+nar ... ...
+# nar ... ... ...
+nar ... ... ...
+#% ccc kay_nude
+ccc kay_nude
+#% sou sou_smallsplash
+sou sou_smallsplash
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Eh? Someone there?
+kay Eh? Someone there?
+#% mus mus_hinokageri
+mus mus_hinokageri
+#% dcg spr_cg_avaonsen
+dcg spr_cg_avaonsen
+# ava Oh sweet mother of god!
+ava Oh sweet mother of god!
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay A-Ava?!
+kay A-Ava?!
+# ava Ugh, Kayto! Shit, I didn't see you there in the mist. You know, I can do this later. S-See you later-
+ava Ugh, Kayto! Shit, I didn't see you there in the mist. You know, I can do this later. S-See you later-
+#% cha kay_neu_sad_closed_talk
+cha kay_neu_sad_closed_talk
+# kay Wait. Wait. Come on, don't be like that, Ava.
+kay Wait. Wait. Come on, don't be like that, Ava.
+# kay Look, I'll turn around, okay? Absolutely no peeking. I promise.
+kay Look, I'll turn around, okay? Absolutely no peeking. I promise.
+# ava All right, all right. Ugh, you know what? Don't worry about it. It's nothing you haven't seen before...
+ava All right, all right. Ugh, you know what? Don't worry about it. It's nothing you haven't seen before...
+#% cha kay_neu_sad_thinking_smallopen
+cha kay_neu_sad_thinking_smallopen
+# kay W-Well, uhh... If you say so.
+kay W-Well, uhh... If you say so.
+# ava Siigggh.....
+ava Siigggh.....
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay Judging from that sigh, I'm guessing you had a disagreement with your father?
+kay Judging from that sigh, I'm guessing you had a disagreement with your father?
+# ava "It is unholy to question." Ugh, Kayto, I can't believe that he's still clinging on to his Elvish traditions...
+ava "It is unholy to question." Ugh, Kayto, I can't believe that he's still clinging on to his Elvish traditions...
+# ava Us becoming mortal after living alongside Maan for so long... It's not so terrible, is it? What's the point of living for thousands of years if all we're doing is writing self-serving poetry among the trees?
+ava Us becoming mortal after living alongside Maan for so long... It's not so terrible, is it? What's the point of living for thousands of years if all we're doing is writing self-serving poetry among the trees?
+# ava Don't you think that we're supposed to accomplish more than that?
+ava Don't you think that we're supposed to accomplish more than that?
+#% cha kay_neu_confuse_thinking_smile
+cha kay_neu_confuse_thinking_smile
+# kay Very well, my Veniczar Arcadius.
+kay Very well, my Veniczar Arcadius.
+# ava Ugh, stop it. I'm not saying Arcadius is right. The Maan of the Asahi isle were at war with the New Empire for nearly two hundred years. They know nothing but violence and war.
+ava Ugh, stop it. I'm not saying Arcadius is right. The Maan of the Asahi isle were at war with the New Empire for nearly two hundred years. They know nothing but violence and war.
+# ava But there are Maan right here in Halla, who have co-existed with Elves ever since the collapse of the Ryuvian Empire. We're not Lessor just because we've learned to live alongside them. But father, he's so stuck in his old ways he can't see...
+ava But there are Maan right here in Halla, who have co-existed with Elves ever since the collapse of the Ryuvian Empire. We're not Lessor just because we've learned to live alongside them. But father, he's so stuck in his old ways he can't see...
+# ava Ah, whatever. We should embark on another voyage, before my father brings out the ancient texts and pontificates 'till my poor ears get any shorter. So, when are we headed out of here, captain?
+ava Ah, whatever. We should embark on another voyage, before my father brings out the ancient texts and pontificates 'till my poor ears get any shorter. So, when are we headed out of here, captain?
+#% cha kay_neu_neutral_closed_smallsmil
+cha kay_neu_neutral_closed_smallsmil
+# kay I dunno...
+kay I dunno...
+# kay I want to keep the Sunrider docked here until this trouble with Pact blows over.
+kay I want to keep the Sunrider docked here until this trouble with Pact blows over.
+#% cha kay_neu_confuse_thinking_smalltalk
+cha kay_neu_confuse_thinking_smalltalk
+# kay Most likely, the Veniczar will realize that crossing the Narrow Sea isn't worth whatever designs he has for the future. It'd be great if Pact could keep bringing glory to Maan... on the Asahi isle, far away from us.
+kay Most likely, the Veniczar will realize that crossing the Narrow Sea isn't worth whatever designs he has for the future. It'd be great if Pact could keep bringing glory to Maan... on the Asahi isle, far away from us.
+# ava Is that so?
+ava Is that so?
+# ava Wouldn't it be safer to bring Maray and the townsfolk onto the ship and journey back to the Song Alliance?
+ava Wouldn't it be safer to bring Maray and the townsfolk onto the ship and journey back to the Song Alliance?
+#% cha kay_neu_neutral_neutral_smalltalk
+cha kay_neu_neutral_neutral_smalltalk
+# kay You were complaining about Elvish traditions a moment ago. A moot point anyways, since there's no way we could fit everyone on board the ship.
+kay You were complaining about Elvish traditions a moment ago. A moot point anyways, since there's no way we could fit everyone on board the ship.
+# ava Oh, I'm sure half the stubborn old folks would refuse to leave outright. Including my father.
+ava Oh, I'm sure half the stubborn old folks would refuse to leave outright. Including my father.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay Well, I'm with the old folks. Cera's our home. I have no desire to abandon it.
+kay Well, I'm with the old folks. Cera's our home. I have no desire to abandon it.
+# ava I figured... It appears my designs of leaving this place are thwarted once more.
+ava I figured... It appears my designs of leaving this place are thwarted once more.
+#% cha kay_neu_confuse_thinking_talk
+cha kay_neu_confuse_thinking_talk
+# kay Besides, it's not Cera you want to leave behind. It's your father, isn't it?
+kay Besides, it's not Cera you want to leave behind. It's your father, isn't it?
+# ava ... ... ...
+ava ... ... ...
+# ava I'm afraid.
+ava I'm afraid.
+#% cha kay_neu_confuse_neutral_slight
+cha kay_neu_confuse_neutral_slight
+# kay Ava? Afraid of what?
+kay Ava? Afraid of what?
+# ava I don't want to be him. But when I look at my own reflection in these waters, all I see is...
+ava I don't want to be him. But when I look at my own reflection in these waters, all I see is...
+# ava ...Ahem. You know, I think I've had enough. I best leave before I get light headed.
+ava ...Ahem. You know, I think I've had enough. I best leave before I get light headed.
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay All right. I think I'm done too.
+kay All right. I think I'm done too.
+#% dbg hide
+dbg hide
+#% dcg hide
+dcg hide
+#% mus stop
+mus stop
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% sou mus_innsleep
+sou mus_innsleep
+# nar (The next day...)
+nar (The next day...)
+# nar ... ...
+nar ... ...
+# nar ... ... ...
+nar ... ... ...
+#% flag
+flag
+#% ccc kay_uni
+ccc kay_uni
+#% sou sou_warningbells
+sou sou_warningbells
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Wha-
+kay Wha-
+#% mus mus_battleagainsttime
+mus mus_battleagainsttime
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Shit. Maray?!
+kay Shit. Maray?!
+# kay Maray! Where are you?!
+kay Maray! Where are you?!
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Maraayy!!!!
+kay Maraayy!!!!
+# kay (What's happening? I have to get outside!)
+kay (What's happening? I have to get outside!)
+#% roo roo_chap1_rpgbattle1
+roo roo_chap1_rpgbattle1
+#% 
+
+#% tag chap1_rpgtutorial_pc
+tag chap1_rpgtutorial_pc
+#% cha ava_armup_focus_surprise_bigtalk
+cha ava_armup_focus_surprise_bigtalk
+#% voi ava_vns_ang_05
+voi ava_vns_ang_05
+# ava Kayto!
+ava Kayto!
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Ava! Have you seen Maray?
+kay Ava! Have you seen Maray?
+#% cha ava_facepalm_angry_narrowloo_yell
+cha ava_facepalm_angry_narrowloo_yell
+#% voi ava_vns_ang_06
+voi ava_vns_ang_06
+# ava It's Pact! They're here!
+ava It's Pact! They're here!
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay Pact...? No...
+kay Pact...? No...
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay I've got to find my sister first!
+kay I've got to find my sister first!
+#% cha ava_armup_focus_surprise_bigtalk
+cha ava_armup_focus_surprise_bigtalk
+# ava Watch out! Soldiers! They're here!
+ava Watch out! Soldiers! They're here!
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+# ava Battle is upon us! To arms!
+ava Battle is upon us! To arms!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Shit... To arms!
+kay Shit... To arms!
+# ava We must dispatch them before they lead the bulk of the invasion force here!
+ava We must dispatch them before they lead the bulk of the invasion force here!
+#% hid ava
+hid ava
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (You can use the mouse or keyboard to issue commands. When using the keyboard, it's best to move the mouse out of the way so it doesn't interfere.)
+kay (You can use the mouse or keyboard to issue commands. When using the keyboard, it's best to move the mouse out of the way so it doesn't interfere.)
+# kay (On the keyboard, the Z key is mapped to the select button and the X key is mapped to the cancel button. The arrow keys scroll between characters and actions.)
+kay (On the keyboard, the Z key is mapped to the select button and the X key is mapped to the cancel button. The arrow keys scroll between characters and actions.)
+# kay (All player characters can use ATTACKS to damage the enemy.)
+kay (All player characters can use ATTACKS to damage the enemy.)
+# kay (However, when a unit attacks enemies positioned behind other enemies, every enemy she runs past will perform a back stab against her.)
+kay (However, when a unit attacks enemies positioned behind other enemies, every enemy she runs past will perform a back stab against her.)
+# kay (Hitting an enemy with a basic attack increases the EN of the current unit.)
+kay (Hitting an enemy with a basic attack increases the EN of the current unit.)
+# kay (Spellcasters like Ava and Chigara begin with 100 EN but lose EN if they are hit.)
+kay (Spellcasters like Ava and Chigara begin with 100 EN but lose EN if they are hit.)
+# kay (When a character's EN gauge is full, further EN gains are sent to the communal EN pool. Communal EN may be tapped by any party member.)
+kay (When a character's EN gauge is full, further EN gains are sent to the communal EN pool. Communal EN may be tapped by any party member.)
+# kay (Special attacks are more powerful than basic attacks and can deal a variety of different effects.)
+kay (Special attacks are more powerful than basic attacks and can deal a variety of different effects.)
+# kay (You need 100 EN to perform a special attack. If a unit does not have a full EN gauge, she can still draw upon the EN in the communal pool.)
+kay (You need 100 EN to perform a special attack. If a unit does not have a full EN gauge, she can still draw upon the EN in the communal pool.)
+# kay (Each time a character performs a special attack, the party gains a SP Combo, indicated by a triangle on top of the communal EN bar. As you gain more SP Combos, characters use more powerful special attacks.)
+kay (Each time a character performs a special attack, the party gains a SP Combo, indicated by a triangle on top of the communal EN bar. As you gain more SP Combos, characters use more powerful special attacks.)
+# kay (The number of SP Combos is reset back to zero at the end of each turn, so you must chain special attacks together in the same turn to build up the strength of each successive special.)
+kay (The number of SP Combos is reset back to zero at the end of each turn, so you must chain special attacks together in the same turn to build up the strength of each successive special.)
+# kay (That covers the basics. Let's use those tactics to defeat the Pact soldiers!)
+kay (That covers the basics. Let's use those tactics to defeat the Pact soldiers!)
+#% stop
+stop
+#% 
+
+#% tag chap1_rpgtutorial_console
+tag chap1_rpgtutorial_console
+#% cha ava_armup_focus_surprise_bigtalk
+cha ava_armup_focus_surprise_bigtalk
+#% voi ava_vns_ang_05
+voi ava_vns_ang_05
+# ava Kayto!
+ava Kayto!
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Ava! Have you seen Maray?
+kay Ava! Have you seen Maray?
+#% cha ava_facepalm_angry_narrowloo_yell
+cha ava_facepalm_angry_narrowloo_yell
+#% voi ava_vns_ang_06
+voi ava_vns_ang_06
+# ava It's Pact! They're here!
+ava It's Pact! They're here!
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay Pact...? No...
+kay Pact...? No...
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay I've got to find my sister first!
+kay I've got to find my sister first!
+#% cha ava_armup_focus_surprise_bigtalk
+cha ava_armup_focus_surprise_bigtalk
+# ava Watch out! Soldiers! They're here!
+ava Watch out! Soldiers! They're here!
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+# ava Battle is upon us! To arms!
+ava Battle is upon us! To arms!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Shit... To arms!
+kay Shit... To arms!
+# ava We must dispatch them before they lead the bulk of the invasion force here!
+ava We must dispatch them before they lead the bulk of the invasion force here!
+#% hid ava
+hid ava
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (I can use the Dpad to swap between characters and actions.)
+kay (I can use the Dpad to swap between characters and actions.)
+# kay (The face1 button selects the current action while face2 cancels the current action.)
+kay (The face1 button selects the current action while face2 cancels the current action.)
+# kay (All player characters can use ATTACKS to damage the enemy.)
+kay (All player characters can use ATTACKS to damage the enemy.)
+# kay (However, when a unit attacks enemies positioned behind other enemies, every enemy she runs past will perform a back stab against her.)
+kay (However, when a unit attacks enemies positioned behind other enemies, every enemy she runs past will perform a back stab against her.)
+# kay (Hitting an enemy with a basic attack increases the EN of the current unit.)
+kay (Hitting an enemy with a basic attack increases the EN of the current unit.)
+# kay (Spellcasters like Ava and Chigara begin with 100 EN but lose EN if they are hit.)
+kay (Spellcasters like Ava and Chigara begin with 100 EN but lose EN if they are hit.)
+# kay (When a character's EN gauge is full, further EN gains are sent to the communal EN pool. Communal EN may be tapped by any party member.)
+kay (When a character's EN gauge is full, further EN gains are sent to the communal EN pool. Communal EN may be tapped by any party member.)
+# kay (Special attacks are more powerful than basic attacks and can deal a variety of different effects.)
+kay (Special attacks are more powerful than basic attacks and can deal a variety of different effects.)
+# kay (You need 100 EN to perform a special attack. If a unit does not have a full EN gauge, she can still draw upon the EN in the communal pool.)
+kay (You need 100 EN to perform a special attack. If a unit does not have a full EN gauge, she can still draw upon the EN in the communal pool.)
+# kay (Each time a character performs a special attack, the party gains a SP Combo, indicated by a triangle on top of the communal EN bar. As you gain more SP Combos, characters use more powerful special attacks.)
+kay (Each time a character performs a special attack, the party gains a SP Combo, indicated by a triangle on top of the communal EN bar. As you gain more SP Combos, characters use more powerful special attacks.)
+# kay (The number of SP Combos is reset back to zero at the end of each turn, so you must chain special attacks together in the same turn to build up the strength of each successive special.)
+kay (The number of SP Combos is reset back to zero at the end of each turn, so you must chain special attacks together in the same turn to build up the strength of each successive special.)
+# kay (That covers the basics. Let's use those tactics to defeat the Pact soldiers!)
+kay (That covers the basics. Let's use those tactics to defeat the Pact soldiers!)
+#% stop
+stop
+#% 
+
+#% //After battle
+//After battle
+#% tag chap1_afterrpgbattle
+tag chap1_afterrpgbattle
+#% mus stop
+mus stop
+#% cha asa_excited_angry_wide_bigtalk
+cha asa_excited_angry_wide_bigtalk
+#% voi asa_vns_hap_01
+voi asa_vns_hap_01
+# asa Toyaah!! That's the last of 'em!
+asa Toyaah!! That's the last of 'em!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay My sister! I don't know she is!
+kay My sister! I don't know she is!
+#% voi ava_vns_ang_07
+voi ava_vns_ang_07
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+# ava I saw her heading towards the docks with the others. That's where we must go!
+ava I saw her heading towards the docks with the others. That's where we must go!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay And the Elder?
+kay And the Elder?
+#% voi ava_vns_ang_05
+voi ava_vns_ang_05
+#% cha ava_facepalm_focus_narrow_smalltalk
+cha ava_facepalm_focus_narrow_smalltalk
+# ava No good. The stubborn fool won't leave.
+ava No good. The stubborn fool won't leave.
+#% flag
+flag
+#% stop
+stop
+#% tag chap1_afterrpgbattle2
+tag chap1_afterrpgbattle2
+#% cha asa_fist_raised_wide2_yell
+cha asa_fist_raised_wide2_yell
+#% voi asa_vns_ang_02
+voi asa_vns_ang_02
+# asa Uh oh, more enemies! And there's a whole lot more of 'em this time!
+asa Uh oh, more enemies! And there's a whole lot more of 'em this time!
+#% cha ava_facepalm_angry_narrowloo_yell
+cha ava_facepalm_angry_narrowloo_yell
+#% voi ava_vns_ang_06
+voi ava_vns_ang_06
+# ava Go! Run! Find Maray! Leave the Elder to me!
+ava Go! Run! Find Maray! Leave the Elder to me!
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay All right...
+kay All right...
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay We make for the Sunrider! As soon as we've gathered everyone, we're getting out of here!
+kay We make for the Sunrider! As soon as we've gathered everyone, we're getting out of here!
+#% cha asa_fist_focus_neutral_yell
+cha asa_fist_focus_neutral_yell
+#% voi asa_vns_hap_03
+voi asa_vns_hap_03
+# asa Understood!
+asa Understood!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap1_elderhouse2
+tag chap1_elderhouse2
+#% mus mus_battleagainsttime
+mus mus_battleagainsttime
+#% dbg spr_bg_elderhouse
+dbg spr_bg_elderhouse
+#% cha ava_armup_focus_widesmall_yell
+cha ava_armup_focus_widesmall_yell
+#% voi ava_vns_ang_05
+voi ava_vns_ang_05
+# ava Father!
+ava Father!
+#% cha eld_sho
+cha eld_sho
+# eld What are you doing here? I told you to leave!
+eld What are you doing here? I told you to leave!
+# ava I could ask you the same. Come on, we're getting out of here!
+ava I could ask you the same. Come on, we're getting out of here!
+#% cha eld_neu
+cha eld_neu
+# eld No child.
+eld No child.
+# eld I am the Elder. I cannot leave this place.
+eld I am the Elder. I cannot leave this place.
+#% cha ava_armscrossed_angry_surprise_yell
+cha ava_armscrossed_angry_surprise_yell
+# ava They'll kill you if you stay!
+ava They'll kill you if you stay!
+#% cha eld_neu
+cha eld_neu
+# eld It is unholy to question. My fate lies here.
+eld It is unholy to question. My fate lies here.
+# ava Enough of your Elvish non-sense! I'm not letting you-
+ava Enough of your Elvish non-sense! I'm not letting you-
+#% cha eld_sho
+cha eld_sho
+# eld Listen to me child.
+eld Listen to me child.
+# eld I will hold them here. Go! Flee!! Flee!!
+eld I will hold them here. Go! Flee!! Flee!!
+# eld My path ends here but yours still goes on. I see it so clearly now. Flee! Flee!
+eld My path ends here but yours still goes on. I see it so clearly now. Flee! Flee!
+# eld Flee!!
+eld Flee!!
+#% cha ava_armscrossed_sad_widesmall_yell_tear
+cha ava_armscrossed_sad_widesmall_yell_tear
+# ava No...!
+ava No...!
+#% hid ava
+hid ava
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Let's go everyone! Raise the anchor and cut the ropes! We're getting out of here!!
+kay Let's go everyone! Raise the anchor and cut the ropes! We're getting out of here!!
+#% voi asa_vns_neu_15
+voi asa_vns_neu_15
+#% cha asa_bendover_angry_neutral_smile
+cha asa_bendover_angry_neutral_smile
+# asa Aye aye, capt'n!
+asa Aye aye, capt'n!
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay (Time's running out... But where could Ava and Maray be?)
+kay (Time's running out... But where could Ava and Maray be?)
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+#% voi ava_vns_neu_08
+voi ava_vns_neu_08
+# ava Captain!
+ava Captain!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Ava! The Elder?
+kay Ava! The Elder?
+#% cha ava_facepalm_angry_closedeye_frown
+cha ava_facepalm_angry_closedeye_frown
+#% voi ava_vns_ang_05
+voi ava_vns_ang_05
+# ava ...tch.
+ava ...tch.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay All right. At least we have you. What about Maray?
+kay All right. At least we have you. What about Maray?
+#% voi ava_vns_ang_07
+voi ava_vns_ang_07
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+# ava The rest of the villagers are making their escape on fishing boats. We must launch now if we are to cover their escape!
+ava The rest of the villagers are making their escape on fishing boats. We must launch now if we are to cover their escape!
+# ava If Maray made it out, then she will be among them!
+ava If Maray made it out, then she will be among them!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Then we have no other choice. All hands: Prepare for battle!
+kay Then we have no other choice. All hands: Prepare for battle!
+# kay Our mission is to protect the villagers while they make their escape!
+kay Our mission is to protect the villagers while they make their escape!
+#% bat roo_chap1_battle2
+bat roo_chap1_battle2
+#% 
+
+#% tag chap1_battle2_start
+tag chap1_battle2_start
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay Oh no...
+kay Oh no...
+#% cha ava_armscrossed_focus_wide_clench
+cha ava_armscrossed_focus_wide_clench
+# ava This is only the advance force. I see... thousands of more sails on the horizon. It's the Crimson Fleet!
+ava This is only the advance force. I see... thousands of more sails on the horizon. It's the Crimson Fleet!
+# ava War has come to Halla!
+ava War has come to Halla!
+#% flag
+flag
+#% hid ava
+hid ava
+# por mar_excited_angry_wide2_yell
+por mar_excited_angry_wide2_yell
+# mar ...Oooyy!!! Kayto!!!!
+mar ...Oooyy!!! Kayto!!!!
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Maray?!
+kay Maray?!
+#% cha mar_excited_angry_wide2_yell
+cha mar_excited_angry_wide2_yell
+# mar I'm right here, Kayto! Don't worry about me - just focus on kicking Pact's butt!
+mar I'm right here, Kayto! Don't worry about me - just focus on kicking Pact's butt!
+#% cha kay_neu_neutral_wide_bigopensm
+cha kay_neu_neutral_wide_bigopensm
+# kay You've got it. Don't worry - leave this to big brother!
+kay You've got it. Don't worry - leave this to big brother!
+#% hid mar
+hid mar
+#% flag
+flag
+#% cha ava_armscrossed_focus_closedeye_bigtalk
+cha ava_armscrossed_focus_closedeye_bigtalk
+# ava We are heavily outnumbered. Any ideas how we're going to get ourselves out of this mess?
+ava We are heavily outnumbered. Any ideas how we're going to get ourselves out of this mess?
+#% cha kay_neu_focus_neutral_talk
+cha kay_neu_focus_neutral_talk
+# kay Then we will even our odds. The Sunrider managed to sneak up behind that Pact brig - we'll close in and take it in hand-to-hand combat.
+kay Then we will even our odds. The Sunrider managed to sneak up behind that Pact brig - we'll close in and take it in hand-to-hand combat.
+# kay We will add it to our ranks and use Pact's own ship against them.
+kay We will add it to our ranks and use Pact's own ship against them.
+#% hid ava
+hid ava
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (BOARDING actions are essential to naval combat.)
+kay (BOARDING actions are essential to naval combat.)
+# kay (When two ships are within boarding range of each other, I can initiate hand-to-hand combat by selecting the BOARD action.)
+kay (When two ships are within boarding range of each other, I can initiate hand-to-hand combat by selecting the BOARD action.)
+# kay (If I am victorious in the boarding action, then I gain control of the enemy ship. That ship is permanently added to my fleet and can be used in all future battles.)
+kay (If I am victorious in the boarding action, then I gain control of the enemy ship. That ship is permanently added to my fleet and can be used in all future battles.)
+# kay (Ship MORALE is pivotal to boarding actions. It is indicated next to the crossed swords icon to the top right side of all ships.)
+kay (Ship MORALE is pivotal to boarding actions. It is indicated next to the crossed swords icon to the top right side of all ships.)
+# kay (Ships gain and lose morale based on their actions during naval combat.)
+kay (Ships gain and lose morale based on their actions during naval combat.)
+# kay (The higher the ship's morale, the longer its crew will hold out during boarding actions.)
+kay (The higher the ship's morale, the longer its crew will hold out during boarding actions.)
+# kay (Morale decreases as the boarding action continues. When it goes below 0, the attacking crew will be forced to give up and retreat.)
+kay (Morale decreases as the boarding action continues. When it goes below 0, the attacking crew will be forced to give up and retreat.)
+# kay (Only attacking ships are impacted by morale. When defending against a boarding attack, the crew will fight until total defeat, or until the attackers run out of morale and retreats.)
+kay (Only attacking ships are impacted by morale. When defending against a boarding attack, the crew will fight until total defeat, or until the attackers run out of morale and retreats.)
+# kay (If a boarding action is not going our way, it is better to retreat early rather than pointlessly harm the crew.)
+kay (If a boarding action is not going our way, it is better to retreat early rather than pointlessly harm the crew.)
+# kay (However, retreat is NOT an option when we are being boarded by the enemy.)
+kay (However, retreat is NOT an option when we are being boarded by the enemy.)
+# kay (We are heavily outnumbered in this battle. Luckily, we're in prime position to capture the nearby Pact brig and add it to our fleet!)
+kay (We are heavily outnumbered in this battle. Luckily, we're in prime position to capture the nearby Pact brig and add it to our fleet!)
+#% obj MAIN: Invasion!
+obj MAIN: Invasion!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap1_battle2_capturenag
+tag chap1_battle2_capturenag
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (We're heavily outnumbered in this battle. I need to capture a Pact brig if we're going to get Maray and the villagers out of here.)
+kay (We're heavily outnumbered in this battle. I need to capture a Pact brig if we're going to get Maray and the villagers out of here.)
+# kay (To start a boarding action, move the Sunrider near an enemy ship and select BOARD. Then select the nearby Pact brig.)
+kay (To start a boarding action, move the Sunrider near an enemy ship and select BOARD. Then select the nearby Pact brig.)
+#% var capturenag
+var capturenag
+#% stop
+stop
+#% 
+
+#% tag chap1_battle2_destroybrig
+tag chap1_battle2_destroybrig
+#% voi ava_vns_ang_02
+voi ava_vns_ang_02
+#% cha ava_facepalm_focus_closedeye_sigh
+cha ava_facepalm_focus_closedeye_sigh
+# ava Captain, I believe your orders were to capture the brig, not sink it to the bottom of the sea!
+ava Captain, I believe your orders were to capture the brig, not sink it to the bottom of the sea!
+#% cha kay_neu_confuse_thinking_talk
+cha kay_neu_confuse_thinking_talk
+# kay Oh... Well, with it gone, the odds are looking in our favor all the same.
+kay Oh... Well, with it gone, the odds are looking in our favor all the same.
+#% cha kay_neu_focus_neutral_talk
+cha kay_neu_focus_neutral_talk
+# kay Let's escort Maray and the villagers to safety out of the harbor!
+kay Let's escort Maray and the villagers to safety out of the harbor!
+#% flag
+flag
+#% xob MAIN: Invasion!
+xob MAIN: Invasion!
+#% obj MAIN: Invasion! Escape
+obj MAIN: Invasion! Escape
+#% stop
+stop
+#% 
+
+#% tag chap1_battle2_capturetutorial_pc
+tag chap1_battle2_capturetutorial_pc
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (Now that we've successfully captured the enemy ship, I must transfer crew from the Sunrider to operate the new ship. All ships are required to have one or more crew member.)
+kay (Now that we've successfully captured the enemy ship, I must transfer crew from the Sunrider to operate the new ship. All ships are required to have one or more crew member.)
+# kay (Ships must be crewed by at least TWO crew members in order to be able to perform boarding actions. I should be careful not to spread the crew too thin.)
+kay (Ships must be crewed by at least TWO crew members in order to be able to perform boarding actions. I should be careful not to spread the crew too thin.)
+# kay (To swap crew members between ships, click on the girl you want to send to the other ship.)
+kay (To swap crew members between ships, click on the girl you want to send to the other ship.)
+# kay (Note: The girl at the head of the crew lineup will act as that ship's foreperson and will voice that unit.)
+kay (Note: The girl at the head of the crew lineup will act as that ship's foreperson and will voice that unit.)
+# kay (If I'm running low on crew, I can instead choose to scuttle the captured enemy ship by pressing and holding the SCUTTLE button. My crew will strip the captured vessel of all usable loot and equipment before setting it ablaze.)
+kay (If I'm running low on crew, I can instead choose to scuttle the captured enemy ship by pressing and holding the SCUTTLE button. My crew will strip the captured vessel of all usable loot and equipment before setting it ablaze.)
+# kay (For now, let's transfer someone to the new ship and add it to our fleet.)
+kay (For now, let's transfer someone to the new ship and add it to our fleet.)
+# kay (Once I'm done, I can press and hold the done button to return to the naval battle.)
+kay (Once I'm done, I can press and hold the done button to return to the naval battle.)
+#% var transfertut
+var transfertut
+#% stop
+stop
+#% 
+
+#% tag chap1_battle2_capturetutorial_console
+tag chap1_battle2_capturetutorial_console
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (Now that we've successfully captured the enemy ship, I must transfer crew from the Sunrider to operate the new ship. All ships are required to have one or more crew member.)
+kay (Now that we've successfully captured the enemy ship, I must transfer crew from the Sunrider to operate the new ship. All ships are required to have one or more crew member.)
+# kay (Ships must be crewed by at least TWO crew members in order to be able to perform boarding actions. I should be careful not to spread the crew too thin.)
+kay (Ships must be crewed by at least TWO crew members in order to be able to perform boarding actions. I should be careful not to spread the crew too thin.)
+# kay (To swap crew members between ships, use the Dpad to select a girl then press the face1 button to send her to the other ship.)
+kay (To swap crew members between ships, use the Dpad to select a girl then press the face1 button to send her to the other ship.)
+# kay (Note: The girl at the head of the crew lineup will act as that ship's foreperson and will voice that unit.)
+kay (Note: The girl at the head of the crew lineup will act as that ship's foreperson and will voice that unit.)
+# kay (If I'm running low on crew, I can instead choose to scuttle the captured enemy ship by pressing and holding the face2 button. My crew will strip the captured vessel of all usable loot and equipment before setting it ablaze.)
+kay (If I'm running low on crew, I can instead choose to scuttle the captured enemy ship by pressing and holding the face2 button. My crew will strip the captured vessel of all usable loot and equipment before setting it ablaze.)
+# kay (For now, let's transfer someone to the new ship and add it to our fleet.)
+kay (For now, let's transfer someone to the new ship and add it to our fleet.)
+# kay (Once I'm done, I can press and hold the face1 button to return to the naval battle.)
+kay (Once I'm done, I can press and hold the face1 button to return to the naval battle.)
+#% var transfertut
+var transfertut
+#% stop
+stop
+#% 
+
+#% tag chap1_battle2_aftercapture
+tag chap1_battle2_aftercapture
+#% cha kay_neu_focus_neutral_talk
+cha kay_neu_focus_neutral_talk
+# kay All right, we managed to take that Pact brig... Now we'll be able to use it against enemies in all future battles.
+kay All right, we managed to take that Pact brig... Now we'll be able to use it against enemies in all future battles.
+# kay Now, the odds are looking more favorable - let's escort Maray and the villagers to safety out of the harbor!
+kay Now, the odds are looking more favorable - let's escort Maray and the villagers to safety out of the harbor!
+#% flag
+flag
+#% xob MAIN: Invasion!
+xob MAIN: Invasion!
+#% obj MAIN: Invasion! Escape
+obj MAIN: Invasion! Escape
+#% stop
+stop
+#% 
+
+#% tag chap1_battle2_legion
+tag chap1_battle2_legion
+#% mus mus_posthumusregnum
+mus mus_posthumusregnum
+#% cha kay_neu_angry_wide_yell
+cha kay_neu_angry_wide_yell
+# kay Wait- is that...?
+kay Wait- is that...?
+#% cha ava_armup_focus_surprise_bigtalk
+cha ava_armup_focus_surprise_bigtalk
+# ava No! It's a ship of the line, cutting off our escape!!
+ava No! It's a ship of the line, cutting off our escape!!
+# ava The Legion... I'm counting... 100 guns! And a massive frontal weapon unlike anything I've seen before!
+ava The Legion... I'm counting... 100 guns! And a massive frontal weapon unlike anything I've seen before!
+# ava We are overwhelmingly outgunned! We have to get out of here, NOW!
+ava We are overwhelmingly outgunned! We have to get out of here, NOW!
+#% cha kay_neu_sad_wide_clench
+cha kay_neu_sad_wide_clench
+# kay No... the villagers...! Maray...!
+kay No... the villagers...! Maray...!
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+# ava We must escape using the secondary route! Any attempt to engage the Legion will be suicidal!
+ava We must escape using the secondary route! Any attempt to engage the Legion will be suicidal!
+#% obj MAIN: Oh no!
+obj MAIN: Oh no!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap1_battle2_maraydie
+tag chap1_battle2_maraydie
+#% mus mus_epicbravery_sadcut_cut
+mus mus_epicbravery_sadcut_cut
+#% cha mar_excited_concern_wide_yell
+cha mar_excited_concern_wide_yell
+# mar Kayto...! Sorry-
+mar Kayto...! Sorry-
+# mar I just wanted... to come with you-
+mar I just wanted... to come with you-
+#% hid mar
+hid mar
+#% cha kay_neu_sad_wide_yell
+cha kay_neu_sad_wide_yell
+# kay MARAY!!!
+kay MARAY!!!
+#% cha ava_armup_sad_widesmall_bigtalk
+cha ava_armup_sad_widesmall_bigtalk
+# ava Kayto!
+ava Kayto!
+#% cha kay_neu_sad_wide_yell
+cha kay_neu_sad_wide_yell
+# kay Maray... She's... she's... I've got to save her...!
+kay Maray... She's... she's... I've got to save her...!
+#% cha ava_armup_focus_widesmall_yell
+cha ava_armup_focus_widesmall_yell
+# ava It's too late! She's already-
+ava It's too late! She's already-
+#% cha kay_neu_sad_wide_yell
+cha kay_neu_sad_wide_yell
+# kay No.....!!!! MARAAYYY!!!!!
+kay No.....!!!! MARAAYYY!!!!!
+#% cha ava_armup_focus_widesmall_yell
+cha ava_armup_focus_widesmall_yell
+# ava And we will be too, unless we get to the ship!
+ava And we will be too, unless we get to the ship!
+# ava CAPTAIN! We need you!
+ava CAPTAIN! We need you!
+#% cha kay_neu_sad_wide_clench
+cha kay_neu_sad_wide_clench
+# kay Ava? What's going on...
+kay Ava? What's going on...
+#% cha ava_armup_angry_surprise_yell
+cha ava_armup_angry_surprise_yell
+# ava Pact is here! You must save your ship!
+ava Pact is here! You must save your ship!
+#% cha kay_neu_confuse_wide_smalltalk
+cha kay_neu_confuse_wide_smalltalk
+# kay The ship...?
+kay The ship...?
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+# ava Our lives are in your hands! You cannot falter here... no matter what has happened.
+ava Our lives are in your hands! You cannot falter here... no matter what has happened.
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Yes... Yes... I see...
+kay Yes... Yes... I see...
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay The ship... The Sunrider cannot fall.
+kay The ship... The Sunrider cannot fall.
+#% cha ava_armscrossed_focus_wide_clench
+cha ava_armscrossed_focus_wide_clench
+# ava Come on... We must face the enemy. Together.
+ava Come on... We must face the enemy. Together.
+#% mus stop
+mus stop
+#% var maraydead
+var maraydead
+#% xob MAIN: Invasion! Escape
+xob MAIN: Invasion! Escape
+#% obj MAIN: Too late...
+obj MAIN: Too late...
+#% stop
+stop
+#% 
+
+#% tag chap1_battle2_secondline
+tag chap1_battle2_secondline
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+# ava Hold on - more enemies, dead ahead!
+ava Hold on - more enemies, dead ahead!
+#% cha ava_facepalm_angry_narrowloo_yell
+cha ava_facepalm_angry_narrowloo_yell
+# ava Tch... There's no end to them!
+ava Tch... There's no end to them!
+#% cha kay_neu_confuse_wide_smalltalk
+cha kay_neu_confuse_wide_smalltalk
+# kay Wait - is that...?
+kay Wait - is that...?
+#% mus mus_finalbattle1
+mus mus_finalbattle1
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay The Vanguard Cannon! It's come to life!
+kay The Vanguard Cannon! It's come to life!
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay So the Sharr still looks after us...
+kay So the Sharr still looks after us...
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Prepare to fire the Vanguard! It will be our only hope in getting us out of here alive!
+kay Prepare to fire the Vanguard! It will be our only hope in getting us out of here alive!
+#% cha ava_armup_raised_surprise_smalltalk
+cha ava_armup_raised_surprise_smalltalk
+# ava Captain, surely you cannot mean to entrust our fate to a untested Lost Treasure we got from a Demonfolk con-man?
+ava Captain, surely you cannot mean to entrust our fate to a untested Lost Treasure we got from a Demonfolk con-man?
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay I will accept that "con-man" as my patron saint if the cannon works as promised.
+kay I will accept that "con-man" as my patron saint if the cannon works as promised.
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (The Vanguard Cannon is now our only hope at turning this hopeless situation around.)
+kay (The Vanguard Cannon is now our only hope at turning this hopeless situation around.)
+# kay (Vanguard Charges are required to fire the Vanguard Cannon. By some miracle, I have acquired a Vanguard Charge for immediate use.)
+kay (Vanguard Charges are required to fire the Vanguard Cannon. By some miracle, I have acquired a Vanguard Charge for immediate use.)
+# kay (As I sink enemies, the command bar at the bottom right side of the screen will fill up. Once the bar is full, I can use issue the Charge Vanguard Order to gain a Vanguard Charge.)
+kay (As I sink enemies, the command bar at the bottom right side of the screen will fill up. Once the bar is full, I can use issue the Charge Vanguard Order to gain a Vanguard Charge.)
+# kay (The number of available Vanguard Charges is displayed below the command bar.)
+kay (The number of available Vanguard Charges is displayed below the command bar.)
+# kay (The command bar can also be used to issue other Orders which can drastically change the tide of battle.)
+kay (The command bar can also be used to issue other Orders which can drastically change the tide of battle.)
+# kay (All I have to do right now is select the Sunrider and pick the Vanguard action to unleash her ultimate weapon - a devastating attack which deals heavy damage to all enemy ships within the area of effect.)
+kay (All I have to do right now is select the Sunrider and pick the Vanguard action to unleash her ultimate weapon - a devastating attack which deals heavy damage to all enemy ships within the area of effect.)
+# kay (Do not get confused between the Charge Vanguard Order and the action to fire the Vanguard. The Charge Vanguard Order grants you a Vanguard Charge while you must select the Sunrider and pick the actual Vanguard attack to fire.)
+kay (Do not get confused between the Charge Vanguard Order and the action to fire the Vanguard. The Charge Vanguard Order grants you a Vanguard Charge while you must select the Sunrider and pick the actual Vanguard attack to fire.)
+# kay (The Vanguard Cannon has a very narrow attack radius, so I will have to turn the ship in the direction I want to fire.)
+kay (The Vanguard Cannon has a very narrow attack radius, so I will have to turn the ship in the direction I want to fire.)
+#% obj MAIN: The Vanguard Awakens
+obj MAIN: The Vanguard Awakens
+#% stop
+stop
+#% 
+
+#% tag chap1_maraydead
+tag chap1_maraydead
+#% mus mus_epicbravery_sadcut_cut
+mus mus_epicbravery_sadcut_cut
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+#% voi ava_vns_ang_07
+voi ava_vns_ang_07
+# ava Attack successful! The Vanguard Cannon has completely decimated the enemy!
+ava Attack successful! The Vanguard Cannon has completely decimated the enemy!
+# ava Our escape route is secure! The battle is won!
+ava Our escape route is secure! The battle is won!
+#% voi asa_vns_hap_02
+voi asa_vns_hap_02
+#% cha asa_excited_focus_wide_bigopensm
+cha asa_excited_focus_wide_bigopensm
+# asa All right!
+asa All right!
+#% hid asa
+hid asa
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay ... ... ...
+kay ... ... ...
+# kay No...
+kay No...
+# kay This is no victory...
+kay This is no victory...
+# kay The town...
+kay The town...
+# kay ... ... ...
+kay ... ... ...
+#% cha ava_armscrossed_worry_closedeye_smalltalk
+cha ava_armscrossed_worry_closedeye_smalltalk
+#% voi ava_vns_sad_03
+voi ava_vns_sad_03
+# ava We have survived to fight another day. That is enough.
+ava We have survived to fight another day. That is enough.
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay That ship...
+kay That ship...
+# kay I'm going to sink it...!
+kay I'm going to sink it...!
+# kay In my sister's name...! It will fall!
+kay In my sister's name...! It will fall!
+#% voi ava_vns_sad_02
+voi ava_vns_sad_02
+# ava ... ... ...
+ava ... ... ...
+#% cha ava_armscrossed_worry_closedeye_frown
+cha ava_armscrossed_worry_closedeye_frown
+# ava Yes... It shall.
+ava Yes... It shall.
+#% cha asa_armup_sad_closedeye_frown
+cha asa_armup_sad_closedeye_frown
+# asa ... ... ...
+asa ... ... ...
+#% voi asa_vns_sad_01
+voi asa_vns_sad_01
+#% cha asa_armup_concern_narrow_smalltalk
+cha asa_armup_concern_narrow_smalltalk
+# asa I'm sorry. I couldn't do anything...
+asa I'm sorry. I couldn't do anything...
+#% voi chi_vns_sad_01
+voi chi_vns_sad_01
+#% cha chi_handonchest_sad_narrowloo_smalltalk
+cha chi_handonchest_sad_narrowloo_smalltalk
+# chi There was nothing which could have been done...
+chi There was nothing which could have been done...
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Pact...!
+kay Pact...!
+#% cha kay_neu_angry_wide_yell
+cha kay_neu_angry_wide_yell
+# kay I'll destroy them all...!
+kay I'll destroy them all...!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap1_marayalive
+tag chap1_marayalive
+#% mus stop
+mus stop
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+# ava Attack successful! The Vanguard Cannon has completely decimated the enemy!
+ava Attack successful! The Vanguard Cannon has completely decimated the enemy!
+# ava Our escape route is secure! The battle is won!
+ava Our escape route is secure! The battle is won!
+#% cha asa_excited_focus_wide_bigopensm
+cha asa_excited_focus_wide_bigopensm
+# asa All right!
+asa All right!
+#% hid asa
+hid asa
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay ... ... ...
+kay ... ... ...
+# kay No...
+kay No...
+# kay This is no victory...
+kay This is no victory...
+# kay The town...
+kay The town...
+# kay ... ... ...
+kay ... ... ...
+#% cha ava_armscrossed_worry_closedeye_smalltalk
+cha ava_armscrossed_worry_closedeye_smalltalk
+# ava We have survived to fight another day. That is enough.
+ava We have survived to fight another day. That is enough.
+#% mus mus_myhometown
+mus mus_myhometown
+#% var marayalive
+var marayalive
+#% cha mar_lean_sad_neutral_smalltalk
+cha mar_lean_sad_neutral_smalltalk
+# mar Don't worry, Kayto! You saved as many of the villagers as you could.
+mar Don't worry, Kayto! You saved as many of the villagers as you could.
+#% var aff_mar
+var aff_mar
+#% cha mar_excited_angry_neutral_yell
+cha mar_excited_angry_neutral_yell
+# mar C'mon, now let me come onboard! Looks like I'm gonna be traveling with you, whether you like it or not!
+mar C'mon, now let me come onboard! Looks like I'm gonna be traveling with you, whether you like it or not!
+#% sou sou_partygain
+sou sou_partygain
+# nar [MARAY HAS JOINED YOUR PARTY]
+nar [MARAY HAS JOINED YOUR PARTY]
+#% cha kay_neu_sad_closed_talk
+cha kay_neu_sad_closed_talk
+# kay (Even though the village has been destroyed, at least Maray and the others are safe...)
+kay (Even though the village has been destroyed, at least Maray and the others are safe...)
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay Pact...!
+kay Pact...!
+# kay They'll pay for this!
+kay They'll pay for this!
+#% flag
+flag
+#% stop
+stop

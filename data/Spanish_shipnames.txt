@@ -1,0 +1,1218 @@
+# ﻿Genos
+﻿Genos
+# Payback
+Payback
+# Merlin
+Merlin
+# Nomad
+Nomad
+# Woodstock
+Woodstock
+# Gremlin
+Gremlin
+# Popeye
+Popeye
+# Magic
+Magic
+# Riptide
+Riptide
+# Witch Doctor
+Witch Doctor
+# Lockjaw
+Lockjaw
+# Payne
+Payne
+# Bob
+Bob
+# Minotaur
+Minotaur
+# Destroyer
+Destroyer
+# Fearless
+Fearless
+# Mafia
+Mafia
+# Slasher
+Slasher
+# Killjoy
+Killjoy
+# Undertaker
+Undertaker
+# Kira
+Kira
+# Lightbringer
+Lightbringer
+# Showtime
+Showtime
+# Gadget
+Gadget
+# Speedy
+Speedy
+# Road Runner
+Road Runner
+# Coyote
+Coyote
+# Manchild
+Manchild
+# Ramen
+Ramen
+# Roach
+Roach
+# Vulture
+Vulture
+# Change
+Change
+# Cypher
+Cypher
+# Angel
+Angel
+# Hulk
+Hulk
+# Single
+Single
+# Bingo
+Bingo
+# Monkey
+Monkey
+# Badger
+Badger
+# Digger
+Digger
+# Pitch
+Pitch
+# Blaze
+Blaze
+# Magnet
+Magnet
+# Tiger
+Tiger
+# Hawk
+Hawk
+# Lucky
+Lucky
+# Alligator
+Alligator
+# Lizard
+Lizard
+# Iron
+Iron
+# Snake
+Snake
+# Flex
+Flex
+# Minute
+Minute
+# Fox
+Fox
+# Barracuda
+Barracuda
+# Valensol
+Valensol
+# Kyaria
+Kyaria
+# Alcyone
+Alcyone
+# Celestic Stardust
+Celestic Stardust
+# Visenda
+Visenda
+# Revenge
+Revenge
+# Celestyra
+Celestyra
+# Coriolanus
+Coriolanus
+# Hokma
+Hokma
+# Nordesico
+Nordesico
+# Starnova
+Starnova
+# Darini
+Darini
+# Galatia
+Galatia
+# Aeolian
+Aeolian
+# Azumi
+Azumi
+# Etruscan
+Etruscan
+# Iazyges
+Iazyges
+# Papiria
+Papiria
+# Phoenician
+Phoenician
+# Romilia
+Romilia
+# Parthia
+Parthia
+# Myrmidon
+Myrmidon
+# Alcmene
+Alcmene
+# Daybreak
+Daybreak
+# Voyevoda
+Voyevoda
+# Lao Hu
+Lao Hu
+# Galatea
+Galatea
+# Barong
+Barong
+# Pamola
+Pamola
+# Azeban
+Azeban
+# Kaibyo
+Kaibyo
+# Sasquatch
+Sasquatch
+# Chrysomallos
+Chrysomallos
+# Kelpie
+Kelpie
+# Penghou
+Penghou
+# Vrykolaka
+Vrykolaka
+# Gytrash
+Gytrash
+# Wolpertinger
+Wolpertinger
+# Inmyeonjo
+Inmyeonjo
+# Cipactli
+Cipactli
+# Ratatoskr
+Ratatoskr
+# Callisto
+Callisto
+# Agropelter
+Agropelter
+# Liberator
+Liberator
+# Evaiosos
+Evaiosos
+# Shimo
+Shimo
+# Light Brigade
+Light Brigade
+# Longewala
+Longewala
+# Gate Pa
+Gate Pa
+# Challenger
+Challenger
+# Fortune
+Fortune
+# Barbara
+Barbara
+# Devastator
+Devastator
+# Covenant
+Covenant
+# Vision
+Vision
+# Eternity
+Eternity
+# Hope
+Hope
+# Defiance
+Defiance
+# Dragonstar
+Dragonstar
+# Hawk
+Hawk
+# Lifebringer
+Lifebringer
+# Leo
+Leo
+# Kryptoria
+Kryptoria
+# Lavanda
+Lavanda
+# Independence
+Independence
+# Priestess
+Priestess
+# Merkava
+Merkava
+# Majestic
+Majestic
+# Messenger
+Messenger
+# Blue Whale
+Blue Whale
+# Trenxal
+Trenxal
+# Serpent
+Serpent
+# Destroyer
+Destroyer
+# Actium
+Actium
+# Falling Star
+Falling Star
+# Samurai
+Samurai
+# Bayonet
+Bayonet
+# Ravager
+Ravager
+# Watcher
+Watcher
+# Argon
+Argon
+# Intruder
+Intruder
+# Chekov
+Chekov
+# Semeonis
+Semeonis
+# Intrepid
+Intrepid
+# Herodotus
+Herodotus
+# Nobel
+Nobel
+# Courage
+Courage
+# Cousteau
+Cousteau
+# Almagro
+Almagro
+# Logan
+Logan
+# Ahwahnee
+Ahwahnee
+# Iron
+Iron
+# Swordfish
+Swordfish
+# Heart
+Heart
+# Booming Voyager
+Booming Voyager
+# White Erskine
+White Erskine
+# Flying Pulsar
+Flying Pulsar
+# Razor
+Razor
+# Popov
+Popov
+# Yukon
+Yukon
+# Gonzalo
+Gonzalo
+# Blackstone
+Blackstone
+# Greyhound
+Greyhound
+# Jupiter
+Jupiter
+# Janeway
+Janeway
+# Warmaker
+Warmaker
+# Magellan
+Magellan
+# Bellerophon
+Bellerophon
+# Hellhound
+Hellhound
+# Angryshark
+Angryshark
+# Stalker
+Stalker
+# Yeager
+Yeager
+# Galaxy
+Galaxy
+# Velocity
+Velocity
+# Pendragon
+Pendragon
+# Demeter
+Demeter
+# Pasteur
+Pasteur
+# Gallimimus
+Gallimimus
+# Arminus
+Arminus
+# Oberth
+Oberth
+# Olympia
+Olympia
+# Essex
+Essex
+# Oberth
+Oberth
+# Neptune
+Neptune
+# Swift Dodo
+Swift Dodo
+# Nemesis
+Nemesis
+# Nebula
+Nebula
+# Saint
+Saint
+# Slavik
+Slavik
+# Chase
+Chase
+# Orbit
+Orbit
+# Brute
+Brute
+# Jingo
+Jingo
+# Hush
+Hush
+# Blade
+Blade
+# Silver
+Silver
+# Lurch
+Lurch
+# Rust
+Rust
+# Necro
+Necro
+# Snake
+Snake
+# Veil
+Veil
+# Crisis
+Crisis
+# Penumbra
+Penumbra
+# Blitz
+Blitz
+# Falcon
+Falcon
+# Rascal
+Rascal
+# Shepherd
+Shepherd
+# Totem
+Totem
+# Twitch
+Twitch
+# Jewel
+Jewel
+# Celeste
+Celeste
+# Ditch
+Ditch
+# Umbra
+Umbra
+# Envy
+Envy
+# Lotus
+Lotus
+# Paradox
+Paradox
+# Dove
+Dove
+# Blesse
+Blesse
+# Peach
+Peach
+# Gin
+Gin
+# Feline
+Feline
+# Coyote
+Coyote
+# Misery
+Misery
+# Grim
+Grim
+# Ivory
+Ivory
+# Curse
+Curse
+# Brook
+Brook
+# Tare
+Tare
+# Haze
+Haze
+# Blink
+Blink
+# Ghost
+Ghost
+# Fetch
+Fetch
+# Starlight
+Starlight
+# Foxy
+Foxy
+# Jinx
+Jinx
+# Rustle
+Rustle
+# Slingshot
+Slingshot
+# Road Runner
+Road Runner
+# Smiley
+Smiley
+# Rubber
+Rubber
+# Swifty
+Swifty
+# Shade
+Shade
+# Swirl
+Swirl
+# Jolt
+Jolt
+# Wings
+Wings
+# Speedstar
+Speedstar
+# Dodge
+Dodge
+# Doughnut
+Doughnut
+# Scooter
+Scooter
+# Slugs
+Slugs
+# Blowover
+Blowover
+# Essence
+Essence
+# Elastic
+Elastic
+# Fortuna
+Fortuna
+# Succubus
+Succubus
+# Electric
+Electric
+# Scarlet
+Scarlet
+# Mantis
+Mantis
+# Destiny
+Destiny
+# Virus
+Virus
+# Tazz
+Tazz
+# Eternity
+Eternity
+# Lights
+Lights
+# Karma
+Karma
+# Twinkle
+Twinkle
+# Maneater
+Maneater
+# Velvet
+Velvet
+# Remedy
+Remedy
+# Caramel
+Caramel
+# Gemini
+Gemini
+# Gloria
+Gloria
+# Hope
+Hope
+# Moxie
+Moxie
+# Mantra
+Mantra
+# Raven
+Raven
+# Serpent
+Serpent
+# Mime
+Mime
+# Bucks
+Bucks
+# Nocturne
+Nocturne
+# Saber
+Saber
+# Lance
+Lance
+# Bugs
+Bugs
+# Viper
+Viper
+# Nightowl
+Nightowl
+# Dancer
+Dancer
+# Joy
+Joy
+# Silence
+Silence
+# Faith
+Faith
+# Patches
+Patches
+# Heat
+Heat
+# Daydream
+Daydream
+# Dust
+Dust
+# Slime
+Slime
+# Face
+Face
+# Zero
+Zero
+# Tinder
+Tinder
+# Nightmare
+Nightmare
+# Puzzle
+Puzzle
+# Snout
+Snout
+# Imp
+Imp
+# Prodigy
+Prodigy
+# Woe
+Woe
+# Parley
+Parley
+# Ching Shih
+Ching Shih
+# The Marble Tassel
+The Marble Tassel
+# Vendetta
+Vendetta
+# Wyvern
+Wyvern
+# Hail Cargoni
+Hail Cargoni
+# Draco's Scyth
+Draco's Scyth
+# Ludicrous Enterprise
+Ludicrous Enterprise
+# Perros Chapulines
+Perros Chapulines
+# Arroganz
+Arroganz
+# Millennium Flagon
+Millennium Flagon
+# Tezara
+Tezara
+# Disgrace
+Disgrace
+# Snap Manta
+Snap Manta
+# Anger
+Anger
+# Greedy Wolf
+Greedy Wolf
+# Mad Dog
+Mad Dog
+# Festering Rift
+Festering Rift
+# Revenge
+Revenge
+# Mad North
+Mad North
+# Broken Plunder
+Broken Plunder
+# Silent Trinity
+Silent Trinity
+# Evil
+Evil
+# Grand Fall
+Grand Fall
+# Disrespectful
+Disrespectful
+# Hades Dragon
+Hades Dragon
+# Night Rift
+Night Rift
+# Victory Storm
+Victory Storm
+# Golden Atlantis
+Golden Atlantis
+# Buccaneer
+Buccaneer
+# Sudden Privateer
+Sudden Privateer
+# Terror
+Terror
+# Curse
+Curse
+# Shark
+Shark
+# Squid
+Squid
+# Filthy
+Filthy
+# Poison Raider
+Poison Raider
+# Horror
+Horror
+# Night Rover
+Night Rover
+# Tide
+Tide
+# Night
+Night
+# Doubloon
+Doubloon
+# Elusive
+Elusive
+# Broken
+Broken
+# Fearful
+Fearful
+# Speedy Ranger
+Speedy Ranger
+# Hateful Fortune
+Hateful Fortune
+# Greed
+Greed
+# Cyim
+Cyim
+# Krabqe
+Krabqe
+# Crilbas
+Crilbas
+# Szex
+Szex
+# Kogfo
+Kogfo
+# Piarjum
+Piarjum
+# Chix
+Chix
+# Bukba
+Bukba
+# Cribjep
+Cribjep
+# Qrap
+Qrap
+# Achrun
+Achrun
+# Baryar
+Baryar
+# Kubran
+Kubran
+# Khimdaud
+Khimdaud
+# Stradrug
+Stradrug
+# Dizazz
+Dizazz
+# Kabakezz
+Kabakezz
+# Stunakom
+Stunakom
+# Baugeborr
+Baugeborr
+# Ungejag
+Ungejag
+# Female Ancestor
+Female Ancestor
+# Redgon
+Redgon
+# Krakenlord
+Krakenlord
+# Pippa
+Pippa
+# Lunar Rain
+Lunar Rain
+# Range
+Range
+# Maths
+Maths
+# Bell
+Bell
+# Blunder
+Blunder
+# Cycle
+Cycle
+# Hollow
+Hollow
+# Books
+Books
+# Glove
+Glove
+# Owl
+Owl
+# Slide
+Slide
+# Sapphire
+Sapphire
+# Jade
+Jade
+# Stillborn
+Stillborn
+# Spider
+Spider
+# Rock
+Rock
+# Rabidstrike
+Rabidstrike
+# Scarletshade
+Scarletshade
+# Ghostbang
+Ghostbang
+# Red Moon
+Red Moon
+# Still Blade
+Still Blade
+# Switch
+Switch
+# Codex
+Codex
+# Witness
+Witness
+# Feature
+Feature
+# Blossom
+Blossom
+# Nemo
+Nemo
+# Master
+Master
+# Dimension
+Dimension
+# Angel
+Angel
+# Harpy
+Harpy
+# Silver Teeth
+Silver Teeth
+# Twitching
+Twitching
+# Lazy Eye
+Lazy Eye
+# Confident
+Confident
+# Two Toes
+Two Toes
+# Deceit
+Deceit
+# Tricky
+Tricky
+# Cranky
+Cranky
+# Cold
+Cold
+# Mud
+Mud
+# Halfwit
+Halfwit
+# Fool
+Fool
+# Plague
+Plague
+# Defect
+Defect
+# Curse
+Curse
+# Trash
+Trash
+# Boor
+Boor
+# Snake
+Snake
+# Brute
+Brute
+# Skunk
+Skunk
+# Simpleton
+Simpleton
+# Mite
+Mite
+# Kobold
+Kobold
+# Gunk
+Gunk
+# Buffoon
+Buffoon
+# Mistake
+Mistake
+# Corruption
+Corruption
+# Maggot
+Maggot
+# Lowlife
+Lowlife
+# Tick
+Tick
+# Slop
+Slop
+# Flea
+Flea
+# Rascal
+Rascal
+# Black Bum
+Black Bum
+# Lowly
+Lowly
+# Crawler
+Crawler
+# Grime
+Grime
+# Vermin
+Vermin
+# Twerp
+Twerp
+# Rodent
+Rodent
+# Wriggler
+Wriggler
+# Unformed
+Unformed
+# Whelp
+Whelp
+# Muck
+Muck
+# Crude
+Crude
+# Dreck
+Dreck
+# Deviant
+Deviant
+# Smear
+Smear
+# Weevil
+Weevil
+# Primitive
+Primitive
+# Stain
+Stain
+# Prawn
+Prawn
+# Slime
+Slime
+# Leech
+Leech
+# Hybrid
+Hybrid
+# Mug
+Mug
+# Viola
+Viola
+# Trojan
+Trojan
+# Vergil
+Vergil
+# Elisey
+Elisey
+# Teresita
+Teresita
+# Littorio
+Littorio
+# Heatsoaked
+Heatsoaked
+# Dojima
+Dojima
+# Amatsukaze
+Amatsukaze
+# Samidare
+Samidare
+# Conqueror
+Conqueror
+# Resolute
+Resolute
+# Perseverance
+Perseverance
+# Diligence
+Diligence
+# Triumph
+Triumph
+# Vengeance
+Vengeance
+# Retribution
+Retribution
+# Reprisal
+Reprisal
+# Retaliation
+Retaliation
+# Raptor Rain
+Raptor Rain
+# Cosmic
+Cosmic
+# Suit
+Suit
+# Valkyrie
+Valkyrie
+# Comet
+Comet
+# Caelestis
+Caelestis
+# Hurricane
+Hurricane
+# Nightingale
+Nightingale
+# Hunter
+Hunter
+# Aetheron
+Aetheron
+# Danubius
+Danubius
+# Lau
+Lau
+# Asturias
+Asturias
+# Xelyan
+Xelyan
+# Husky
+Husky
+# Sixty One
+Sixty One
+# Snickett
+Snickett
+# Sierra
+Sierra
+# Juan
+Juan
+# Zalhadra
+Zalhadra
+# Regaled Copernicus
+Regaled Copernicus
+# Thunderous Locomotion
+Thunderous Locomotion
+# Righteous Atlas
+Righteous Atlas
+# Tranqui Vitruvius
+Tranqui Vitruvius
+# Spirituous Newton
+Spirituous Newton
+# Undeterred Babbage
+Undeterred Babbage
+# Amicable Gutenberg
+Amicable Gutenberg
+# Rhapsodic Galileo
+Rhapsodic Galileo
+# Doleful Voyager
+Doleful Voyager
+# Beguiled Alyattes
+Beguiled Alyattes
+# Harmonious Monogenesis
+Harmonious Monogenesis
+# Dawn
+Dawn
+# Dusk
+Dusk
+# Choccy
+Choccy
+# Herald of Judgment
+Herald of Judgment
+# Will of Conviction
+Will of Conviction
+# Shield of Mercy
+Shield of Mercy
+# Aegis of Courage
+Aegis of Courage
+# Iron Ranger
+Iron Ranger
+# Hammer of Redemption
+Hammer of Redemption
+# Lord of Mourning
+Lord of Mourning
+# The Dauntless
+The Dauntless
+# Esperance
+Esperance
+# Lex
+Lex
+# GuineaFowl
+GuineaFowl
+# Sun Orchid
+Sun Orchid
+# Reckless
+Reckless
+# Impetuous
+Impetuous
+# MadCap
+MadCap
+# Spirit of Virtue
+Spirit of Virtue
+# Ice Eagle
+Ice Eagle
+# Fire Hawk
+Fire Hawk
+# Spike Talon
+Spike Talon
+# Fair Resolve
+Fair Resolve
+# Aegis Rising
+Aegis Rising
+# Shae's Gambit
+Shae's Gambit
+# Yoren's Shard
+Yoren's Shard
+# Luna's Resolve
+Luna's Resolve
+# Sweet Winter
+Sweet Winter
+# Luna's Embrace
+Luna's Embrace
+# Luna's Absolution
+Luna's Absolution
+# Parisa
+Parisa
+# Hell Razor
+Hell Razor
+# Azure Dawn
+Azure Dawn
+# Seven Truths
+Seven Truths
+# High 5
+High 5
+# UGG Valkyrie 
+UGG Valkyrie 
+# Space Whale 
+Space Whale 
+# Armageddon 
+Armageddon 
+# Shadow of Mir
+Shadow of Mir
+# Star Lady
+Star Lady
+# Pillar of Justice 
+Pillar of Justice 
+# Knuckle Shipwich
+Knuckle Shipwich
+# Star of Eridia 
+Star of Eridia 
+# Aurora 
+Aurora 
+# Judith's Razor
+Judith's Razor
+# Shattered Resolve
+Shattered Resolve
+# Blade of the Night
+Blade of the Night
+# Dawn
+Dawn
+# Rainmaker
+Rainmaker
+# Parfait
+Parfait
+# Phazer
+Phazer
+# Severed Star
+Severed Star
+# Voidmiser
+Voidmiser
+# Severe Conviction
+Severe Conviction
+# Front Runner
+Front Runner
+# Casanova
+Casanova
+# Athena's Blade
+Athena's Blade
+# Athena's Delight 
+Athena's Delight 
+# Peace Broker
+Peace Broker
+# Lance of Fate
+Lance of Fate
+# Rose
+Rose
+# Pitiless Defector
+Pitiless Defector
+# Empress 
+Empress 
+# Pious Truth
+Pious Truth
+# Crown Jewel
+Crown Jewel
+# Phoenix Ascendant 
+Phoenix Ascendant 
+# Siren's Call
+Siren's Call
+# Bromeo 
+Bromeo 
+# Pious Fate
+Pious Fate
+# Intercessor 
+Intercessor 
+# Divine Intervention
+Divine Intervention
+# Dawn's Approach
+Dawn's Approach
+# Dawn of Fate
+Dawn of Fate
+# Hail of Fire
+Hail of Fire
+# Signetta
+Signetta
+# Scytheon
+Scytheon
+# Praise of Joy
+Praise of Joy
+# Glorious Retribution 
+Glorious Retribution 
+# Star Ranger 
+Star Ranger 
+# Vendetta
+Vendetta
+# Melody 
+Melody 
+# Vaunted Sentinel
+Vaunted Sentinel
+# Siesta of Fate
+Siesta of Fate
+# Rough Rider
+Rough Rider
+# Sierra
+Sierra
+# Soundless Fury
+Soundless Fury
+# Wrath of Neptune
+Wrath of Neptune
+# Wave Reaver
+Wave Reaver
+# Scourge of the Salt
+Scourge of the Salt
+# White Dreg
+White Dreg
+# Moondriver
+Moondriver
+# Water Devil
+Water Devil
+# Another Thousand Gold
+Another Thousand Gold
+# Leaking Bucket
+Leaking Bucket
+# She Left Johnny
+She Left Johnny
+# Three Sheets To The Wind
+Three Sheets To The Wind
+# Serf's Misguided Adventure
+Serf's Misguided Adventure
+# Snickett the Second
+Snickett the Second
+# Denali
+Denali
+# Prometheus
+Prometheus
+# Gray Wolf
+Gray Wolf
+# Tsunami
+Tsunami
+# Soja
+Soja
+# Imperieuse
+Imperieuse

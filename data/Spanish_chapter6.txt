@@ -1,0 +1,2368 @@
+#% //Ongess
+//Ongess
+#% tag chap6_start
+tag chap6_start
+#% xob MAIN: The Blessing
+xob MAIN: The Blessing
+#% obj RAID: Pact and Pirate Fleets off Sargasso
+obj RAID: Pact and Pirate Fleets off Sargasso
+#% mus mus_missionbriefing
+mus mus_missionbriefing
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+#% voi ava_vns_neu_08
+voi ava_vns_neu_08
+# ava Land ho, captain. The peak of Mount Destiny rises in the morning dawn.
+ava Land ho, captain. The peak of Mount Destiny rises in the morning dawn.
+#% cha kay_neu_sad_narrowloo_smalltalk
+cha kay_neu_sad_narrowloo_smalltalk
+# kay Ay, 'tis been nearly 30 years since I last saw the holy land with my own eyes. I was just a lad and Maray a babe when our parents took us to receive our blessings.
+kay Ay, 'tis been nearly 30 years since I last saw the holy land with my own eyes. I was just a lad and Maray a babe when our parents took us to receive our blessings.
+#% cha ava_armscrossed_worry_closedeye_smalltalk
+cha ava_armscrossed_worry_closedeye_smalltalk
+#% voi ava_vns_sad_02
+voi ava_vns_sad_02
+# ava I regret to say I suffered the same fate. For two long days and nights, I had to listen to my father pontificate as to the wisdom of the Monolithic Truth as we made our pilgrimage.
+ava I regret to say I suffered the same fate. For two long days and nights, I had to listen to my father pontificate as to the wisdom of the Monolithic Truth as we made our pilgrimage.
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay Truly a rite of passage for all of us with Elvish blood...
+kay Truly a rite of passage for all of us with Elvish blood...
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+#% voi ava_vns_neu_02
+voi ava_vns_neu_02
+# ava Ahem. More presently, I remind you to exercise caution, captain.
+ava Ahem. More presently, I remind you to exercise caution, captain.
+#% cha ava_armscrossed_focus_closedeye_frown
+cha ava_armscrossed_focus_closedeye_frown
+# ava Though Ongess may be called the holy land, in reality, it is a barren isle of rock and ash, rich only in the black iron coveted by virtually every race in Halla.
+ava Though Ongess may be called the holy land, in reality, it is a barren isle of rock and ash, rich only in the black iron coveted by virtually every race in Halla.
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+# ava The Elves revere it, for it is what their great Monoliths are made of. Maan and Ork seek it with greedy eyes, for it can be forged into weapons of war. And the Demonfolk... well, who knows what exactly they want with it, but they long for it just the same.
+ava The Elves revere it, for it is what their great Monoliths are made of. Maan and Ork seek it with greedy eyes, for it can be forged into weapons of war. And the Demonfolk... well, who knows what exactly they want with it, but they long for it just the same.
+# ava This isle has been the catalyst of countless bloody wars fought in the name of religion and advantage. Make no mistake: Despite being called the holy land, there is absolutely nothing peaceful about it.
+ava This isle has been the catalyst of countless bloody wars fought in the name of religion and advantage. Make no mistake: Despite being called the holy land, there is absolutely nothing peaceful about it.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Aye, but with our victory at Far Port, Pact has been denied access to the Dragon's Foot Sea. And with that, their designs of claiming Ongess and its black iron has been thwarted.
+kay Aye, but with our victory at Far Port, Pact has been denied access to the Dragon's Foot Sea. And with that, their designs of claiming Ongess and its black iron has been thwarted.
+#% hid ava
+hid ava
+#% flag
+flag
+#% 
+
+#% tag chap6_defaultroute
+tag chap6_defaultroute
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+#% voi ava_vns_ang_05
+voi ava_vns_ang_05
+# ava You've spoken too soon. Black sails, on intercept!
+ava You've spoken too soon. Black sails, on intercept!
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Nothing is ever easy. Spyglass!
+kay Nothing is ever easy. Spyglass!
+#% cha kay_neu_focus_neutral_slight
+cha kay_neu_focus_neutral_slight
+# kay Ay, that be a familiar sight. Our old pirate friend seems have caught feelings for me. I'll be sure to reject her gently.
+kay Ay, that be a familiar sight. Our old pirate friend seems have caught feelings for me. I'll be sure to reject her gently.
+#% obj BATTLE: Pirates in the Holy Land A
+obj BATTLE: Pirates in the Holy Land A
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay All hands: Action stations!
+kay All hands: Action stations!
+#% roo roo_chap6_battle1a
+roo roo_chap6_battle1a
+#% 
+
+#% tag chap6_sargassoroute
+tag chap6_sargassoroute
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+#% voi ava_vns_ang_05
+voi ava_vns_ang_05
+# ava You've spoken too soon. Black sails, on intercept!
+ava You've spoken too soon. Black sails, on intercept!
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Nothing is ever easy. Spyglass!
+kay Nothing is ever easy. Spyglass!
+#% cha kay_neu_confuse_thinking_smalltalk
+cha kay_neu_confuse_thinking_smalltalk
+# kay A frigate, along with friends. Where have I seen those ships before...
+kay A frigate, along with friends. Where have I seen those ships before...
+#% cha ava_armup_raised_surprise_smalltalk
+cha ava_armup_raised_surprise_smalltalk
+# ava Wait a minute. Are those not Crow Harbor's lost ships?
+ava Wait a minute. Are those not Crow Harbor's lost ships?
+#% cha kay_neu_focus_neutral_talk
+cha kay_neu_focus_neutral_talk
+# kay Out here? Unlikely. At least they are manned by the living. Pirates.
+kay Out here? Unlikely. At least they are manned by the living. Pirates.
+#% cha sol_side_concern_closedeye_talk
+cha sol_side_concern_closedeye_talk
+#% voi sol_vns_ang_05
+voi sol_vns_ang_05
+# sol Foul day. Though Crow be defeated, his ships are now the playthings of brigands.
+sol Foul day. Though Crow be defeated, his ships are now the playthings of brigands.
+#% obj BATTLE: Pirates in the Holy Land B
+obj BATTLE: Pirates in the Holy Land B
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Lost ships or not, we will sink them. All hands: Action stations!
+kay Lost ships or not, we will sink them. All hands: Action stations!
+#% roo roo_chap6_battle1a
+roo roo_chap6_battle1a
+#% 
+
+#% tag chap6_cosrecruit
+tag chap6_cosrecruit
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Surely, nothing could go wrong, so far behind the front lines.
+kay Surely, nothing could go wrong, so far behind the front lines.
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+#% voi ava_vns_neu_04
+voi ava_vns_neu_04
+# ava I would not be so certain. Though we may have won their passing trust, the Song have no particular love for us.
+ava I would not be so certain. Though we may have won their passing trust, the Song have no particular love for us.
+# ava In their eyes, we are lesser beings who depend upon them for practically everything. So long as the Monolithic Truth exists, we will never be equal partners in our relationship.
+ava In their eyes, we are lesser beings who depend upon them for practically everything. So long as the Monolithic Truth exists, we will never be equal partners in our relationship.
+#% cha ava_armscrossed_focus_closedeye_frown
+cha ava_armscrossed_focus_closedeye_frown
+# ava A time will come when they will have to choose between us or their religion. And when that day comes, Song will prove a far greater adversary than Pact.
+ava A time will come when they will have to choose between us or their religion. And when that day comes, Song will prove a far greater adversary than Pact.
+#% cha kay_neu_confuse_neutral_slight
+cha kay_neu_confuse_neutral_slight
+# kay Since the beginning of time itself, the Monolithic Truth has been the law of the realm. What can even be done against the overwhelming power of the High Elves?
+kay Since the beginning of time itself, the Monolithic Truth has been the law of the realm. What can even be done against the overwhelming power of the High Elves?
+#% cha ava_armup_focus_neutral_smallsmil
+cha ava_armup_focus_neutral_smallsmil
+# ava A state of affairs I have little love for. Perhaps we ought to have let Pact run wild for a bit longer. The High Elves are in desperate need of humbling.
+ava A state of affairs I have little love for. Perhaps we ought to have let Pact run wild for a bit longer. The High Elves are in desperate need of humbling.
+#% cha kay_neu_sad_narrow_smile
+cha kay_neu_sad_narrow_smile
+# kay Now Ava, I'm sure your personal distaste for religion is influencing your thoughts.
+kay Now Ava, I'm sure your personal distaste for religion is influencing your thoughts.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay You needn't worry. Don't forget that we have the Sharr herself onboard our ship.
+kay You needn't worry. Don't forget that we have the Sharr herself onboard our ship.
+# kay Though the Elves look upon us with disdain, so long as we protect their goddess, we have little to fear from them.
+kay Though the Elves look upon us with disdain, so long as we protect their goddess, we have little to fear from them.
+#% cha ava_armup_raised_neutral_smalltalk
+cha ava_armup_raised_neutral_smalltalk
+# ava I pray you are right, captain. In any matter, I see the Emerald Fleet awaiting us in the harbor.
+ava I pray you are right, captain. In any matter, I see the Emerald Fleet awaiting us in the harbor.
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Then it is time. Bring us in, commander.
+kay Then it is time. Bring us in, commander.
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+# ava Aye aye captain.
+ava Aye aye captain.
+#% hid ava
+hid ava
+# nar ... ... ...
+nar ... ... ...
+#% cha gre_neu_focus_neutral_smile
+cha gre_neu_focus_neutral_smile
+#% voi gre_vns_neu_07
+voi gre_vns_neu_07
+# gre The Sharr's blessing be upon you, captain. It pleases me that the Sharr has arrived safely upon the holy land.
+gre The Sharr's blessing be upon you, captain. It pleases me that the Sharr has arrived safely upon the holy land.
+# gre The preparations for the blessing are nearly complete. All that awaits is for the Sharr to make her pilgrimage to the peak of Mount Destiny and to be blessed by the Monolith of Truth itself.
+gre The preparations for the blessing are nearly complete. All that awaits is for the Sharr to make her pilgrimage to the peak of Mount Destiny and to be blessed by the Monolith of Truth itself.
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay That is good news. We will take harbor and make the trek on the morrow.
+kay That is good news. We will take harbor and make the trek on the morrow.
+#% cha gre_neu_focus_neutral_smalltalk
+cha gre_neu_focus_neutral_smalltalk
+# gre Very good. My paladins have already secured the island. You will join us at our camp.
+gre Very good. My paladins have already secured the island. You will join us at our camp.
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Very well.
+kay Very well.
+#% mus mus_wishiwasapirate
+mus mus_wishiwasapirate
+#% sou sou_warning
+sou sou_warning
+#% cha gre_neu_angry_wide_smalltalk
+cha gre_neu_angry_wide_smalltalk
+# nar (Warning bell)
+nar (Warning bell)
+#% cha ava_armup_raised_surprise_smalltalk
+cha ava_armup_raised_surprise_smalltalk
+#% voi ava_vns_ang_06
+voi ava_vns_ang_06
+# ava The Emerald Fleet has raised an intruder alert!
+ava The Emerald Fleet has raised an intruder alert!
+#% cha gre_neu_angry_wide_clench
+cha gre_neu_angry_wide_clench
+#% voi gre_vns_sur_01
+voi gre_vns_sur_01
+# gre What?! Intruders? Here, in the holy land?!
+gre What?! Intruders? Here, in the holy land?!
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+# ava Black sails spotted! Pirate ships, coming in!
+ava Black sails spotted! Pirate ships, coming in!
+# ava Three Song ships have broken off from the fleet and are on an intercept course!
+ava Three Song ships have broken off from the fleet and are on an intercept course!
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Those are not Song ships any longer, commander. Pirates have nothing to gain by attacking the Emerald Fleet head on.
+kay Those are not Song ships any longer, commander. Pirates have nothing to gain by attacking the Emerald Fleet head on.
+# kay This be an act of thievery. Those ships have been hijacked by pirates and are joining their comrades.
+kay This be an act of thievery. Those ships have been hijacked by pirates and are joining their comrades.
+#% cha gre_neu_focus_surprise_yell
+cha gre_neu_focus_surprise_yell
+#% voi gre_vns_neu_01
+voi gre_vns_neu_01
+# gre Devilish thugs! Turn this ship around at once! Recover our ships and sink the rest of them!
+gre Devilish thugs! Turn this ship around at once! Recover our ships and sink the rest of them!
+#% cha ava_facepalm_angry_closedeye_smalltalk
+cha ava_facepalm_angry_closedeye_smalltalk
+# ava Your orders, captain?
+ava Your orders, captain?
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Well, you heard the admiral. Pursue the stolen Song vessels!
+kay Well, you heard the admiral. Pursue the stolen Song vessels!
+#% obj BATTLE: Pirates in the Holy Land C
+obj BATTLE: Pirates in the Holy Land C
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay There is more at play here than a simple act of thievery...
+kay There is more at play here than a simple act of thievery...
+#% roo roo_chap6_battle1b
+roo roo_chap6_battle1b
+#% 
+
+#% tag chap6_battle1a_start
+tag chap6_battle1a_start
+#% cha cos_armscrossed_neutral_neutral_grin
+cha cos_armscrossed_neutral_neutral_grin
+#% voi cos_vns_hap_01
+voi cos_vns_hap_01
+# cos Shields! I've heard that you've made quite a name for yourself lately. The Hero of Far Port, eh?
+cos Shields! I've heard that you've made quite a name for yourself lately. The Hero of Far Port, eh?
+#% ifj chap6_battle1_cos,cosettetakesasaga
+ifj chap6_battle1_cos,cosettetakesasaga
+#% tag chap6_battle1_cos_true
+tag chap6_battle1_cos_true
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Cosette?! You're still alive?!
+kay Cosette?! You're still alive?!
+#% cha cos_facepalm_angry_narrow_grin
+cha cos_facepalm_angry_narrow_grin
+# cos Of course I am! I've crawled out from the depths of hell just to kill you!
+cos Of course I am! I've crawled out from the depths of hell just to kill you!
+#% cha cos_fists_crazyangr_crazy_wideclenc
+cha cos_fists_crazyangr_crazy_wideclenc
+#% voi cos_vns_ang_05
+voi cos_vns_ang_05
+# cos Damn you for leaving me to die at Sargasso while you escaped with my prize!
+cos Damn you for leaving me to die at Sargasso while you escaped with my prize!
+#% tag chap6_battle1_cos_false
+tag chap6_battle1_cos_false
+#% cha kay_neu_confuse_neutral_slight
+cha kay_neu_confuse_neutral_slight
+# kay I take it you're not here for an autograph?
+kay I take it you're not here for an autograph?
+#% cha cos_fists_angry_narrow_wideyell
+cha cos_fists_angry_narrow_wideyell
+#% voi cos_vns_neu_09
+voi cos_vns_neu_09
+# cos Peh! I'm not like the other fawning women on board your ship!
+cos Peh! I'm not like the other fawning women on board your ship!
+# cos I'm here to give you a warning.
+cos I'm here to give you a warning.
+#% cha kay_neu_confuse_thinking_talk
+cha kay_neu_confuse_thinking_talk
+# kay A warning?
+kay A warning?
+#% cha cos_fists_crazyangr_crazy_grin
+cha cos_fists_crazyangr_crazy_grin
+#% voi cos_vns_neu_08
+voi cos_vns_neu_08
+# cos Your so-called High Elf friends aren't the pious immortals they claim to be! I've seen their so-called holy land with my own eyes and hell on earth would be a more accurate name.
+cos Your so-called High Elf friends aren't the pious immortals they claim to be! I've seen their so-called holy land with my own eyes and hell on earth would be a more accurate name.
+# cos They're using you as pawns in their scheme to rule all of Halla from the shadows!
+cos They're using you as pawns in their scheme to rule all of Halla from the shadows!
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay We need not fight, Cosette. Why don't we parley?
+kay We need not fight, Cosette. Why don't we parley?
+#% cha kry_armout_angry_wide_yell
+cha kry_armout_angry_wide_yell
+#% voi kry_vns_ang_04
+voi kry_vns_ang_04
+# kry Do not be deceived, captain! That imp is the Terror of the Seas! Her words are as insidious as the delaying tactic she is employing to ambush us!
+kry Do not be deceived, captain! That imp is the Terror of the Seas! Her words are as insidious as the delaying tactic she is employing to ambush us!
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+#% voi ava_vns_ang_06
+voi ava_vns_ang_06
+# ava Kryska is correct. More black sails, coming out from behind the islands!
+ava Kryska is correct. More black sails, coming out from behind the islands!
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay I guess negotiations are concluded then.
+kay I guess negotiations are concluded then.
+#% cha cos_laugh_angry_widebigpu_widesmile
+cha cos_laugh_angry_widebigpu_widesmile
+#% voi cos_vns_hap_02
+voi cos_vns_hap_02
+# cos Kukuku. You're not as stupid as you look!
+cos Kukuku. You're not as stupid as you look!
+# cos Attack!
+cos Attack!
+#% stop
+stop
+#% 
+
+#% tag chap6_battle1b_start
+tag chap6_battle1b_start
+#% cha ava_facepalm_focus_narrow_slight
+cha ava_facepalm_focus_narrow_slight
+#% voi ava_vns_ang_05
+voi ava_vns_ang_05
+# ava We are approaching the stolen ships, captain. But we seem to be missing someone...
+ava We are approaching the stolen ships, captain. But we seem to be missing someone...
+#% hid ava
+hid ava
+#% cha cos_laugh_angry_widebigpu_widesmile
+cha cos_laugh_angry_widebigpu_widesmile
+#% voi cos_vns_hap_01
+voi cos_vns_hap_01
+# cos Haaahahahaha! You are a fool to have ever trusted me, Shields!
+cos Haaahahahaha! You are a fool to have ever trusted me, Shields!
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Cosette?!
+kay Cosette?!
+#% cha cos_facepalm_angry_narrow_grin
+cha cos_facepalm_angry_narrow_grin
+#% voi cos_vns_hap_03
+voi cos_vns_hap_03
+# cos All this time, I've been waiting for the perfect chance to stab you in back...
+cos All this time, I've been waiting for the perfect chance to stab you in back...
+# cos Pretending to be a wee little girl, so in need of your protection... all of it was a ploy for this moment!
+cos Pretending to be a wee little girl, so in need of your protection... all of it was a ploy for this moment!
+#% cha cos_armscrossed_sadorscar_crazy_widesmile
+cha cos_armscrossed_sadorscar_crazy_widesmile
+# cos Now that you've arrived at this hell hole, you're fighting on my home turf now! I have friends all throughout Ongess!
+cos Now that you've arrived at this hell hole, you're fighting on my home turf now! I have friends all throughout Ongess!
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay I don't understand. We fought Pact together!
+kay I don't understand. We fought Pact together!
+#% cha cos_fists_crazyangr_widesmall_widesmile
+cha cos_fists_crazyangr_widesmall_widesmile
+#% voi cos_vns_hap_01
+voi cos_vns_hap_01
+# cos Hahaha! Like I would ever join you!
+cos Hahaha! Like I would ever join you!
+# cos My true aim was to destroy this forsaken place and watch Song burn!
+cos My true aim was to destroy this forsaken place and watch Song burn!
+# cos Now, how about you die, Shields?
+cos Now, how about you die, Shields?
+#% hid cos
+hid cos
+#% cha ava_facepalm_focus_closedeye_sigh
+cha ava_facepalm_focus_closedeye_sigh
+#% voi ava_vns_shy_02
+voi ava_vns_shy_02
+# ava Somehow, I am not very surprised at this turn of events...
+ava Somehow, I am not very surprised at this turn of events...
+#% cha gre_neu_angry_wide_smalltalk
+cha gre_neu_angry_wide_smalltalk
+#% voi gre_vns_ang_02
+voi gre_vns_ang_02
+# gre By what folly did you believe that pirate could ever be trusted?!
+gre By what folly did you believe that pirate could ever be trusted?!
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay Well... I'm not one to judge people's characters...
+kay Well... I'm not one to judge people's characters...
+#% cha ava_facepalm_worry_closedeye_sigh_shadow
+cha ava_facepalm_worry_closedeye_sigh_shadow
+#% voi ava_vns_ang_02
+voi ava_vns_ang_02
+# ava Sigh...
+ava Sigh...
+#% cha gre_neu_angry_wide_yell
+cha gre_neu_angry_wide_yell
+#% voi gre_vns_neu_01
+voi gre_vns_neu_01
+# gre Undo your mistake and recover our ships intact! And do not think to spare that pirate again!
+gre Undo your mistake and recover our ships intact! And do not think to spare that pirate again!
+#% cha kay_neu_sad_closed_talk
+cha kay_neu_sad_closed_talk
+# kay (Great, I'm feeling a lot of angry eyes pointed in my general direction...)
+kay (Great, I'm feeling a lot of angry eyes pointed in my general direction...)
+#% cha kay_neu_focus_neutral_neutral
+cha kay_neu_focus_neutral_neutral
+# kay (The only way to salvage this situation is to capture all three Song ships and keep them in one piece until all pirate ships are sunk.)
+kay (The only way to salvage this situation is to capture all three Song ships and keep them in one piece until all pirate ships are sunk.)
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay (Cosette... We could have been allies...)
+kay (Cosette... We could have been allies...)
+#% sou sou_partyleave
+sou sou_partyleave
+# nar (Cosette has left the party.)
+nar (Cosette has left the party.)
+#% stop
+stop
+#% 
+
+#% tag chap6_battle1_mine
+tag chap6_battle1_mine
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+#% voi ava_vns_ang_06
+voi ava_vns_ang_06
+# ava New enemy spotted!
+ava New enemy spotted!
+# ava Be on your guard, captain. Those ships are equipped with suicide bombs. If detonated, all nearby ships will take massive damage.
+ava Be on your guard, captain. Those ships are equipped with suicide bombs. If detonated, all nearby ships will take massive damage.
+# ava Just what madness drives these pirates?
+ava Just what madness drives these pirates?
+#% hid ava
+hid ava
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Cosette...!
+kay Cosette...!
+#% cha cos_laugh_angry_crazy_grin
+cha cos_laugh_angry_crazy_grin
+#% voi cos_vns_hap_01
+voi cos_vns_hap_01
+# cos Haahahaha! How do you like my new toys, captain?
+cos Haahahaha! How do you like my new toys, captain?
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Sacrificing your own ships to fight me is futile, Cosette! Strike your flag and we can parley-
+kay Sacrificing your own ships to fight me is futile, Cosette! Strike your flag and we can parley-
+#% cha cos_armscrossed_flat_narrow_widesmile
+cha cos_armscrossed_flat_narrow_widesmile
+# cos It's too late for that, captain.
+cos It's too late for that, captain.
+#% cha cos_armscrossed_neutral_neutral_wideyell
+cha cos_armscrossed_neutral_neutral_wideyell
+#% voi cos_vns_ang_03
+voi cos_vns_ang_03
+# cos From one expert practitioner to another, you truly have a knack for escaping death's grasp.
+cos From one expert practitioner to another, you truly have a knack for escaping death's grasp.
+# cos But now, at last, we pit our mettle against each other, and see who is the better.
+cos But now, at last, we pit our mettle against each other, and see who is the better.
+#% cha cos_laugh_crazyangr_narrow_widesmile
+cha cos_laugh_crazyangr_narrow_widesmile
+# cos To victory!
+cos To victory!
+#% stop
+stop
+#% 
+
+#% tag chap6_battle1b_fail
+tag chap6_battle1b_fail
+#% cha gre_neu_angry_wide_shout
+cha gre_neu_angry_wide_shout
+#% voi gre_vns_ang_02
+voi gre_vns_ang_02
+# gre Bah! Incompetent Lessor! You have sunk one of our ships!
+gre Bah! Incompetent Lessor! You have sunk one of our ships!
+#% cha ava_facepalm_angry_closedeye_frown
+cha ava_facepalm_angry_closedeye_frown
+#% voi ava_vns_shy_01
+voi ava_vns_shy_01
+# ava Captain, we cannot sink any of the stolen ships this mission!
+ava Captain, we cannot sink any of the stolen ships this mission!
+# ava This mission is a failure...
+ava This mission is a failure...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap6_battle1b_fail2
+tag chap6_battle1b_fail2
+#% cha gre_neu_angry_wide_shout
+cha gre_neu_angry_wide_shout
+#% voi gre_vns_ang_02
+voi gre_vns_ang_02
+# gre One of our ships have been lost! Bah, I was a fool to entrust this task to a Lessor!
+gre One of our ships have been lost! Bah, I was a fool to entrust this task to a Lessor!
+#% cha ava_facepalm_angry_closedeye_frown
+cha ava_facepalm_angry_closedeye_frown
+#% voi ava_vns_sur_02
+voi ava_vns_sur_02
+# ava Captain, we cannot lose any of the Song ships in this mission!
+ava Captain, we cannot lose any of the Song ships in this mission!
+# kay Tch... This mission is a failure...
+kay Tch... This mission is a failure...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap6_battle1_end
+tag chap6_battle1_end
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+#% voi ava_vns_ang_07
+voi ava_vns_ang_07
+# ava The enemy has suffered critical damage! They're going down!
+ava The enemy has suffered critical damage! They're going down!
+#% mus stop
+mus stop
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Wait, intruder!
+kay Wait, intruder!
+#% hid ava
+hid ava
+#% cha cos_facepalm_crazyangr_widesmall_widesmile_shadow
+cha cos_facepalm_crazyangr_widesmall_widesmile_shadow
+#% voi cos_vns_ang_03
+voi cos_vns_ang_03
+# cos If I go down, I'm taking you with me!
+cos If I go down, I'm taking you with me!
+#% cha kay_neu_angry_wide_yell
+cha kay_neu_angry_wide_yell
+# kay Brace!!!
+kay Brace!!!
+#% hid cos
+hid cos
+#% hid kay
+hid kay
+#% sou sou_shipexplode
+sou sou_shipexplode
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap6_wakeatongess
+tag chap6_wakeatongess
+#% xob BATTLE: Pirates in the Holy Land A
+xob BATTLE: Pirates in the Holy Land A
+#% xob BATTLE: Pirates in the Holy Land B
+xob BATTLE: Pirates in the Holy Land B
+#% xob BATTLE: Pirates in the Holy Land C
+xob BATTLE: Pirates in the Holy Land C
+#% mus sou_oceanloop
+mus sou_oceanloop
+#% dbg spr_bg_beachday
+dbg spr_bg_beachday
+# nar ...
+nar ...
+# nar ... ...
+nar ... ...
+# nar ... ... ...
+nar ... ... ...
+#% cha kay_neu_sad_closed_clench
+cha kay_neu_sad_closed_clench
+# kay Ugh...
+kay Ugh...
+#% cha kay_neu_sad_narrowloo_clench
+cha kay_neu_sad_narrowloo_clench
+# kay (The last thing I remember is being knocked overboard by Cosette...)
+kay (The last thing I remember is being knocked overboard by Cosette...)
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (But luck has not failed me yet. I have washed up ashore on Ongess in one piece.)
+kay (But luck has not failed me yet. I have washed up ashore on Ongess in one piece.)
+# kay (All that remains now is to await rescue. I'm sure Ava and the rest of the crew are out there, searching for me...)
+kay (All that remains now is to await rescue. I'm sure Ava and the rest of the crew are out there, searching for me...)
+#% cha kay_neu_sad_closed_groan
+cha kay_neu_sad_closed_groan
+# kay Sigh...
+kay Sigh...
+#% cha cos_facepalm_sadorscar_closedeye_clench
+cha cos_facepalm_sadorscar_closedeye_clench
+# cos U-Ugggh...
+cos U-Ugggh...
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Cosette?!
+kay Cosette?!
+#% cha cos_fists_crazyangr_widesmall_wideyell
+cha cos_fists_crazyangr_widesmall_wideyell
+# cos Urk! You!
+cos Urk! You!
+#% cha cos_fists_angry_narrow_clench
+cha cos_fists_angry_narrow_clench
+# cos Tch...
+cos Tch...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay It's no use. Your flint is soaked through. Why don't we be good fellow shipwreckees and declare a temporary truce?
+kay It's no use. Your flint is soaked through. Why don't we be good fellow shipwreckees and declare a temporary truce?
+#% cha cos_fists_angry_narrow_wideyell
+cha cos_fists_angry_narrow_wideyell
+# cos Pah! You will live for now. It makes no difference.
+cos Pah! You will live for now. It makes no difference.
+# cos Ongess is my turf. Once my friends find us, you will regret not having been killed sooner.
+cos Ongess is my turf. Once my friends find us, you will regret not having been killed sooner.
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay You will find me difficult to kill. Speaking from one survivor to another, cheating death may be our specialty.
+kay You will find me difficult to kill. Speaking from one survivor to another, cheating death may be our specialty.
+#% cha cos_fists_angry_narrow_wideyell
+cha cos_fists_angry_narrow_wideyell
+# cos A cocky little cockroach you are. One that slips easily through every crack and crevasse. But mark my words: You will be squished in the end. If not by my boot, then by your so-called friends.
+cos A cocky little cockroach you are. One that slips easily through every crack and crevasse. But mark my words: You will be squished in the end. If not by my boot, then by your so-called friends.
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay You will find that the bonds that bind my crew are made of stronger stuff than the tyranny of fear that governs your pirate ships.
+kay You will find that the bonds that bind my crew are made of stronger stuff than the tyranny of fear that governs your pirate ships.
+#% cha kay_neu_confuse_neutral_smalltalk
+cha kay_neu_confuse_neutral_smalltalk
+# kay In any case, we must light a fire if we have any hope of rescue. No easy task, on this isle of iron and rock.
+kay In any case, we must light a fire if we have any hope of rescue. No easy task, on this isle of iron and rock.
+#% cha cos_armscrossed_neutral_narrowloo_talk
+cha cos_armscrossed_neutral_narrowloo_talk
+# cos Tch. The dried seaweed smell horrible, but make suitable tinder. Timber can be gathered from the wrecks that line this place.
+cos Tch. The dried seaweed smell horrible, but make suitable tinder. Timber can be gathered from the wrecks that line this place.
+# cos An eternity of holy wars for control of this pitiful rock has seen to seeding the shores with lumber.
+cos An eternity of holy wars for control of this pitiful rock has seen to seeding the shores with lumber.
+#% cha kay_neu_neutral_closed_talk
+cha kay_neu_neutral_closed_talk
+# kay Then, let us get to work.
+kay Then, let us get to work.
+#% hid cos
+hid cos
+#% sou stop
+sou stop
+#% dbg spr_bg_beachnight
+dbg spr_bg_beachnight
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (The sun sets, with no sign of rescue from either party...)
+kay (The sun sets, with no sign of rescue from either party...)
+# kay (We must have drifted further from the battle than I thought. Alas, I do not relish the thought of camping overnight with one so keen on murdering me.)
+kay (We must have drifted further from the battle than I thought. Alas, I do not relish the thought of camping overnight with one so keen on murdering me.)
+#% cha cos_armscrossed_sadorscar_crazy_widesmile
+cha cos_armscrossed_sadorscar_crazy_widesmile
+# cos What's the matter, Shields? Scared that I will slit your throat and drink your blood whilst you sleep?
+cos What's the matter, Shields? Scared that I will slit your throat and drink your blood whilst you sleep?
+#% cha kay_neu_focus_neutral_smallopen
+cha kay_neu_focus_neutral_smallopen
+# kay Of course not. I merely did not wish to cause discomfort upon you. Surely, a young maiden would fear having to spend the night alone with a man.
+kay Of course not. I merely did not wish to cause discomfort upon you. Surely, a young maiden would fear having to spend the night alone with a man.
+#% cha cos_laugh_crazyangr_crazy_widesmile_shadow
+cha cos_laugh_crazyangr_crazy_widesmile_shadow
+# cos Hahahaha! Say that again, so I may cut out your tongue!
+cos Hahahaha! Say that again, so I may cut out your tongue!
+# cos I have killed men twice your size and painted the seas red with their blood. You shall do well to fear me.
+cos I have killed men twice your size and painted the seas red with their blood. You shall do well to fear me.
+#% cha kay_neu_confuse_thinking_smirk
+cha kay_neu_confuse_thinking_smirk
+# kay Then tell me. How did you become the Terror of the Seas? And why did you come to meet me here?
+kay Then tell me. How did you become the Terror of the Seas? And why did you come to meet me here?
+#% mus mus_akaifuusen
+mus mus_akaifuusen
+#% cha cos_armscrossed_neutral_neutral_wideyell
+cha cos_armscrossed_neutral_neutral_wideyell
+# cos 'Tis be familiar waters to me, for Ongess be my home. Yes, the infamous pirate Cosette Cosmos hails from the holy land itself. But there be nothing pious about this isle - it is a war torn rock, ravaged on all sides by the powers who thought to stake their flag upon its peak.
+cos 'Tis be familiar waters to me, for Ongess be my home. Yes, the infamous pirate Cosette Cosmos hails from the holy land itself. But there be nothing pious about this isle - it is a war torn rock, ravaged on all sides by the powers who thought to stake their flag upon its peak.
+#% cha cos_fists_angry_neutral_wideyell
+cha cos_fists_angry_neutral_wideyell
+# cos The High Elves claim that at the beginning of time, they brought down the Monolith of Truth from the peak of Mount Destiny and founded all of civilization. Hah! Don't make me laugh!
+cos The High Elves claim that at the beginning of time, they brought down the Monolith of Truth from the peak of Mount Destiny and founded all of civilization. Hah! Don't make me laugh!
+# cos They branded me a monster from the moment of my birth. A deviling, spawned from a pit of sulfur and blood. To be either an outlaw or a corpse was my first childhood decision.
+cos They branded me a monster from the moment of my birth. A deviling, spawned from a pit of sulfur and blood. To be either an outlaw or a corpse was my first childhood decision.
+#% cha kay_neu_focus_closed_smallsmil
+cha kay_neu_focus_closed_smallsmil
+# kay A fate most unfair. But what of your parents?
+kay A fate most unfair. But what of your parents?
+#% cha cos_armscrossed_crazyangr_narrow_grin
+cha cos_armscrossed_crazyangr_narrow_grin
+# cos Heh. We demonfolk are not like you. Thousands of us burst from a single putrid pod into the world, as blind and helpless as worms. From that infernal pool, one deviling emerges, the strongest of the clutch. Or simply the vilest.
+cos Heh. We demonfolk are not like you. Thousands of us burst from a single putrid pod into the world, as blind and helpless as worms. From that infernal pool, one deviling emerges, the strongest of the clutch. Or simply the vilest.
+# cos Does that disgust you?
+cos Does that disgust you?
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay I see the eyes of the Elves when they call me Lessor. I will not repeat their hatred here.
+kay I see the eyes of the Elves when they call me Lessor. I will not repeat their hatred here.
+#% cha cos_fists_angry_narrow_grin
+cha cos_fists_angry_narrow_grin
+# cos Yet, I sense your fear. Your revulsion. It is embedded in your Elf heritage.
+cos Yet, I sense your fear. Your revulsion. It is embedded in your Elf heritage.
+#% cha cos_armscrossed_flat_closedeye_grin
+cha cos_armscrossed_flat_closedeye_grin
+# cos Ah, but there was one who sought to be my mother...
+cos Ah, but there was one who sought to be my mother...
+#% cha kay_neu_confuse_neutral_smalltalk
+cha kay_neu_confuse_neutral_smalltalk
+# kay So your life was not entirely without warmth?
+kay So your life was not entirely without warmth?
+#% cha cos_armscrossed_flat_narrow_widesmile
+cha cos_armscrossed_flat_narrow_widesmile
+# cos Even among the High Elves, there was someone willing to take me in, a vile, lice infested imp. I suppose, you could call her a holy woman. A cleric of the Holy Church, who in her charity, defied the Monolithic Truth, to give me shelter.
+cos Even among the High Elves, there was someone willing to take me in, a vile, lice infested imp. I suppose, you could call her a holy woman. A cleric of the Holy Church, who in her charity, defied the Monolithic Truth, to give me shelter.
+#% cha cos_armscrossed_flat_closedeye_grin
+cha cos_armscrossed_flat_closedeye_grin
+# cos But nothing good could come from harboring a devil.
+cos But nothing good could come from harboring a devil.
+#% cha kay_neu_confuse_neutral_slight
+cha kay_neu_confuse_neutral_slight
+# kay What do you mean?
+kay What do you mean?
+#% cha cos_armscrossed_flat_narrowloo_grin
+cha cos_armscrossed_flat_narrowloo_grin
+# cos I killed her.
+cos I killed her.
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Why?
+kay Why?
+#% cha cos_armscrossed_crazyangr_closedeye_clench
+cha cos_armscrossed_crazyangr_closedeye_clench
+# cos Because that is how it is.
+cos Because that is how it is.
+# cos I am a demon. And she was an Elf. There was no way we could ever be a family.
+cos I am a demon. And she was an Elf. There was no way we could ever be a family.
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Surely, you could have-
+kay Surely, you could have-
+# kay Me, I am a half-Elf. Though my father is an Elf and my mother a Maan, we could-
+kay Me, I am a half-Elf. Though my father is an Elf and my mother a Maan, we could-
+#% cha cos_fists_crazyangr_widebigpu_wideclenc
+cha cos_fists_crazyangr_widebigpu_wideclenc
+# cos Shut up! You understand nothing!
+cos Shut up! You understand nothing!
+#% cha cos_fists_crazyangr_narrow_wideyell
+cha cos_fists_crazyangr_narrow_wideyell
+# cos To make a daughter out of a devil spawn was to mock the Monolithic Truth! And for that, my mother-
+cos To make a daughter out of a devil spawn was to mock the Monolithic Truth! And for that, my mother-
+# cos That she-Elf was punished! She suffered a fate even worse than death!
+cos That she-Elf was punished! She suffered a fate even worse than death!
+#% cha cos_facepalm_crazyangr_widesmall_wideclenc_shadow
+cha cos_facepalm_crazyangr_widesmall_wideclenc_shadow
+# cos I saw her body twist and contort, and her beautiful, eternal form become an Ork.
+cos I saw her body twist and contort, and her beautiful, eternal form become an Ork.
+# cos She lost everything. Her life. Her dignity. Her mind! All for a devil spawn destined to die in a ditch!
+cos She lost everything. Her life. Her dignity. Her mind! All for a devil spawn destined to die in a ditch!
+# cos And that is the price she paid for defying the Monolithic Truth.
+cos And that is the price she paid for defying the Monolithic Truth.
+#% cha cos_fists_crazyangr_widesmall_wideyell
+cha cos_fists_crazyangr_widesmall_wideyell
+# cos Either they abide by their dogma that they are pure immortal beings, or they turn into Orks.
+cos Either they abide by their dogma that they are pure immortal beings, or they turn into Orks.
+# cos That is the nature of the Monolithic Truth they worship! And so long as High Elves exist, we will all be slaves to them.
+cos That is the nature of the Monolithic Truth they worship! And so long as High Elves exist, we will all be slaves to them.
+# cos So believe in your Song friends all you want. But the moment you defy their religious doctrine...
+cos So believe in your Song friends all you want. But the moment you defy their religious doctrine...
+#% cha cos_fists_crazyangr_narrow_frown
+cha cos_fists_crazyangr_narrow_frown
+# cos They will have no choice but to destroy you. Or else it will be they who turn into Orks.
+cos They will have no choice but to destroy you. Or else it will be they who turn into Orks.
+#% cha kay_neu_sad_narrowloo_smalltalk
+cha kay_neu_sad_narrowloo_smalltalk
+# kay Cosette...
+kay Cosette...
+# kay It need not be like that.
+kay It need not be like that.
+# kay I am a Half-Elf. I need not fear turning into an Ork, even if I accept you. I have Demonfolk, Maan, Elves, and all in between on my ship, but we do not refer to each other as such. We simply refer to each other as friends.
+kay I am a Half-Elf. I need not fear turning into an Ork, even if I accept you. I have Demonfolk, Maan, Elves, and all in between on my ship, but we do not refer to each other as such. We simply refer to each other as friends.
+#% cha kay_neu_sad_neutral_smalltalk
+cha kay_neu_sad_neutral_smalltalk
+# kay Join me, and we can see where our investigation into the Monolithic Truth leads. If they truly seek to use us as pawns, help us-
+kay Join me, and we can see where our investigation into the Monolithic Truth leads. If they truly seek to use us as pawns, help us-
+#% cha cos_laugh_confused_widebigpu_widesmile
+cha cos_laugh_confused_widebigpu_widesmile
+# cos Help you? Hahaha!
+cos Help you? Hahaha!
+#% cha cos_facepalm_angry_narrow_grin
+cha cos_facepalm_angry_narrow_grin
+# cos I hate you, Shields. I don't need saving.
+cos I hate you, Shields. I don't need saving.
+# cos If you let me live, the next time we meet, you will regret it.
+cos If you let me live, the next time we meet, you will regret it.
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay I shall not kill you.
+kay I shall not kill you.
+#% cha cos_armscrossed_neutral_crazy_grin
+cha cos_armscrossed_neutral_crazy_grin
+# cos Then you are a fool.
+cos Then you are a fool.
+#% cha kay_neu_sad_closed_slight
+cha kay_neu_sad_closed_slight
+# kay You are not the devil you believe yourself to be.
+kay You are not the devil you believe yourself to be.
+#% cha cos_armscrossed_flat_closedeye_neutral
+cha cos_armscrossed_flat_closedeye_neutral
+# cos ... ... ...
+cos ... ... ...
+# cos A fool of a captain, a fool of a man.
+cos A fool of a captain, a fool of a man.
+#% cha cos_armscrossed_flat_narrowloo_smirk
+cha cos_armscrossed_flat_narrowloo_smirk
+# cos All that which awaits you at the end of this tale is betrayal.
+cos All that which awaits you at the end of this tale is betrayal.
+#% cha cos_armscrossed_flat_closedeye_neutral
+cha cos_armscrossed_flat_closedeye_neutral
+# cos Leave me alone.
+cos Leave me alone.
+#% hid cos
+hid cos
+#% mus stop
+mus stop
+# kay ... ... ...
+kay ... ... ...
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% sou sou_rustle
+sou sou_rustle
+# nar (Rustle)
+nar (Rustle)
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay !!!
+kay !!!
+#% cha ava_armup_raised_surprise_smalltalk
+cha ava_armup_raised_surprise_smalltalk
+#% voi ava_vns_shy_04
+voi ava_vns_shy_04
+# ava Captain! Thank goodness you are all right.
+ava Captain! Thank goodness you are all right.
+#% cha ava_armup_worry_neutral_smirk
+cha ava_armup_worry_neutral_smirk
+# ava We spotted your campfire and docked the ship not far from here.
+ava We spotted your campfire and docked the ship not far from here.
+# ava Come, the crew will be overjoyed to see you.
+ava Come, the crew will be overjoyed to see you.
+#% cha kay_neu_sad_closed_slight
+cha kay_neu_sad_closed_slight
+# kay ... ... ...
+kay ... ... ...
+#% cha ava_armscrossed_surprised_wide_slight
+cha ava_armscrossed_surprised_wide_slight
+#% voi ava_vns_neu_04
+voi ava_vns_neu_04
+# ava Is something the matter, captain?
+ava Is something the matter, captain?
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay ...No.
+kay ...No.
+#% cha ava_armscrossed_surprised_surprise_smalltalk
+cha ava_armscrossed_surprised_surprise_smalltalk
+# ava Is there someone else with you?
+ava Is there someone else with you?
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay ... ... ...
+kay ... ... ...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay No. There's no one else.
+kay No. There's no one else.
+# kay Now, let's go. We have lost enough time. We must get Asaga to the High Elves for her blessing.
+kay Now, let's go. We have lost enough time. We must get Asaga to the High Elves for her blessing.
+#% cha ava_armup_neutral_neutral_smalltalk
+cha ava_armup_neutral_neutral_smalltalk
+# ava This way, captain.
+ava This way, captain.
+#% hid ava
+hid ava
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% mus mus_fallen_angel_pt1
+mus mus_fallen_angel_pt1
+#% cha cos_armscrossed_flat_closedeye_smirk
+cha cos_armscrossed_flat_closedeye_smirk
+#% voi cos_vns_sad_01
+voi cos_vns_sad_01
+# cos Good-bye, Captain Shields.
+cos Good-bye, Captain Shields.
+#% cha cos_armscrossed_flat_narrow_smirk
+cha cos_armscrossed_flat_narrow_smirk
+# cos The next time we meet shall be our last.
+cos The next time we meet shall be our last.
+#% cha cos_armscrossed_angry_closedeye_neutral
+cha cos_armscrossed_angry_closedeye_neutral
+# cos ... ... ...
+cos ... ... ...
+#% cha cos_armscrossed_neutral_narrow_talk
+cha cos_armscrossed_neutral_narrow_talk
+# cos You can come out now, Fontana.
+cos You can come out now, Fontana.
+#% cha fon_neu_confuse_neutral_smalltalk
+cha fon_neu_confuse_neutral_smalltalk
+#% voi fon_vns_neu_04
+voi fon_vns_neu_04
+# fon Curious. You had every opportunity to kill him. And yet, you did not.
+fon Curious. You had every opportunity to kill him. And yet, you did not.
+#% var aff_cos
+var aff_cos
+#% cha cos_armscrossed_neutral_closedeye_smirk
+cha cos_armscrossed_neutral_closedeye_smirk
+# cos To think I once believed he was a threat. Now I know he is merely a fool.
+cos To think I once believed he was a threat. Now I know he is merely a fool.
+# cos He will serve our plans better alive.
+cos He will serve our plans better alive.
+#% cha fon_neu_lowfocus_neutral_smalltalk
+cha fon_neu_lowfocus_neutral_smalltalk
+# fon You will join me then?
+fon You will join me then?
+#% cha cos_armscrossed_neutral_crazy_grin
+cha cos_armscrossed_neutral_crazy_grin
+# cos Yes, Fontana... They will never see it coming.
+cos Yes, Fontana... They will never see it coming.
+# cos Kukuku...
+cos Kukuku...
+# cos Together, we will destroy the Monolithic Truth.
+cos Together, we will destroy the Monolithic Truth.
+#% hid cos
+hid cos
+#% hid fon
+hid fon
+#% dbg hide
+dbg hide
+# nar ... ... ...
+nar ... ... ...
+#% dbg spr_bg_sunriderbridge_night
+dbg spr_bg_sunriderbridge_night
+#% mus mus_colors_sad
+mus mus_colors_sad
+#% cha chi_handonchest_sad_closedeye_smalltalk_tear_blush
+cha chi_handonchest_sad_closedeye_smalltalk_tear_blush
+#% voi chi_vns_hap_04
+voi chi_vns_hap_04
+# chi Thank goodness the Captain's all right...
+chi Thank goodness the Captain's all right...
+#% cha ica_back_annoyed_closedeye_yell_blush
+cha ica_back_annoyed_closedeye_yell_blush
+#% voi ica_vns_neu_09
+voi ica_vns_neu_09
+# ica Sigh... Getting knocked overboard like that... Typical stupid captain behavior!
+ica Sigh... Getting knocked overboard like that... Typical stupid captain behavior!
+#% cha kry_armdown_surprised_wide_smalltalk
+cha kry_armdown_surprised_wide_smalltalk
+#% voi kry_vns_neu_09
+voi kry_vns_neu_09
+# kry And yet, you were the one the most worried during the search and rescue operations!
+kry And yet, you were the one the most worried during the search and rescue operations!
+#% cha ica_point_annoyed_smuglooka_yell_blush
+cha ica_point_annoyed_smuglooka_yell_blush
+#% voi ica_vns_ang_03
+voi ica_vns_ang_03
+# ica W-Well, of course! I've still got a lot of invoices left to bill! It's not like I work here for free! I was just worried that I wouldn't get paid if the captain kicked the bucket, that's all!
+ica W-Well, of course! I've still got a lot of invoices left to bill! It's not like I work here for free! I was just worried that I wouldn't get paid if the captain kicked the bucket, that's all!
+#% cha ava_armscrossed_sad_closedeye_smirk
+cha ava_armscrossed_sad_closedeye_smirk
+#% voi ava_vns_ang_02
+voi ava_vns_ang_02
+# ava Yes, I am certain that is all there is to it.
+ava Yes, I am certain that is all there is to it.
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay Everyone. I'm glad to be back. Heh, you know me. It'll take more than a stray shot to put this captain down.
+kay Everyone. I'm glad to be back. Heh, you know me. It'll take more than a stray shot to put this captain down.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Let's get back to business though. Now that we've arrived here at Ongess, our mission is to escort Asaga to the peak of Mount Destiny, where she will receive her blessing and be pronounced the Sharr.
+kay Let's get back to business though. Now that we've arrived here at Ongess, our mission is to escort Asaga to the peak of Mount Destiny, where she will receive her blessing and be pronounced the Sharr.
+# kay I know not all of us are believers of the Monolithic Truth, but we all know her powers to be true. If we are to restore Asaga to her rightful place as the Queen of Ryuvia, then it's imperative that she be declared the Sharr.
+kay I know not all of us are believers of the Monolithic Truth, but we all know her powers to be true. If we are to restore Asaga to her rightful place as the Queen of Ryuvia, then it's imperative that she be declared the Sharr.
+# kay After the ceremony, we will sail to Ryuvia with the Emerald Fleet at our back and turn the tide of this war.
+kay After the ceremony, we will sail to Ryuvia with the Emerald Fleet at our back and turn the tide of this war.
+#% cha kry_fistup_focus_neutral_bigopensm
+cha kry_fistup_focus_neutral_bigopensm
+#% voi kry_vns_hap_02
+voi kry_vns_hap_02
+# kry Hear hear! Pact shall pay for the sacking of our ancestral homeland!
+kry Hear hear! Pact shall pay for the sacking of our ancestral homeland!
+# kry With the return of the Sharr, our victory is assured! May the light of the Monolithic Truth shine upon the realm!
+kry With the return of the Sharr, our victory is assured! May the light of the Monolithic Truth shine upon the realm!
+#% hid ica
+hid ica
+#% hid chi
+hid chi
+#% hid kry
+hid kry
+#% hid ava
+hid ava
+#% cha asa_armup_sad_closedeye_frown
+cha asa_armup_sad_closedeye_frown
+# asa ... ... ...
+asa ... ... ...
+#% cha asa_armup_sad_closedeye_smalltalk
+cha asa_armup_sad_closedeye_smalltalk
+# asa Sigh...
+asa Sigh...
+#% cha kay_neu_confuse_big_slight
+cha kay_neu_confuse_big_slight
+# kay Asaga?
+kay Asaga?
+# asa ... ... ...
+asa ... ... ...
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay You have been unusually quiet of late. Where has your cheer gone?
+kay You have been unusually quiet of late. Where has your cheer gone?
+#% mus mus_hatsukoi
+mus mus_hatsukoi
+#% cha asa_armup_sad_narrow_smalltalk
+cha asa_armup_sad_narrow_smalltalk
+# asa I dunno, captain...
+asa I dunno, captain...
+# asa Never in my life did I expect I of all people would be the Sharr.
+asa Never in my life did I expect I of all people would be the Sharr.
+# asa Is this really right?
+asa Is this really right?
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay You have demonstrated your powers beyond the shadow of a doubt. I am certain that you are the Sharr reborn.
+kay You have demonstrated your powers beyond the shadow of a doubt. I am certain that you are the Sharr reborn.
+#% cha asa_armscrossed_concern_closedeye_smalltalk
+cha asa_armscrossed_concern_closedeye_smalltalk
+# asa I don't mean that. Is it truly best to go through with the blessing?
+asa I don't mean that. Is it truly best to go through with the blessing?
+# asa It is clear now that no matter what I do, the Song intend to deify me as their patron goddess.
+asa It is clear now that no matter what I do, the Song intend to deify me as their patron goddess.
+#% cha asa_bendover_sad_narrow_smalltalk
+cha asa_bendover_sad_narrow_smalltalk
+# asa What if we are wrong though? Is it truly just to impose Elvish rule throughout Halla, merely because we are immortal and the other races are not?
+asa What if we are wrong though? Is it truly just to impose Elvish rule throughout Halla, merely because we are immortal and the other races are not?
+# asa My father would tell me that such is both our birthright and our burden. It is our responsibility to share the wisdom we gain from our eternal life, so that we can lead all the other races with grace and harmony.
+asa My father would tell me that such is both our birthright and our burden. It is our responsibility to share the wisdom we gain from our eternal life, so that we can lead all the other races with grace and harmony.
+# asa Yet, the Pact of Maan refuse to be ruled. Have we not acted as tyrants, to have imposed the Monolithic Truth upon the land?
+asa Yet, the Pact of Maan refuse to be ruled. Have we not acted as tyrants, to have imposed the Monolithic Truth upon the land?
+#% cha kay_neu_sad_narrowloo_smalltalk
+cha kay_neu_sad_narrowloo_smalltalk
+# kay Sigh... You know, Asaga... I really do not know any more.
+kay Sigh... You know, Asaga... I really do not know any more.
+#% cha asa_armup_confuse_neutral_slight
+cha asa_armup_confuse_neutral_slight
+# asa Captain?
+asa Captain?
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay At first, I merely sought to defend my village and my family. But now, I see that the war is far larger than that.
+kay At first, I merely sought to defend my village and my family. But now, I see that the war is far larger than that.
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay You could say I had a bit of sense knocked into me recently. Quite literally.
+kay You could say I had a bit of sense knocked into me recently. Quite literally.
+#% cha kay_neu_sad_narrowloo_smalltalk
+cha kay_neu_sad_narrowloo_smalltalk
+# kay For the High Elves, their faith that they are superior beings who have surpassed the basic needs of the other races is no mere religious obligation, but a necessity for their continued existence.
+kay For the High Elves, their faith that they are superior beings who have surpassed the basic needs of the other races is no mere religious obligation, but a necessity for their continued existence.
+# kay Heaven itself punishes those who defy the Monolithic Truth by turning them into Orks - untouchable monsters, believed to be incapable of feeling anything aside for sloth, greed, lust, and violence. 
+kay Heaven itself punishes those who defy the Monolithic Truth by turning them into Orks - untouchable monsters, believed to be incapable of feeling anything aside for sloth, greed, lust, and violence. 
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay There may be no peaceful solution to this war. Only the complete eradication of one side.
+kay There may be no peaceful solution to this war. Only the complete eradication of one side.
+#% cha asa_fist_angry_neutral_smalltalk
+cha asa_fist_angry_neutral_smalltalk
+# asa Then let us run away.
+asa Then let us run away.
+#% cha kay_neu_confuse_wide_smalltalk
+cha kay_neu_confuse_wide_smalltalk
+# kay Asaga?
+kay Asaga?
+#% cha asa_armup_sad_closedeye_smalltalk
+cha asa_armup_sad_closedeye_smalltalk
+# asa I have no need to be the Sharr or the Queen.
+asa I have no need to be the Sharr or the Queen.
+#% cha asa_armup_neutral_neutral_smile_blush
+cha asa_armup_neutral_neutral_smile_blush
+# asa Let us return to when I was merely a girl you rescued from the sea.
+asa Let us return to when I was merely a girl you rescued from the sea.
+#% cha asa_shrug_sad_neutral_awkwardsm_blush
+cha asa_shrug_sad_neutral_awkwardsm_blush
+# asa Set sail, to the East, beyond Asahi. Far away from Song. Who knows what adventures await.
+asa Set sail, to the East, beyond Asahi. Far away from Song. Who knows what adventures await.
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay What of the Monolithic Truth?
+kay What of the Monolithic Truth?
+#% cha asa_fist_sad_closedeye_bigopensm_blush
+cha asa_fist_sad_closedeye_bigopensm_blush
+# asa I cannot deny my blood. I will be the obstinate High Elf in our travels, insisting upon myself and my superior ways. But I need not be the Sharr.
+asa I cannot deny my blood. I will be the obstinate High Elf in our travels, insisting upon myself and my superior ways. But I need not be the Sharr.
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Will that be enough?
+kay Will that be enough?
+#% cha asa_armup_confuse_narrow2_catopensm_shadow_blush
+cha asa_armup_confuse_narrow2_catopensm_shadow_blush
+# asa If I fail and become an Ork, will you still look upon me as Asaga?
+asa If I fail and become an Ork, will you still look upon me as Asaga?
+#% cha kay_neu_focus_closed2_bigopensm
+cha kay_neu_focus_closed2_bigopensm
+# kay Haha. The tales of the Half-Elf captain and his Ork companion will be legendary indeed.
+kay Haha. The tales of the Half-Elf captain and his Ork companion will be legendary indeed.
+#% cha asa_armup_sad_closedeye_frown
+cha asa_armup_sad_closedeye_frown
+# asa ... ... ...
+asa ... ... ...
+#% cha asa_armup_concern_narrow_smalltalk
+cha asa_armup_concern_narrow_smalltalk
+# asa So there is no other way.
+asa So there is no other way.
+# asa Either perform the Blessing and be declared the Sharr... or become a monster.
+asa Either perform the Blessing and be declared the Sharr... or become a monster.
+# asa Why must the burden of being born a High Elf be so heavy?
+asa Why must the burden of being born a High Elf be so heavy?
+#% cha kay_neu_sad_neutral_smile
+cha kay_neu_sad_neutral_smile
+# kay Though your responsibilities be great, so too are your powers.
+kay Though your responsibilities be great, so too are your powers.
+# kay As the Sharr, you will be able to bring about great changes for the realm.
+kay As the Sharr, you will be able to bring about great changes for the realm.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Let us not run, but use this chance to bring about the best possible outcome. Whatever it may be.
+kay Let us not run, but use this chance to bring about the best possible outcome. Whatever it may be.
+#% cha asa_fist_concern_closedeye_neutral
+cha asa_fist_concern_closedeye_neutral
+# asa ... ... ...
+asa ... ... ...
+#% cha asa_fist_sad_neutral_smile
+cha asa_fist_sad_neutral_smile
+# asa Then, promise me one thing.
+asa Then, promise me one thing.
+#% cha kay_neu_confuse_big_slight
+cha kay_neu_confuse_big_slight
+# kay What is it?
+kay What is it?
+#% cha asa_fist_sad_closedeye_smallopen
+cha asa_fist_sad_closedeye_smallopen
+# asa Once Ryuvia is liberated and I am crowned the Queen... I will ask a favor out of you.
+asa Once Ryuvia is liberated and I am crowned the Queen... I will ask a favor out of you.
+#% var aff_asa
+var aff_asa
+#% cha asa_bendover_neutral_neutral_smile
+cha asa_bendover_neutral_neutral_smile
+# asa Until that day comes, stand by me. I will need your help in the days ahead.
+asa Until that day comes, stand by me. I will need your help in the days ahead.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Of course. I'm always here for you, Asaga.
+kay Of course. I'm always here for you, Asaga.
+#% cha asa_fist_sad_narrow_smile
+cha asa_fist_sad_narrow_smile
+# asa Then... let us close this day.
+asa Then... let us close this day.
+# asa For the next shall be a turning point for us all.
+asa For the next shall be a turning point for us all.
+#% hid asa
+hid asa
+#% dbg hide
+dbg hide
+#% mus stop
+mus stop
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+# nar ... ...
+nar ... ...
+# nar ... ... ...
+nar ... ... ...
+#% dbg spr_bg_grandtemple
+dbg spr_bg_grandtemple
+#% mus mus_chant
+mus mus_chant
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay (Whew... The hike up the mountain was not easy... But we are here at least.)
+kay (Whew... The hike up the mountain was not easy... But we are here at least.)
+#% cha kay_neu_focus_neutral_neutral
+cha kay_neu_focus_neutral_neutral
+# kay (So this is the legendary Monolith of Truth...)
+kay (So this is the legendary Monolith of Truth...)
+#% cha kay_neu_confuse_neutral_smalltalk
+cha kay_neu_confuse_neutral_smalltalk
+# kay Tell me, Sola... Just what does this Blessing entail?
+kay Tell me, Sola... Just what does this Blessing entail?
+#% cha sol_side_neutral_neutral_talk
+cha sol_side_neutral_neutral_talk
+#% voi sol_vns_neu_09
+voi sol_vns_neu_09
+# sol Every girl who is declared the Sharr must be baptized before the Monolith of Truth and be reborn the Sharr.
+sol Every girl who is declared the Sharr must be baptized before the Monolith of Truth and be reborn the Sharr.
+# sol With the Blessing, the old self ends, and the spirit of the Sharr comes back down from Heaven and occupies its new body.
+sol With the Blessing, the old self ends, and the spirit of the Sharr comes back down from Heaven and occupies its new body.
+#% cha kay_neu_confuse_big_slight
+cha kay_neu_confuse_big_slight
+# kay What was it like for you? Did you really feel like someone else was in your body?
+kay What was it like for you? Did you really feel like someone else was in your body?
+#% cha sol_side_concern_closedeye_smallopen
+cha sol_side_concern_closedeye_smallopen
+#% voi sol_vns_neu_13
+voi sol_vns_neu_13
+# sol I was a terrified peasant girl prior to my Blessing. Yet, I emerged a goddess.
+sol I was a terrified peasant girl prior to my Blessing. Yet, I emerged a goddess.
+#% cha sol_front_sad_closedeye_smallopen
+cha sol_front_sad_closedeye_smallopen
+# sol As the masses rallied in my name, I felt... indescribable pride.
+sol As the masses rallied in my name, I felt... indescribable pride.
+#% cha sol_front_concern_neutral_smallopen
+cha sol_front_concern_neutral_smallopen
+# sol Yet, I did not feel the spirit of the Sharr within me. I was still myself.
+sol Yet, I did not feel the spirit of the Sharr within me. I was still myself.
+#% cha sol_front_concern_narrow_talk2
+cha sol_front_concern_narrow_talk2
+#% voi sol_vns_neu_10
+voi sol_vns_neu_10
+# sol My destiny was not to become the Sharr, but to serve as the puppet of my father, the king.
+sol My destiny was not to become the Sharr, but to serve as the puppet of my father, the king.
+#% cha kay_neu_focus_closed_smalltalk
+cha kay_neu_focus_closed_smalltalk
+# kay (Or perhaps all of this is mere religious theater, played for political ends.)
+kay (Or perhaps all of this is mere religious theater, played for political ends.)
+#% hid sol
+hid sol
+#% mus mus_summoning_ambient
+mus mus_summoning_ambient
+#% cha gre_neu_angry_wide_yell
+cha gre_neu_angry_wide_yell
+#% cha asa_wedding_focus_neutral_neutral
+cha asa_wedding_focus_neutral_neutral
+# gre Princess Asaga di Ryuvia... Come forth!
+gre Princess Asaga di Ryuvia... Come forth!
+# gre From this day forth, your old life shall end, and a new one shall begin!
+gre From this day forth, your old life shall end, and a new one shall begin!
+# gre At the dawn of time, our great elders arrived upon this world within the great vessel that we stand on now.
+gre At the dawn of time, our great elders arrived upon this world within the great vessel that we stand on now.
+# gre From Heaven we fell, our landing terrible as it was great! With our mighty impact, we carved out the Dragon's Foot Sea and shattered Halla into a thousand isles!
+gre From Heaven we fell, our landing terrible as it was great! With our mighty impact, we carved out the Dragon's Foot Sea and shattered Halla into a thousand isles!
+# gre We planted Mount Destiny as our flag upon this world and brought forth the great Monolith of Truth before the mindless creatures of this land! Through our instruction, we raised these savages as if they were our very own children!
+gre We planted Mount Destiny as our flag upon this world and brought forth the great Monolith of Truth before the mindless creatures of this land! Through our instruction, we raised these savages as if they were our very own children!
+# gre We brought them song! Literature! The trades! And the ultimate law!
+gre We brought them song! Literature! The trades! And the ultimate law!
+# gre That we High Elves shall rule this land, the elder race of all other races!
+gre That we High Elves shall rule this land, the elder race of all other races!
+# gre For while death is as inevitable as the setting sun for every other living being, only we live eternal, pure and fair.
+gre For while death is as inevitable as the setting sun for every other living being, only we live eternal, pure and fair.
+# gre Sharr Asaga... Do you swear to uphold the Monolithic Truth?
+gre Sharr Asaga... Do you swear to uphold the Monolithic Truth?
+# gre To bring the light of our wisdom to our child races?
+gre To bring the light of our wisdom to our child races?
+# gre And to punish those who defy the sole natural law?
+gre And to punish those who defy the sole natural law?
+#% cha asa_wedding_focus_closedeye_smalltalk
+cha asa_wedding_focus_closedeye_smalltalk
+# asa I...
+asa I...
+# asa ... ... ...
+asa ... ... ...
+#% cha asa_wedding_focus_wide2_bigtalk
+cha asa_wedding_focus_wide2_bigtalk
+#% cha gre_neu_focus_widesmall_bigtalk
+cha gre_neu_focus_widesmall_bigtalk
+#% sou sou_shipexplode
+sou sou_shipexplode
+# hsh 15
+hsh 15
+# nar (Explosion)
+nar (Explosion)
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Wha-?!
+kay Wha-?!
+#% hid asa
+hid asa
+#% hid gre
+hid gre
+#% mus mus_battleagainsttime
+mus mus_battleagainsttime
+#% sou sou_warning
+sou sou_warning
+#% cha kry_armdown_angry_wide_shout
+cha kry_armdown_angry_wide_shout
+# kry Admiral! Captain! We are under attack!
+kry Admiral! Captain! We are under attack!
+#% cha gre_neu_angry_wide_clench
+cha gre_neu_angry_wide_clench
+# gre Who dares corrupt this holy moment?!
+gre Who dares corrupt this holy moment?!
+#% cha kry_fistup_angry_wide_yell
+cha kry_fistup_angry_wide_yell
+# kry It's Pact! Their ships surround our fleet! We are being destroyed as we sit helpless in the harbor!
+kry It's Pact! Their ships surround our fleet! We are being destroyed as we sit helpless in the harbor!
+#% cha gre_neu_angry_surprise_shout
+cha gre_neu_angry_surprise_shout
+# gre What?! Impossible! Our defensive line at Far Port is impenetrable! How could they have reached us here?!
+gre What?! Impossible! Our defensive line at Far Port is impenetrable! How could they have reached us here?!
+#% cha kry_fistup_angry_wide_clench
+cha kry_fistup_angry_wide_clench
+# kry I... I do not know, Admiral!
+kry I... I do not know, Admiral!
+#% cha ava_facepalm_focus_narrow_smalltalk
+cha ava_facepalm_focus_narrow_smalltalk
+# ava Captain, this defies logic. How could this have happened?
+ava Captain, this defies logic. How could this have happened?
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay That does not matter now.
+kay That does not matter now.
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Everyone! Come with me!
+kay Everyone! Come with me!
+# kay We must make haste down the mountain and take command of the Sunrider!
+kay We must make haste down the mountain and take command of the Sunrider!
+# kay Come on!
+kay Come on!
+#% cha asa_wedding_angry_closedeye_slight
+cha asa_wedding_angry_closedeye_slight
+# asa ... ... ...
+asa ... ... ...
+#% obj BATTLE: Ambush at Ongess
+obj BATTLE: Ambush at Ongess
+#% cha asa_wedding_focus_wide2_bigtalk
+cha asa_wedding_focus_wide2_bigtalk
+# asa I'm with you! Come on everyone!
+asa I'm with you! Come on everyone!
+#% sou sou_rungrass
+sou sou_rungrass
+# nar ... ... ...
+nar ... ... ...
+#% roo roo_chap6_battle2
+roo roo_chap6_battle2
+#% 
+
+#% tag chap6_battle2_start
+tag chap6_battle2_start
+#% cha ava_facepalm_focus_closedeye_tch
+cha ava_facepalm_focus_closedeye_tch
+#% voi ava_vns_ang_05
+voi ava_vns_ang_05
+# ava It's too late... The Emerald Fleet burns at the docks...
+ava It's too late... The Emerald Fleet burns at the docks...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Hold fast. We can still salvage this.
+kay Hold fast. We can still salvage this.
+#% hid ava
+hid ava
+#% cha fon_neu_lowfocus_neutral_smirk
+cha fon_neu_lowfocus_neutral_smirk
+#% voi fon_vns_hap_01
+voi fon_vns_hap_01
+# fon So we finally meet in battle, Shields.
+fon So we finally meet in battle, Shields.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay It's you!
+kay It's you!
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+# fon Yes, I, Lord Fontana of the Crimson Fleet shall be your foe!
+fon Yes, I, Lord Fontana of the Crimson Fleet shall be your foe!
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay I concede, you have out maneuvered me. Teach me your tricks, my lord. How did your ships arrive here, with Far Port blockaded?
+kay I concede, you have out maneuvered me. Teach me your tricks, my lord. How did your ships arrive here, with Far Port blockaded?
+#% cha fon_neu_lowfocus_closedeye_opensmile
+cha fon_neu_lowfocus_closedeye_opensmile
+#% voi fon_vns_neu_04
+voi fon_vns_neu_04
+# fon Very well! Since you asked so humbly, I shall answer!
+fon Very well! Since you asked so humbly, I shall answer!
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+# fon Any commander with a map would know that Song's first move would be to blockade the Strait of Far Port.
+fon Any commander with a map would know that Song's first move would be to blockade the Strait of Far Port.
+# fon That is why I sent a fleet of my quickest vessels through the strait before you arrived and hid them until the perfect moment to mount an ambush!
+fon That is why I sent a fleet of my quickest vessels through the strait before you arrived and hid them until the perfect moment to mount an ambush!
+#% cha kay_neu_confuse_wide_smalltalk
+cha kay_neu_confuse_wide_smalltalk
+# kay That is unexpected... No ship could move so fast.
+kay That is unexpected... No ship could move so fast.
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+# ava Look, captain. Those are no ordinary vessels.
+ava Look, captain. Those are no ordinary vessels.
+# ava I have heard of great Asahi machinery which can grind Elvish monoliths into black iron dust... Once ignited, they emit vast amounts of mana as they are consumed.
+ava I have heard of great Asahi machinery which can grind Elvish monoliths into black iron dust... Once ignited, they emit vast amounts of mana as they are consumed.
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+# ava They say even though Maan have no affinity with magic, they are capable of constructing machinery beyond our imaginations!
+ava They say even though Maan have no affinity with magic, they are capable of constructing machinery beyond our imaginations!
+#% cha kry_fistup_angry_closedeye_clench
+cha kry_fistup_angry_closedeye_clench
+#% voi kry_vns_ang_01
+voi kry_vns_ang_01
+# kry Blasphemy! To destroy the monoliths and use them as fuel...!
+kry Blasphemy! To destroy the monoliths and use them as fuel...!
+#% cha kry_armout_angry_wide_yell
+cha kry_armout_angry_wide_yell
+# kry I swear by my hammer! Thou shalt pay for this sacrilege, infidel!
+kry I swear by my hammer! Thou shalt pay for this sacrilege, infidel!
+#% cha fon_neu_lowfocus_closedeye_opensmile
+cha fon_neu_lowfocus_closedeye_opensmile
+#% voi fon_vns_neu_02
+voi fon_vns_neu_02
+# fon Heh! Though you speak of Elvish supremacy, it is you who are the luddites. Worshiping chunks of space rock as holy objects sent from sky gods? Hahaha!
+fon Heh! Though you speak of Elvish supremacy, it is you who are the luddites. Worshiping chunks of space rock as holy objects sent from sky gods? Hahaha!
+#% cha fon_neu_lowfocus_neutral_smirk
+cha fon_neu_lowfocus_neutral_smirk
+# fon Perhaps we Maan can offer you a lesson of our own.
+fon Perhaps we Maan can offer you a lesson of our own.
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+# fon That isle you call the holy land is but a large piece of ore which fell from space. Ore, which properly utilized can advance civilization to its next age!
+fon That isle you call the holy land is but a large piece of ore which fell from space. Ore, which properly utilized can advance civilization to its next age!
+#% cha kry_fistup_angry_wide_clench
+cha kry_fistup_angry_wide_clench
+#% voi kry_vns_ang_04
+voi kry_vns_ang_04
+# kry Enough! Your words are poison! I shall cut out your tongue, worm!
+kry Enough! Your words are poison! I shall cut out your tongue, worm!
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+#% voi fon_vns_hap_03
+voi fon_vns_hap_03
+# fon Then this discussion is finished. All ships! Sink them all!
+fon Then this discussion is finished. All ships! Sink them all!
+#% stop
+stop
+#% 
+
+#% tag chap6_battle2_pirates
+tag chap6_battle2_pirates
+#% cha fon_neu_lowfocus_neutral_smirk
+cha fon_neu_lowfocus_neutral_smirk
+# fon Not bad, Shields. I see why you are called the Hero of Far Port.
+fon Not bad, Shields. I see why you are called the Hero of Far Port.
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+# fon But you are still predictable!
+fon But you are still predictable!
+#% cha cos_armscrossed_crazyangr_narrow_grin
+cha cos_armscrossed_crazyangr_narrow_grin
+# cos Kukuku... I finished doing what you told me to, Fontana. Now, how about we finish off the rest of the Emerald Fleet?
+cos Kukuku... I finished doing what you told me to, Fontana. Now, how about we finish off the rest of the Emerald Fleet?
+#% cha cos_fists_angry_narrow_grin
+cha cos_fists_angry_narrow_grin
+# cos You should have killed me when you had the chance, Shields. Now you'll regret letting me live!
+cos You should have killed me when you had the chance, Shields. Now you'll regret letting me live!
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Sparing you was no mistake, Cosette. It is not too late. I know there is still good in you. Lay down your arms.
+kay Sparing you was no mistake, Cosette. It is not too late. I know there is still good in you. Lay down your arms.
+#% cha cos_fists_confused_crazy_grin
+cha cos_fists_confused_crazy_grin
+# cos Dumbass! I be the Terror of the Seas, ye fool.
+cos Dumbass! I be the Terror of the Seas, ye fool.
+# cos Salvation? That, I have no desire for. Saving? Bah! I spit at the meager shelter ye offer.
+cos Salvation? That, I have no desire for. Saving? Bah! I spit at the meager shelter ye offer.
+#% cha cos_laugh_crazyangr_narrow_widesmile
+cha cos_laugh_crazyangr_narrow_widesmile
+# cos Vengeance be my desire. So sit down, boy.
+cos Vengeance be my desire. So sit down, boy.
+# cos And let me show you war.
+cos And let me show you war.
+#% stop
+stop
+#% 
+
+#% tag chap6_battle2_end
+tag chap6_battle2_end
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+#% voi ava_vns_ang_07
+voi ava_vns_ang_07
+# ava We've got them! The enemy is in full retreat!
+ava We've got them! The enemy is in full retreat!
+#% hid ava
+hid ava
+#% cha cos_laugh_angry_widebigpu_widesmile
+cha cos_laugh_angry_widebigpu_widesmile
+#% voi cos_vns_hap_01
+voi cos_vns_hap_01
+# cos Kukuku... Haaahahahaha!
+cos Kukuku... Haaahahahaha!
+# cos You think this is a victory?
+cos You think this is a victory?
+# cos Make your pilgrimage to the peak of Mount Destiny... And see what we have done to your sacred monolith!
+cos Make your pilgrimage to the peak of Mount Destiny... And see what we have done to your sacred monolith!
+# cos This is farewell, Shields! We shall meet... in Ryuvia's ashes!
+cos This is farewell, Shields! We shall meet... in Ryuvia's ashes!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap6_monolithstolen
+tag chap6_monolithstolen
+#% xob BATTLE: Ambush at Ongess
+xob BATTLE: Ambush at Ongess
+#% mus mus_summoning_part1
+mus mus_summoning_part1
+#% dbg spr_bg_grandtemple_nomono
+dbg spr_bg_grandtemple_nomono
+#% cha kry_fistup_angry_wide_clench
+cha kry_fistup_angry_wide_clench
+#% voi kry_vns_sur_01
+voi kry_vns_sur_01
+# kry Sharr protect us...! That damnable pirate...!
+kry Sharr protect us...! That damnable pirate...!
+# kry She has stolen the Monolith of Truth!
+kry She has stolen the Monolith of Truth!
+# kry Now, how will its light shine down upon us?! Cursed be that wretched deviling! Cursed be that snake of a Maan!
+kry Now, how will its light shine down upon us?! Cursed be that wretched deviling! Cursed be that snake of a Maan!
+#% cha kry_fistup_angry_closedeye_shout
+cha kry_fistup_angry_closedeye_shout
+# kry Raaaaarggghhhh!!!!
+kry Raaaaarggghhhh!!!!
+#% cha kay_neu_sad_neutral_neutral
+cha kay_neu_sad_neutral_neutral
+# kay Sister Paladin...
+kay Sister Paladin...
+#% hid kry
+hid kry
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+#% voi ava_vns_ang_02
+voi ava_vns_ang_02
+# ava Captain, I believe this is more than an stab at the heart of Elvish morale...
+ava Captain, I believe this is more than an stab at the heart of Elvish morale...
+# ava Based upon what we saw from Fontana's ships, it appears that Pact has the ability to convert the monoliths into energy.
+ava Based upon what we saw from Fontana's ships, it appears that Pact has the ability to convert the monoliths into energy.
+#% cha ava_armscrossed_focus_closedeye_frown
+cha ava_armscrossed_focus_closedeye_frown
+# ava Their attack on the Emerald Fleet was merely a distraction. Their true aim was to steal the Monolith of Truth.
+ava Their attack on the Emerald Fleet was merely a distraction. Their true aim was to steal the Monolith of Truth.
+#% cha ava_armscrossed_worry_narrowloo_smalltalk
+cha ava_armscrossed_worry_narrowloo_smalltalk
+# ava If they refine the black iron it holds into a weapon, its destructive capacity would be unfathomable. Possibly enough to move mountains.
+ava If they refine the black iron it holds into a weapon, its destructive capacity would be unfathomable. Possibly enough to move mountains.
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Or enough to level an entire city.
+kay Or enough to level an entire city.
+#% cha asa_excited_angry2_wide_yell
+cha asa_excited_angry2_wide_yell
+#% voi asa_vns_ang_02
+voi asa_vns_ang_02
+# asa So that is what Cosette meant by meeting at Ryuvia's ashes... They intend to turn the monolith into a bomb. One that they'll detonate at Ryuvia!
+asa So that is what Cosette meant by meeting at Ryuvia's ashes... They intend to turn the monolith into a bomb. One that they'll detonate at Ryuvia!
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay But why...? They hold the city... It makes no sense to burn your own castle town to the ground...
+kay But why...? They hold the city... It makes no sense to burn your own castle town to the ground...
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Unless...
+kay Unless...
+# kay No...
+kay No...
+# asa What is it, captain?
+asa What is it, captain?
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay It was something Fontana said during the battle. Anyone with a map would be able to see...
+kay It was something Fontana said during the battle. Anyone with a map would be able to see...
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay The Strait of Far Port is the only way to get into the Dragon's Foot Sea...
+kay The Strait of Far Port is the only way to get into the Dragon's Foot Sea...
+# kay Unless... a second strait was to be artificially made... at the Hallaen isthmus' narrowest point... at Ryuvia.
+kay Unless... a second strait was to be artificially made... at the Hallaen isthmus' narrowest point... at Ryuvia.
+# kay Fontana seeks to detonate the Monolith of Truth there to create a canal that links the Neutral Marches to the Dragon's Foot Sea. Then, the Crimson Fleet will have a clear path to Volaris and our victory at Far Port will have been for naught.
+kay Fontana seeks to detonate the Monolith of Truth there to create a canal that links the Neutral Marches to the Dragon's Foot Sea. Then, the Crimson Fleet will have a clear path to Volaris and our victory at Far Port will have been for naught.
+#% cha ava_facepalm_focus_narrow_bigtalk
+cha ava_facepalm_focus_narrow_bigtalk
+#% voi ava_vns_sur_02
+voi ava_vns_sur_02
+# ava But that would be madness! Would the enemy truly wipe Ryuvia off the map?
+ava But that would be madness! Would the enemy truly wipe Ryuvia off the map?
+#% cha ava_armup_focus_closedeye_yell
+cha ava_armup_focus_closedeye_yell
+#% voi ava_vns_sad_04
+voi ava_vns_sad_04
+# ava Let us take some deep breathes and consider this with cool heads.
+ava Let us take some deep breathes and consider this with cool heads.
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+# ava Fontana stole the Monolith of Truth to goad the Emerald Fleet into pursuit. Fontana's plan must be to use it as bait to lure the Emerald Fleet away from Far Port.
+ava Fontana stole the Monolith of Truth to goad the Emerald Fleet into pursuit. Fontana's plan must be to use it as bait to lure the Emerald Fleet away from Far Port.
+# ava That is his true target. Not Ryuvia.
+ava That is his true target. Not Ryuvia.
+#% cha ava_armscrossed_focus_closedeye_frown
+cha ava_armscrossed_focus_closedeye_frown
+# ava If we pursue the Monolith to Ryuvia, we will be playing right into his trap! And be undoing our decisive victory at Far Port in the process!
+ava If we pursue the Monolith to Ryuvia, we will be playing right into his trap! And be undoing our decisive victory at Far Port in the process!
+#% cha asa_fist_angry_neutral_smalltalk
+cha asa_fist_angry_neutral_smalltalk
+#% voi asa_vns_ang_01
+voi asa_vns_ang_01
+# asa But can we take that risk? This is Ryuvia we're talking about. Besides, without the Monolith, our connection to the Monolithic Truth is severed. Until it is recovered, it's now a ticking time bomb until all of us are turned to Orks!
+asa But can we take that risk? This is Ryuvia we're talking about. Besides, without the Monolith, our connection to the Monolithic Truth is severed. Until it is recovered, it's now a ticking time bomb until all of us are turned to Orks!
+#% cha kry_fistup_angry_wide_yell
+cha kry_fistup_angry_wide_yell
+#% voi kry_vns_ang_05
+voi kry_vns_ang_05
+# kry The Sharr speaks the truth! The Monolith of Truth must be recovered at all costs! All our fates hinge upon it!
+kry The Sharr speaks the truth! The Monolith of Truth must be recovered at all costs! All our fates hinge upon it!
+#% hid kry
+hid kry
+#% hid asa
+hid asa
+#% hid ava
+hid ava
+#% cha gre_neu_angry_surprise_shout
+cha gre_neu_angry_surprise_shout
+#% voi gre_vns_neu_01
+voi gre_vns_neu_01
+# gre And recover it we shall!
+gre And recover it we shall!
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Admiral Grey...!
+kay Admiral Grey...!
+#% voi gre_vns_ang_05
+voi gre_vns_ang_05
+# gre The lowly Maan have dared desecrate that which is holy! Plundered that which binds us! Protects us! And for that, may the Sharr's fury strike down these infidels!
+gre The lowly Maan have dared desecrate that which is holy! Plundered that which binds us! Protects us! And for that, may the Sharr's fury strike down these infidels!
+#% cha gre_neu_angry_wide_clench
+cha gre_neu_angry_wide_clench
+# gre I have already sent birds to Far Port! All our ships are hereby ordered to sail to Ryuvia and recover the Monolith of Truth, no matter the cost!
+gre I have already sent birds to Far Port! All our ships are hereby ordered to sail to Ryuvia and recover the Monolith of Truth, no matter the cost!
+#% cha ava_armup_focus_surprise_bigtalk
+cha ava_armup_focus_surprise_bigtalk
+#% voi ava_vns_ang_06
+voi ava_vns_ang_06
+# ava Can you not see that is precisely what Fontana wants? You are sailing right towards a trap!
+ava Can you not see that is precisely what Fontana wants? You are sailing right towards a trap!
+#% cha gre_neu_angry_wide_shout
+cha gre_neu_angry_wide_shout
+#% voi gre_vns_ang_02
+voi gre_vns_ang_02
+# gre Silence, Lessor! I have spoken! Let our will be done!
+gre Silence, Lessor! I have spoken! Let our will be done!
+#% cha ava_facepalm_focus_closedeye_tch
+cha ava_facepalm_focus_closedeye_tch
+# ava Captain, you must put a stop to this. If we pull our forces back from Far Port, we are handing Halla on a silver platter to Pact.
+ava Captain, you must put a stop to this. If we pull our forces back from Far Port, we are handing Halla on a silver platter to Pact.
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay ... ... ...
+kay ... ... ...
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay A damnable choice befalls us. One which will determine not just our fates, but the fate of all of Halla.
+kay A damnable choice befalls us. One which will determine not just our fates, but the fate of all of Halla.
+# kay Let us return to the ship... and convene the crew.
+kay Let us return to the ship... and convene the crew.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay We shall make this decision together.
+kay We shall make this decision together.
+#% dbg hide
+dbg hide
+#% hid gre
+hid gre
+#% hid ava
+hid ava
+# nar ... ... ...
+nar ... ... ...
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (An impossible decision is before us...)
+kay (An impossible decision is before us...)
+# kay (If our alliance with Song is to hold, then we must sail for Ryuvia at once and attempt to recover the Monolith of Truth...)
+kay (If our alliance with Song is to hold, then we must sail for Ryuvia at once and attempt to recover the Monolith of Truth...)
+# kay (However, Ava is correct that Fontana would already have predicted such a move.)
+kay (However, Ava is correct that Fontana would already have predicted such a move.)
+# kay (Fontana's true aim in stealing the Monolith may be to use it as bait to lure the Emerald Fleet away from Far Port... Then he will seize the Dragon Foot's Sea while we are at Ryuvia.)
+kay (Fontana's true aim in stealing the Monolith may be to use it as bait to lure the Emerald Fleet away from Far Port... Then he will seize the Dragon Foot's Sea while we are at Ryuvia.)
+# kay (Yet, I feel an ominous weight on my shoulders...)
+kay (Yet, I feel an ominous weight on my shoulders...)
+# kay (If Pact truly seeks to use the Monolith to unleash a cataclysmic explosion to sink Ryuvia into the sea, then we are truly doomed.)
+kay (If Pact truly seeks to use the Monolith to unleash a cataclysmic explosion to sink Ryuvia into the sea, then we are truly doomed.)
+# kay (This is a monumental decision... I must consult the crew.)
+kay (This is a monumental decision... I must consult the crew.)
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_ava
+tag chap6_splitter_ava
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+#% voi ava_vns_sad_04
+voi ava_vns_sad_04
+# ava We cannot be rattled by these unfortunate events into making foolhardy decisions.
+ava We cannot be rattled by these unfortunate events into making foolhardy decisions.
+# ava We must sail to Far Port at once. The Emerald Fleet must be convinced to hold the Strait, or else our hard won victory there will have been for naught.
+ava We must sail to Far Port at once. The Emerald Fleet must be convinced to hold the Strait, or else our hard won victory there will have been for naught.
+#% cha kay_neu_confuse_neutral_slight
+cha kay_neu_confuse_neutral_slight
+# kay And if we cannot convince the Emerald Fleet to hold the line? Or if we are too late and they have already departed?
+kay And if we cannot convince the Emerald Fleet to hold the line? Or if we are too late and they have already departed?
+#% cha ava_facepalm_angry_closedeye_frown
+cha ava_facepalm_angry_closedeye_frown
+#% voi ava_vns_sad_01
+voi ava_vns_sad_01
+# ava Then we must hold the Strait with our own forces.
+ava Then we must hold the Strait with our own forces.
+#% cha ava_armscrossed_focus_neutrallo_smalltalk
+cha ava_armscrossed_focus_neutrallo_smalltalk
+# ava While the battle will be difficult, you have already showed us it can be done. Further, our powers and forces have grown considerably since then.
+ava While the battle will be difficult, you have already showed us it can be done. Further, our powers and forces have grown considerably since then.
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+# ava I believe Far Port is where the fate of Halla will be decided. Not Ryuvia.
+ava I believe Far Port is where the fate of Halla will be decided. Not Ryuvia.
+# ava Do not follow the High Elves blindly into the maws of Fontana's trap. Surely, you see precisely the spiderweb he has spun for us at Ryuvia?
+ava Do not follow the High Elves blindly into the maws of Fontana's trap. Surely, you see precisely the spiderweb he has spun for us at Ryuvia?
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay I do see your point. I will take your counsel into advisement. Thank you, commander...
+kay I do see your point. I will take your counsel into advisement. Thank you, commander...
+#% hid ava
+hid ava
+# cva ava0
+cva ava0
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_asa
+tag chap6_splitter_asa
+#% cha asa_fist_focus_neutral_smalltalk
+cha asa_fist_focus_neutral_smalltalk
+#% voi asa_vns_ang_02
+voi asa_vns_ang_02
+# asa We must return to Ryuvia at once. If Pact truly does intend to use the Monolith as a bomb to sink Ryuvia into the sea, then they must be stopped at all costs.
+asa We must return to Ryuvia at once. If Pact truly does intend to use the Monolith as a bomb to sink Ryuvia into the sea, then they must be stopped at all costs.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay But we cannot be certain of their designs. The commander is right in that this may merely be a trap to lure the Emerald Fleet away from Far Port.
+kay But we cannot be certain of their designs. The commander is right in that this may merely be a trap to lure the Emerald Fleet away from Far Port.
+#% cha asa_fist_focus_closedeye_neutral
+cha asa_fist_focus_closedeye_neutral
+# asa But so long as there is even a possibility, as the Princess of Ryuvia, my duty is to protect my people.
+asa But so long as there is even a possibility, as the Princess of Ryuvia, my duty is to protect my people.
+#% cha asa_armup_sad_closedeye_smalltalk
+cha asa_armup_sad_closedeye_smalltalk
+# asa I'm sorry, captain, but if Ryuvia and the Monolith are destroyed, then that will mean the end of my people.
+asa I'm sorry, captain, but if Ryuvia and the Monolith are destroyed, then that will mean the end of my people.
+#% cha asa_armup_concern_narrow_smalltalk
+cha asa_armup_concern_narrow_smalltalk
+# asa Not just that, but it will be the extinction of all Elves.
+asa Not just that, but it will be the extinction of all Elves.
+# asa I just can't bring myself to risk that, no matter what.
+asa I just can't bring myself to risk that, no matter what.
+#% hid asa
+hid asa
+# cva asa1
+cva asa1
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_chi
+tag chap6_splitter_chi
+#% cha chi_handtoface_sad_narrow_smalltalk
+cha chi_handtoface_sad_narrow_smalltalk
+#% voi chi_vns_sad_03
+voi chi_vns_sad_03
+# chi I'm sorry captain... But Chigara doesn't know what to do at all...
+chi I'm sorry captain... But Chigara doesn't know what to do at all...
+#% cha chi_handtoface_sad_closedeye_smalltalk
+cha chi_handtoface_sad_closedeye_smalltalk
+# chi But I've never seen Asaga so worried before...
+chi But I've never seen Asaga so worried before...
+#% cha chi_handonchest_sad_neutral_bigtalk
+cha chi_handonchest_sad_neutral_bigtalk
+# chi Pact really might use the Monolith to sink Ryuvia into the sea, won't they?
+chi Pact really might use the Monolith to sink Ryuvia into the sea, won't they?
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay It's hard to tell...
+kay It's hard to tell...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay It is possible the theft of the Monolith was merely a ruse to bait the Emerald Fleet into abandoning Far Port...
+kay It is possible the theft of the Monolith was merely a ruse to bait the Emerald Fleet into abandoning Far Port...
+# kay But if the Witch of Asahi is truly in control of Pact, then perhaps we are right to assume the worst...
+kay But if the Witch of Asahi is truly in control of Pact, then perhaps we are right to assume the worst...
+#% cha chi_handonchest_sad_neutrallo_smalltalk
+cha chi_handonchest_sad_neutrallo_smalltalk
+#% voi chi_vns_sad_01
+voi chi_vns_sad_01
+# chi I'm sorry captain, but Chigara believes that we should head to Ryuvia and try to get the Monolith back...
+chi I'm sorry captain, but Chigara believes that we should head to Ryuvia and try to get the Monolith back...
+# chi We just can't risk giving Pact such a powerful magical artifact. If they really do use it, then everything will truly be lost.
+chi We just can't risk giving Pact such a powerful magical artifact. If they really do use it, then everything will truly be lost.
+#% hid chi
+hid chi
+# cva chi1
+cva chi1
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_ica
+tag chap6_splitter_ica
+#% cha ica_handsonhips_annoyed_neutral_smalltalk
+cha ica_handsonhips_annoyed_neutral_smalltalk
+#% voi ica_vns_ang_05
+voi ica_vns_ang_05
+# ica This is obviously a Pact trap, no doubt about it.
+ica This is obviously a Pact trap, no doubt about it.
+# ica That Fontana guy's not the sort to blow up an entire city. He's just trying to trick the High Elves into attacking Ryuvia with everything they have. While the Emerald Fleet's gone, Pact's gonna take control of Far Port and with that, they'll have full access to the Dragon Foot Sea.
+ica That Fontana guy's not the sort to blow up an entire city. He's just trying to trick the High Elves into attacking Ryuvia with everything they have. While the Emerald Fleet's gone, Pact's gonna take control of Far Port and with that, they'll have full access to the Dragon Foot Sea.
+#% cha ica_armscrossed_annoyed_closedeye_smalltalk
+cha ica_armscrossed_annoyed_closedeye_smalltalk
+# ica It's time to call his bluff and defeat the Crimson Fleet at Far Port. Again.
+ica It's time to call his bluff and defeat the Crimson Fleet at Far Port. Again.
+#% hid ica
+hid ica
+# cva ica0
+cva ica0
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_cla
+tag chap6_splitter_cla
+#% cha cla_handsonhips_angry_neutral_laugh
+cha cla_handsonhips_angry_neutral_laugh
+#% voi cla_vns_neu_04
+voi cla_vns_neu_04
+# cla Well, well, well, captain... So you've come to your patron goddess for advice.
+cla Well, well, well, captain... So you've come to your patron goddess for advice.
+#% cha cla_armscrossed_confuse_smug_awkwardsm
+cha cla_armscrossed_confuse_smug_awkwardsm
+# cla Methinks you shared quite an intimate discussion with our wayward pirate friend at Ongess, no?
+cla Methinks you shared quite an intimate discussion with our wayward pirate friend at Ongess, no?
+#% cha cla_armscrossed_sad_closedeye_awkwardsm
+cha cla_armscrossed_sad_closedeye_awkwardsm
+# cla Nyohohoho! Don't deny it. Your goddess knows all.
+cla Nyohohoho! Don't deny it. Your goddess knows all.
+#% cha cla_handsonhips_focus_neutral_smallopen
+cha cla_handsonhips_focus_neutral_smallopen
+# cla What say you pursue your lost friend to Ryuvia? Who knows where that thread will lead...
+cla What say you pursue your lost friend to Ryuvia? Who knows where that thread will lead...
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay Somehow, I have a strong inkling that it will lead straight into a trap.
+kay Somehow, I have a strong inkling that it will lead straight into a trap.
+#% cha cla_handsonhips_raised_closedeye_smallopen
+cha cla_handsonhips_raised_closedeye_smallopen
+#% voi cla_vns_neu_05
+voi cla_vns_neu_05
+# cla A trap our intrepid captain is more than capable of overcoming!
+cla A trap our intrepid captain is more than capable of overcoming!
+#% cha cla_handsonhips_raised_neutral_laugh
+cha cla_handsonhips_raised_neutral_laugh
+# cla Fear not, captain. Your goddess has faith in you.
+cla Fear not, captain. Your goddess has faith in you.
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay (Somehow, that only inclines me to pursue the opposite path...)
+kay (Somehow, that only inclines me to pursue the opposite path...)
+#% hid cla
+hid cla
+# cva cla1
+cva cla1
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_kry
+tag chap6_splitter_kry
+#% cha kry_fistup_angry_wide_yell
+cha kry_fistup_angry_wide_yell
+#% voi kry_vns_ang_05
+voi kry_vns_ang_05
+# kry This is not the time for debate! We must set sail for Ryuvia at once! The fate of all Elves depend upon us!
+kry This is not the time for debate! We must set sail for Ryuvia at once! The fate of all Elves depend upon us!
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay We cannot be rash, Sister Paladin. We could be sailing into a trap...
+kay We cannot be rash, Sister Paladin. We could be sailing into a trap...
+#% cha kry_armout_angry_wide_yell
+cha kry_armout_angry_wide_yell
+# kry A trap we will overcome with our superior knowledge and might! Bah, I should have known those sniveling Maan would resort to underhanded subterfuge! Such are their ways...
+kry A trap we will overcome with our superior knowledge and might! Bah, I should have known those sniveling Maan would resort to underhanded subterfuge! Such are their ways...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Let's think this through. This is precisely what Fontana wants. Your anger has robbed you of your wits.
+kay Let's think this through. This is precisely what Fontana wants. Your anger has robbed you of your wits.
+#% cha kry_armdown_sad_closedeye_smalltalk
+cha kry_armdown_sad_closedeye_smalltalk
+#% voi kry_vns_sad_01
+voi kry_vns_sad_01
+# kry Perhaps so...
+kry Perhaps so...
+#% cha kry_armdown_focus_neutral_smalltalk
+cha kry_armdown_focus_neutral_smalltalk
+#% voi kry_vns_sad_04
+voi kry_vns_sad_04
+# kry But the theft of the Monolith of Truth has cut to the bone every Elf in Halla...
+kry But the theft of the Monolith of Truth has cut to the bone every Elf in Halla...
+# kry Unless it is recovered quickly, we will lose the blessing of the Sharr... and become monstrous Orks.
+kry Unless it is recovered quickly, we will lose the blessing of the Sharr... and become monstrous Orks.
+#% cha kry_fistup_angry_closedeye_clench
+cha kry_fistup_angry_closedeye_clench
+# kry And if such a black calamity were to occur...
+kry And if such a black calamity were to occur...
+#% cha kry_fistup_angry_wide_clench
+cha kry_fistup_angry_wide_clench
+# kry Then life as we know it would end. Not merely for us High Elves, but for every living being in Halla...
+kry Then life as we know it would end. Not merely for us High Elves, but for every living being in Halla...
+# kry You asked me for counsel, captain. I see no other alternative but to pursue Pact to Ryuvia and recover the Monolith of Truth.
+kry You asked me for counsel, captain. I see no other alternative but to pursue Pact to Ryuvia and recover the Monolith of Truth.
+#% hid kry
+hid kry
+# cva kry1
+cva kry1
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_sol
+tag chap6_splitter_sol
+#% cha sol_side_sad_narrowloo_talk
+cha sol_side_sad_narrowloo_talk
+#% voi sol_vns_sad_04
+voi sol_vns_sad_04
+# sol A tragedy most bleak has struck...
+sol A tragedy most bleak has struck...
+#% cha sol_side_sad_closedeye_frown
+cha sol_side_sad_closedeye_frown
+# sol Alas, misfortune truly doth chase me.
+sol Alas, misfortune truly doth chase me.
+#% cha sol_front_sad_neutral_talk2
+cha sol_front_sad_neutral_talk2
+#% voi sol_vns_sad_01
+voi sol_vns_sad_01
+# sol Though we may be damned either direction we take, I still believe we must recover the Monolith of Truth at Ryuvia...
+sol Though we may be damned either direction we take, I still believe we must recover the Monolith of Truth at Ryuvia...
+#% cha sol_front_sad_closedeye_talk
+cha sol_front_sad_closedeye_talk
+# sol For if we High Elves all turn to Orks, I fear the light of civilization will truly go out for good. All that we have accomplished would burn and turn to cinders.
+sol For if we High Elves all turn to Orks, I fear the light of civilization will truly go out for good. All that we have accomplished would burn and turn to cinders.
+#% cha sol_front_concern_neutrallo_talk
+cha sol_front_concern_neutrallo_talk
+# sol Even if Pact gains the Dragon's Foot Sea and the Veniczar becomes the new king of Halla, even that would be preferable to the alternative.
+sol Even if Pact gains the Dragon's Foot Sea and the Veniczar becomes the new king of Halla, even that would be preferable to the alternative.
+#% cha sol_back_sad_narrowloo_talk2
+cha sol_back_sad_narrowloo_talk2
+# sol To spend the rest of my days as an Ork... What a dire conclusion to a life of woe that would be.
+sol To spend the rest of my days as an Ork... What a dire conclusion to a life of woe that would be.
+#% cha kay_neu_sad_closed_slight
+cha kay_neu_sad_closed_slight
+# kay (Come on Sola, you don't have to put it like that...)
+kay (Come on Sola, you don't have to put it like that...)
+#% hid sol
+hid sol
+# cva sol1
+cva sol1
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_mar
+tag chap6_splitter_mar
+#% cha mar_lean_confuse_smug_smirk
+cha mar_lean_confuse_smug_smirk
+#% voi mar_vns_neu_10
+voi mar_vns_neu_10
+# mar Hey Kayto, is it just me or was that last Pact commander, like, totally hot?
+mar Hey Kayto, is it just me or was that last Pact commander, like, totally hot?
+#% cha kay_neu_sad_narrowloo_clench
+cha kay_neu_sad_narrowloo_clench
+# kay Maray, please. Read the air. How could you embarrass me like this...
+kay Maray, please. Read the air. How could you embarrass me like this...
+#% cha mar_excited_focus_smug_bigtalk
+cha mar_excited_focus_smug_bigtalk
+#% voi mar_vns_neu_13
+voi mar_vns_neu_13
+# mar Ugh, I'm just trying to lighten the mood here. Don't look down on your little sister so much.
+mar Ugh, I'm just trying to lighten the mood here. Don't look down on your little sister so much.
+#% cha mar_excited_focus_wide_yell
+cha mar_excited_focus_wide_yell
+#% voi mar_vns_ang_01
+voi mar_vns_ang_01
+# mar Anyways, you better not be forgetting that dad's counting on us to get the Monolith of Truth back!
+mar Anyways, you better not be forgetting that dad's counting on us to get the Monolith of Truth back!
+# mar If we screw this up, he's gonna have to spend the rest of his life as an Ork! So make the right choice, bro. I'm counting on you.
+mar If we screw this up, he's gonna have to spend the rest of his life as an Ork! So make the right choice, bro. I'm counting on you.
+#% cha kay_neu_focus_closed_smalltalk
+cha kay_neu_focus_closed_smalltalk
+# kay Of course I haven't forgotten that. But this decision will affect the whole realm, Maray. We can't let our emotions get the better of us.
+kay Of course I haven't forgotten that. But this decision will affect the whole realm, Maray. We can't let our emotions get the better of us.
+#% cha mar_lean_focus_smug_yell
+cha mar_lean_focus_smug_yell
+# mar Well, it's a good thing then that your more emotionally intelligent little sister is here to remind you that people have feelings. This isn't just about winning the war. It's about protecting our family.
+mar Well, it's a good thing then that your more emotionally intelligent little sister is here to remind you that people have feelings. This isn't just about winning the war. It's about protecting our family.
+# mar Honestly, the Veniczar can have Halla for all I care. Dad's more important than that. And I'm sure a lot of others would agree too.
+mar Honestly, the Veniczar can have Halla for all I care. Dad's more important than that. And I'm sure a lot of others would agree too.
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (Even though Maray's not thinking of the political and military consequences of our decision, she does have a point...)
+kay (Even though Maray's not thinking of the political and military consequences of our decision, she does have a point...)
+# kay (The societal impact of our decision here cannot be forgotten either...)
+kay (The societal impact of our decision here cannot be forgotten either...)
+#% hid mar
+hid mar
+# cva mar1
+cva mar1
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_qis
+tag chap6_splitter_qis
+#% cha qis_neu_focus_neutral_smalltalk
+cha qis_neu_focus_neutral_smalltalk
+#% voi qis_vns_neu_02
+voi qis_vns_neu_02
+# qis Since ancient times, all the great powers either rose or fell depending on their control of the Strait of Far Port. I see no reason to believe that Pact will be anything different.
+qis Since ancient times, all the great powers either rose or fell depending on their control of the Strait of Far Port. I see no reason to believe that Pact will be anything different.
+#% cha qis_neu_neutral_closedeye_frown
+cha qis_neu_neutral_closedeye_frown
+# qis And yet, you fear they could possibly use the Monolith to construct a bomb capable of sinking Ryuvia into the sea.
+qis And yet, you fear they could possibly use the Monolith to construct a bomb capable of sinking Ryuvia into the sea.
+#% cha qis_neu_focus_neutral_opensmile
+cha qis_neu_focus_neutral_opensmile
+#% voi qis_vns_hap_03
+voi qis_vns_hap_03
+# qis Hah! We Denari have a saying.
+qis Hah! We Denari have a saying.
+# qis No matter how big your troubles, step outside your hovel and into the Outlands! It shall make your worries seem trivial!
+qis No matter how big your troubles, step outside your hovel and into the Outlands! It shall make your worries seem trivial!
+# qis We need not worry about what-ifs, when the truth of the matter has been demonstrated time and time again.
+qis We need not worry about what-ifs, when the truth of the matter has been demonstrated time and time again.
+# qis The Strait of Far Port controls the fate of Halla. Not some Elvish Monolith!
+qis The Strait of Far Port controls the fate of Halla. Not some Elvish Monolith!
+# qis It is to Far Port we must sail!
+qis It is to Far Port we must sail!
+#% hid qis
+hid qis
+# cva qis0
+cva qis0
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_lyn
+tag chap6_splitter_lyn
+#% cha lyn_armup_angry_neutral_talk
+cha lyn_armup_angry_neutral_talk
+#% voi lyn_vns_neu_01
+voi lyn_vns_neu_01
+# lyn Listen Shields, all the Elves are saying that we should be chasing the Monolith, but I get the feeling that's what Fontana's been counting on all along.
+lyn Listen Shields, all the Elves are saying that we should be chasing the Monolith, but I get the feeling that's what Fontana's been counting on all along.
+# lyn The guy's a schemer, through and through. And the Elves are basically playing this out exactly as he predicted.
+lyn The guy's a schemer, through and through. And the Elves are basically playing this out exactly as he predicted.
+# lyn As soon as the Emerald Fleet's departed, he's gonna hit Far Port with everything he has. I'm willing to bet my tail on it.
+lyn As soon as the Emerald Fleet's departed, he's gonna hit Far Port with everything he has. I'm willing to bet my tail on it.
+# lyn We've got to call his bluff and sail to Far Port right away. Or else your big victory there will have been for nothing.
+lyn We've got to call his bluff and sail to Far Port right away. Or else your big victory there will have been for nothing.
+#% cha lyn_armup_angry_bigeyes_shout
+cha lyn_armup_angry_bigeyes_shout
+#% voi lyn_vns_ang_01
+voi lyn_vns_ang_01
+# lyn Tch, those bastards made me walk the plank for losing that battle! I'm totally gonna give them a piece of my mind when we throw a wrench into their plans for the second time!
+lyn Tch, those bastards made me walk the plank for losing that battle! I'm totally gonna give them a piece of my mind when we throw a wrench into their plans for the second time!
+#% hid lyn
+hid lyn
+# cva lyn0
+cva lyn0
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_mii
+tag chap6_splitter_mii
+#% cha mii_neu_sad_narrow_smalltalk
+cha mii_neu_sad_narrow_smalltalk
+#% voi mii_vns_neu_02
+voi mii_vns_neu_02
+# mii I am unsure of what guidance I can offer in such dire times, as my understanding of this realm is limited.
+mii I am unsure of what guidance I can offer in such dire times, as my understanding of this realm is limited.
+# mii All I can offer is reassurance that no matter which decision you make, the Heavenly Father will continue to look after you...
+mii All I can offer is reassurance that no matter which decision you make, the Heavenly Father will continue to look after you...
+#% cha mii_neu_focus_neutral_smalltalk
+cha mii_neu_focus_neutral_smalltalk
+# mii Let us face whatever may come together.
+mii Let us face whatever may come together.
+#% hid mii
+hid mii
+# cva mii2
+cva mii2
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_kuu
+tag chap6_splitter_kuu
+#% cha kuu_neu_annoyed_lookup_smallsmir
+cha kuu_neu_annoyed_lookup_smallsmir
+#% voi kuu_vns_neu_01
+voi kuu_vns_neu_01
+# kuu Heed my words and heed them well, Shields.
+kuu Heed my words and heed them well, Shields.
+#% cha kuu_neu_focus_lookup_bigtalk
+cha kuu_neu_focus_lookup_bigtalk
+#% voi kuu_vns_neu_08
+voi kuu_vns_neu_08
+# kuu I have served the Crimson Fleet for countless years alongside Fontana, and he is the sort to loath unnecessary collateral damage when strategy alone is sufficient to carry the day.
+kuu I have served the Crimson Fleet for countless years alongside Fontana, and he is the sort to loath unnecessary collateral damage when strategy alone is sufficient to carry the day.
+# kuu Just as he predicted, the High Elves have been riled into a state of fury by the theft of their hallowed Monolith. And that has made them stupid.
+kuu Just as he predicted, the High Elves have been riled into a state of fury by the theft of their hallowed Monolith. And that has made them stupid.
+# kuu For all their supposed greatness, the Song are all too easy to manipulate. For in their eons of hegemony over the Dragon's Foot Sea, they have grown fat and lazy, while the Maan of the Asahi Isle have grown all the more cunning.
+kuu For all their supposed greatness, the Song are all too easy to manipulate. For in their eons of hegemony over the Dragon's Foot Sea, they have grown fat and lazy, while the Maan of the Asahi Isle have grown all the more cunning.
+#% cha kuu_neu_focus_closedeye_frown
+cha kuu_neu_focus_closedeye_frown
+# kuu It is Far Port where we must meet Fontana and thwart his grand designs.
+kuu It is Far Port where we must meet Fontana and thwart his grand designs.
+#% cha kuu_neu_focus_lookup_bigtalk
+cha kuu_neu_focus_lookup_bigtalk
+# kuu If we go to Ryuvia, all that awaits us is folly.
+kuu If we go to Ryuvia, all that awaits us is folly.
+#% hid kuu
+hid kuu
+# cva kuu0
+cva kuu0
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_jem
+tag chap6_splitter_jem
+#% cha jem_neu_focus_closedeye_talk
+cha jem_neu_focus_closedeye_talk
+#% voi jem_vns_neu_12
+voi jem_vns_neu_12
+# jem Long have I served oneechama, and I have only witnessed her stumble only once, and that was to you.
+jem Long have I served oneechama, and I have only witnessed her stumble only once, and that was to you.
+#% cha jem_neu_focus_neutral_talk
+cha jem_neu_focus_neutral_talk
+# jem Thus, I say: Heed her advice and sail to the Strait of Far Port.
+jem Thus, I say: Heed her advice and sail to the Strait of Far Port.
+# jem Had you not overcome her in the Coliseum, I would have long overthrown your rule and made her the captain of this vessel. That alone is why I shall abide by your decision, should you overrule the Crimson Wolf.
+jem Had you not overcome her in the Coliseum, I would have long overthrown your rule and made her the captain of this vessel. That alone is why I shall abide by your decision, should you overrule the Crimson Wolf.
+# jem But no other commander, certainly not young Fontana, has ever bested her. You would be wise to listen.
+jem But no other commander, certainly not young Fontana, has ever bested her. You would be wise to listen.
+#% hid jem
+hid jem
+# cva jem0
+cva jem0
+# cre chap6_splitter
+cre chap6_splitter
+#% 
+
+#% tag chap6_splitter_kay
+tag chap6_splitter_kay
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (An impossible choice must be made...)
+kay (An impossible choice must be made...)
+# kay (Either we call Fontana's bluff and sail to Far Port...)
+kay (Either we call Fontana's bluff and sail to Far Port...)
+# kay (Or we respect our alliance with Song and sail with them to Ryuvia.)
+kay (Or we respect our alliance with Song and sail with them to Ryuvia.)
+# nar (WARNING: A decisive moment is upon you. It is recommended that you save in a new slot at this juncture.)
+nar (WARNING: A decisive moment is upon you. It is recommended that you save in a new slot at this juncture.)
+# cc0 chap6_decision
+cc0 chap6_decision
+# cc1 We sail to Far Port.
+cc1 We sail to Far Port.
+# cc2 We Sail to Ryuvia.
+cc2 We Sail to Ryuvia.
+#% 
+
+#% tag chap6_decision_cc1
+tag chap6_decision_cc1
+#% mus mus_missionbriefing
+mus mus_missionbriefing
+# xcr 0
+xcr 0
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay We must see through Fontana's ruse. The theft of the Monolith is merely a diversion, to bait the Emerald Fleet away from Far Port.
+kay We must see through Fontana's ruse. The theft of the Monolith is merely a diversion, to bait the Emerald Fleet away from Far Port.
+# kay That is his true target. Not the Monolith.
+kay That is his true target. Not the Monolith.
+#% cha kry_armout_angry_wide_yell
+cha kry_armout_angry_wide_yell
+#% voi kry_vns_ang_05
+voi kry_vns_ang_05
+# kry But what of us High Elves?! Without the Monolith, we are doomed to turn to Orks!
+kry But what of us High Elves?! Without the Monolith, we are doomed to turn to Orks!
+#% cha asa_bendover_angry_neutral_bigtalk
+cha asa_bendover_angry_neutral_bigtalk
+#% voi asa_vns_ang_02
+voi asa_vns_ang_02
+# asa Kryska's got a point, captain. Besides, you said it yourself! Pact could turn the Monolith into a bomb and destroy Ryuvia!
+asa Kryska's got a point, captain. Besides, you said it yourself! Pact could turn the Monolith into a bomb and destroy Ryuvia!
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay Perhaps that was mere conjecture on my part... One that debunks itself upon further thought.
+kay Perhaps that was mere conjecture on my part... One that debunks itself upon further thought.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay There is no reason for Pact to sink Ryuvia into the sea, when luring the Emerald Fleet from Far Port is the easier option.
+kay There is no reason for Pact to sink Ryuvia into the sea, when luring the Emerald Fleet from Far Port is the easier option.
+# kay Weaponizing the Monolith will be no easy feat, and unleashing it upon a city that they occupy makes little sense.
+kay Weaponizing the Monolith will be no easy feat, and unleashing it upon a city that they occupy makes little sense.
+# kay However, Kryska is right that we are now up against time. We must first thwart Fontana's designs at Far Port, then recover the Monolith once the Dragon's Foot Sea is secure. So long as the Crimson Fleet does not pass through Far Port, defeating the remnant's of Fontana's strike force will be a simple matter.
+kay However, Kryska is right that we are now up against time. We must first thwart Fontana's designs at Far Port, then recover the Monolith once the Dragon's Foot Sea is secure. So long as the Crimson Fleet does not pass through Far Port, defeating the remnant's of Fontana's strike force will be a simple matter.
+#% cha asa_armup_confuse_neutral_slight
+cha asa_armup_confuse_neutral_slight
+#% voi asa_vns_neu_07
+voi asa_vns_neu_07
+# asa I see what you mean... So, our main goal is to keep the Crimson Fleet out of the Dragon's Foot Sea. So long as we do that, Fontana's forces don't stand a chance against the Emerald Fleet, and we shouldn't have any trouble getting the Monolith back.
+asa I see what you mean... So, our main goal is to keep the Crimson Fleet out of the Dragon's Foot Sea. So long as we do that, Fontana's forces don't stand a chance against the Emerald Fleet, and we shouldn't have any trouble getting the Monolith back.
+#% cha kry_armdown_focus_closedeye_smalltalk
+cha kry_armdown_focus_closedeye_smalltalk
+#% voi kry_vns_sad_01
+voi kry_vns_sad_01
+# kry And yet, I cannot help but think you are engaging in wishful thinking...
+kry And yet, I cannot help but think you are engaging in wishful thinking...
+#% cha sol_side_concern_narrow_talk
+cha sol_side_concern_narrow_talk
+#% voi sol_vns_sad_05
+voi sol_vns_sad_05
+# sol Indeed, the possibility of the worst coming to pass cannot be eliminated outright...
+sol Indeed, the possibility of the worst coming to pass cannot be eliminated outright...
+#% cha asa_fist_focus_closedeye_neutral
+cha asa_fist_focus_closedeye_neutral
+#% voi asa_vns_neu_05
+voi asa_vns_neu_05
+# asa Let's put our faith in the captain. He's right that going to Far Port first might actually make it easier for us to recover the Monolith.
+asa Let's put our faith in the captain. He's right that going to Far Port first might actually make it easier for us to recover the Monolith.
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+#% voi ava_vns_neu_06
+voi ava_vns_neu_06
+# ava Indeed, even if we were to sail at full speed to Ryuvia, all that awaits us is a Pyrrhic victory if the Crimson Fleet will merely take the city again.
+ava Indeed, even if we were to sail at full speed to Ryuvia, all that awaits us is a Pyrrhic victory if the Crimson Fleet will merely take the city again.
+#% cha kry_armdown_sad_closedeye_smalltalk
+cha kry_armdown_sad_closedeye_smalltalk
+#% voi kry_vns_sad_05
+voi kry_vns_sad_05
+# kry Very well... I have sworn you my hammer, and will abide by your judgment. I fear the same cannot be said for the rest of the Emerald Fleet, however...
+kry Very well... I have sworn you my hammer, and will abide by your judgment. I fear the same cannot be said for the rest of the Emerald Fleet, however...
+#% cha kay_neu_focus_neutral_talk
+cha kay_neu_focus_neutral_talk
+# kay I fear so as well. We must get to Far Port with all due haste and see the situation for ourselves.
+kay I fear so as well. We must get to Far Port with all due haste and see the situation for ourselves.
+#% hid sol
+hid sol
+#% hid kry
+hid kry
+#% hid asa
+hid asa
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+# ava Well then, what are we waiting for? All hands! Raise anchor! Prepare for immediate departure!
+ava Well then, what are we waiting for? All hands! Raise anchor! Prepare for immediate departure!
+#% var goto_farport
+var goto_farport
+#% obj MAIN: Return to Far Port
+obj MAIN: Return to Far Port
+# map 
+map 
+#% 
+
+#% tag chap6_decision_cc2
+tag chap6_decision_cc2
+#% mus mus_missionbriefing
+mus mus_missionbriefing
+# xcr 1
+xcr 1
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Inform the Admiral.
+kay Inform the Admiral.
+# kay Our treaty shall hold. We sail with the Emerald Fleet to Ryuvia.
+kay Our treaty shall hold. We sail with the Emerald Fleet to Ryuvia.
+# kay Our mission is to recover the Monolith of Truth. If Pact truly seeks to use the Monolith as a bomb to sink Ryuvia to the bottom of the sea, then we have no other choice but to recover it at all costs.
+kay Our mission is to recover the Monolith of Truth. If Pact truly seeks to use the Monolith as a bomb to sink Ryuvia to the bottom of the sea, then we have no other choice but to recover it at all costs.
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+#% voi ava_vns_shy_04
+voi ava_vns_shy_04
+# ava And if the Crimson Fleet sails through Far Port and strikes from our rear?
+ava And if the Crimson Fleet sails through Far Port and strikes from our rear?
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay Then at least we will have the Emerald Fleet and the Song Alliance alongside us.
+kay Then at least we will have the Emerald Fleet and the Song Alliance alongside us.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Now is not the time to turn our backs on our allies.
+kay Now is not the time to turn our backs on our allies.
+# kay Listen. We've seen with our own eyes. Asaga truly is the Sharr. There cannot be any doubt of that.
+kay Listen. We've seen with our own eyes. Asaga truly is the Sharr. There cannot be any doubt of that.
+# kay Our duty is to protect her. We cannot allow the Elves to turn to Orks. That would be a fate far worse than even Pact's victory.
+kay Our duty is to protect her. We cannot allow the Elves to turn to Orks. That would be a fate far worse than even Pact's victory.
+# kay This ship is family. We will not abandon each other merely because some of us are High Elves and some of us are not.
+kay This ship is family. We will not abandon each other merely because some of us are High Elves and some of us are not.
+#% cha ava_armscrossed_focus_closedeye_frown
+cha ava_armscrossed_focus_closedeye_frown
+# ava Very well, captain.
+ava Very well, captain.
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+# ava Well then, what are we waiting for? All hands! Raise anchor! Prepare for immediate departure!
+ava Well then, what are we waiting for? All hands! Raise anchor! Prepare for immediate departure!
+#% var goto_ryuvia
+var goto_ryuvia
+#% obj MAIN: Return to Ryuvia
+obj MAIN: Return to Ryuvia
+# map 
+map 

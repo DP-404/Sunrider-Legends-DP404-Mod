@@ -1,0 +1,1638 @@
+# ﻿DISPLAY
+﻿DISPLAY
+# AUDIO
+AUDIO
+# DIFFICULTY
+DIFFICULTY
+# LANGUAGE
+LANGUAGE
+# KEY BINDINGS
+KEY BINDINGS
+# CLOSE OPTIONS
+CLOSE OPTIONS
+# DISPLAY SETTINGS
+DISPLAY SETTINGS
+# Windowed
+Windowed
+# Full Screen
+Full Screen
+# Story Text Speed
+Story Text Speed
+# Story Auto Speed
+Story Auto Speed
+# Wait until voicing is finished
+Wait until voicing is finished
+# Skip Speed
+Skip Speed
+# AUDIO SETTINGS
+AUDIO SETTINGS
+# SFX Volume
+SFX Volume
+# UI Volume
+UI Volume
+# Music Volume
+Music Volume
+# Voice Volume
+Voice Volume
+# SET BATTLE DIFFICULTY
+SET BATTLE DIFFICULTY
+# STORY MODE
+STORY MODE
+# EASY
+EASY
+# NORMAL
+NORMAL
+# CAPTAIN
+CAPTAIN
+# HARD
+HARD
+# AHAB'S WHALE
+AHAB'S WHALE
+# CUSTOMIZE
+CUSTOMIZE
+# For those who want to experience only the story.
+For those who want to experience only the story.
+# For those who want a laid back gameplay experience.
+For those who want a laid back gameplay experience.
+# The introductory difficulty level.
+The introductory difficulty level.
+# A slightly more challenging experience for tactics players.
+A slightly more challenging experience for tactics players.
+# For seasoned tactics fans.
+For seasoned tactics fans.
+# The sea will claim your body. For fans of tragedy only.
+The sea will claim your body. For fans of tragedy only.
+# Fine tune the difficulty setting with mods for a unique experience.
+Fine tune the difficulty setting with mods for a unique experience.
+# CUSTOMIZE DIFFICULTY
+CUSTOMIZE DIFFICULTY
+# ENEMY ATTACK POWER
+ENEMY ATTACK POWER
+# ASSIST MODS
+ASSIST MODS
+# CHALLENGE MODS
+CHALLENGE MODS
+# INSANE MODS
+INSANE MODS
+# RETURN
+RETURN
+# Reduced HP enemies
+Reduced HP enemies
+# HP regeneration
+HP regeneration
+# Additional money
+Additional money
+# Unlimited ammo
+Unlimited ammo
+# Unarmored enemies
+Unarmored enemies
+# Big Maray Laser
+Big Maray Laser
+# More CMD Points
+More CMD Points
+# Aimbot
+Aimbot
+# Increase move speed
+Increase move speed
+# Free repairs
+Free repairs
+# Maray invincible
+Maray invincible
+# No ryder death cost
+No ryder death cost
+# No move take backs
+No move take backs
+# Weapon Recoil
+Weapon Recoil
+# No momentum
+No momentum
+# Iron man Mode
+Iron man Mode
+# Instakill Torpedoes
+Instakill Torpedoes
+# Space Whale Preservation Tax
+Space Whale Preservation Tax
+# Deathly collisions
+Deathly collisions
+# SET LANGUAGE
+SET LANGUAGE
+# Display Text
+Display Text
+# ENGLISH
+ENGLISH
+# Battle Subtitles
+Battle Subtitles
+# KEY BINDINGS
+KEY BINDINGS
+# Pan Camera Up
+Pan Camera Up
+# Pan Camera Down
+Pan Camera Down
+# Pan Camera Left
+Pan Camera Left
+# Pan Camera Right
+Pan Camera Right
+# Zoom In
+Zoom In
+# Zoom Out
+Zoom Out
+# Fire Weapon 1
+Fire Weapon 1
+# Fire Weapon 2
+Fire Weapon 2
+# Fire Weapon 3
+Fire Weapon 3
+# Fire Weapon 4
+Fire Weapon 4
+# Fire Weapon 5
+Fire Weapon 5
+# Fire Weapon 6
+Fire Weapon 6
+# Fire Weapon 7
+Fire Weapon 7
+# Fire Weapon 8
+Fire Weapon 8
+# Fire Weapon 9
+Fire Weapon 9
+# Select Next Unit
+Select Next Unit
+# Advance Text
+Advance Text
+# Skip
+Skip
+# Toggle Auto
+Toggle Auto
+# Quick Save
+Quick Save
+# Quick Load
+Quick Load
+# See Log
+See Log
+# Pause
+Pause
+# Select Mothership
+Select Mothership
+# Select Unit 1
+Select Unit 1
+# Select Unit 2
+Select Unit 2
+# Select Unit 3
+Select Unit 3
+# Select Unit 4
+Select Unit 4
+# Select Unit 5
+Select Unit 5
+# Select Unit 6
+Select Unit 6
+# Select Unit 7
+Select Unit 7
+# Open Commands
+Open Commands
+# Stop voice on click
+Stop voice on click
+# SAVE
+SAVE
+# LOAD
+LOAD
+# Autosave
+Autosave
+# Previous
+Previous
+# Next
+Next
+# File Name:
+File Name:
+# Date:
+Date:
+# Time:
+Time:
+# Chapter:
+Chapter:
+# Close
+Close
+# Are you sure want to quit? All unsaved progress will be lost.
+Are you sure want to quit? All unsaved progress will be lost.
+# YES
+YES
+# NO
+NO
+# SKIP CUTSCENE?
+SKIP CUTSCENE?
+# LORE DATABASE
+LORE DATABASE
+# BACK
+BACK
+# You are Captain Kayto Shields, the former captain of the assault carrier Sunrider. You hail from the Neutral Rim World of Cera, which was brutally conquered by PACT seven years ago. Since then, you have fought a one ship war against PACT, and gathered allies across the galaxy to liberate your home world.>>>>Your heroic deeds appeared to have paid off, and with the aid of the Solar Alliance, you liberated Cera from the PACT fleet. Unfortunately, your girlfriend, Chigara Ashada, turned out to be a Prototype sleeper agent, who betrayed you at the celebration ceremony to assassinate Admiral Grey of the Solar Alliance. This event, called the Liberation Day Massacre, only escalated the war between the Solar Alliance and PACT, and led to the destruction of the Sunrider.>>>>Now assumed dead, you live in exile on the dusty mining world of Tydaria, a shell of your former self...
+You are Captain Kayto Shields, the former captain of the assault carrier Sunrider. You hail from the Neutral Rim World of Cera, which was brutally conquered by PACT seven years ago. Since then, you have fought a one ship war against PACT, and gathered allies across the galaxy to liberate your home world.>>>>Your heroic deeds appeared to have paid off, and with the aid of the Solar Alliance, you liberated Cera from the PACT fleet. Unfortunately, your girlfriend, Chigara Ashada, turned out to be a Prototype sleeper agent, who betrayed you at the celebration ceremony to assassinate Admiral Grey of the Solar Alliance. This event, called the Liberation Day Massacre, only escalated the war between the Solar Alliance and PACT, and led to the destruction of the Sunrider.>>>>Now assumed dead, you live in exile on the dusty mining world of Tydaria, a shell of your former self...
+# The Story So Far
+The Story So Far
+# People
+People
+# Factions/Places
+Factions/Places
+# History
+History
+# Mechanical
+Mechanical
+# Skip only read
+Skip only read
+# PAUSE
+PAUSE
+# SAVE
+SAVE
+# LOAD
+LOAD
+# OPTIONS
+OPTIONS
+# RESTART BATTLE
+RESTART BATTLE
+# RESUME
+RESUME
+# QUIT
+QUIT
+# Are you sure you want to return to the main menu? Unsaved progress will be lost.
+Are you sure you want to return to the main menu? Unsaved progress will be lost.
+# QUICK SAVED
+QUICK SAVED
+# CREATE NEW SAVE
+CREATE NEW SAVE
+# OVERWRITE SAVE
+OVERWRITE SAVE
+# Are you sure you want to overwrite this save file? The previous data will be deleted.
+Are you sure you want to overwrite this save file? The previous data will be deleted.
+# Are you sure you want to delete this save file?
+Are you sure you want to delete this save file?
+# CLOSE
+CLOSE
+# Error. A save file of this name already exists.
+Error. A save file of this name already exists.
+# CAMERA
+CAMERA
+# CAMERA SETTINGS
+CAMERA SETTINGS
+# Battle Camera Move Speed
+Battle Camera Move Speed
+# Battle Camera Zoom Speed
+Battle Camera Zoom Speed
+# Invert Zoom
+Invert Zoom
+# Edge Scroll
+Edge Scroll
+# Middle Mouse to Scroll
+Middle Mouse to Scroll
+# Edge Scroll Speed
+Edge Scroll Speed
+# Drag Scroll Speed
+Drag Scroll Speed
+# MOVE
+MOVE
+# KINETIC
+KINETIC
+# ASSAULT
+ASSAULT
+# LASER
+LASER
+# PULSE
+PULSE
+# TORPEDO
+TORPEDO
+# MISSILE
+MISSILE
+# MELEE
+MELEE
+# AWAKEN
+AWAKEN
+# EN COST
+EN COST
+# SHOTS
+SHOTS
+# DMG
+DMG
+# TO HIT
+TO HIT
+# EST DMG
+EST DMG
+# FRONT ARMOR
+FRONT ARMOR
+# REAR ARMOR
+REAR ARMOR
+# RIGHT ARMOR
+RIGHT ARMOR
+# LEFT ARMOR
+LEFT ARMOR
+# HP
+HP
+# EN
+EN
+# SHIELD
+SHIELD
+# EVASION
+EVASION
+# STATUS
+STATUS
+# Restore EN for 
+Restore EN for 
+# Select Previous Unit
+Select Previous Unit
+# Maintain Heading
+Maintain Heading
+# Maray
+Maray
+# High Roller
+High Roller
+# Dominator
+Dominator
+# Archangel
+Archangel
+# Phoenix Mk II
+Phoenix Mk II
+# Spell Caster
+Spell Caster
+# Paladin
+Paladin
+# Calamity
+Calamity
+# Pirate Grunt
+Pirate Grunt
+# Pirate Cruiser
+Pirate Cruiser
+# Pirate Tug Boat
+Pirate Tug Boat
+# END TURN
+END TURN
+# ROTATE
+ROTATE
+# Get past the PACT check point. (Left click on people and objects to advance the story.)
+Get past the PACT check point. (Left click on people and objects to advance the story.)
+# SIX YEARS LATER
+SIX YEARS LATER
+# THE MINING WORLD OF TYDARIA
+THE MINING WORLD OF TYDARIA
+# Cross the bridge. (Left click on the right side of the map.)
+Cross the bridge. (Left click on the right side of the map.)
+# Report to work.
+Report to work.
+# Leave the mine and rendezvous with Sola.
+Leave the mine and rendezvous with Sola.
+# Pick up your gun.
+Pick up your gun.
+# Leave the cabin and reach the Seraphim.
+Leave the cabin and reach the Seraphim.
+# Watch Fontana's address.
+Watch Fontana's address.
+# CANNOT SAVE HERE
+CANNOT SAVE HERE
+# New lore entry
+New lore entry
+# Ore Freighter
+Ore Freighter
+# COLLISION WARNING: One of your units is on a collision course! Change its heading or it will incur an EN penalty by performing evasive maneuvers.
+COLLISION WARNING: One of your units is on a collision course! Change its heading or it will incur an EN penalty by performing evasive maneuvers.
+# !MOVE WARNING!
+!MOVE WARNING!
+# MISSILE
+MISSILE
+# TORPEDO
+TORPEDO
+# WARNING: This unit is on course to RETREAT from battle! Change its heading or it will incur an EN penalty by performing evasive maneuvers.
+WARNING: This unit is on course to RETREAT from battle! Change its heading or it will incur an EN penalty by performing evasive maneuvers.
+# FLIER DRONES
+FLIER DRONES
+# DISABLE
+DISABLE
+# TARGET LOCK
+TARGET LOCK
+# OVERLOAD
+OVERLOAD
+# Deal pulse DMG in an area centered on target.
+Deal pulse DMG in an area centered on target.
+# Increase enemy's weapon EN cost.
+Increase enemy's weapon EN cost.
+# Increase TOHIT chance on target.
+Increase TOHIT chance on target.
+# Disable target's shield generator.
+Disable target's shield generator.
+# LOADING PLEASE WAIT...
+LOADING PLEASE WAIT...
+# ENEMY STATUS
+ENEMY STATUS
+# FLEET STATUS
+FLEET STATUS
+# AWARD
+AWARD
+# GIL
+GIL
+# PENALTY
+PENALTY
+# BONUS
+BONUS
+# MOVE TAKE BACK
+MOVE TAKE BACK
+# TURN TAKE BACK
+TURN TAKE BACK
+# WARNING: Cannot save right now
+WARNING: Cannot save right now
+# You are defeated
+You are defeated
+# REWIND TURN
+REWIND TURN
+# RESTART BATTLE
+RESTART BATTLE
+# LOAD
+LOAD
+# Move Cost
+Move Cost
+# Turn Cost
+Turn Cost
+# GENERAL
+GENERAL
+# ARMOR
+ARMOR
+# TITAN
+TITAN
+# BALANCE
+BALANCE
+# F/SD Armor
+F/SD Armor
+# Move/Turn
+Move/Turn
+# ROGUE
+ROGUE
+# Accuracy
+Accuracy
+# Ammo
+Ammo
+# Speed
+Speed
+# HP/SPD
+HP/SPD
+# RTN2SNDR
+RTN2SNDR
+# Target a missile to send it back to its owner.
+Target a missile to send it back to its owner.
+# Effect
+Effect
+# Skip Armor
+Skip Armor
+# SHIELD
+SHIELD
+# TREBUCHET
+TREBUCHET
+# ASSASSIN
+ASSASSIN
+# Awaken EN
+Awaken EN
+# Awaken DMG
+Awaken DMG
+# HEAVY
+HEAVY
+# LIGHT
+LIGHT
+# REAR
+REAR
+# Front
+Front
+# FNT/SD
+FNT/SD
+# FULL AUTO
+FULL AUTO
+# BURST
+BURST
+# INCINERATE
+INCINERATE
+# DISRUPTOR
+DISRUPTOR
+# Melt Armor
+Melt Armor
+# Drain EN
+Drain EN
+# PRECISION
+PRECISION
+# SWARM
+SWARM
+# Range
+Range
+# Unit becomes immobile for offensive boost.
+Unit becomes immobile for offensive boost.
+# SHIELD RANGE
+SHIELD RANGE
+# Side Armor
+Side Armor
+# Shield
+Shield
+# Shield Range
+Shield Range
+# Front Armor
+Front Armor
+# Rear Armor
+Rear Armor
+# Evasion
+Evasion
+# Shots
+Shots
+# SPD/EVA
+SPD/EVA
+# FOCUS
+FOCUS
+# BROADSIDE
+BROADSIDE
+# ACCURACY
+ACCURACY
+# EN Cost
+EN Cost
+# FLIER DRONES
+FLIER DRONES
+# TARGET LOCK
+TARGET LOCK
+#  DMG x10 in area
+ DMG x10 in area
+#  EV for 
+ EV for 
+#  turn(s)
+ turn(s)
+#  Weapon EN on target
+ Weapon EN on target
+# Disable shield for 
+Disable shield for 
+# Duration
+Duration
+# Reduced mobility, +
+Reduced mobility, +
+# RESEARCH AND DEVELOPMENT
+RESEARCH AND DEVELOPMENT
+# THE PEOPLE'S ALLIANCE
+THE PEOPLE'S ALLIANCE
+# THE SOLAR ALLIANCE
+THE SOLAR ALLIANCE
+# THE DENARI EXPANSE
+THE DENARI EXPANSE
+# FERROS
+FERROS
+# NEW EDEN
+NEW EDEN
+# TETHRA
+TETHRA
+# CERA
+CERA
+# RYUVIA PRIME
+RYUVIA PRIME
+# FAR PORT
+FAR PORT
+# SOLARIS
+SOLARIS
+# ARGASSO
+ARGASSO
+# CLASS 14 HABITABLE WORLD>>POPULATION: 14 billion>>NUMBER OF MOONS: 23>>>>Once the capital world of the Holy Ryuvian Empire, the modern day Ryuvia Prime is a largely forgotten world sitting on the periphery of the Neutral Rim.>>>>It is noted for its unnaturally numerous moons, many of which geologists theorize were created artificially many millenia ago by the Holy Empire. These mammoth engineering super structures are now nothing but derelict monuments to the former glory of the Holy Empire.>>>>Ruled by a hereditary monarchy, Queen Asaga di Ryuvia ascended to the throne upon the murder of her father by the Prototypes. Despite her reluctance to rule, her powers have styled her the new Sharr of Ryuvia - an ancient messiah figure in Ryuvia's history.
+CLASS 14 HABITABLE WORLD>>POPULATION: 14 billion>>NUMBER OF MOONS: 23>>>>Once the capital world of the Holy Ryuvian Empire, the modern day Ryuvia Prime is a largely forgotten world sitting on the periphery of the Neutral Rim.>>>>It is noted for its unnaturally numerous moons, many of which geologists theorize were created artificially many millenia ago by the Holy Empire. These mammoth engineering super structures are now nothing but derelict monuments to the former glory of the Holy Empire.>>>>Ruled by a hereditary monarchy, Queen Asaga di Ryuvia ascended to the throne upon the murder of her father by the Prototypes. Despite her reluctance to rule, her powers have styled her the new Sharr of Ryuvia - an ancient messiah figure in Ryuvia's history.
+# MISSIONS
+MISSIONS
+# DESTROY PACT STATION
+DESTROY PACT STATION
+# Cosette and her pirate goons have been hired by PACT to prey on our merchant marine. Destroying the PACT outpost in orbit around Ryuvia should send them packing!
+Cosette and her pirate goons have been hired by PACT to prey on our merchant marine. Destroying the PACT outpost in orbit around Ryuvia should send them packing!
+# THE NEUTRAL RIM
+THE NEUTRAL RIM
+# PACT Outpost
+PACT Outpost
+# BRIDGE
+BRIDGE
+# CAPTAIN'S QUARTERS
+CAPTAIN'S QUARTERS
+# MESS HALL
+MESS HALL
+# CREW QUARTERS
+CREW QUARTERS
+# SICK BAY
+SICK BAY
+# HALLWAY
+HALLWAY
+# CARGO HOLD
+CARGO HOLD
+# FLIGHT DECK
+FLIGHT DECK
+# ENGINEERING
+ENGINEERING
+# ASAGA DI RYUVIA
+ASAGA DI RYUVIA
+# QUEEN OF RYUVIA, SHARR (SELF PROCLAIMED)
+QUEEN OF RYUVIA, SHARR (SELF PROCLAIMED)
+# LYNN
+LYNN
+# PROTOTYPE COLLABORATOR
+PROTOTYPE COLLABORATOR
+# SOLA DI RYUVIA
+SOLA DI RYUVIA
+# ANCIENT SHARR OF RYUVIA
+ANCIENT SHARR OF RYUVIA
+# ICARI ISIDOLDE
+ICARI ISIDOLDE
+# MERCENARY EXTRAORDINAIRE
+MERCENARY EXTRAORDINAIRE
+# CLAUDE TRILLEO
+CLAUDE TRILLEO
+# BOMBSHELL OF MYSTERIOUS ORIGINS
+BOMBSHELL OF MYSTERIOUS ORIGINS
+# AVA CRESCENTIA
+AVA CRESCENTIA
+# EXECUTIVE OFFICER, CHILDHOOD FRIEND
+EXECUTIVE OFFICER, CHILDHOOD FRIEND
+# COSETTE COSMOS
+COSETTE COSMOS
+# SWORN ENEMY, TERROR OF THE STARS
+SWORN ENEMY, TERROR OF THE STARS
+# SPUNK: Move further on the first turn
+SPUNK: Move further on the first turn
+# ROYAL DECREE: Use CMD Points to offset repair costs
+ROYAL DECREE: Use CMD Points to offset repair costs
+# ANCIENT POWER: Awakening deals 25% less damage to self
+ANCIENT POWER: Awakening deals 25% less damage to self
+# GENKI: +20 EN for the first 3 turns
+GENKI: +20 EN for the first 3 turns
+# MYTHOLOGICAL POWER: First Awakening is free
+MYTHOLOGICAL POWER: First Awakening is free
+# FINAL STAND: Chance of dealing double damage when below 25% HP
+FINAL STAND: Chance of dealing double damage when below 25% HP
+# QUEEN'S GUARD: Summon Lancer order unlocked
+QUEEN'S GUARD: Summon Lancer order unlocked
+# FURY: Awakening damages all nearby enemies
+FURY: Awakening damages all nearby enemies
+# THE HERO: Restores all HP upon death once per battle
+THE HERO: Restores all HP upon death once per battle
+# ACES: Secret Ending Unlocked
+ACES: Secret Ending Unlocked
+# CHIEF ENGINEER: Lynn's trust grows
+CHIEF ENGINEER: Lynn's trust grows
+# WORKING RELATIONSHIP: Target Lock is now an AOE ability
+WORKING RELATIONSHIP: Target Lock is now an AOE ability
+# TWIN DRIVE RESEARCH I: Short Range Warp order unlocked
+TWIN DRIVE RESEARCH I: Short Range Warp order unlocked
+# ECM HACKER: Return to Sender can now be used on torpedoes
+ECM HACKER: Return to Sender can now be used on torpedoes
+# BUDDING LOYALTY: Chance to use abilities for half EN when near Maray
+BUDDING LOYALTY: Chance to use abilities for half EN when near Maray
+# PROTOTYPE GENIUS: Disable deals damage equivalent to Lynn's max EN
+PROTOTYPE GENIUS: Disable deals damage equivalent to Lynn's max EN
+# Q-JAMMER CALIBRATIONS: AOE for Flier Drones increased
+Q-JAMMER CALIBRATIONS: AOE for Flier Drones increased
+# TWIN DRIVE RESEARCH II: Overdrive order unlocked
+TWIN DRIVE RESEARCH II: Overdrive order unlocked
+# PROTOTYPE MASTERY: Flier Drones simultaneously attack enemies and heal allies
+PROTOTYPE MASTERY: Flier Drones simultaneously attack enemies and heal allies
+# INFINITY: Secret Ending Unlocked
+INFINITY: Secret Ending Unlocked
+# LOST TECHNOLOGY: Sola asks you to find ancient tech
+LOST TECHNOLOGY: Sola asks you to find ancient tech
+# PROTECTOR: Chance for Sola to always hit her target when near the Maray.
+PROTECTOR: Chance for Sola to always hit her target when near the Maray.
+# ARMOR PENETRATION: Sola's weapon ignores armor
+ARMOR PENETRATION: Sola's weapon ignores armor
+# REACTOR SHOT: Hit enemies in the rear to damage their EN
+REACTOR SHOT: Hit enemies in the rear to damage their EN
+# SECOND SHOT: Chance of firing another shot if the first shot misses
+SECOND SHOT: Chance of firing another shot if the first shot misses
+# ARMOR DISINTEGRATION: Chance for Sola's weapon to destroy ryder armor
+ARMOR DISINTEGRATION: Chance for Sola's weapon to destroy ryder armor
+# INNER PEACE: Awakening is free when at full EN
+INNER PEACE: Awakening is free when at full EN
+# RAPID RELOAD: Increases likelihood of a second shot
+RAPID RELOAD: Increases likelihood of a second shot
+# THE MARK OF THE SHARR: Sola hits enemies behind her target for half DMG.
+THE MARK OF THE SHARR: Sola hits enemies behind her target for half DMG.
+# LEGEND: Secret Ending Unlocked
+LEGEND: Secret Ending Unlocked
+# BOUNTY HUNTER: Icari asks you to help collect bounties
+BOUNTY HUNTER: Icari asks you to help collect bounties
+# AFTER MARKET: Post-battle repair costs reduced by 15 percent.
+AFTER MARKET: Post-battle repair costs reduced by 15 percent.
+# RASENZAN I: Consecutive melee attacks deal 50% more damage
+RASENZAN I: Consecutive melee attacks deal 50% more damage
+# RASENZAN II: Move again after chaining two or more melee attacks
+RASENZAN II: Move again after chaining two or more melee attacks
+# RASENZAN III: Chance to use chain melee without using an afterburner slot
+RASENZAN III: Chance to use chain melee without using an afterburner slot
+# BEHIND FRIENDLY ARMOR: All damage is reduced 25% when near Paladin
+BEHIND FRIENDLY ARMOR: All damage is reduced 25% when near Paladin
+# MILITARY SURPLUS: Replace destroyed ryders for half cost
+MILITARY SURPLUS: Replace destroyed ryders for half cost
+# EVASIVE MANEUVERS: Chance to evade attacks when afterburner slot is full
+EVASIVE MANEUVERS: Chance to evade attacks when afterburner slot is full
+# REBORN, FROM THE ASHES: Chance to come back to full HP upon death
+REBORN, FROM THE ASHES: Chance to come back to full HP upon death
+# MERCENARY: Secret Ending Unlocked
+MERCENARY: Secret Ending Unlocked
+# NOT HER AGAIN: Claude gives you advice at Bad Ends
+NOT HER AGAIN: Claude gives you advice at Bad Ends
+# FAN SERVICE: Distract is now an AOE ability
+FAN SERVICE: Distract is now an AOE ability
+# PERK UP: Restore ability unlocked
+PERK UP: Restore ability unlocked
+# FULL POWER: The Gravity Gun can now be used on ships
+FULL POWER: The Gravity Gun can now be used on ships
+# OWN PETARD: The Gravity Gun can now be used on missiles and torpedoes
+OWN PETARD: The Gravity Gun can now be used on missiles and torpedoes
+# SECRETS OF THE UNIVERSE: Divine Prayer order unlocked
+SECRETS OF THE UNIVERSE: Divine Prayer order unlocked
+# BIG HONKING BOMBERS: Chance for torpedoes to deal 50% more damage
+BIG HONKING BOMBERS: Chance for torpedoes to deal 50% more damage
+# LUCKY DAY: The Maray may survive a fatal attack if the Spell Caster is nearby
+LUCKY DAY: The Maray may survive a fatal attack if the Spell Caster is nearby
+# GUARDIAN ANGEL: Chance that when the Maray is sunk, the Spell Caster blows up instead
+GUARDIAN ANGEL: Chance that when the Maray is sunk, the Spell Caster blows up instead
+# CANON: Secret Ending Unlocked
+CANON: Secret Ending Unlocked
+# JUST LIKE OLD TIMES: Reunited at last
+JUST LIKE OLD TIMES: Reunited at last
+# VIVA LA RESISTANCE I: Summon Gunship order unlocked
+VIVA LA RESISTANCE I: Summon Gunship order unlocked
+# COMBAT RESUPPLY: Refit order unlocked
+COMBAT RESUPPLY: Refit order unlocked
+# SHIP CLEAN UP I: Chance to fire missiles without expending ammo
+SHIP CLEAN UP I: Chance to fire missiles without expending ammo
+# LETTERS OF MARQUE: Bonus to bounty awards
+LETTERS OF MARQUE: Bonus to bounty awards
+# NAVIGATIONAL ERROR: Summon Cruiser order unlocked
+NAVIGATIONAL ERROR: Summon Cruiser order unlocked
+# SHIP CLEAN UP II: Chance to fire torpedoes without expending ammo
+SHIP CLEAN UP II: Chance to fire torpedoes without expending ammo
+# VIVA LA RESISTANCE II: Summon Gunship order is free when there are no gunships
+VIVA LA RESISTANCE II: Summon Gunship order is free when there are no gunships
+# EXECUTIVE ORDER: Unlock All Hands on Deck order
+EXECUTIVE ORDER: Unlock All Hands on Deck order
+# VICTORY: Secret Ending Unlocked
+VICTORY: Secret Ending Unlocked
+# ETERNAL FOE: Defeat Cosette to unlock new orders
+ETERNAL FOE: Defeat Cosette to unlock new orders
+# ALL OUT ATTACK: Full Forward order unlocked
+ALL OUT ATTACK: Full Forward order unlocked
+# DEFENSIVE TACTICS: All Guard order unlocked
+DEFENSIVE TACTICS: All Guard order unlocked
+# LIGHTNING TACTICS: All Power to Engines order unlocked
+LIGHTNING TACTICS: All Power to Engines order unlocked
+# DAMAGE CONTROL: Repair Drones order unlocked
+DAMAGE CONTROL: Repair Drones order unlocked
+# YOU SHALL NOT PASS: Flak Burst order unlocked
+YOU SHALL NOT PASS: Flak Burst order unlocked
+# RAPID REPAIRS: Resurrection order unlocked
+RAPID REPAIRS: Resurrection order unlocked
+# POWER UP: Reactor Charge order unlocked
+POWER UP: Reactor Charge order unlocked
+# LITTLE SHIP, BIG BITE: Finest Hour order unlocked
+LITTLE SHIP, BIG BITE: Finest Hour order unlocked
+# ???: Secret Ending Unlocked
+???: Secret Ending Unlocked
+# AFFECTION RATING INCREASED!
+AFFECTION RATING INCREASED!
+# LOCKED
+LOCKED
+# CLASS 0 GAS GIANT WORLD>>POPULATION: <300 SQUATTERS>>>>An uninhabited gas giant world unclaimed by any galactic power, the Lothorian Mafia has made Argasso a hub for their booming black market operations. Built around a hollowed-out asteroid caught in Argasso's gravity well, New Kowloon Station is cobbled together from various aftermarket components and copious amounts of duct tape. For the desperate denizens of the war torn Neutral Rim, New Kowloon Station is a crucial source of goods which are otherwise heavily rationed due to the Neutral Rim War.>>>>Operating outside the bounds of the law, New Kowloon Station attracts pirates, mercenaries, and the galaxy's scum and villainy in general. If you need a hired gun without questions asked, the station's canteen should be your first pit stop. Just be careful not to be scammed by the conmen on your way there.
+CLASS 0 GAS GIANT WORLD>>POPULATION: <300 SQUATTERS>>>>An uninhabited gas giant world unclaimed by any galactic power, the Lothorian Mafia has made Argasso a hub for their booming black market operations. Built around a hollowed-out asteroid caught in Argasso's gravity well, New Kowloon Station is cobbled together from various aftermarket components and copious amounts of duct tape. For the desperate denizens of the war torn Neutral Rim, New Kowloon Station is a crucial source of goods which are otherwise heavily rationed due to the Neutral Rim War.>>>>Operating outside the bounds of the law, New Kowloon Station attracts pirates, mercenaries, and the galaxy's scum and villainy in general. If you need a hired gun without questions asked, the station's canteen should be your first pit stop. Just be careful not to be scammed by the conmen on your way there.
+# RECRUIT ICARI
+RECRUIT ICARI
+# If I'm going to contact Ava on Cera, I'm going to need a security expert to scramble our transmission so that we don't tip off PACT's Intelligence Department. My old friend Icari Isidolde should fit the bill. According to talk on the Holonet, she is a regular at New Kowloon Station in orbit around Argasso.
+If I'm going to contact Ava on Cera, I'm going to need a security expert to scramble our transmission so that we don't tip off PACT's Intelligence Department. My old friend Icari Isidolde should fit the bill. According to talk on the Holonet, she is a regular at New Kowloon Station in orbit around Argasso.
+# CORE
+CORE
+# BATTERY
+BATTERY
+# REACTOR
+REACTOR
+# BOOST
+BOOST
+# Assault Hits
+Assault Hits
+# Torp HP
+Torp HP
+# Boost
+Boost
+# Speed/Ev
+Speed/Ev
+# SHD EMITTER
+SHD EMITTER
+# NEURAL ASSIST
+NEURAL ASSIST
+# DISTRACT
+DISTRACT
+# GRAVITY GUN
+GRAVITY GUN
+#  SHD for friendly units for 
+ SHD for friendly units for 
+#  buff to weapon DMG for 
+ buff to weapon DMG for 
+#  penalty to enemy weapon accuracy 
+ penalty to enemy weapon accuracy 
+# Relocate an enemy ryder, 
+Relocate an enemy ryder, 
+# CLOAK
+CLOAK
+# Extend melee combo
+Extend melee combo
+# Reduce hate by 
+Reduce hate by 
+#  radius
+ radius
+#  range
+ range
+# Area
+Area
+# ATTACK
+ATTACK
+# REPAIR
+REPAIR
+#  HP x10 in area
+ HP x10 in area
+# Repair all friendlies in targeted area
+Repair all friendlies in targeted area
+# Reduce chance of being noticed by enemies
+Reduce chance of being noticed by enemies
+# New Kowloon Station
+New Kowloon Station
+# Find the Fortune Teller
+Find the Fortune Teller
+# When I recruited Icari, she told me about a mysterious fortune teller who seemed to know a suspicious amount of information about Crow Harbor's return. Not being a believer in mystics, I think she has information regarding the Lost Fleet which we need to stop Crow Harbor.
+When I recruited Icari, she told me about a mysterious fortune teller who seemed to know a suspicious amount of information about Crow Harbor's return. Not being a believer in mystics, I think she has information regarding the Lost Fleet which we need to stop Crow Harbor.
+# Side: Treasure of the Holy Empire
+Side: Treasure of the Holy Empire
+# While I was on Tydaria, I overheard some miners claiming to have dug up an ancient Ryuvian artifact of great power. Intrigued, I shadowed them to an abandoned mine and witnessed the miners sell the artifact to a local pirate brigade. We should go back to Tydaria and restore the lost artifact to Ryuvia's rightful possession before the pirates use it for nefarious ends.
+While I was on Tydaria, I overheard some miners claiming to have dug up an ancient Ryuvian artifact of great power. Intrigued, I shadowed them to an abandoned mine and witnessed the miners sell the artifact to a local pirate brigade. We should go back to Tydaria and restore the lost artifact to Ryuvia's rightful possession before the pirates use it for nefarious ends.
+# Side: The Great Emu War
+Side: The Great Emu War
+# Hey cap. I've got a big contract for you. A contact desperately needs his pack of Lothorian emus transported to the moon of Argasso for the mating season. Hey, don't give me that look, this is serious business! Their eggs are worth a small fortune out here in the Neutral Rim, so you can count on there being trouble on route.
+Hey cap. I've got a big contract for you. A contact desperately needs his pack of Lothorian emus transported to the moon of Argasso for the mating season. Hey, don't give me that look, this is serious business! Their eggs are worth a small fortune out here in the Neutral Rim, so you can count on there being trouble on route.
+# CERA
+CERA
+# CLASS 11 HABITABLE WORLD>>POPULATION: 4.5 billion>>UNDER PACT OCCUPATION>>>>A highly developed world in the Neutral Rim, Cera is a regional technological and industrial powerhouse. Prior to the Neutral Rim War, living standards on Cera were comparable to the Solar Alliance core worlds, minus the rampant overpopulation, making it one of the jewels of the Neutral Rim.>>>>Following the tragic destruction of its capital city in the early days of the Neutral Rim War, Veniczar Fontana has funneled trillions of credits into reconstruction efforts, slowly gaining a measure of trust in Cera as a reformer. Today, New Cera City is a modern and revitalized core of technology and manufacturing thanks to the hard work of Cerans.>>>>Cera is the site of the infamous Liberation Day Massacre, where the Prototype Chigara assassinated Admiral Grey of the Solar Alliance, plunging humanity into a period of great bloodshed.
+CLASS 11 HABITABLE WORLD>>POPULATION: 4.5 billion>>UNDER PACT OCCUPATION>>>>A highly developed world in the Neutral Rim, Cera is a regional technological and industrial powerhouse. Prior to the Neutral Rim War, living standards on Cera were comparable to the Solar Alliance core worlds, minus the rampant overpopulation, making it one of the jewels of the Neutral Rim.>>>>Following the tragic destruction of its capital city in the early days of the Neutral Rim War, Veniczar Fontana has funneled trillions of credits into reconstruction efforts, slowly gaining a measure of trust in Cera as a reformer. Today, New Cera City is a modern and revitalized core of technology and manufacturing thanks to the hard work of Cerans.>>>>Cera is the site of the infamous Liberation Day Massacre, where the Prototype Chigara assassinated Admiral Grey of the Solar Alliance, plunging humanity into a period of great bloodshed.
+# TYDARIA
+TYDARIA
+# CLASS 3 ARID WORLD>>POPULATION: 3 million>>>>Dry and scarce of creature comforts, the Neutral Rim planet of Tydaria would be omitted from most star maps if not for its rich gray iron deposits. Most Tydarians are related to the mining industry in some form. Tydarians are as rugged as the rocks which line the surface of Tydaria and possess a straightforward and humorless attitude. Tydarians are fierce merchants and will pinch every penny out of a deal.>>>>Following the Solar Alliance's rout from the Neutral Rim, PACT has established de jure control of this world. However, due to its remote and underdeveloped status, not much has changed for its inhabitants, aside for the placement of some token PACT military personnel and propaganda speakers.
+CLASS 3 ARID WORLD>>POPULATION: 3 million>>>>Dry and scarce of creature comforts, the Neutral Rim planet of Tydaria would be omitted from most star maps if not for its rich gray iron deposits. Most Tydarians are related to the mining industry in some form. Tydarians are as rugged as the rocks which line the surface of Tydaria and possess a straightforward and humorless attitude. Tydarians are fierce merchants and will pinch every penny out of a deal.>>>>Following the Solar Alliance's rout from the Neutral Rim, PACT has established de jure control of this world. However, due to its remote and underdeveloped status, not much has changed for its inhabitants, aside for the placement of some token PACT military personnel and propaganda speakers.
+# Side: Scrap Behind the Shed
+Side: Scrap Behind the Shed
+# You think you're so tough, Shields?! If you're a real man, come face me and my squad at Tydaria where we can settle the score once and for all! And don't even think I'll ever join your pathetic harem! Peh!
+You think you're so tough, Shields?! If you're a real man, come face me and my squad at Tydaria where we can settle the score once and for all! And don't even think I'll ever join your pathetic harem! Peh!
+# Reunite with Ava
+Reunite with Ava
+# I've made contact with Ava and received forged diplomatic papers to sneak past PACT to dock at Cera. This will be the first time meeting my childhood friend and loyal second in command in six years. I... better iron out all the wrinkles in my uniform.
+I've made contact with Ava and received forged diplomatic papers to sneak past PACT to dock at Cera. This will be the first time meeting my childhood friend and loyal second in command in six years. I... better iron out all the wrinkles in my uniform.
+# ORDER
+ORDER
+# FULL FORWARD
+FULL FORWARD
+# Bonus to DMG for 3 turns
+Bonus to DMG for 3 turns
+# Provide shield cover within targeted area
+Provide shield cover within targeted area
+# Buff to target's weapon DMG
+Buff to target's weapon DMG
+# Penalty to target's weapon accuracy
+Penalty to target's weapon accuracy
+# Move target ryder
+Move target ryder
+# PROTECTOR
+PROTECTOR
+# PACT Fast Carrier
+PACT Fast Carrier
+# PACT Mook
+PACT Mook
+# Wolf 1
+Wolf 1
+# Wolf 2
+Wolf 2
+# PACT Wolf Brigade
+PACT Wolf Brigade
+# RYUVIA CANAL
+RYUVIA CANAL
+# RELIC OF THE ANCIENT AGE>>>>The last operational warp gate of the former Ryuvian Empire, the Ryuvia Canal connects Ryuvia Prime to the Solar Alliance world of Ferros, nearly halfway across the galaxy. The economic and military importance of the Ryuvia Canal is minimal, as it connects the Neutral Rim to the Denari Expanse, a region of space devoid of natural resources. The Canal is largely used by adventurous traders who deliver goods from the Denari Expanse to the Neutral Rim.>>>>However, with the Solar Alliance's heavy military presence at the gateway world of Far Port, the Ryuvia Canal has seen increased traffic from traders seeking to enter Alliance space, providing Ryuvia with an unexpected revenue source from the toll collections.
+RELIC OF THE ANCIENT AGE>>>>The last operational warp gate of the former Ryuvian Empire, the Ryuvia Canal connects Ryuvia Prime to the Solar Alliance world of Ferros, nearly halfway across the galaxy. The economic and military importance of the Ryuvia Canal is minimal, as it connects the Neutral Rim to the Denari Expanse, a region of space devoid of natural resources. The Canal is largely used by adventurous traders who deliver goods from the Denari Expanse to the Neutral Rim.>>>>However, with the Solar Alliance's heavy military presence at the gateway world of Far Port, the Ryuvia Canal has seen increased traffic from traders seeking to enter Alliance space, providing Ryuvia with an unexpected revenue source from the toll collections.
+# The
+The
+# WARP TO FERROS
+WARP TO FERROS
+# FERROS
+FERROS
+# CLASS 5 HUB WORLD OF THE DENARI EXPANSE>>POPULATION: 1 BILLION>>>>Connected to the Neutral Rim via the Ryuvian Canal, the Alliance world of Ferros serves as a bustling trade hub in the Denari Expanse. Populated mostly by the Denari, Ferros is the economic and political center of the Expanse.>>>>During the Alliance-Imperial War, Ferros supplied the Solar Alliance with vast amounts of grey iron, which was used in the construction of the Emerald Fleet. However, those grey iron deposits have now been mined dry, and the citizens of Ferros find themselves without jobs and under-appreciated in the Alliance.
+CLASS 5 HUB WORLD OF THE DENARI EXPANSE>>POPULATION: 1 BILLION>>>>Connected to the Neutral Rim via the Ryuvian Canal, the Alliance world of Ferros serves as a bustling trade hub in the Denari Expanse. Populated mostly by the Denari, Ferros is the economic and political center of the Expanse.>>>>During the Alliance-Imperial War, Ferros supplied the Solar Alliance with vast amounts of grey iron, which was used in the construction of the Emerald Fleet. However, those grey iron deposits have now been mined dry, and the citizens of Ferros find themselves without jobs and under-appreciated in the Alliance.
+# Conn
+Conn
+# PURSUE THE 13TH FLEET
+PURSUE THE 13TH FLEET
+# KOR'ATH
+KOR'ATH
+# CLASS 0 UNINHABITED WORLD>>>>Kor'ath is a sulfuric world with no strategic resources. No human settlements are present on this useless rock.
+CLASS 0 UNINHABITED WORLD>>>>Kor'ath is a sulfuric world with no strategic resources. No human settlements are present on this useless rock.
+# Kor'ath is a sulfuric world with no strategic resources. No human settlements are present on this useless rock.
+Kor'ath is a sulfuric world with no strategic resources. No human settlements are present on this useless rock.
+# INVESTIGATE KOR'ATH
+INVESTIGATE KOR'ATH
+# RENTOS
+RENTOS
+# CLASS 2 UNINHABITED WORLD>>>>POPULATION: <100>>>>After Rentos was mined dry of grey iron, it was abandoned by the Solar Alliance's corporations several decades ago. Now it is a largely uninhabited world, save for small pockets of criminals and squatters.
+CLASS 2 UNINHABITED WORLD>>>>POPULATION: <100>>>>After Rentos was mined dry of grey iron, it was abandoned by the Solar Alliance's corporations several decades ago. Now it is a largely uninhabited world, save for small pockets of criminals and squatters.
+# After Rentos was mined dry of grey iron, it was abandoned by the Solar Alliance's corporations several decades ago. Now it is a largely uninhabited world, save for small pockets of criminals and squatters.
+After Rentos was mined dry of grey iron, it was abandoned by the Solar Alliance's corporations several decades ago. Now it is a largely uninhabited world, save for small pockets of criminals and squatters.
+# INVESTIGATE RENTOS
+INVESTIGATE RENTOS
+# AINUR
+AINUR
+# CLASS 0 UNINHABITED WORLD>>>>The predominant life form on Ainur is a fungi, the spores of which are toxic to humans. Due to a lack of any strategic resources, no effort has been made to terraform Ainur into a world palpable to human life.
+CLASS 0 UNINHABITED WORLD>>>>The predominant life form on Ainur is a fungi, the spores of which are toxic to humans. Due to a lack of any strategic resources, no effort has been made to terraform Ainur into a world palpable to human life.
+# The predominant life form on Ainur is a fungi, the spores of which are toxic to humans. Due to a lack of any strategic resources, no effort has been made to terraform Ainur into a world palpable to human life.
+The predominant life form on Ainur is a fungi, the spores of which are toxic to humans. Due to a lack of any strategic resources, no effort has been made to terraform Ainur into a world palpable to human life.
+# CONFRONT THE PALADIN
+CONFRONT THE PALADIN
+# DOOMED WORLD
+DOOMED WORLD
+# DESTROYED>>>>The greed of humanity has doomed this world to ruin. The fires of destruction will burn for millennia to come.
+DESTROYED>>>>The greed of humanity has doomed this world to ruin. The fires of destruction will burn for millennia to come.
+# The greed of humanity has doomed this world to ruin. The fires of destruction will burn for millennia to come.
+The greed of humanity has doomed this world to ruin. The fires of destruction will burn for millennia to come.
+# REFIT
+REFIT
+# Restore HP and Ammo of nearby units
+Restore HP and Ammo of nearby units
+# REMATCH WITH COSETTE
+REMATCH WITH COSETTE
+# I let you off easy last time, but now it's going to be a fight to the death! Only one of us is going to walk away from this, so I can totally understand if you wuss out. But if you've actually got balls, come meet me at Versta and we can settle this once and for all! PS: Come with just your ship and none of your hired goons! We're settling this one-on-one, Shields!
+I let you off easy last time, but now it's going to be a fight to the death! Only one of us is going to walk away from this, so I can totally understand if you wuss out. But if you've actually got balls, come meet me at Versta and we can settle this once and for all! PS: Come with just your ship and none of your hired goons! We're settling this one-on-one, Shields!
+# VERSTA
+VERSTA
+# CLASS 7 HABITABLE WORLD>>>>POPULATION: 8 MILLION>>>>Versta was a former planet of the Ryuvian Empire. Following Ryuvia's decline, Versta was ravaged by decades of civil unrest. Following many tragic deaths, President Zefiris was elected to office, promising planetary reconciliation. Zefiris revitalized the fledgling economy and began democratic reforms which restored peace to Versta.>>>>Unfortunately, Versta was conquered by PACT during the Neutral Rim War and President Zefiris was jailed as a political dissident. With the Crimson Fleet spread thin in the Neutral Rim, Versta's economy has collapsed and little semblance of civil order remains.
+CLASS 7 HABITABLE WORLD>>>>POPULATION: 8 MILLION>>>>Versta was a former planet of the Ryuvian Empire. Following Ryuvia's decline, Versta was ravaged by decades of civil unrest. Following many tragic deaths, President Zefiris was elected to office, promising planetary reconciliation. Zefiris revitalized the fledgling economy and began democratic reforms which restored peace to Versta.>>>>Unfortunately, Versta was conquered by PACT during the Neutral Rim War and President Zefiris was jailed as a political dissident. With the Crimson Fleet spread thin in the Neutral Rim, Versta's economy has collapsed and little semblance of civil order remains.
+# NEXT
+NEXT
+# TRAVEL TO THE DENARI EXPANSE
+TRAVEL TO THE DENARI EXPANSE
+# With Asaga's blessing, we can now use the Ryuvian Canal to travel to the Denari world of Ferros. The gateway world to the Denari Expanse, Ferros is the seat of Denari power, where traders first arrive on their trek to the Alliance core worlds. We should contact the locals here to track down the whereabouts of Kryska's new alter ego, the "Paladin."
+With Asaga's blessing, we can now use the Ryuvian Canal to travel to the Denari world of Ferros. The gateway world to the Denari Expanse, Ferros is the seat of Denari power, where traders first arrive on their trek to the Alliance core worlds. We should contact the locals here to track down the whereabouts of Kryska's new alter ego, the "Paladin."
+# INVESTIGATE THE ALLIANCE FLEET
+INVESTIGATE THE ALLIANCE FLEET
+# According to Mar'qui Johan, a mysterious Alliance fleet was last spotted at the uninhabited world of Kor'ath, their intentions unknown. Could this mysterious fleet be the infamous 13th Fleet led by Captain Paladin?
+According to Mar'qui Johan, a mysterious Alliance fleet was last spotted at the uninhabited world of Kor'ath, their intentions unknown. Could this mysterious fleet be the infamous 13th Fleet led by Captain Paladin?
+# CONSULT THE CREW
+CONSULT THE CREW
+# MOMENTS PRIOR...
+MOMENTS PRIOR...
+# RETURN TO FERROS
+RETURN TO FERROS
+# We arrived on Kor'ath, where the Paladin was last seen, only to discover the entire planet had been mysteriously destroyed. What's more, Ongessite crystals were found in the planet's debris field, along with a Mining Union operation. We should return to Ferros to investigate the permit the Mining Union received from the Solaris Interior Department.
+We arrived on Kor'ath, where the Paladin was last seen, only to discover the entire planet had been mysteriously destroyed. What's more, Ongessite crystals were found in the planet's debris field, along with a Mining Union operation. We should return to Ferros to investigate the permit the Mining Union received from the Solaris Interior Department.
+# Investigate Rentos
+Investigate Rentos
+# The Mining Union and the 13th Fleet appear to have detonated a second Tactical Paradox Core at the uninhabited world of Rentos. We should investigate Rentos immediately - perhaps we might still be able to catch the perpetrators.
+The Mining Union and the 13th Fleet appear to have detonated a second Tactical Paradox Core at the uninhabited world of Rentos. We should investigate Rentos immediately - perhaps we might still be able to catch the perpetrators.
+# CONFRONT THE PALADIN
+CONFRONT THE PALADIN
+# The Paladin has challenged us to a showdown at the Denari world of Ainur. I hope you are ready for this, captain. This is all but certain to be a trap.
+The Paladin has challenged us to a showdown at the Denari world of Ainur. I hope you are ready for this, captain. This is all but certain to be a trap.
+# DENARI POCKET CARRIER
+DENARI POCKET CARRIER
+# DENARI INFANTRY
+DENARI INFANTRY
+# DRAGOON
+DRAGOON
+# ALLIANCE INFANTRY
+ALLIANCE INFANTRY
+# ALLIANCE AT. CARRIER
+ALLIANCE AT. CARRIER
+# ALLIANCE CRUISER
+ALLIANCE CRUISER
+# PALADIN
+PALADIN
+# ALL GUARD
+ALL GUARD
+# Increase armor for 3 turns
+Increase armor for 3 turns
+# REFIT
+REFIT
+# Restore 50% HP and all missile and 1 torp ammo to ryders near the Maray
+Restore 50% HP and all missile and 1 torp ammo to ryders near the Maray
+# COLLISION WARNING
+COLLISION WARNING
+# RETREAT WARNING
+RETREAT WARNING
+# SOLARIS
+SOLARIS
+# CAPITAL OF THE SOLAR ALLIANCE>>>>POPULATION: 42 billion + 2 billion in orbit>>>>CLASS 14 WORLD>>>>The financial, cultural, and political hub of the Solar Alliance (arguably of humanity itself) Solaris is a highly developed world renown throughout the galaxy for its wealth and entertainment industry. However, Solaris' glitzy exterior hides an uncomfortable dark side: Most of its inhabitants barely get by on a day to day basis due to the high costs of living and the relocation of most unskilled jobs off world. With the planet barely able to support its inhabitants, many find themselves trapped in a cycle of barely having enough money to survive.>>>>In spite of its issues, the Solari are a proud people with an unshakable belief in the Solaris Dream: To strike it big with a bold new business venture and transform both the nature of human existence and one's own life.
+CAPITAL OF THE SOLAR ALLIANCE>>>>POPULATION: 42 billion + 2 billion in orbit>>>>CLASS 14 WORLD>>>>The financial, cultural, and political hub of the Solar Alliance (arguably of humanity itself) Solaris is a highly developed world renown throughout the galaxy for its wealth and entertainment industry. However, Solaris' glitzy exterior hides an uncomfortable dark side: Most of its inhabitants barely get by on a day to day basis due to the high costs of living and the relocation of most unskilled jobs off world. With the planet barely able to support its inhabitants, many find themselves trapped in a cycle of barely having enough money to survive.>>>>In spite of its issues, the Solari are a proud people with an unshakable belief in the Solaris Dream: To strike it big with a bold new business venture and transform both the nature of human existence and one's own life.
+# SIDE: Shadows of the Future
+SIDE: Shadows of the Future
+# Captain Shields: I am sending this message in the hopes that you can assist the Denari people once more. Following the Paladin Incident, I was assigned to investigate the Iron Brotherhood criminal syndicate. My investigation has led me to the location of their kingpin. However, I am embarrassed to admit that I find myself outgunned against these scum. I know together, we will be able to topple this criminal enterprise for good.
+Captain Shields: I am sending this message in the hopes that you can assist the Denari people once more. Following the Paladin Incident, I was assigned to investigate the Iron Brotherhood criminal syndicate. My investigation has led me to the location of their kingpin. However, I am embarrassed to admit that I find myself outgunned against these scum. I know together, we will be able to topple this criminal enterprise for good.
+# SIDE: Human Costs
+SIDE: Human Costs
+# Greetings, Captain Shields. While I bid you farewell from our space not long ago, I am humbled by the reality that I am in need of your assistance once more. With the Mining Union's cooperation, we have expanded the scope of our Ongessite fracking operations. Unfortunately, we have lost contact with one of our mines and every team we have sent to investigate has gone silent. We could offer you a handsome reward if you uncover what has happened...
+Greetings, Captain Shields. While I bid you farewell from our space not long ago, I am humbled by the reality that I am in need of your assistance once more. With the Mining Union's cooperation, we have expanded the scope of our Ongessite fracking operations. Unfortunately, we have lost contact with one of our mines and every team we have sent to investigate has gone silent. We could offer you a handsome reward if you uncover what has happened...
+# ONWARD TO SOLARIS
+ONWARD TO SOLARIS
+# Following our confrontation with the Paladin, she and the 13th Fleet left the Denari Expanse for Solaris. We suspect they will use the credits they acquired from the sale of the Ongessite fracking techonology to fund a coup d'etat of the Solar Alliance government at Solaris. We should set course for Solaris and contact Captain Grey of the Alliance Fleet to find a way to stop the Paladin's plot.
+Following our confrontation with the Paladin, she and the 13th Fleet left the Denari Expanse for Solaris. We suspect they will use the credits they acquired from the sale of the Ongessite fracking techonology to fund a coup d'etat of the Solar Alliance government at Solaris. We should set course for Solaris and contact Captain Grey of the Alliance Fleet to find a way to stop the Paladin's plot.
+# Some changes will not take effect until battle restart
+Some changes will not take effect until battle restart
+# MISHIMA
+MISHIMA
+# GUARD
+GUARD
+# Drastically boost armor and draw in enemies
+Drastically boost armor and draw in enemies
+# % Armor for 
+% Armor for 
+#  turn(s)
+ turn(s)
+#  hate
+ hate
+# Left
+Left
+# Right
+Right
+# Draw Fire
+Draw Fire
+# Armor Up
+Armor Up
+# ONGESS
+ONGESS
+# CLASS 7 ROCKY WORLD>>>>POPULATION: 38 BILLION>>>>Ongess is a filthy world with a long history of colonial exploitation. Ongessite ore can be refined into liquid Ongessite, a valuable commodity used in the construction of high-grade fusion reactors. First conquered by the Holy Ryuvian Empire during the ancient era, then by the New Empire, then most recently caught between the Solar Alliance and PACT in the Neutral Rim War, the citizens of Ongess have essentially been slaves to one galactic power or another for most of its history. Veniczar Fontana has ordered the nationalization of the entire Ongessite industry and promised trillions of credits to fund environmental cleanup and social services. However, corruption throughout the People's Alliance bureaucracy and the more pressing Fleet Modernization Project has only made PACT into Ongess's newest imperial master.
+CLASS 7 ROCKY WORLD>>>>POPULATION: 38 BILLION>>>>Ongess is a filthy world with a long history of colonial exploitation. Ongessite ore can be refined into liquid Ongessite, a valuable commodity used in the construction of high-grade fusion reactors. First conquered by the Holy Ryuvian Empire during the ancient era, then by the New Empire, then most recently caught between the Solar Alliance and PACT in the Neutral Rim War, the citizens of Ongess have essentially been slaves to one galactic power or another for most of its history. Veniczar Fontana has ordered the nationalization of the entire Ongessite industry and promised trillions of credits to fund environmental cleanup and social services. However, corruption throughout the People's Alliance bureaucracy and the more pressing Fleet Modernization Project has only made PACT into Ongess's newest imperial master.
+# FORMOTTI
+FORMOTTI
+# UNCHARTED>>>>An uncharted nebula of little note, the Formotti Nebula is seldom visited by travelers. A large number of asteroids, ice meteors, and space garbage orbit the protostar at the center of the nebula, caught in its gravitational field.
+UNCHARTED>>>>An uncharted nebula of little note, the Formotti Nebula is seldom visited by travelers. A large number of asteroids, ice meteors, and space garbage orbit the protostar at the center of the nebula, caught in its gravitational field.
+# KRYSKA STARES
+KRYSKA STARES
+# PATRIOT OF THE SWOL-AR ALLIANCE
+PATRIOT OF THE SWOL-AR ALLIANCE
+# EXTREMIST REFORMED: Kryska abandons both her helm and political extremism
+EXTREMIST REFORMED: Kryska abandons both her helm and political extremism
+# IRON FURY I: Chance to fire additional kinetic shot when HP is under 50%
+IRON FURY I: Chance to fire additional kinetic shot when HP is under 50%
+# SECOND WIND: The Paladin restores 50% of its HP upon death
+SECOND WIND: The Paladin restores 50% of its HP upon death
+# MIGHT OF THE ALLIANCE: Fatal attacks will leave 1 HP when Guard is active
+MIGHT OF THE ALLIANCE: Fatal attacks will leave 1 HP when Guard is active
+# AUTO ECM: Chance to send missiles and torpedoes back to owners upon casting Guard
+AUTO ECM: Chance to send missiles and torpedoes back to owners upon casting Guard
+# IRON FURY II: Chance to fire another additional kinetic shot when HP is under 25%
+IRON FURY II: Chance to fire another additional kinetic shot when HP is under 25%
+# SHIELD WALL: Boost to armor when under 25% HP
+SHIELD WALL: Boost to armor when under 25% HP
+# SPEEDY FRIEND: Chance to evade attacks when near Phoenix
+SPEEDY FRIEND: Chance to evade attacks when near Phoenix
+# SHOCK AND AWE: Weapons deal double damage when at 1 HP
+SHOCK AND AWE: Weapons deal double damage when at 1 HP
+# SOLARIS DREAM: Secret Ending Unlocked
+SOLARIS DREAM: Secret Ending Unlocked
+# BLACK IRON HEIST
+BLACK IRON HEIST
+# In order to rebuild the Paladin from scratch, we will need a substantial amount of Black Iron. The PACT Processing Facility in orbit around Ongess' sun currently holds an ancient Ryuvian monolith which was stolen from Ryuvia Prime during PACT's occupation of the planet. We should strike the facility and steal the monolith before PACT has time to bring in reinforcements.
+In order to rebuild the Paladin from scratch, we will need a substantial amount of Black Iron. The PACT Processing Facility in orbit around Ongess' sun currently holds an ancient Ryuvian monolith which was stolen from Ryuvia Prime during PACT's occupation of the planet. We should strike the facility and steal the monolith before PACT has time to bring in reinforcements.
+# INVESTIGATE TEMPLE
+INVESTIGATE TEMPLE
+# While treating a patient for mysterious energy burns while I was moonlighting as a medic at New Kowloon Station, I heard from him that he discovered an Ancient Ryuvian Temple somewhere within the Formotti Nebula. This Temple might hold information about Crow Harbor's war against Sola - information we need if we're going to find his current whereabouts.
+While treating a patient for mysterious energy burns while I was moonlighting as a medic at New Kowloon Station, I heard from him that he discovered an Ancient Ryuvian Temple somewhere within the Formotti Nebula. This Temple might hold information about Crow Harbor's war against Sola - information we need if we're going to find his current whereabouts.
+# FAR PORT
+FAR PORT
+# CLASS 5 OCEANIC WORLD>>>>POPULATION: <1000>>>>Due to the location of several black holes in this sector, all of the warp lanes connecting the Solar Alliance to the Neutral Rim converge at Far Port, making it a strategic choke point. Case in point, it was here that the first large scale battle of the Neutral Rim War took place. Captain Kayto Shields held the world against an overwhelmingly more powerful PACT invasion fleet commanded by Veniczar Cullen until relief forces could arrive from the Solar Alliance. The Battle of Far Port ended PACT's hope for an invasion of Alliance space and instead began a bloody seven year long war in the Neutral Rim.>>>>On a more personal note, Sola was born on this planet several hundreds of years ago to a peasant mother, her royal bloodline kept secret.
+CLASS 5 OCEANIC WORLD>>>>POPULATION: <1000>>>>Due to the location of several black holes in this sector, all of the warp lanes connecting the Solar Alliance to the Neutral Rim converge at Far Port, making it a strategic choke point. Case in point, it was here that the first large scale battle of the Neutral Rim War took place. Captain Kayto Shields held the world against an overwhelmingly more powerful PACT invasion fleet commanded by Veniczar Cullen until relief forces could arrive from the Solar Alliance. The Battle of Far Port ended PACT's hope for an invasion of Alliance space and instead began a bloody seven year long war in the Neutral Rim.>>>>On a more personal note, Sola was born on this planet several hundreds of years ago to a peasant mother, her royal bloodline kept secret.
+# HUNTRESS
+HUNTRESS
+# Open doors by moving to the door podium
+Open doors by moving to the door podium
+# Use gravity gun to charge power connections
+Use gravity gun to charge power connections
+# Can hold open doors
+Can hold open doors
+# Fast scout unit
+Fast scout unit
+# Use to collect data crystals
+Use to collect data crystals
+# ANCIENT RYDER
+ANCIENT RYDER
+# URDOT SECTOR
+URDOT SECTOR
+# Coordinates: 10527.923 32981.921 41202.109>>>>These coordinates lead to nothing but a patch of empty space. Is this truly the location of Crow Harbor's lair?
+Coordinates: 10527.923 32981.921 41202.109>>>>These coordinates lead to nothing but a patch of empty space. Is this truly the location of Crow Harbor's lair?
+# THE LAIR OF CROW HARBOR
+THE LAIR OF CROW HARBOR
+# Thanks to the final data crystal we recovered from the Ryuvian temple, we've managed to discover the coordinates of Crow Harbor's secret lair. Just head over to the marked position in the galaxy map and we can investigate.
+Thanks to the final data crystal we recovered from the Ryuvian temple, we've managed to discover the coordinates of Crow Harbor's secret lair. Just head over to the marked position in the galaxy map and we can investigate.
+# PACT Bomber
+PACT Bomber
+# PACT Support
+PACT Support
+# SIDE: Simulacra and Simulation
+SIDE: Simulacra and Simulation
+# I've got a contract from Wei-Ren Shipping to take out a rogue ex-employee. Let's jack into the Holonet and take care of this digitally.
+I've got a contract from Wei-Ren Shipping to take out a rogue ex-employee. Let's jack into the Holonet and take care of this digitally.
+# SIDE: Sports Day
+SIDE: Sports Day
+# Captain Alan Grey has invited us to participate in a training exercise at Far Port. What say we teach the Solar Alliance some of our tricks?
+Captain Alan Grey has invited us to participate in a training exercise at Far Port. What say we teach the Solar Alliance some of our tricks?
+# SIDE: Who is this sassy, lost child?
+SIDE: Who is this sassy, lost child?
+# Where the fuck are you, Shields?! I heard that your sorry hide was spotted in the Denari Expanse so I had to pay the toll to pass through the Ryuvian Canal, only to find no trace of you once I got here! Ugh, you better fly back here right now!
+Where the fuck are you, Shields?! I heard that your sorry hide was spotted in the Denari Expanse so I had to pay the toll to pass through the Ryuvian Canal, only to find no trace of you once I got here! Ugh, you better fly back here right now!
+# SIDE: Save the Whales
+SIDE: Save the Whales
+# Hey capt'n! I've been getting reports of pirates engaged in illegal space whaling operations near Ryuvia Prime. Now that's not OK in my book! We should return home and knock their lights out!
+Hey capt'n! I've been getting reports of pirates engaged in illegal space whaling operations near Ryuvia Prime. Now that's not OK in my book! We should return home and knock their lights out!
+# SIDE: Viva la Resistance
+SIDE: Viva la Resistance
+# Resistance forces are in need of our help in Tydaria. We should lend assistance...
+Resistance forces are in need of our help in Tydaria. We should lend assistance...
+# SIDE: Brain Teaser
+SIDE: Brain Teaser
+# Our seach of the Ryuvian temple was cut short due to Admiral Kuushana's appearance. We should return and see what other Lost Technology can be found.
+Our seach of the Ryuvian temple was cut short due to Admiral Kuushana's appearance. We should return and see what other Lost Technology can be found.
+# SIDE: Sola's Memories
+SIDE: Sola's Memories
+# Through my study of the sacred texts, I have found the location of an ancient holy site near Versta's moon. We should investigate further.
+Through my study of the sacred texts, I have found the location of an ancient holy site near Versta's moon. We should investigate further.
+# SIDE: Ryuvian Intervention
+SIDE: Ryuvian Intervention
+# Versta has descended into political chaos after it voted to reject membership in PACT. We've got to get there to save democracy!
+Versta has descended into political chaos after it voted to reject membership in PACT. We've got to get there to save democracy!
+# SIDE: The Empress' New Clothes
+SIDE: The Empress' New Clothes
+# The Neutral Rim is in need of our help. Let's secure Tydaria so that everyone can stay warm during the winter!
+The Neutral Rim is in need of our help. Let's secure Tydaria so that everyone can stay warm during the winter!
+# SIDE: The Scar
+SIDE: The Scar
+# Something feels wrong, Shields. That distress signal might be our only lead to figuring out what's been bothering me.
+Something feels wrong, Shields. That distress signal might be our only lead to figuring out what's been bothering me.
+# SIDE: Mysteries of the Deep Holonet
+SIDE: Mysteries of the Deep Holonet
+# Hey cap, according to some very credible holonet rumors, the legendary Package is supposed to be passing through Ongess. We've got to get in there and see for ourselves just what's inside!
+Hey cap, according to some very credible holonet rumors, the legendary Package is supposed to be passing through Ongess. We've got to get in there and see for ourselves just what's inside!
+# Autosaved
+Autosaved
+# WE HAD IT ALL ALONG
+WE HAD IT ALL ALONG
+# To think that all we needed to track down Crow Harbor was under our noses all this time. We must return to the Star Palace and recover the Talbur at once!
+To think that all we needed to track down Crow Harbor was under our noses all this time. We must return to the Star Palace and recover the Talbur at once!
+# THE WORLD FOUNTAIN
+THE WORLD FOUNTAIN
+# Uncharted space anomaly>>>>Far outside the limits of our galaxy lies the mysterious World Fountain - a colossal artifice built by the Holy Ryuvian Empire around a pulsar star. Through means beyond our understanding, the pulsar appears to be emitting Lillium, an element not found in our universe.
+Uncharted space anomaly>>>>Far outside the limits of our galaxy lies the mysterious World Fountain - a colossal artifice built by the Holy Ryuvian Empire around a pulsar star. Through means beyond our understanding, the pulsar appears to be emitting Lillium, an element not found in our universe.
+# DEFEAT CROW HARBOR
+DEFEAT CROW HARBOR
+# Finally, we have found the location of Crow Harbor himself. The Lost Fleet is moored at the World Fountain, a refueling station of the ancient age. This may be our toughest mission yet: You best finish all other open missions before embarking on this battle.
+Finally, we have found the location of Crow Harbor himself. The Lost Fleet is moored at the World Fountain, a refueling station of the ancient age. This may be our toughest mission yet: You best finish all other open missions before embarking on this battle.
+# Ryuvian Lancer
+Ryuvian Lancer
+# Ancient Ryder
+Ancient Ryder
+# Imperium
+Imperium
+# Explore the World Fountain
+Explore the World Fountain
+# It all comes down to this. I've arrived at Crow Harbor's final location and reached the climax of my mission. My next step is to delve deeper into this mysterious sector and stop Crow Harbor once and for all.
+It all comes down to this. I've arrived at Crow Harbor's final location and reached the climax of my mission. My next step is to delve deeper into this mysterious sector and stop Crow Harbor once and for all.
+# COMMAND DECISION: HELL no.
+COMMAND DECISION: HELL no.
+# An Ode to a Loli Space Pirate
+An Ode to a Loli Space Pirate
+# So you managed to spring yourself out of that PACT prison! Big whoop, I got out before you and I didn't need to rely on my Prototype ex-girlfriend to make it happen! You know what this means: We're finally gonna settle things once and for all! Who's stronger, me or you? Come to Tydaria, where we first met, and we can finally have our death match!
+So you managed to spring yourself out of that PACT prison! Big whoop, I got out before you and I didn't need to rely on my Prototype ex-girlfriend to make it happen! You know what this means: We're finally gonna settle things once and for all! Who's stronger, me or you? Come to Tydaria, where we first met, and we can finally have our death match!
+# PROTOTYPE RYDER
+PROTOTYPE RYDER
+# WIDOW
+WIDOW
+# DESTROY THE CRIMSON FLEET
+DESTROY THE CRIMSON FLEET
+# It all comes down to this: With the entire Crimson Fleet gathered at the World Fountain, we either detonate the graviton torpedo and destroy all of PACT's ships or Veniczar Fontana gains access to Crow Harbor's Lost Technology. This will be our most difficult battle YET. I trust that you understand the stakes - the fate of humanity hangs in the balance.
+It all comes down to this: With the entire Crimson Fleet gathered at the World Fountain, we either detonate the graviton torpedo and destroy all of PACT's ships or Veniczar Fontana gains access to Crow Harbor's Lost Technology. This will be our most difficult battle YET. I trust that you understand the stakes - the fate of humanity hangs in the balance.
+# RESEARCH
+RESEARCH
+# QUICK SAVE
+QUICK SAVE
+# DIFFICULTY
+DIFFICULTY
+# ENGAGE
+ENGAGE
+# Become mobile again
+Become mobile again
+# AWAKEN ON
+AWAKEN ON
+# AWAKEN OFF
+AWAKEN OFF
+# ROYAL DECREE
+ROYAL DECREE
+# COST: 
+COST: 
+# SUMMON LANCER
+SUMMON LANCER
+# SHORT RANGE WARP
+SHORT RANGE WARP
+# OVERDRIVE
+OVERDRIVE
+# ALL POWER TO ENGINES
+ALL POWER TO ENGINES
+# REPAIR DRONES
+REPAIR DRONES
+# FLAK BURST
+FLAK BURST
+# RESURRECT
+RESURRECT
+# REFIT II
+REFIT II
+# FINEST HOUR
+FINEST HOUR
+# DIVINE PRAYER
+DIVINE PRAYER
+# SUMMON GUNBOAT
+SUMMON GUNBOAT
+# SUMMON CRUISER
+SUMMON CRUISER
+# Warp in a Ryuvian Lancer cruiser
+Warp in a Ryuvian Lancer cruiser
+# Instantly relocate the Maray
+Instantly relocate the Maray
+# Fully restore the Maray's EN
+Fully restore the Maray's EN
+# Boost the move range of all units
+Boost the move range of all units
+# Restore 50% of the Maray's HP
+Restore 50% of the Maray's HP
+# Destroy all missiles and torpedoes in an area around the Maray
+Destroy all missiles and torpedoes in an area around the Maray
+# Return a fallen ryder back to the field
+Return a fallen ryder back to the field
+# Fully restore the HP and ammo of all units around the Maray
+Fully restore the HP and ammo of all units around the Maray
+# The Maray gains invulnerability to regular attacks for 3 turns
+The Maray gains invulnerability to regular attacks for 3 turns
+# Bring forth a random effect of great boon or doom
+Bring forth a random effect of great boon or doom
+# Summon a Resistance gunboat
+Summon a Resistance gunboat
+# An Alliance Cruiser suffers a navigational mishap and warps to your position
+An Alliance Cruiser suffers a navigational mishap and warps to your position
+# ALL HANDS ON DECK
+ALL HANDS ON DECK
+# Fully restores the Maray's HP, EN, and ammo
+Fully restores the Maray's HP, EN, and ammo
+# SURGICAL STRIKE
+SURGICAL STRIKE
+# Move all missiles and torpedoes in the field to their targets
+Move all missiles and torpedoes in the field to their targets
+# All enemies receive random damage!
+All enemies receive random damage!
+# Full Forward is cast instead!
+Full Forward is cast instead!
+# All bounties are doubled!
+All bounties are doubled!
+# All units regain all EN!
+All units regain all EN!
+# Claude regains all ammo!
+Claude regains all ammo!
+# Claude's torpedoes deal double damage!
+Claude's torpedoes deal double damage!
+# Claude loses all ammo!
+Claude loses all ammo!
+# Claude blows up!
+Claude blows up!
+# Nothing happens...
+Nothing happens...
+# All your units take random damage!
+All your units take random damage!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# When commanding your unit to move, consider what your new heading will do to your future movement path.
+When commanding your unit to move, consider what your new heading will do to your future movement path.
+# Almost all units have no armor in the rear. Sending a cluster of missiles down a ship's engines is a sure way to deal lots of damage!
+Almost all units have no armor in the rear. Sending a cluster of missiles down a ship's engines is a sure way to deal lots of damage!
+# If you hold down the shift key, you can see which of your units that the enemy is currently gunning for!
+If you hold down the shift key, you can see which of your units that the enemy is currently gunning for!
+# Got lots of enemy missiles coming your way? Hold down the shift key while targeting a weapon to lock on to only missiles and torpedoes.
+Got lots of enemy missiles coming your way? Hold down the shift key while targeting a weapon to lock on to only missiles and torpedoes.
+# Don't forget to upgrade your units!
+Don't forget to upgrade your units!
+# When you need to be defensive, suddenly changing your unit's heading will grant it a buff to evasion.
+When you need to be defensive, suddenly changing your unit's heading will grant it a buff to evasion.
+# Rank up your affection rating with your crew to unlock new abilities and perks!
+Rank up your affection rating with your crew to unlock new abilities and perks!
+# You can use my gravity gun any time to line up shots more effectively, captain.
+You can use my gravity gun any time to line up shots more effectively, captain.
+# Be careful! The damage you take from using Asaga's awaken increases per use!
+Be careful! The damage you take from using Asaga's awaken increases per use!
+# Pay attention to your mission objectives. Sometimes, you don't need to clear the map of enemies to win.
+Pay attention to your mission objectives. Sometimes, you don't need to clear the map of enemies to win.
+# Be sure to manage each of your units' aggro carefully. If one unit is dishing out a lot of pain, then more enemies will be drawn to it.
+Be sure to manage each of your units' aggro carefully. If one unit is dishing out a lot of pain, then more enemies will be drawn to it.
+# Be careful not to put your units into a collision path! They will have to expend EN to take evasive maneuvers.
+Be careful not to put your units into a collision path! They will have to expend EN to take evasive maneuvers.
+# Don't worry: Your missiles and torpedoes will be refilled for free at the end of each mission.
+Don't worry: Your missiles and torpedoes will be refilled for free at the end of each mission.
+# If you're stuck on a mission, there are always special difficulty mods in the custom difficulty mode to spice up the gameplay experience.
+If you're stuck on a mission, there are always special difficulty mods in the custom difficulty mode to spice up the gameplay experience.
+# Reduce the damage you take from laser attacks by putting your units inside shield cover.
+Reduce the damage you take from laser attacks by putting your units inside shield cover.
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# CERA GUNBOAT
+CERA GUNBOAT
+# FLAK NET
+FLAK NET
+# 25 hits to all nearby missiles and torpedoes
+25 hits to all nearby missiles and torpedoes
+# PROLOGUE
+PROLOGUE
+# 6 Years Later...
+6 Years Later...
+# CHAPTER 1
+CHAPTER 1
+# The Queen of Ryuvia
+The Queen of Ryuvia
+# CHAPTER 2
+CHAPTER 2
+# The Prime Minister
+The Prime Minister
+# CHAPTER 3
+CHAPTER 3
+# The Paladin
+The Paladin
+# CHAPTER 4
+CHAPTER 4
+# Coup d'Etat
+Coup d'Etat
+# CHAPTER 5
+CHAPTER 5
+# Spectre
+Spectre
+# CHAPTER 6
+CHAPTER 6
+# The Lair of Crow Harbor
+The Lair of Crow Harbor
+# CHAPTER 7
+CHAPTER 7
+# The World Fountain
+The World Fountain
+# CHAPTER 8
+CHAPTER 8
+# The Death of a Captain
+The Death of a Captain
+# CHAPTER 9
+CHAPTER 9
+# The Abyss
+The Abyss
+# CHAPTER 10
+CHAPTER 10
+# The Captain's Return
+The Captain's Return
+# RESTORE
+RESTORE
+# Remove all debuffs from target
+Remove all debuffs from target
+# Show collision warning
+Show collision warning
+# Move Asaga or Sola to a gate to open it.
+Move Asaga or Sola to a gate to open it.
+# Move Lynn to a crystal to collect it.
+Move Lynn to a crystal to collect it.
+# Use Claude's gravity gun on a power switch to unlock doors.
+Use Claude's gravity gun on a power switch to unlock doors.
+# Move Kryska to a door and she will hold it open.
+Move Kryska to a door and she will hold it open.
+# Once the exit has been discovered, move a ryder to the warp entrance to teleport it to the exit.
+Once the exit has been discovered, move a ryder to the warp entrance to teleport it to the exit.
+# Unpowered doors cannot be opened until power is restored.
+Unpowered doors cannot be opened until power is restored.
+# Move Cosette to a destructible door to destroy it
+Move Cosette to a destructible door to destroy it
+# Move a ryder to the door to move to the next room
+Move a ryder to the door to move to the next room
+# AOE buff to target's weapon DMG and accuracy
+AOE buff to target's weapon DMG and accuracy
+# OVERCHARGE
+OVERCHARGE
+# Buff to own shields
+Buff to own shields
+# Immobilize target for 
+Immobilize target for 
+#  turns
+ turns
+# Immobilize target
+Immobilize target
+# Civilian Liner
+Civilian Liner
+# AWAKENED SHOTS
+AWAKENED SHOTS
+# INCENDIARY ROUNDS
+INCENDIARY ROUNDS
+# PACT Carrier
+PACT Carrier
+# MASS OVERLOAD
+MASS OVERLOAD
+# Disable all enemies shields for current turn
+Disable all enemies shields for current turn
+# Pirate Base
+Pirate Base
+# SECOND WIND
+SECOND WIND
+# CLSTR MSLS
+CLSTR MSLS
+# IMMUNITY
+IMMUNITY
+# MASS AWAKEN
+MASS AWAKEN
+# CONTROLLER
+CONTROLLER
+# CONTROLLER SETTINGS
+CONTROLLER SETTINGS
+# Use Controller
+Use Controller
+# Controller Sensitivity
+Controller Sensitivity
+# Controller Slot
+Controller Slot
+# VANGUARD, FIRE
+VANGUARD, FIRE
+# NANOMACHINES, BITCH
+NANOMACHINES, BITCH
+# WARP
+WARP
+# DIRECTED BY>>SAM YANG
+DIRECTED BY>>SAM YANG
+# 2D ART BY>>ASHTON WILSON>>CHYI MING LEE>>HAKU SAKURAI>>DERVAL CHAMBERS>>TOGEKK0>>ADVARCHER
+2D ART BY>>ASHTON WILSON>>CHYI MING LEE>>HAKU SAKURAI>>DERVAL CHAMBERS>>TOGEKK0>>ADVARCHER
+# 3D ART BY>>SAM YANG>>DMYTRO GANNOTSKY  
+3D ART BY>>SAM YANG>>DMYTRO GANNOTSKY  
+# AVA CRESCENTIA>>HIMARI
+AVA CRESCENTIA>>HIMARI
+# ASAGA DI RYUVIA>>SAKURA MATSURI
+ASAGA DI RYUVIA>>SAKURA MATSURI
+# SOLA DI RYUVIA>>YAHIRO MAMI
+SOLA DI RYUVIA>>YAHIRO MAMI
+# LYNN >> YOMOGI KASUMI
+LYNN >> YOMOGI KASUMI
+# CLAUDE TRILLEO>>AYANE MAKO
+CLAUDE TRILLEO>>AYANE MAKO
+# ICARI ISIDOLDE>>HARUNA REN
+ICARI ISIDOLDE>>HARUNA REN
+# KRYSKA STARES>>YUMENO USAGI
+KRYSKA STARES>>YUMENO USAGI
+# COSETTE COSMOS>>HAYASE YAYOI
+COSETTE COSMOS>>HAYASE YAYOI
+# VICTORY IS NEXT
+VICTORY IS NEXT
+# LOVE IN SPACE, (C) 2023
+LOVE IN SPACE, (C) 2023
+# DIRECTED BY>>SAM YANG
+DIRECTED BY>>SAM YANG
+# CAST
+CAST
+# HIMARI as AVA CRESCENTIA
+HIMARI as AVA CRESCENTIA
+# SAKURA MATSURI as ASAGA DI RYUVIA
+SAKURA MATSURI as ASAGA DI RYUVIA
+# YAHIRO MAMI as SOLA DI RYUVIA
+YAHIRO MAMI as SOLA DI RYUVIA
+# YOMOGI KASUMI as LYNN, CHIGARA, OMEGA, and PROTOTYPES
+YOMOGI KASUMI as LYNN, CHIGARA, OMEGA, and PROTOTYPES
+# AYANE MAKO as CLAUDE TRILLEO
+AYANE MAKO as CLAUDE TRILLEO
+# HARUNA REN as ICARI ISIDOLDE
+HARUNA REN as ICARI ISIDOLDE
+# YUMENO USAGI as KRYSKA STARES
+YUMENO USAGI as KRYSKA STARES
+# HAYASE YAYOI as COSETTE COSMOS
+HAYASE YAYOI as COSETTE COSMOS
+# NAKASE HINA as EMIL KUUSHANA, QISAH, OTHERS
+NAKASE HINA as EMIL KUUSHANA, QISAH, OTHERS
+# OSHITA KOTA as VENICZAR FONTANA, OTHERS
+OSHITA KOTA as VENICZAR FONTANA, OTHERS
+# MITAKA RIN as JEM'HYRE, MIIRAGE FOSTER, OTHERS
+MITAKA RIN as JEM'HYRE, MIIRAGE FOSTER, OTHERS
+# SHIMIZU TATSUNORI as ALAN GREY, OTHERS
+SHIMIZU TATSUNORI as ALAN GREY, OTHERS
+# KOBA YOSHIYUKI as CROW HARBOR, STORN, JOHANNA, OTHERS
+KOBA YOSHIYUKI as CROW HARBOR, STORN, JOHANNA, OTHERS
+# VOICE RECORDING ENGINEER>>TAKANASHI KEITA
+VOICE RECORDING ENGINEER>>TAKANASHI KEITA
+# RECORDED AT>>SUNSET STUDIO, SOUNDUNO STUDIO
+RECORDED AT>>SUNSET STUDIO, SOUNDUNO STUDIO
+# VOICE MANIPULATION>>JEFFREY TAYLOR
+VOICE MANIPULATION>>JEFFREY TAYLOR
+# CHARACTER ILLUSTRATION>>ASHTON WILSON>>CHYI MING LEE
+CHARACTER ILLUSTRATION>>ASHTON WILSON>>CHYI MING LEE
+# ADDITIONAL ILLUSTRATION>>HAKU SAKURAI>>DERVAL CHAMBERS>>TOGEKK0>>ADVARCHER
+ADDITIONAL ILLUSTRATION>>HAKU SAKURAI>>DERVAL CHAMBERS>>TOGEKK0>>ADVARCHER
+# MECHANICAL ART>>SAM YANG>>DMYTRO GANNOTSKY
+MECHANICAL ART>>SAM YANG>>DMYTRO GANNOTSKY
+# GAME ENGINE>>YOYO GAMES
+GAME ENGINE>>YOYO GAMES
+# PROGRAMMER>>SAM YANG
+PROGRAMMER>>SAM YANG
+# SCRIPT CODER>>BEN JENNINGS
+SCRIPT CODER>>BEN JENNINGS
+# WRITER>>SAM YANG
+WRITER>>SAM YANG
+# JAPANESE TRANSLATION>>MINH HIEU NGUYEN (Sekai Project)
+JAPANESE TRANSLATION>>MINH HIEU NGUYEN (Sekai Project)
+# SOUND EFFECTS>>Licensed from POND5 and AUDIOSTOCK
+SOUND EFFECTS>>Licensed from POND5 and AUDIOSTOCK
+# TEXTURES>>Licensed from TEXTURES.COM
+TEXTURES>>Licensed from TEXTURES.COM
+# QUALITY ASSURANCE>>BEN JENNINGS>>SATSUNYAN>>RENRENCHON>>STATIVEG
+QUALITY ASSURANCE>>BEN JENNINGS>>SATSUNYAN>>RENRENCHON>>STATIVEG
+# COMMUNITY RELATIONS>>BEN JENNINGS
+COMMUNITY RELATIONS>>BEN JENNINGS
+# MUSIC>>Licensed from JAMENDO
+MUSIC>>Licensed from JAMENDO
+# MUSIC by>>AKASHIC RECORDS>>MARC TEICHERT>>ADRIAN BERENGUER>>STUDIOKOLOMNA>>XCENTRIC NOIZZ
+MUSIC by>>AKASHIC RECORDS>>MARC TEICHERT>>ADRIAN BERENGUER>>STUDIOKOLOMNA>>XCENTRIC NOIZZ
+# ADDITIONAL MUSIC>>NICOLAS WOHLLEBEN>>BENJAMIN GROENKE>>CELESTIAL AEON PROJECT>>ROGER SUBIRANA MATA>>ARNAUD CONDE
+ADDITIONAL MUSIC>>NICOLAS WOHLLEBEN>>BENJAMIN GROENKE>>CELESTIAL AEON PROJECT>>ROGER SUBIRANA MATA>>ARNAUD CONDE
+# ADDITIONAL MUSIC>>SEYCARA THE ANIME ORCHESTRA, POND5
+ADDITIONAL MUSIC>>SEYCARA THE ANIME ORCHESTRA, POND5
+# FLASHLIGHT>>COMPOSER: TAKANASHI KEITA >>ARRANGEMENT: TAKANASHI KEITA>>LYRICS: KAZUKI RAN>>VOCALS: NODA MARIA
+FLASHLIGHT>>COMPOSER: TAKANASHI KEITA >>ARRANGEMENT: TAKANASHI KEITA>>LYRICS: KAZUKI RAN>>VOCALS: NODA MARIA
+# SORA NO REQUIEM>>COMPOSER: TAKANASHI KEITA>>ARRANGEMENT: ICED BLADE>>LYRICS: KAZUKI RAN>>VOCALS: FAYLAN
+SORA NO REQUIEM>>COMPOSER: TAKANASHI KEITA>>ARRANGEMENT: ICED BLADE>>LYRICS: KAZUKI RAN>>VOCALS: FAYLAN
+# PUBLISHER>>SEKAI PROJECT
+PUBLISHER>>SEKAI PROJECT
+# No space whales were harmed during the making of this game
+No space whales were harmed during the making of this game
+# This game is a work of fiction. Any similarities between the contents of this game and any real world individuals, brands, or events are not intended and purely coincidental. The statements and opinions expressed in this game do not necessarily reflect the opinions of Love in Space, Sekai Project, or any of its agents.
+This game is a work of fiction. Any similarities between the contents of this game and any real world individuals, brands, or events are not intended and purely coincidental. The statements and opinions expressed in this game do not necessarily reflect the opinions of Love in Space, Sekai Project, or any of its agents.
+# (C) Love in Space Inc., 2023
+(C) Love in Space Inc., 2023
+# VICTORY IS NEXT
+VICTORY IS NEXT
+# Love in Space thanks the following Patreons
+Love in Space thanks the following Patreons
+# Lio, Michael Connell, Jager_75, Jean Cornejo, Starky, Sullivan Heise, rob cathcart, DarkNightMike, Joshua Gonzales, Yeshwa, VisitableLoki61, exoten, Lancelot50, Stuff War, Christian Pennanen, Crbnet, Austin Van Ysseldyk, Andrew Grant, David, Joshua Van Der Sluys, Nico B, Ryan Eirls, Kyakan, skullkid1479, L ,Christopher Oates, James Tighe
+Lio, Michael Connell, Jager_75, Jean Cornejo, Starky, Sullivan Heise, rob cathcart, DarkNightMike, Joshua Gonzales, Yeshwa, VisitableLoki61, exoten, Lancelot50, Stuff War, Christian Pennanen, Crbnet, Austin Van Ysseldyk, Andrew Grant, David, Joshua Van Der Sluys, Nico B, Ryan Eirls, Kyakan, skullkid1479, L ,Christopher Oates, James Tighe
+# PICTURE PATREONS HERE
+PICTURE PATREONS HERE
+# And all our other Patreons who help us bring our ideas to life. Thank you.
+And all our other Patreons who help us bring our ideas to life. Thank you.
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Liberation Day save data detected. Welcome back, loyal Sunrider fan! In light of your previous decisions, you have earned the following bonuses:
+Liberation Day save data detected. Welcome back, loyal Sunrider fan! In light of your previous decisions, you have earned the following bonuses:
+# 500 creds
+500 creds
+# Affection Point
+Affection Point
+# 1000 creds
+1000 creds
+# 1500 creds
+1500 creds
+# WARNING: New language detected. The game must be restarted for changes to apply.
+WARNING: New language detected. The game must be restarted for changes to apply.
+# Bring Shields here to collect crystal
+Bring Shields here to collect crystal
+# DRIFT
+DRIFT
+# Use a move to drift to the current move point for 0 EN.
+Use a move to drift to the current move point for 0 EN.
+# Fast Move
+Fast Move
+# Button Style A
+Button Style A
+# Button Style B
+Button Style B

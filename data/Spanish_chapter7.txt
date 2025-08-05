@@ -1,0 +1,3642 @@
+#% tag chap7_start
+tag chap7_start
+#% xob MAIN: Return to Far Port
+xob MAIN: Return to Far Port
+#% xob MAIN: Return to Ryuvia
+xob MAIN: Return to Ryuvia
+#% dbg spr_bg_sunriderbridge_storm
+dbg spr_bg_sunriderbridge_storm
+#% mus mus_shipambience
+mus mus_shipambience
+#% cha ava_facepalm_focus_narrow_slight
+cha ava_facepalm_focus_narrow_slight
+#% voi ava_vns_sad_04
+voi ava_vns_sad_04
+# ava This storm heralds ill tidings, captain. These winds are difficult enough to navigate as-is, much less when we are under fire.
+ava This storm heralds ill tidings, captain. These winds are difficult enough to navigate as-is, much less when we are under fire.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay On the contrary, commander. The Maan of the Asahi are inexperienced sailors. A gale may prove a blessing in disguise in our present predicament.
+kay On the contrary, commander. The Maan of the Asahi are inexperienced sailors. A gale may prove a blessing in disguise in our present predicament.
+# kay If we take the enemy now, we may be able to notch a victory whilst they flail about in the storm.
+kay If we take the enemy now, we may be able to notch a victory whilst they flail about in the storm.
+#% cha ava_armup_angry_surprise_yell
+cha ava_armup_angry_surprise_yell
+#% voi ava_vns_ang_06
+voi ava_vns_ang_06
+# ava You might get that chance. Sails spotted!
+ava You might get that chance. Sails spotted!
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Is it Fontana?
+kay Is it Fontana?
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+# ava Negative...
+ava Negative...
+#% mus mus_wishiwasapirate
+mus mus_wishiwasapirate
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+# ava Pirates! It's Cosmos!
+ava Pirates! It's Cosmos!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay All hands! Action stations!
+kay All hands! Action stations!
+# kay Be on your guard... This may be a trap.
+kay Be on your guard... This may be a trap.
+#% ifj chap7_cosette,goto_ryuvia
+ifj chap7_cosette,goto_ryuvia
+#% tag chap7_cosette_true
+tag chap7_cosette_true
+#% obj BATTLE: Pirates in the Storm A
+obj BATTLE: Pirates in the Storm A
+#% roo roo_chap7_battle1
+roo roo_chap7_battle1
+#% tag chap7_cosette_false
+tag chap7_cosette_false
+#% obj BATTLE: Pirates in the Storm B
+obj BATTLE: Pirates in the Storm B
+#% roo roo_chap7_battle1
+roo roo_chap7_battle1
+#% 
+
+#% tag chap7_battle1_start
+tag chap7_battle1_start
+#% cha cos_fists_angry_narrow_grin
+cha cos_fists_angry_narrow_grin
+#% voi cos_vns_neu_01
+voi cos_vns_neu_01
+# cos Hehehe... You're too late, Shields.
+cos Hehehe... You're too late, Shields.
+# cos Fontana's already secured your Monolith deep within the walls of the Star Palace. As we speak, the Crimson Fleet has mounted an all out assault on Far Port! It's only a matter of time until Pact controls the entire Dragon Foot Sea!
+cos Fontana's already secured your Monolith deep within the walls of the Star Palace. As we speak, the Crimson Fleet has mounted an all out assault on Far Port! It's only a matter of time until Pact controls the entire Dragon Foot Sea!
+# cos And now, even fate has forsaken you! For the entire Emerald Fleet will be sunk in this storm!
+cos And now, even fate has forsaken you! For the entire Emerald Fleet will be sunk in this storm!
+#% cha kry_fistup_angry_wide_yell
+cha kry_fistup_angry_wide_yell
+#% voi kry_vns_ang_03
+voi kry_vns_ang_03
+# kry Bah! Lowly pirates are no match for the might of the Emerald Fleet!
+kry Bah! Lowly pirates are no match for the might of the Emerald Fleet!
+#% ifj chap7_battle1_split,goto_ryuvia
+ifj chap7_battle1_split,goto_ryuvia
+#% tag chap7_battle1_split_false
+tag chap7_battle1_split_false
+#% cha cos_laugh_angry_neutral_grin
+cha cos_laugh_angry_neutral_grin
+#% voi cos_vns_hap_02
+voi cos_vns_hap_02
+# cos Hehehe... Just where are you going, Shields? Ryuvia's the other direction! Don't tell me you've forgotten how to read the compass!
+cos Hehehe... Just where are you going, Shields? Ryuvia's the other direction! Don't tell me you've forgotten how to read the compass!
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay It's pointless, Cosette! We already know the theft of the Monolith was just a diversion to pull the Emerald Fleet away from Far Port!
+kay It's pointless, Cosette! We already know the theft of the Monolith was just a diversion to pull the Emerald Fleet away from Far Port!
+# kay We're heading there right now, to defeat the Crimson Fleet for the second time!
+kay We're heading there right now, to defeat the Crimson Fleet for the second time!
+#% cha cos_laugh_angry_widebigpu_widesmile
+cha cos_laugh_angry_widebigpu_widesmile
+#% voi cos_vns_hap_01
+voi cos_vns_hap_01
+# cos Hahaha! Some friend you are! So you've chosen to doom your High Elf friends?
+cos Hahaha! Some friend you are! So you've chosen to doom your High Elf friends?
+#% cha kry_armout_angry_wide_yell
+cha kry_armout_angry_wide_yell
+#% voi kry_vns_ang_03
+voi kry_vns_ang_03
+# kry Bah! Once the Crimson Fleet lies at the bottom of the sea, recovering the Monolith shall be child's play!
+kry Bah! Once the Crimson Fleet lies at the bottom of the sea, recovering the Monolith shall be child's play!
+#% tag chap7_battle1_split_true
+tag chap7_battle1_split_true
+# kry You may have eluded death thus far pirate, but this is the end! Let us settle this, once and for all!
+kry You may have eluded death thus far pirate, but this is the end! Let us settle this, once and for all!
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay One last chance, Cosette. Strike your flag. Or die.
+kay One last chance, Cosette. Strike your flag. Or die.
+#% cha cos_laugh_confused_widebigpu_widesmile
+cha cos_laugh_confused_widebigpu_widesmile
+#% voi cos_vns_hap_01
+voi cos_vns_hap_01
+# cos Hahahahahaha! I welcome hell with open arms! At last some warmth in this putrid life!
+cos Hahahahahaha! I welcome hell with open arms! At last some warmth in this putrid life!
+# cos But not today. For it is you who shall be smothered by fire!
+cos But not today. For it is you who shall be smothered by fire!
+#% cha cos_fists_angry_crazy_grin
+cha cos_fists_angry_crazy_grin
+# cos ATTACK!
+cos ATTACK!
+#% stop
+stop
+#% 
+
+#% tag chap7_battle1_cosette
+tag chap7_battle1_cosette
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+#% voi ava_vns_ang_06
+voi ava_vns_ang_06
+# ava Captain! Cosette has entered the battle!
+ava Captain! Cosette has entered the battle!
+# ava She's making a beeline to our position! It's a suicide run!
+ava She's making a beeline to our position! It's a suicide run!
+#% cha kay_neu_angry_wide_yell
+cha kay_neu_angry_wide_yell
+# kay No...!
+kay No...!
+#% hid ava
+hid ava
+#% cha cos_laugh_sadorscar_wide_widesmile_shadow
+cha cos_laugh_sadorscar_wide_widesmile_shadow
+# cos Captain.....
+cos Captain.....
+# cos I'm coommiinnggg fooorrrr yooouuu....!
+cos I'm coommiinnggg fooorrrr yooouuu....!
+# cos Hahahaha... Hahahaha! HAAAHAHAHAHAHA!!!!
+cos Hahahaha... Hahahaha! HAAAHAHAHAHAHA!!!!
+#% cha kay_neu_angry_wide_yell
+cha kay_neu_angry_wide_yell
+# kay All hands! SINK HER!!!
+kay All hands! SINK HER!!!
+#% stop
+stop
+#% 
+
+#% tag chap7_battle1_cosetteboard
+tag chap7_battle1_cosetteboard
+#% cha cos_laugh_sadorscar_wide_widesmile_shadow
+cha cos_laugh_sadorscar_wide_widesmile_shadow
+# cos Hahahaha!! This is your end, Shields!
+cos Hahahaha!! This is your end, Shields!
+# cos Light the fuse! We all die together!!!
+cos Light the fuse! We all die together!!!
+#% cha ava_armup_focus_surprise_bigtalk
+cha ava_armup_focus_surprise_bigtalk
+# ava CAPTAIN, THIS WAS A BAD-
+ava CAPTAIN, THIS WAS A BAD-
+#% cha kay_neu_angry_wide_yell
+cha kay_neu_angry_wide_yell
+# kay Everyone, fall back now!!!!
+kay Everyone, fall back now!!!!
+#% hid ava
+hid ava
+#% hid cos
+hid cos
+#% sou sou_shipexplode
+sou sou_shipexplode
+# nar ... ... ...
+nar ... ... ...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap7_cosettecheck_false
+tag chap7_cosettecheck_false
+#% dbg spr_bg_sunriderbridge_storm
+dbg spr_bg_sunriderbridge_storm
+#% xob BATTLE: Pirates in the Storm A
+xob BATTLE: Pirates in the Storm A
+#% xob BATTLE: Pirates in the Storm B
+xob BATTLE: Pirates in the Storm B
+#% cha ava_armup_surprised_widesmall_smalltalk
+cha ava_armup_surprised_widesmall_smalltalk
+#% voi ava_vns_sur_01
+voi ava_vns_sur_01
+# ava Enemy sunk! Cosette has been...
+ava Enemy sunk! Cosette has been...
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Any sign of survivors?
+kay Any sign of survivors?
+#% cha ava_armscrossed_focus_closedeye_frown
+cha ava_armscrossed_focus_closedeye_frown
+#% voi ava_vns_ang_02
+voi ava_vns_ang_02
+# ava None, captain. The waves will finish off what little the explosion left behind. There is no way any creature in Halla could have survived that.
+ava None, captain. The waves will finish off what little the explosion left behind. There is no way any creature in Halla could have survived that.
+#% mus mus_epicbravery_sadcut_cut
+mus mus_epicbravery_sadcut_cut
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Tch...
+kay Tch...
+#% cha kay_neu_sad_closed_clench
+cha kay_neu_sad_closed_clench
+# kay She didn't have to...
+kay She didn't have to...
+#% cha ava_armup_surprised_surprise_smalltalk
+cha ava_armup_surprised_surprise_smalltalk
+#% voi ava_vns_sad_04
+voi ava_vns_sad_04
+# ava Captain? Why...?
+ava Captain? Why...?
+#% cha ava_armscrossed_surprised_wide_slight
+cha ava_armscrossed_surprised_wide_slight
+# ava She was a pirate. What sorrow is there in an outlaw receiving her due?
+ava She was a pirate. What sorrow is there in an outlaw receiving her due?
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay She did not choose this path.
+kay She did not choose this path.
+#% cha kay_neu_sad_narrowloo_clench
+cha kay_neu_sad_narrowloo_clench
+# kay Just as we were born Lessor, she was born Demon. What crime is there to be found in birthright?
+kay Just as we were born Lessor, she was born Demon. What crime is there to be found in birthright?
+#% cha ava_armup_neutral_narrowloo_smalltalk
+cha ava_armup_neutral_narrowloo_smalltalk
+# ava But surely, not all Demonfolk turn to piracy. We have several onboard who have followed the path of righteousness. Cosmos chose to be a pirate.
+ava But surely, not all Demonfolk turn to piracy. We have several onboard who have followed the path of righteousness. Cosmos chose to be a pirate.
+#% cha kay_neu_focus_closed_smalltalk
+cha kay_neu_focus_closed_smalltalk
+# kay Just as the High Elves choose to pray to the Holy Monoliths?
+kay Just as the High Elves choose to pray to the Holy Monoliths?
+#% cha ava_armscrossed_worry_narrowloo_neutral
+cha ava_armscrossed_worry_narrowloo_neutral
+# ava That's...
+ava That's...
+#% cha kay_neu_sad_narrowloo_smalltalk
+cha kay_neu_sad_narrowloo_smalltalk
+# kay She told me a tale of woe whilst we were marooned together.
+kay She told me a tale of woe whilst we were marooned together.
+# kay Long ago, she had an opportunity to abandon her evil ways, and live a life of integrity.
+kay Long ago, she had an opportunity to abandon her evil ways, and live a life of integrity.
+#% cha kay_neu_sad_neutral_smalltalk
+cha kay_neu_sad_neutral_smalltalk
+# kay When she was a child, she was adopted by a charitable High Elf, who in a moment of kindness, defied the dogma of the Monolithic Truth to give shelter to an Imp.
+kay When she was a child, she was adopted by a charitable High Elf, who in a moment of kindness, defied the dogma of the Monolithic Truth to give shelter to an Imp.
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay Yet, her loss in faith caused her to turn into a monstrous Ork. There was to be no rescue for Cosette.
+kay Yet, her loss in faith caused her to turn into a monstrous Ork. There was to be no rescue for Cosette.
+# kay I fear our problems are far greater than the Veniczar.
+kay I fear our problems are far greater than the Veniczar.
+# kay There is too much we do not understand about the Monolithic Truth.
+kay There is too much we do not understand about the Monolithic Truth.
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Is it truly inevitable that all High Elves who lose their connection to the Monolith will turn to Orks?
+kay Is it truly inevitable that all High Elves who lose their connection to the Monolith will turn to Orks?
+# kay Can this law be overturned? Or are we doomed to destroy each other in the name of our gods?
+kay Can this law be overturned? Or are we doomed to destroy each other in the name of our gods?
+#% cha ava_armup_sad_narrow_slight
+cha ava_armup_sad_narrow_slight
+# ava A question which can only be answered after we recover the Monolith of Truth.
+ava A question which can only be answered after we recover the Monolith of Truth.
+#% cha ava_armscrossed_worry_closedeye_frown
+cha ava_armscrossed_worry_closedeye_frown
+#% voi ava_vns_sad_03
+voi ava_vns_sad_03
+# ava Let us discover it, together.
+ava Let us discover it, together.
+#% ifj chap7_cosettedead,goto_ryuvia
+ifj chap7_cosettedead,goto_ryuvia
+#% tag chap7_cosettedead_true
+tag chap7_cosettedead_true
+#% obj MAIN: The Liberation of Ryuvia
+obj MAIN: The Liberation of Ryuvia
+# jum chap7_cosjump1
+jum chap7_cosjump1
+#% tag chap7_cosettedead_false
+tag chap7_cosettedead_false
+#% obj MAIN: Dissension
+obj MAIN: Dissension
+#% tag chap7_cosjump1
+tag chap7_cosjump1
+#% cha kay_neu_sad_closed_slight
+cha kay_neu_sad_closed_slight
+# kay ... ... ...
+kay ... ... ...
+#% cha kay_neu_sad_narrowloo_smalltalk
+cha kay_neu_sad_narrowloo_smalltalk
+# kay Stand down action stations. Alert me when we arrive at Ryuvia.
+kay Stand down action stations. Alert me when we arrive at Ryuvia.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay There, we will find answers.
+kay There, we will find answers.
+#% cha ava_armup_sad_narrow_slight
+cha ava_armup_sad_narrow_slight
+# ava Understood, captain.
+ava Understood, captain.
+# map 
+map 
+#% 
+
+#% tag chap7_cosettecheck_true
+tag chap7_cosettecheck_true
+#% dbg spr_bg_sunriderbridge_storm
+dbg spr_bg_sunriderbridge_storm
+#% xob BATTLE: Pirates in the Storm A
+xob BATTLE: Pirates in the Storm A
+#% xob BATTLE: Pirates in the Storm B
+xob BATTLE: Pirates in the Storm B
+#% cha ava_armup_angry_surprise_yell
+cha ava_armup_angry_surprise_yell
+# ava Enemy sunk! Cosette has been...
+ava Enemy sunk! Cosette has been...
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Any sign of survivors?
+kay Any sign of survivors?
+# ava Hold... I-Impossible...! Look, captain! It's Cosette!
+ava Hold... I-Impossible...! Look, captain! It's Cosette!
+#% hid ava
+hid ava
+#% mus mus_enemyturn
+mus mus_enemyturn
+#% cha cos_laugh_neutral_wide_widesmile_shadow
+cha cos_laugh_neutral_wide_widesmile_shadow
+# cos Haahahahahaha!! I cheat death yet again, captain!
+cos Haahahahahaha!! I cheat death yet again, captain!
+#% cha kay_neu_angry_wide_yell
+cha kay_neu_angry_wide_yell
+# kay Cosette?! What manner of magic could have saved you from that explosion?
+kay Cosette?! What manner of magic could have saved you from that explosion?
+#% flag
+flag
+#% sou sou_dreadstone_whisper
+sou sou_dreadstone_whisper
+#% cha cos_laugh_neutral_wide_widesmile_shadow
+cha cos_laugh_neutral_wide_widesmile_shadow
+# cos This!
+cos This!
+#% cha ava_armup_angry_surprise_yell
+cha ava_armup_angry_surprise_yell
+# ava The Dreadstone!
+ava The Dreadstone!
+# cos So you know of it?
+cos So you know of it?
+# cos I really must be thanking you, captain. Had you not abandoned me to die at Sargasso, this accursed, yet beautiful thing would never have come to me...
+cos I really must be thanking you, captain. Had you not abandoned me to die at Sargasso, this accursed, yet beautiful thing would never have come to me...
+# cos Now, witness it's power!
+cos Now, witness it's power!
+#% flag
+flag
+#% hid cos
+hid cos
+#% hid ava
+hid ava
+#% cha ica_surprised_annoyed_widesmall_yell
+cha ica_surprised_annoyed_widesmall_yell
+# ica Oy! She's gonna unleash it! But this isn't anything like before--
+ica Oy! She's gonna unleash it! But this isn't anything like before--
+#% cha sol_surprise_concern_scared_yell
+cha sol_surprise_concern_scared_yell
+# sol Dark day! I have seen this before!
+sol Dark day! I have seen this before!
+# sol That very stone is what Crow Harbor used to raise his undead army!
+sol That very stone is what Crow Harbor used to raise his undead army!
+#% cha kay_neu_angry_wide_yell
+cha kay_neu_angry_wide_yell
+# kay Cosette, STOP!
+kay Cosette, STOP!
+# kay All that awaits you if you use the Dreadstone is eternal damnation!
+kay All that awaits you if you use the Dreadstone is eternal damnation!
+#% hid sol
+hid sol
+#% hid ica
+hid ica
+#% cha cos_laugh_neutral_wide_widesmile_shadow
+cha cos_laugh_neutral_wide_widesmile_shadow
+# cos Eternal damnation? You make me laugh!
+cos Eternal damnation? You make me laugh!
+# cos That has been my lot from the moment I spawned unto this world!
+cos That has been my lot from the moment I spawned unto this world!
+# cos O great power that resides within... I release thee! Grant me the power to rule the world!
+cos O great power that resides within... I release thee! Grant me the power to rule the world!
+# god YOUR WISH IS GRANTED.
+god YOUR WISH IS GRANTED.
+# cos Hahaha... Haaaahaahahahaha!!!
+cos Hahaha... Haaaahaahahahaha!!!
+#% hid cos
+hid cos
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+# ava Captain, get down!
+ava Captain, get down!
+#% mus stop
+mus stop
+#% hid ava
+hid ava
+#% sou sou_shipexplode
+sou sou_shipexplode
+# hsh 10
+hsh 10
+#% cha kay_neu_angry_closed2_clench
+cha kay_neu_angry_closed2_clench
+# kay ...Ugh...!
+kay ...Ugh...!
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay Cosette...?
+kay Cosette...?
+#% mus mus_sevencurses
+mus mus_sevencurses
+#% dcg spr_cg_zombiecosette
+dcg spr_cg_zombiecosette
+# cos Gyaaahah! Hah! Hah! Hah!
+cos Gyaaahah! Hah! Hah! Hah!
+# cos Such power! Yes! This truly is the power of a god!
+cos Such power! Yes! This truly is the power of a god!
+# cos My arms part the sea! My breath is as the wind of a typhoon!
+cos My arms part the sea! My breath is as the wind of a typhoon!
+# cos By my will, I sentence you to the sea!
+cos By my will, I sentence you to the sea!
+#% dcg hide
+dcg hide
+#% cha ava_armup_sad_widesmall_bigtalk
+cha ava_armup_sad_widesmall_bigtalk
+# ava New ships! Captain, they are ghost ships, sprouted from the very sea! We must fall back! What good are we against a god?!
+ava New ships! Captain, they are ghost ships, sprouted from the very sea! We must fall back! What good are we against a god?!
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Hold! We cannot escape in this storm!
+kay Hold! We cannot escape in this storm!
+#% cha cla_armscrossed_focus_smug_awkwardsm
+cha cla_armscrossed_focus_smug_awkwardsm
+# cla My... Might I offer assistance, captain...
+cla My... Might I offer assistance, captain...
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay That would be most welcome, goddess!
+kay That would be most welcome, goddess!
+#% cha cla_handsonhips_focus_neutral_laugh
+cha cla_handsonhips_focus_neutral_laugh
+# cla I believe I may be able to wield some control over the Dreadstone's powers. If we were to launch a boarding attack on Cosette directly, we might be able to disrupt her powers.
+cla I believe I may be able to wield some control over the Dreadstone's powers. If we were to launch a boarding attack on Cosette directly, we might be able to disrupt her powers.
+#% ifj chap7_cosette2,goto_ryuvia
+ifj chap7_cosette2,goto_ryuvia
+#% tag chap7_cosette2_true
+tag chap7_cosette2_true
+#% obj BATTLE: The Madness of Petite Cosette A
+obj BATTLE: The Madness of Petite Cosette A
+# jum chap7_battle2_obj
+jum chap7_battle2_obj
+#% tag chap7_cosette2_false
+tag chap7_cosette2_false
+#% obj BATTLE: The Madness of Petite Cosette B
+obj BATTLE: The Madness of Petite Cosette B
+#% tag chap7_battle2_obj
+tag chap7_battle2_obj
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Considering how outnumbered we are, that may be our only option...
+kay Considering how outnumbered we are, that may be our only option...
+# kay Everyone... I know we've only just defeated the pirates... But now an army of the dead oppose us.
+kay Everyone... I know we've only just defeated the pirates... But now an army of the dead oppose us.
+#% cha kay_neu_angry_narrow_clench
+cha kay_neu_angry_narrow_clench
+# kay Though it may look hopeless, we still have a way to win this. We must attempt to capture Cosette in order to disrupt her control over her minions! That may give us the opening to defeat her!
+kay Though it may look hopeless, we still have a way to win this. We must attempt to capture Cosette in order to disrupt her control over her minions! That may give us the opening to defeat her!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay All hands! Action stations!
+kay All hands! Action stations!
+#% roo roo_chap7_battle2
+roo roo_chap7_battle2
+#% 
+
+#% tag chap7_battle2_board
+tag chap7_battle2_board
+#% dcg spr_cg_zombiecosette
+dcg spr_cg_zombiecosette
+# cos Haahaahaaaah! You dare challenge me?
+cos Haahaahaaaah! You dare challenge me?
+# cos I am the will of the sea! You will perish!
+cos I am the will of the sea! You will perish!
+#% dcg hide
+dcg hide
+#% cha cla_handsonhips_focus_neutral_smallopen
+cha cla_handsonhips_focus_neutral_smallopen
+# cla This is your moment, captain! Whack that zombie imp with everything you've got!
+cla This is your moment, captain! Whack that zombie imp with everything you've got!
+#% stop
+stop
+#% 
+
+#% tag chap7_battle2_cosettedefeat
+tag chap7_battle2_cosettedefeat
+#% dcg spr_cg_zombiecosette
+dcg spr_cg_zombiecosette
+# cos T-Tch... You strike a god!
+cos T-Tch... You strike a god!
+# cos All hands! Prepare to dive!
+cos All hands! Prepare to dive!
+#% dcg hide
+dcg hide
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+# ava Captain, we must fall back! The ship is about the submerge underwater!
+ava Captain, we must fall back! The ship is about the submerge underwater!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay All hands, retreat!
+kay All hands, retreat!
+#% stop
+stop
+#% 
+
+#% tag chap7_battle2_disrupt
+tag chap7_battle2_disrupt
+#% cha cla_squish_angry_trianglee_catopensm
+cha cla_squish_angry_trianglee_catopensm
+#% voi cla_vns_hap_01
+voi cla_vns_hap_01
+# cla We've done it! Cosette has temporarily retreated from battle and her minions are now sitting ducks! Now's our chance to strike back!
+cla We've done it! Cosette has temporarily retreated from battle and her minions are now sitting ducks! Now's our chance to strike back!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Everyone, hit them with everything you've got!
+kay Everyone, hit them with everything you've got!
+#% stop
+stop
+#% 
+
+#% tag chap7_battle2_cosettereturn
+tag chap7_battle2_cosettereturn
+#% dcg spr_cg_zombiecosette
+dcg spr_cg_zombiecosette
+# cos My powers return! Now comes my wrath!
+cos My powers return! Now comes my wrath!
+#% dcg hide
+dcg hide
+#% cha ava_facepalm_focus_closedeye_tch
+cha ava_facepalm_focus_closedeye_tch
+# ava Captain, Cosette has returned once more!
+ava Captain, Cosette has returned once more!
+#% cha kay_neu_confuse_wide_smalltalk
+cha kay_neu_confuse_wide_smalltalk
+# kay Claude?
+kay Claude?
+#% cha cla_pout_sad_wide_cry
+cha cla_pout_sad_wide_cry
+# cla Please don't look at poor ol'Claude like that! I'm just your local neighborhood goddess, not a miracle worker!
+cla Please don't look at poor ol'Claude like that! I'm just your local neighborhood goddess, not a miracle worker!
+#% cha kay_neu_sad_closed_groan
+cha kay_neu_sad_closed_groan
+# kay (I guess it was my fault for expecting more from you, Claude...)
+kay (I guess it was my fault for expecting more from you, Claude...)
+#% hid cla
+hid cla
+#% hid ava
+hid ava
+#% dcg spr_cg_zombiecosette
+dcg spr_cg_zombiecosette
+# cos My ships! Heed my orders once more!
+cos My ships! Heed my orders once more!
+#% stop
+stop
+#% 
+
+#% tag chap7_battle2_end
+tag chap7_battle2_end
+#% dcg spr_cg_zombiecosette
+dcg spr_cg_zombiecosette
+# cos Guh! Impudent little man!
+cos Guh! Impudent little man!
+#% dcg hide
+dcg hide
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+# ava Captain, this is our chance. We must destroy her, once and for all!
+ava Captain, this is our chance. We must destroy her, once and for all!
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Tch...!
+kay Tch...!
+# kay It didn't have to come to this...
+kay It didn't have to come to this...
+#% cha ava_facepalm_focus_narrow_bigtalk
+cha ava_facepalm_focus_narrow_bigtalk
+# ava Captain!
+ava Captain!
+#% hid ava
+hid ava
+#% dcg spr_cg_zombiecosette
+dcg spr_cg_zombiecosette
+# cos Haahahahaha! You hesitate?
+cos Haahahahaha! You hesitate?
+# cos Then-
+cos Then-
+#% cha kay_neu_angry_wide_yell
+cha kay_neu_angry_wide_yell
+# kay FIRE!
+kay FIRE!
+#% sou sou_shipexplode
+sou sou_shipexplode
+# nar ... ... ...
+nar ... ... ...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap7_cosetteroute
+tag chap7_cosetteroute
+#% mus mus_ruinsoftime
+mus mus_ruinsoftime
+#% xob BATTLE: The Madness of Petite Cosette A
+xob BATTLE: The Madness of Petite Cosette A
+#% xob BATTLE: The Madness of Petite Cosette B
+xob BATTLE: The Madness of Petite Cosette B
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% cha kay_neu_sad_wide_yell
+cha kay_neu_sad_wide_yell
+# kay !!!
+kay !!!
+#% cha kay_neu_angry_closed2_clench
+cha kay_neu_angry_closed2_clench
+# kay What happened?!
+kay What happened?!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Commander?! Claude?!
+kay Commander?! Claude?!
+#% cha cla_handsonhips_sad_smug_laugh
+cha cla_handsonhips_sad_smug_laugh
+#% voi cla_vns_hap_02
+voi cla_vns_hap_02
+# cla Yoooohoooo~
+cla Yoooohoooo~
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay There you are! What's going on? The last thing I remember is Cosette's ship exploding...
+kay There you are! What's going on? The last thing I remember is Cosette's ship exploding...
+#% cha cla_armscrossed_sad_closedeye_awkwardsm
+cha cla_armscrossed_sad_closedeye_awkwardsm
+#% voi cla_vns_hap_02
+voi cla_vns_hap_02
+# cla Yes, about that captain... I'm afraid to say there may have been a little bit of an oopsie regarding that...
+cla Yes, about that captain... I'm afraid to say there may have been a little bit of an oopsie regarding that...
+#% cha cla_squish_confuse_smug_catopensm
+cha cla_squish_confuse_smug_catopensm
+# cla I'm afraid your big cannon penetrated the poor Dreadstone and ripped it in 'twain! Oh my, 'twas like the forbidden text of the Faerie who got nabbed by the Ork!
+cla I'm afraid your big cannon penetrated the poor Dreadstone and ripped it in 'twain! Oh my, 'twas like the forbidden text of the Faerie who got nabbed by the Ork!
+#% cha cla_squish_angry_trianglee_catopensm
+cha cla_squish_angry_trianglee_catopensm
+# cla Unfortunately, it appears this has destabilized the mana within. It's only a matter of time now until it explodes and tears a sinkhole into the Spirit Realm, wherein we will all fall to our eternal doom! 
+cla Unfortunately, it appears this has destabilized the mana within. It's only a matter of time now until it explodes and tears a sinkhole into the Spirit Realm, wherein we will all fall to our eternal doom! 
+#% cha kay_neu_sad_wide_yell
+cha kay_neu_sad_wide_yell
+# kay That is not good! Well, how do we stop that?!
+kay That is not good! Well, how do we stop that?!
+#% cha cla_pout_sad_closedeye_bigtalk
+cha cla_pout_sad_closedeye_bigtalk
+#% voi cla_vns_sur_02
+voi cla_vns_sur_02
+# cla Hyoyoyo... Claude is in a pinch here too, you know. If that Dreadstone explodes, I'M the one who's gonna-
+cla Hyoyoyo... Claude is in a pinch here too, you know. If that Dreadstone explodes, I'M the one who's gonna-
+#% cha cla_handsonhips_focus_closedeye_laugh
+cha cla_handsonhips_focus_closedeye_laugh
+# cla A-Ahem... Anyways, there IS a way...
+cla A-Ahem... Anyways, there IS a way...
+#% cha cla_handsonhips_focus_neutral_smallopen
+cha cla_handsonhips_focus_neutral_smallopen
+# cla We've got to find a way to burn off the excess mana within the Dreadstone. If we spend enough of it on a spell, then the explosion should naturally fizzle out.
+cla We've got to find a way to burn off the excess mana within the Dreadstone. If we spend enough of it on a spell, then the explosion should naturally fizzle out.
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Well, what are you waiting for them?! Get to casting spells like crazy!
+kay Well, what are you waiting for them?! Get to casting spells like crazy!
+#% cha cla_pout_sad_smug_pout
+cha cla_pout_sad_smug_pout
+#% voi cla_vns_sad_01
+voi cla_vns_sad_01
+# cla It's not so simple, captain. There's more mana within the Dreadstone than an ordinary caster could use in a hundred years...
+cla It's not so simple, captain. There's more mana within the Dreadstone than an ordinary caster could use in a hundred years...
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Then that means...
+kay Then that means...
+#% cha cla_pout_raised_surprise_cry
+cha cla_pout_raised_surprise_cry
+# cla Wait...
+cla Wait...
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Claude?!
+kay Claude?!
+#% cha cla_pout_sad_trianglee_cry_shadow
+cha cla_pout_sad_trianglee_cry_shadow
+# cla I'm... losing... my connection...
+cla I'm... losing... my connection...
+#% voi cla_vns_sad_05
+voi cla_vns_sad_05
+# cla Ararararaa...
+cla Ararararaa...
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Claude!!
+kay Claude!!
+#% hid cla
+hid cla
+# por cla_pout_sad_trianglee_cry_shadow
+por cla_pout_sad_trianglee_cry_shadow
+# cla Find a way... to use the mana...
+cla Find a way... to use the mana...
+#% cha kay_neu_angry_wide_yell
+cha kay_neu_angry_wide_yell
+# kay CLAAUUUDDEEE!!!!
+kay CLAAUUUDDEEE!!!!
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Tch...
+kay Tch...
+# kay (Could this truly be the end...?)
+kay (Could this truly be the end...?)
+# kay ... ... ...
+kay ... ... ...
+#% cha kay_neu_angry_narrow_smallsmil
+cha kay_neu_angry_narrow_smallsmil
+# kay (There must be a way...)
+kay (There must be a way...)
+# kay (I've just gotta reach...)
+kay (I've just gotta reach...)
+# kay (The person I've been looking for all along...)
+kay (The person I've been looking for all along...)
+#% cha kay_neu_angry_closed_yell
+cha kay_neu_angry_closed_yell
+# kay COSETTE!!!!!
+kay COSETTE!!!!!
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+# nar ... ...
+nar ... ...
+# nar ... ... ...
+nar ... ... ...
+#% mus mus_shizumiyukutsuki
+mus mus_shizumiyukutsuki
+#% dcg spr_cg_cosetteonsen
+dcg spr_cg_cosetteonsen
+#% ccc kay_nude
+ccc kay_nude
+# cos Eh? Who the hell are you?
+cos Eh? Who the hell are you?
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay ... ... ...
+kay ... ... ...
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Cosette?!
+kay Cosette?!
+# cos Ay, put that pitiful thing away.
+cos Ay, put that pitiful thing away.
+# cos Are you some sort of pervert or something?
+cos Are you some sort of pervert or something?
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay Me?! No!
+kay Me?! No!
+# kay We were in the middle of fighting to the death after you got turned into an undead! But then, the Dreadstone got cracked and we were all goners!
+kay We were in the middle of fighting to the death after you got turned into an undead! But then, the Dreadstone got cracked and we were all goners!
+# cos Eh? Are you okay, mister?
+cos Eh? Are you okay, mister?
+# cos Just so you know, my mother is the head priest around here, so you better not be messing around...
+cos Just so you know, my mother is the head priest around here, so you better not be messing around...
+#% cha kay_neu_sad_narrowloo_smalltalk
+cha kay_neu_sad_narrowloo_smalltalk
+# kay I'm not messing around.
+kay I'm not messing around.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (It appears via some magic, I have been transported to another world...)
+kay (It appears via some magic, I have been transported to another world...)
+# kay (Then that means...)
+kay (Then that means...)
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Actually, I am a friend of the head priest. Did you not know we Elves see no shame in bathing together? I thought she would have educated you in our ways.
+kay Actually, I am a friend of the head priest. Did you not know we Elves see no shame in bathing together? I thought she would have educated you in our ways.
+# cos Urk...
+cos Urk...
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay You have not been taking to your lessons. Dare I say, perhaps she was wrong to take an Imp as a daughter?
+kay You have not been taking to your lessons. Dare I say, perhaps she was wrong to take an Imp as a daughter?
+# cos S-Shut it! I am doing my best! But your manner books are tens of thousands of pages long and take years to read!
+cos S-Shut it! I am doing my best! But your manner books are tens of thousands of pages long and take years to read!
+# cos I don't got years to learn like you! But I'm trying my best here!
+cos I don't got years to learn like you! But I'm trying my best here!
+# cos N-Not a word of this to anyone else, you hear?! I'm not ever going back to the hell I'm from!
+cos N-Not a word of this to anyone else, you hear?! I'm not ever going back to the hell I'm from!
+# cos Nothing is ever making me go back there...
+cos Nothing is ever making me go back there...
+#% cha kay_neu_sad_closed_smirk
+cha kay_neu_sad_closed_smirk
+# kay I see...
+kay I see...
+# kay So in this world, your mother did not...
+kay So in this world, your mother did not...
+#% cha kay_neu_confuse_thinking_neutral
+cha kay_neu_confuse_thinking_neutral
+# kay (How could that be? All Elves must worship the Monolithic Truth or else turn into Orks. To accept a Demonfolk as kin would be heresy...)
+kay (How could that be? All Elves must worship the Monolithic Truth or else turn into Orks. To accept a Demonfolk as kin would be heresy...)
+#% cha kay_neu_neutral_closed_talk
+cha kay_neu_neutral_closed_talk
+# kay Ahem. Actually, I was not telling the entire truth, Cosette.
+kay Ahem. Actually, I was not telling the entire truth, Cosette.
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay I'm actually only a Demi-Elf, albeit one with a love for the baths.
+kay I'm actually only a Demi-Elf, albeit one with a love for the baths.
+# cos Eeehh... I see... So you're what the Elves call a Lessor, huh?
+cos Eeehh... I see... So you're what the Elves call a Lessor, huh?
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay I actually have something important to tell you.
+kay I actually have something important to tell you.
+# cos Well, from one lessor to another, I suppose I could hear you out...
+cos Well, from one lessor to another, I suppose I could hear you out...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay This is going to be difficult to explain...
+kay This is going to be difficult to explain...
+#% cha kay_neu_focus_closed_smalltalk
+cha kay_neu_focus_closed_smalltalk
+# kay But none of this is real.
+kay But none of this is real.
+# kay This is an illusionary world that you created with the Dreadstone's mana...
+kay This is an illusionary world that you created with the Dreadstone's mana...
+# cos Eh? But something like that's...
+cos Eh? But something like that's...
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay In fact, we are in quite a predicament as we speak.
+kay In fact, we are in quite a predicament as we speak.
+#% cha kay_neu_angry_big_smalltalk
+cha kay_neu_angry_big_smalltalk
+# kay The Dreadstone's mana is leaking out at an uncontrollable rate. Unless it is all spent, it will create a massive tear into the Spirit Realm, dooming us all.
+kay The Dreadstone's mana is leaking out at an uncontrollable rate. Unless it is all spent, it will create a massive tear into the Spirit Realm, dooming us all.
+# cos I... I don't get what you're saying at all!
+cos I... I don't get what you're saying at all!
+# cos This is the real world. This is my life!
+cos This is the real world. This is my life!
+#% cha kay_neu_angry_big_smalltalk
+cha kay_neu_angry_big_smalltalk
+# kay Though it may seem that way, think this through. It doesn't make any sense.
+kay Though it may seem that way, think this through. It doesn't make any sense.
+# kay If a High Elf defies the Monolithic Truth, then Heaven imposes its punishment: Transformation into an Ork.
+kay If a High Elf defies the Monolithic Truth, then Heaven imposes its punishment: Transformation into an Ork.
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Beautiful as this world may be, it cannot be real.
+kay Beautiful as this world may be, it cannot be real.
+# cos I don't care!
+cos I don't care!
+# cos If what you say is true, then we are damned anyways!
+cos If what you say is true, then we are damned anyways!
+# cos You are cruel! To rob me of this moment, so that even my death is miserable!
+cos You are cruel! To rob me of this moment, so that even my death is miserable!
+# cos Why do you do this?!
+cos Why do you do this?!
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay There is a way we may yet live.
+kay There is a way we may yet live.
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay If you can use the Dreadstone's mana to create this world, then you can use it to undo this disaster.
+kay If you can use the Dreadstone's mana to create this world, then you can use it to undo this disaster.
+# kay Restore the world to its original form. Then, we may lay down our arms and talk out our differences-
+kay Restore the world to its original form. Then, we may lay down our arms and talk out our differences-
+# cos Fool! Why would I do that?! The world is a horrible place!
+cos Fool! Why would I do that?! The world is a horrible place!
+# cos I am a demon! I will be hated no matter where I go! If I am lucky, I will kill before I am killed and justify my existence through misdeeds and infamy!
+cos I am a demon! I will be hated no matter where I go! If I am lucky, I will kill before I am killed and justify my existence through misdeeds and infamy!
+# cos You think I will return to such a life, just to save you? Hah!
+cos You think I will return to such a life, just to save you? Hah!
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Though I am called Lessor, I will make my own path, even if none is provided for me.
+kay Though I am called Lessor, I will make my own path, even if none is provided for me.
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay If even a kernel of you can fathom a world as tranquil as this, then you must live to create it.
+kay If even a kernel of you can fathom a world as tranquil as this, then you must live to create it.
+# cos You are a fool...
+cos You are a fool...
+# cos Even if I wish for such a thing, magic of that magnitude is beyond my power...
+cos Even if I wish for such a thing, magic of that magnitude is beyond my power...
+# cos There is no way I would be able to wield that much mana. We are doomed.
+cos There is no way I would be able to wield that much mana. We are doomed.
+#% cha kay_neu_focus_wide_talk
+cha kay_neu_focus_wide_talk
+# kay That cannot be!
+kay That cannot be!
+# kay Claude!!! Goddess!!! Come back!!!
+kay Claude!!! Goddess!!! Come back!!!
+# kay This cannot be how it all ends! Help us restore the world! You have all the mana you need!
+kay This cannot be how it all ends! Help us restore the world! You have all the mana you need!
+#% cha kay_neu_angry_closed2_clench
+cha kay_neu_angry_closed2_clench
+# kay Restore the world!
+kay Restore the world!
+#% dcg hide
+dcg hide
+#% dbg hide
+dbg hide
+#% ccc kay_uni
+ccc kay_uni
+# god YOUR PRAYERS ARE HEARD.
+god YOUR PRAYERS ARE HEARD.
+# god BUT HER FATE IS ALREADY WRITTEN.
+god BUT HER FATE IS ALREADY WRITTEN.
+# god DO YOU DEFY DESTINY?
+god DO YOU DEFY DESTINY?
+# nar (A deadly battle is upon you. Here, all captured ships must be scuttled!)
+nar (A deadly battle is upon you. Here, all captured ships must be scuttled!)
+# nar (Do you dare challenge fate?)
+nar (Do you dare challenge fate?)
+# cc0 chap7_coschoice
+cc0 chap7_coschoice
+# cc1 Yes
+cc1 Yes
+# cc2 No
+cc2 No
+#% 
+
+#% tag chap7_coschoice_cc1
+tag chap7_coschoice_cc1
+#% ifj chap7_cosette3,goto_ryuvia
+ifj chap7_cosette3,goto_ryuvia
+#% tag chap7_cosette3_true
+tag chap7_cosette3_true
+#% obj BATTLE: Her Destiny A
+obj BATTLE: Her Destiny A
+# jum chap7_battle3_obj
+jum chap7_battle3_obj
+#% tag chap7_cosette3_false
+tag chap7_cosette3_false
+#% obj BATTLE: Her Destiny B
+obj BATTLE: Her Destiny B
+#% tag chap7_battle3_obj
+tag chap7_battle3_obj
+# god THE PATH AHEAD MAY BE IMPOSSIBLE...
+god THE PATH AHEAD MAY BE IMPOSSIBLE...
+# god BUT PERHAPS YOU WILL BE ABLE TO CHANGE THE WORLD.
+god BUT PERHAPS YOU WILL BE ABLE TO CHANGE THE WORLD.
+#% roo roo_chap7_battle3
+roo roo_chap7_battle3
+#% 
+
+#% tag chap7_coschoice_cc2
+tag chap7_coschoice_cc2
+#% var cosgiveup
+var cosgiveup
+# god THEN, YOU ALONE WILL BE SAVED.
+god THEN, YOU ALONE WILL BE SAVED.
+# god HER SOUL SHALL BE ETERNALLY DAMNED, FOR THAT WAS ALWAYS HER DESTINY.
+god HER SOUL SHALL BE ETERNALLY DAMNED, FOR THAT WAS ALWAYS HER DESTINY.
+# god GO ALONE.
+god GO ALONE.
+#% roo roo_chap7_story8
+roo roo_chap7_story8
+#% 
+
+#% tag chap7_cosettebadend
+tag chap7_cosettebadend
+# god YOU HAVE FAILED...
+god YOU HAVE FAILED...
+# god TIME RUNS SHORT...
+god TIME RUNS SHORT...
+# god DO YOU DEFY DESTINY?
+god DO YOU DEFY DESTINY?
+# cc0 chap7_cosbadend
+cc0 chap7_cosbadend
+# cc1 Yes
+cc1 Yes
+# cc2 No
+cc2 No
+#% 
+
+#% tag chap7_cosbadend_cc1
+tag chap7_cosbadend_cc1
+# god THEN DIE IN FUTILITY...
+god THEN DIE IN FUTILITY...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap7_cosbadend_cc2
+tag chap7_cosbadend_cc2
+# god I SEE...
+god I SEE...
+# god THEN, YOU ALONE WILL BE SAVED.
+god THEN, YOU ALONE WILL BE SAVED.
+# god HER SOUL SHALL BE ETERNALLY DAMNED, FOR THAT WAS ALWAYS HER DESTINY.
+god HER SOUL SHALL BE ETERNALLY DAMNED, FOR THAT WAS ALWAYS HER DESTINY.
+# god GO ALONE.
+god GO ALONE.
+#% var cosgiveup
+var cosgiveup
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap7_cosettegiveup
+tag chap7_cosettegiveup
+#% dbg spr_bg_sunriderbridge_storm
+dbg spr_bg_sunriderbridge_storm
+#% mus mus_missionbriefing
+mus mus_missionbriefing
+#% ifj chap7_recruitcos,goto_ryuvia
+ifj chap7_recruitcos,goto_ryuvia
+#% tag chap7_recruitcos_true
+tag chap7_recruitcos_true
+#% obj MAIN: The Liberation of Ryuvia
+obj MAIN: The Liberation of Ryuvia
+# jum chap7_recjump
+jum chap7_recjump
+#% tag chap7_recruitcos_false
+tag chap7_recruitcos_false
+#% obj MAIN: Dissension
+obj MAIN: Dissension
+#% tag chap7_recjump
+tag chap7_recjump
+#% xob BATTLE: Her Destiny A
+xob BATTLE: Her Destiny A
+#% xob BATTLE: Her Destiny B
+xob BATTLE: Her Destiny B
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay ... ... ...
+kay ... ... ...
+#% cha ava_armup_surprised_surprise_smalltalk
+cha ava_armup_surprised_surprise_smalltalk
+# ava Captain? Are you all right?
+ava Captain? Are you all right?
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay Report.
+kay Report.
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+# ava Attack successful. The final remnants Cosette Cosmos and her undead fleet have been destroyed.
+ava Attack successful. The final remnants Cosette Cosmos and her undead fleet have been destroyed.
+#% cha ava_armscrossed_surprised_surprise_smalltalk
+cha ava_armscrossed_surprised_surprise_smalltalk
+# ava Is... something the matter?
+ava Is... something the matter?
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay ... ... ...
+kay ... ... ...
+#% cha kay_neu_focus_closed_smalltalk
+cha kay_neu_focus_closed_smalltalk
+# kay No.
+kay No.
+#% cha kay_neu_focus_neutral_slight
+cha kay_neu_focus_neutral_slight
+# kay She was a pirate. Let this be a lesson to all those who choose that path.
+kay She was a pirate. Let this be a lesson to all those who choose that path.
+#% cha ava_armscrossed_focus_closedeye_frown
+cha ava_armscrossed_focus_closedeye_frown
+# ava Well said, captain.
+ava Well said, captain.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Resume course. We near the end of our journey...
+kay Resume course. We near the end of our journey...
+#% cha ava_shout_shout_shout_shout
+cha ava_shout_shout_shout_shout
+# ava Aye aye, captain. All hands! Stand down action stations!
+ava Aye aye, captain. All hands! Stand down action stations!
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay (Cosette... It was not possible to save you...)
+kay (Cosette... It was not possible to save you...)
+# kay (But maybe, it just wasn't meant to be...)
+kay (But maybe, it just wasn't meant to be...)
+# map 
+map 
+#% 
+
+#% tag chap7_cosrecruit
+tag chap7_cosrecruit
+#% mus mus_colors_full
+mus mus_colors_full
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% ifj chap7_recruitcos2,goto_ryuvia
+ifj chap7_recruitcos2,goto_ryuvia
+#% tag chap7_recruitcos2_true
+tag chap7_recruitcos2_true
+#% obj MAIN: The Liberation of Ryuvia
+obj MAIN: The Liberation of Ryuvia
+# jum chap7_rec2jump
+jum chap7_rec2jump
+#% tag chap7_recruitcos2_false
+tag chap7_recruitcos2_false
+#% obj MAIN: Dissension
+obj MAIN: Dissension
+#% tag chap7_rec2jump
+tag chap7_rec2jump
+#% xob BATTLE: Her Destiny A
+xob BATTLE: Her Destiny A
+#% xob BATTLE: Her Destiny B
+xob BATTLE: Her Destiny B
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% sou sou_hit3
+sou sou_hit3
+# hsh 10
+hsh 10
+#% cha cos_facepalm_flat_closedeye_clench
+cha cos_facepalm_flat_closedeye_clench
+#% voi cos_vns_shy_04
+voi cos_vns_shy_04
+# cos Oof!
+cos Oof!
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Ugh...
+kay Ugh...
+#% cha ava_armup_surprised_surprise_yell
+cha ava_armup_surprised_surprise_yell
+#% voi ava_vns_shy_04
+voi ava_vns_shy_04
+# ava Captain?!
+ava Captain?!
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Uhhh...
+kay Uhhh...
+#% cha cos_fists_flat_closedeye_guh
+cha cos_fists_flat_closedeye_guh
+#% voi cos_vns_sad_03
+voi cos_vns_sad_03
+# cos Uugghh...
+cos Uugghh...
+#% cha ava_armup_focus_surprise_bigtalk
+cha ava_armup_focus_surprise_bigtalk
+#% voi ava_vns_sur_01
+voi ava_vns_sur_01
+# ava And the pirate?! What is the meaning of this?!
+ava And the pirate?! What is the meaning of this?!
+#% cha kay_neu_sad_closed_groan
+cha kay_neu_sad_closed_groan
+# kay Stand down, commander...
+kay Stand down, commander...
+#% cha kay_neu_sad_neutral_smalltalk
+cha kay_neu_sad_neutral_smalltalk
+# kay Cosette here just saved all our asses. She managed to burn off the Dreadstone's excess mana right in the nick of time, before it exploded and doomed us all.
+kay Cosette here just saved all our asses. She managed to burn off the Dreadstone's excess mana right in the nick of time, before it exploded and doomed us all.
+# kay If it weren't for her, none of us would be talking right now.
+kay If it weren't for her, none of us would be talking right now.
+#% cha ava_armscrossed_focus_closedeye_bigtalk
+cha ava_armscrossed_focus_closedeye_bigtalk
+# ava Yes, captain. Surely, the pirate did all that for our sakes, and not simply to save her own hide...
+ava Yes, captain. Surely, the pirate did all that for our sakes, and not simply to save her own hide...
+#% cha kay_neu_sad_narrowloo_smalltalk
+cha kay_neu_sad_narrowloo_smalltalk
+# kay Listen, Ava-
+kay Listen, Ava-
+#% hid cos
+hid cos
+#% hid ava
+hid ava
+#% cha cla_handsonhips_focus_neutral_laugh
+cha cla_handsonhips_focus_neutral_laugh
+#% voi cla_vns_neu_04
+voi cla_vns_neu_04
+# cla Allow me to interject!
+cla Allow me to interject!
+#% cha cla_squish_confuse_smug_catopensm
+cha cla_squish_confuse_smug_catopensm
+# cla Yes, we have truly witnessed a miracle! A miracle achieved only through the power of love!
+cla Yes, we have truly witnessed a miracle! A miracle achieved only through the power of love!
+#% cha cos_laugh_sadorscar_widebigpu_wideyell_shadow
+cha cos_laugh_sadorscar_widebigpu_wideyell_shadow
+#% voi cos_vns_sur_01
+voi cos_vns_sur_01
+# cos L-Love?!
+cos L-Love?!
+#% cha cla_armscrossed_angry_closedeye_awkwardsm
+cha cla_armscrossed_angry_closedeye_awkwardsm
+#% voi cla_vns_neu_09
+voi cla_vns_neu_09
+# cla Though the Dreadstone was on the cusp of tearing a hole to the Spirit Realm, our intrepid captain traveled through the netherworld to heal our troubled maiden's heart.
+cla Though the Dreadstone was on the cusp of tearing a hole to the Spirit Realm, our intrepid captain traveled through the netherworld to heal our troubled maiden's heart.
+#% cha cla_armscrossed_sad_neutral_smallopen
+cha cla_armscrossed_sad_neutral_smallopen
+# cla They met heart-to-heart in the realm beyond our own and came to understand each other.
+cla They met heart-to-heart in the realm beyond our own and came to understand each other.
+#% cha cla_squish_raised_closedeye_droolmout
+cha cla_squish_raised_closedeye_droolmout
+# cla Her emotional injuries salved, she rose to action and she burned off the Dreadstone's mana. How did she accomplish such a feat, you ask? Through the power only a girl in her situation could wield. Yes, it was the power of love!
+cla Her emotional injuries salved, she rose to action and she burned off the Dreadstone's mana. How did she accomplish such a feat, you ask? Through the power only a girl in her situation could wield. Yes, it was the power of love!
+#% cha cos_laugh_neutral_crazy_guh_shadow
+cha cos_laugh_neutral_crazy_guh_shadow
+#% voi cos_vns_sur_01
+voi cos_vns_sur_01
+# cos G-Geeehhhh...
+cos G-Geeehhhh...
+#% cha ava_facepalm_angry_narrow_tch_shadow
+cha ava_facepalm_angry_narrow_tch_shadow
+#% voi ava_vns_shy_02
+voi ava_vns_shy_02
+# ava Unbelievable...
+ava Unbelievable...
+#% cha cla_armscrossed_sad_funnyclos_3mouth
+cha cla_armscrossed_sad_funnyclos_3mouth
+#% voi cla_vns_neu_08
+voi cla_vns_neu_08
+# cla No? Just me?
+cla No? Just me?
+#% cha sol_side_concern_closedeye_talk
+cha sol_side_concern_closedeye_talk
+#% voi sol_vns_shy_04
+voi sol_vns_shy_04
+# sol Sigh... In the end, we know so little about what happened... Just what was the Dreadstone? And how did it end up with the pirate?
+sol Sigh... In the end, we know so little about what happened... Just what was the Dreadstone? And how did it end up with the pirate?
+#% cha sol_side_confused_narrow_talk2
+cha sol_side_confused_narrow_talk2
+# sol Though I am relieved that dreaded jewel is destroyed, I wish we had uncovered more of its secrets...
+sol Though I am relieved that dreaded jewel is destroyed, I wish we had uncovered more of its secrets...
+#% cha ava_armscrossed_angry_narrow_frown
+cha ava_armscrossed_angry_narrow_frown
+#% voi ava_vns_sad_02
+voi ava_vns_sad_02
+# ava Perhaps our pirate friend would like to share what she knows?
+ava Perhaps our pirate friend would like to share what she knows?
+#% hid cla
+hid cla
+#% hid sol
+hid sol
+#% hid ava
+hid ava
+#% cha cos_facepalm_confused_narrowloo_guh
+cha cos_facepalm_confused_narrowloo_guh
+#% voi cos_vns_sad_04
+voi cos_vns_sad_04
+# cos Way back, at Sargasso, after the Havoc exploded, I fell into the sea, to what seemed my watery grave...
+cos Way back, at Sargasso, after the Havoc exploded, I fell into the sea, to what seemed my watery grave...
+# cos But that accursed jewel came to me, as if it was a living thing.
+cos But that accursed jewel came to me, as if it was a living thing.
+#% cha cos_armscrossed_flat_closedeye_talk
+cha cos_armscrossed_flat_closedeye_talk
+# cos At that moment, I was swept to shore. And from then on, it whispered to me its sweet nothings for the rest of my days...
+cos At that moment, I was swept to shore. And from then on, it whispered to me its sweet nothings for the rest of my days...
+#% cha cos_armscrossed_neutral_neutral_talk
+cha cos_armscrossed_neutral_neutral_talk
+# cos There was something sealed within that stone, something which was desperate to get out. All my days and nights, it offered to sate even my deepest desires if I released it unto the world.
+cos There was something sealed within that stone, something which was desperate to get out. All my days and nights, it offered to sate even my deepest desires if I released it unto the world.
+# cos Perhaps it was the Devil himself within that stone. We shall find out one way or another, as whatever was inside was released when the Dreadstone broke apart.
+cos Perhaps it was the Devil himself within that stone. We shall find out one way or another, as whatever was inside was released when the Dreadstone broke apart.
+#% cha sol_surprise_sad_wide_yell
+cha sol_surprise_sad_wide_yell
+#% voi sol_vns_shy_03
+voi sol_vns_shy_03
+# sol Dark day... I fear to even imagine the chaos such a malevolent force will unleash...
+sol Dark day... I fear to even imagine the chaos such a malevolent force will unleash...
+#% cha cos_armscrossed_neutral_closedeye_frown
+cha cos_armscrossed_neutral_closedeye_frown
+#% voi cos_vns_sad_01
+voi cos_vns_sad_01
+# cos Then we are fortunate that I expended so much of its mana. Though it may be a being of terrible power, it has been greatly diminished. It may be over one hundred years until it has regained its former power...
+cos Then we are fortunate that I expended so much of its mana. Though it may be a being of terrible power, it has been greatly diminished. It may be over one hundred years until it has regained its former power...
+#% cha sol_side_concern_closedeye_talk
+cha sol_side_concern_closedeye_talk
+#% voi sol_vns_sad_01
+voi sol_vns_sad_01
+# sol Hardly much time at all... For an Elf, at least...
+sol Hardly much time at all... For an Elf, at least...
+#% cha sol_front_sad_neutral_talk2
+cha sol_front_sad_neutral_talk2
+# sol How did Crow Harbor come to possess such a stone? What is his relation to all this?
+sol How did Crow Harbor come to possess such a stone? What is his relation to all this?
+#% cha cos_armscrossed_neutral_narrowloo_guh
+cha cos_armscrossed_neutral_narrowloo_guh
+#% voi cos_vns_neu_05
+voi cos_vns_neu_05
+# cos Arr, that shall remain a mystery yet, for whatever was within that stone never divulged its connection to any ancient Ryuvian lord.
+cos Arr, that shall remain a mystery yet, for whatever was within that stone never divulged its connection to any ancient Ryuvian lord.
+#% cha sol_back_confuse_closedeye_talk2
+cha sol_back_confuse_closedeye_talk2
+#% voi sol_vns_neu_03
+voi sol_vns_neu_03
+# sol I see... So all shall remain shrouded in mystery...
+sol I see... So all shall remain shrouded in mystery...
+#% hid sol
+hid sol
+#% cha kry_armout_focus_neutral_bigtalk
+cha kry_armout_focus_neutral_bigtalk
+#% voi kry_vns_ang_05
+voi kry_vns_ang_05
+# kry Though the Dreadstone's danger has passed for now, that does not absolve Cosmos of her crimes. By the laws of both the Song Alliance and the Neutral Banners, the punishment for piracy is death.
+kry Though the Dreadstone's danger has passed for now, that does not absolve Cosmos of her crimes. By the laws of both the Song Alliance and the Neutral Banners, the punishment for piracy is death.
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay It is true the punishment is death, yes.
+kay It is true the punishment is death, yes.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay But that sentence has already been carried out. Cosette Cosmos died when I gave the order to open fire upon her ship.
+kay But that sentence has already been carried out. Cosette Cosmos died when I gave the order to open fire upon her ship.
+# kay The person before you is another version of her, who I met in the Spirit Realm while the Dreadstone's power was going wild. This Cosette Cosmos never became a pirate. She is simply an orphan, who was fostered by a charitable High Elf priestess. Thus, to execute her would be without justification.
+kay The person before you is another version of her, who I met in the Spirit Realm while the Dreadstone's power was going wild. This Cosette Cosmos never became a pirate. She is simply an orphan, who was fostered by a charitable High Elf priestess. Thus, to execute her would be without justification.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay This is our law, just as it is Elvish law.
+kay This is our law, just as it is Elvish law.
+#% cha ava_facepalm_sad_closedeye_sigh
+cha ava_facepalm_sad_closedeye_sigh
+#% voi ava_vns_shy_02
+voi ava_vns_shy_02
+# ava Yes it is... Though it is curious how this Cosmos somehow retains all of the pirate Cosmos' memories...
+ava Yes it is... Though it is curious how this Cosmos somehow retains all of the pirate Cosmos' memories...
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay The quirks of the Spirit Realm are curious indeed... But I can say this for certain.
+kay The quirks of the Spirit Realm are curious indeed... But I can say this for certain.
+#% cha kay_neu_confuse_thinking_smirk
+cha kay_neu_confuse_thinking_smirk
+# kay I truly did meet this Cosmos in the Spirit Realm. She is is no villain.
+kay I truly did meet this Cosmos in the Spirit Realm. She is is no villain.
+#% cha cos_facepalm_flat_closedeye_clench
+cha cos_facepalm_flat_closedeye_clench
+#% voi cos_vns_sad_02
+voi cos_vns_sad_02
+# cos Tch...
+cos Tch...
+#% cha cos_facepalm_angry_narrowloo_clench
+cha cos_facepalm_angry_narrowloo_clench
+# cos Though you be a fool, I be no better, for I say this loud and clear.
+cos Though you be a fool, I be no better, for I say this loud and clear.
+#% cha cos_fists_flat_closedeye_guh
+cha cos_fists_flat_closedeye_guh
+#% voi cos_vns_sad_03
+voi cos_vns_sad_03
+# cos I am Cosette Cosmos, the Terror of the Seas.
+cos I am Cosette Cosmos, the Terror of the Seas.
+# cos The captain is lying for my sake.
+cos The captain is lying for my sake.
+#% cha ava_armscrossed_focus_closedeye_smalltalk
+cha ava_armscrossed_focus_closedeye_smalltalk
+#% voi ava_vns_ang_02
+voi ava_vns_ang_02
+# ava Yes, that was quite obvious.
+ava Yes, that was quite obvious.
+#% cha kay_neu_sad_closed_talk
+cha kay_neu_sad_closed_talk
+# kay Come on, Ava... Can't you play along, just once?
+kay Come on, Ava... Can't you play along, just once?
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Based on what I saw in the Spirit Realm, I believe Cosette can be redeemed. If she vows to repent for her crimes, I will welcome her as a member of the crew.
+kay Based on what I saw in the Spirit Realm, I believe Cosette can be redeemed. If she vows to repent for her crimes, I will welcome her as a member of the crew.
+#% cha kry_armdown_angry_widesmall_bigtalk
+cha kry_armdown_angry_widesmall_bigtalk
+#% voi kry_vns_ang_02
+voi kry_vns_ang_02
+# kry Welcome her?!
+kry Welcome her?!
+#% hid kry
+hid kry
+#% cha ava_facepalm_angry_closedeye_smalltalk
+cha ava_facepalm_angry_closedeye_smalltalk
+#% voi ava_vns_shy_02
+voi ava_vns_shy_02
+# ava History suggests you are being naive, Captain...
+ava History suggests you are being naive, Captain...
+#% cha asa_bendover_angry_neutral_bigtalk
+cha asa_bendover_angry_neutral_bigtalk
+#% voi asa_vns_ang_01
+voi asa_vns_ang_01
+# asa Wait! Wait.
+asa Wait! Wait.
+#% cha asa_fist_angry_neutral_smalltalk
+cha asa_fist_angry_neutral_smalltalk
+# asa Cosette. Are you telling the truth? Will you truly fight alongside us?
+asa Cosette. Are you telling the truth? Will you truly fight alongside us?
+#% cha cos_armscrossed_flat_closedeye_frown
+cha cos_armscrossed_flat_closedeye_frown
+# cos ... ... ...
+cos ... ... ...
+#% cha cos_armscrossed_flat_narrow_talk
+cha cos_armscrossed_flat_narrow_talk
+#% voi cos_vns_sad_01
+voi cos_vns_sad_01
+# cos Yes...
+cos Yes...
+# cos Though it was like a fleeting dream, I saw myself in that strange world, where I was unblemished.
+cos Though it was like a fleeting dream, I saw myself in that strange world, where I was unblemished.
+# cos Perhaps the captain does have what it takes to turn that dream into a reality...
+cos Perhaps the captain does have what it takes to turn that dream into a reality...
+# cos At least, this pirate knows when she is beaten. I submit myself to thee judgment, Shields.
+cos At least, this pirate knows when she is beaten. I submit myself to thee judgment, Shields.
+#% cha asa_armscrossed_focus_closedeye_frown
+cha asa_armscrossed_focus_closedeye_frown
+# asa Then, as the Sharr, I pardon you of your crimes, Cosette Cosmos.
+asa Then, as the Sharr, I pardon you of your crimes, Cosette Cosmos.
+# asa Let my will be done, for I am the Sharr who has lived since the beginning of time, and there is none above me. From this day, you are born anew.
+asa Let my will be done, for I am the Sharr who has lived since the beginning of time, and there is none above me. From this day, you are born anew.
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+# ava Are you sure of this? Though we have gained quite an eclectic group of allies, the Terror of the Seas is nothing like any of the ones we have accepted within our ranks.
+ava Are you sure of this? Though we have gained quite an eclectic group of allies, the Terror of the Seas is nothing like any of the ones we have accepted within our ranks.
+#% cha kay_neu_focus_neutral_smirk
+cha kay_neu_focus_neutral_smirk
+# kay The task ahead is great, commander. We will need all the help we can get.
+kay The task ahead is great, commander. We will need all the help we can get.
+# kay Cosette has vowed to renounce her evil ways, and the Sharr herself has pardoned her of her crimes.
+kay Cosette has vowed to renounce her evil ways, and the Sharr herself has pardoned her of her crimes.
+#% cha kay_neu_sad_closed_groan
+cha kay_neu_sad_closed_groan
+# kay I put in quite a bit of effort to save her, you know... It wasn't easy at all... Please let me have this.
+kay I put in quite a bit of effort to save her, you know... It wasn't easy at all... Please let me have this.
+#% cha ava_armscrossed_angry_closedeye_smalltalk
+cha ava_armscrossed_angry_closedeye_smalltalk
+#% voi ava_vns_sad_02
+voi ava_vns_sad_02
+# ava Sigh... Very well, captain...
+ava Sigh... Very well, captain...
+#% sou sou_partygain
+sou sou_partygain
+# nar (Cosette has joined your party!)
+nar (Cosette has joined your party!)
+#% sou sou_affectiongain
+sou sou_affectiongain
+# nar (2 Affection Points gained!)
+nar (2 Affection Points gained!)
+# nar (The spirit onsen has rejuvenated your soul...)
+nar (The spirit onsen has rejuvenated your soul...)
+#% sou sou_onsengain
+sou sou_onsengain
+# nar (Your communal EN cap has increased!)
+nar (Your communal EN cap has increased!)
+#% var cosetteonsen
+var cosetteonsen
+#% cha kay_neu_neutral_closed2_smirk
+cha kay_neu_neutral_closed2_smirk
+# kay Though we were once enemies, I want everyone to welcome Cosette. From this day on, we are allies.
+kay Though we were once enemies, I want everyone to welcome Cosette. From this day on, we are allies.
+#% hid cos
+hid cos
+#% hid ava
+hid ava
+#% cha asa_armup_confuse_narrow2_smalltalk
+cha asa_armup_confuse_narrow2_smalltalk
+#% voi asa_vns_sad_04
+voi asa_vns_sad_04
+# asa Dunno, capt'n... I might have pardoned her, but that doesn't quite make us friends...
+asa Dunno, capt'n... I might have pardoned her, but that doesn't quite make us friends...
+#% cha chi_handtoface_sad_wide2_slight
+cha chi_handtoface_sad_wide2_slight
+#% voi chi_vns_sad_01
+voi chi_vns_sad_01
+# chi Chiii...
+chi Chiii...
+#% cha sol_back_angry_closedeye_neutral
+cha sol_back_angry_closedeye_neutral
+#% voi sol_vns_ang_03
+voi sol_vns_ang_03
+# sol Hmph!
+sol Hmph!
+#% cha kry_armout_focus_neutral_bigtalk
+cha kry_armout_focus_neutral_bigtalk
+#% voi kry_vns_ang_03
+voi kry_vns_ang_03
+# kry I shall keep my eyes on her at all times!
+kry I shall keep my eyes on her at all times!
+#% hid kry
+hid kry
+#% hid sol
+hid sol
+#% hid chi
+hid chi
+#% hid asa
+hid asa
+#% cha cos_armscrossed_neutral_closedeye_frown
+cha cos_armscrossed_neutral_closedeye_frown
+#% voi cos_vns_sad_01
+voi cos_vns_sad_01
+# cos I hardly expected to be welcomed with open arms by ye. What matters is that all our fates be bound now.
+cos I hardly expected to be welcomed with open arms by ye. What matters is that all our fates be bound now.
+# cos I sense it. The end of our journey nears.
+cos I sense it. The end of our journey nears.
+#% cha cos_armscrossed_neutral_narrow_talk
+cha cos_armscrossed_neutral_narrow_talk
+# cos Fate has ordained we face it together. So let us see how all this ends...
+cos Fate has ordained we face it together. So let us see how all this ends...
+# kay That is so. Let us proceed to our destination...
+kay That is so. Let us proceed to our destination...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay We shall face it together...
+kay We shall face it together...
+# map 
+map 
+#% 
+
+#% tag chap7_farport2
+tag chap7_farport2
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% mus stop
+mus stop
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+#% voi ava_vns_ang_07
+voi ava_vns_ang_07
+# ava Captain, we are approaching Far Port...
+ava Captain, we are approaching Far Port...
+#% xob MAIN: Dissension
+xob MAIN: Dissension
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Spyglass, commander. Is the Emerald Fleet still here?
+kay Spyglass, commander. Is the Emerald Fleet still here?
+#% voi ava_vns_neu_08
+voi ava_vns_neu_08
+# ava Yes, that seems to be the case... I see quite a number of Elvish ships still patrolling the Strait...
+ava Yes, that seems to be the case... I see quite a number of Elvish ships still patrolling the Strait...
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay It appears luck has not abandoned us.
+kay It appears luck has not abandoned us.
+#% mus mus_battleagainsttime
+mus mus_battleagainsttime
+#% cha ava_armup_raised_surprise_smalltalk
+cha ava_armup_raised_surprise_smalltalk
+# ava Hold. Wait a minute...!
+ava Hold. Wait a minute...!
+#% obj BATTLE: Dissension
+obj BATTLE: Dissension
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+#% voi ava_vns_ang_06
+voi ava_vns_ang_06
+# ava Alert! Crimson sails spotted! What in Sharr's name?! They are intermixed with the Emerald Fleet's ships, yet there is no sign of battle!
+ava Alert! Crimson sails spotted! What in Sharr's name?! They are intermixed with the Emerald Fleet's ships, yet there is no sign of battle!
+#% cha kay_neu_confuse_wide_smalltalk
+cha kay_neu_confuse_wide_smalltalk
+# kay All hands! Action stations! I've got a bad feeling about this...
+kay All hands! Action stations! I've got a bad feeling about this...
+#% cha ava_facepalm_angry_narrowloo_yell
+cha ava_facepalm_angry_narrowloo_yell
+# ava Impossible... is it possible that Pact has already taken the Strait and captured the Emerald Fleet?!
+ava Impossible... is it possible that Pact has already taken the Strait and captured the Emerald Fleet?!
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Whatever has happened, we have no other choice but to investigate...
+kay Whatever has happened, we have no other choice but to investigate...
+# kay What has happened here...?
+kay What has happened here...?
+#% roo roo_chap7_battle6
+roo roo_chap7_battle6
+#% 
+
+#% tag chap7_battle6_start
+tag chap7_battle6_start
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay So the worse truly has come to pass... The Emerald Fleet has been taken by the enemy...
+kay So the worse truly has come to pass... The Emerald Fleet has been taken by the enemy...
+#% cha ava_armup_surprised_surprise_yell
+cha ava_armup_surprised_surprise_yell
+#% voi ava_vns_ang_07
+voi ava_vns_ang_07
+# ava Captain, look!
+ava Captain, look!
+#% hid ava
+hid ava
+#% cha shi_neu_confused_wide_yell
+cha shi_neu_confused_wide_yell
+#% voi shi_vns_hap_05
+voi shi_vns_hap_05
+# shi Oooyyy!!! Kayto, is that you?!
+shi Oooyyy!!! Kayto, is that you?!
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay DAD?!
+kay DAD?!
+#% cha shi_neu_sad_closed_grin
+cha shi_neu_sad_closed_grin
+#% voi shi_vns_shy_02
+voi shi_vns_shy_02
+# shi You're a sight for sore eyes! Uhh look, I'm in a little bit of trouble here...
+shi You're a sight for sore eyes! Uhh look, I'm in a little bit of trouble here...
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay (So even my dad's been taken prisoner...!)
+kay (So even my dad's been taken prisoner...!)
+#% cha shi_neu_sad_lookaway_grin
+cha shi_neu_sad_lookaway_grin
+# shi L-Listen... this really wasn't my fault...
+shi L-Listen... this really wasn't my fault...
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Hang on! We'll get you out of there!
+kay Hang on! We'll get you out of there!
+#% cha shi_neu_confused_wide_yell
+cha shi_neu_confused_wide_yell
+# shi Huh? Hey, wait-
+shi Huh? Hey, wait-
+#% hid shi
+hid shi
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+# ava Captain, the enemy ships are moving into attack pattern!
+ava Captain, the enemy ships are moving into attack pattern!
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay We cannot add to our losses by sinking our own ships to the bottom of the sea...
+kay We cannot add to our losses by sinking our own ships to the bottom of the sea...
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Our only option is to sink all Pact ships, while sparing our captured ships. Our mission will be failed if we sink a single non-Pact vessel!
+kay Our only option is to sink all Pact ships, while sparing our captured ships. Our mission will be failed if we sink a single non-Pact vessel!
+#% stop
+stop
+#% 
+
+#% tag chap7_battle7_badend
+tag chap7_battle7_badend
+#% cha ava_facepalm_focus_closedeye_tch
+cha ava_facepalm_focus_closedeye_tch
+#% voi ava_vns_sur_01
+voi ava_vns_sur_01
+# ava Captain, one of our captured ships have been sunk...!
+ava Captain, one of our captured ships have been sunk...!
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay Tch... We needed to avoid this outcome at all costs...
+kay Tch... We needed to avoid this outcome at all costs...
+# kay The mission is a failure.
+kay The mission is a failure.
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap7_battle7_win
+tag chap7_battle7_win
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+#% voi ava_vns_sad_04
+voi ava_vns_sad_04
+# ava All Pact ships sunk, captain. Yet, strange... This does not seem to be the bulk of the Crimson Fleet.
+ava All Pact ships sunk, captain. Yet, strange... This does not seem to be the bulk of the Crimson Fleet.
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+#% voi fon_vns_hap_01
+voi fon_vns_hap_01
+# fon Indeed, you are right about that!
+fon Indeed, you are right about that!
+# fon For this time, it is you who is hopelessly outnumbered by my reinforcements!
+fon For this time, it is you who is hopelessly outnumbered by my reinforcements!
+#% cha kay_neu_angry_wide_yell
+cha kay_neu_angry_wide_yell
+# kay Fontana!
+kay Fontana!
+#% cha fon_neu_lowfocus_closedeye_opensmile
+cha fon_neu_lowfocus_closedeye_opensmile
+# fon Hahahahaha! Why don't you strike your flag, Shields?
+fon Hahahahaha! Why don't you strike your flag, Shields?
+#% cha shi_neu_angry2_neutral_smalltalk
+cha shi_neu_angry2_neutral_smalltalk
+#% voi shi_vns_sur_01
+voi shi_vns_sur_01
+# shi Hey, wait! Wait! Fontana, this wasn't the deal!
+shi Hey, wait! Wait! Fontana, this wasn't the deal!
+#% cha kay_neu_confuse_wide_smalltalk
+cha kay_neu_confuse_wide_smalltalk
+# kay What...? Dad...?
+kay What...? Dad...?
+#% cha shi_neu_sad_neutral_talk
+cha shi_neu_sad_neutral_talk
+#% voi shi_vns_sad_03
+voi shi_vns_sad_03
+# shi Look kiddo... I didn't get a chance to explain earlier, but about the ships you thought were captured earlier... Well, we weren't exactly captured by Pact, you see...
+shi Look kiddo... I didn't get a chance to explain earlier, but about the ships you thought were captured earlier... Well, we weren't exactly captured by Pact, you see...
+#% cha shi_neu_sad_closed_talk
+cha shi_neu_sad_closed_talk
+# shi We uhhh... kind of joined Fontana's fleet voluntarily.
+shi We uhhh... kind of joined Fontana's fleet voluntarily.
+#% cha kay_neu_confuse_wide_smalltalk
+cha kay_neu_confuse_wide_smalltalk
+# kay WHAT?! You mean to say, you all betrayed the Song Alliance?!
+kay WHAT?! You mean to say, you all betrayed the Song Alliance?!
+#% cha shi_neu_angry_neutral_yell
+cha shi_neu_angry_neutral_yell
+# shi It's not as bad as it sounds! Come on, why don't we all step away from our cannons and talk this out?
+shi It's not as bad as it sounds! Come on, why don't we all step away from our cannons and talk this out?
+#% cha shi_neu_sad_closed_talk
+cha shi_neu_sad_closed_talk
+# shi Nothing's going to come out of blowing each other to smithereens here.
+shi Nothing's going to come out of blowing each other to smithereens here.
+#% cha fon_neu_lowfocus_neutral_smirk
+cha fon_neu_lowfocus_neutral_smirk
+#% voi fon_vns_neu_05
+voi fon_vns_neu_05
+# fon Very well... I agree to parley. And you, Shields Junior?
+fon Very well... I agree to parley. And you, Shields Junior?
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay All right, Fontana...
+kay All right, Fontana...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Looks like there's more going on here than it appears...
+kay Looks like there's more going on here than it appears...
+# kay Let us discover the truth of our situation. Come aboard and let us parley...
+kay Let us discover the truth of our situation. Come aboard and let us parley...
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap7_dadfontana
+tag chap7_dadfontana
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% mus mus_missionbriefing
+mus mus_missionbriefing
+#% cha ava_armscrossed_focus_neutral_neutral
+cha ava_armscrossed_focus_neutral_neutral
+# ava Captain, our guests are coming aboard.
+ava Captain, our guests are coming aboard.
+#% xob BATTLE: Dissension
+xob BATTLE: Dissension
+#% xob MAIN: Dissension
+xob MAIN: Dissension
+#% cha asa_armscrossed_angry_narrow2_cry
+cha asa_armscrossed_angry_narrow2_cry
+#% voi asa_vns_sad_04
+voi asa_vns_sad_04
+# asa You better keep your guard up, Chigara... This could be one of Fontana's tricks...
+asa You better keep your guard up, Chigara... This could be one of Fontana's tricks...
+#% cha chi_handonchest_angry_funnyclos_cry
+cha chi_handonchest_angry_funnyclos_cry
+#% voi chi_vns_ang_03
+voi chi_vns_ang_03
+# chi Chigara's ready to put up a ballista any time!
+chi Chigara's ready to put up a ballista any time!
+#% ifj chap7_marchk,marayalive
+ifj chap7_marchk,marayalive
+#% tag chap7_marchk_true
+tag chap7_marchk_true
+#% cha mar_excited_focus_smug_cry
+cha mar_excited_focus_smug_cry
+#% voi mar_vns_ang_01
+voi mar_vns_ang_01
+# mar You better not do anything mean to Mr. Fontana, Kayto. Dad's put his trust in him, so you need to at least hear him out!
+mar You better not do anything mean to Mr. Fontana, Kayto. Dad's put his trust in him, so you need to at least hear him out!
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay You can't believe everything the enemy says just because he has a pretty face, Maray...
+kay You can't believe everything the enemy says just because he has a pretty face, Maray...
+#% cha mar_lean_focus_smug_cry
+cha mar_lean_focus_smug_cry
+#% voi mar_vns_ang_03
+voi mar_vns_ang_03
+# mar Muuu... That's not why at all!
+mar Muuu... That's not why at all!
+#% tag chap7_marchk_false
+tag chap7_marchk_false
+#% cha fon_neu_lowfocus_neutral_smirk
+cha fon_neu_lowfocus_neutral_smirk
+#% voi fon_vns_neu_02
+voi fon_vns_neu_02
+# fon Heh. A pleasure to finally meet face-to-face, Shields.
+fon Heh. A pleasure to finally meet face-to-face, Shields.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Lord Fontana. Well, will anyone please explain what exactly is going on here?
+kay Lord Fontana. Well, will anyone please explain what exactly is going on here?
+#% hid fon
+hid fon
+#% mus mus_cursedpedigree
+mus mus_cursedpedigree
+#% cha shi_neu_sad_neutral_talk
+cha shi_neu_sad_neutral_talk
+#% voi shi_vns_sad_03
+voi shi_vns_sad_03
+# shi I can do that, actually. The thing is, you missed a lot of what happened here after your victory. You see, while the Battle of Far Port might have been a big win for the Song Alliance, it was actually not so great for most of the small folk of Halla...
+shi I can do that, actually. The thing is, you missed a lot of what happened here after your victory. You see, while the Battle of Far Port might have been a big win for the Song Alliance, it was actually not so great for most of the small folk of Halla...
+# shi After the Emerald Fleet blockaded the Strait, it cut off the most important sea route in the realm. For the last thousand years, sailors of all the nations of the Neutral Banners could travel freely through Far Port to reach all the ports of the Dragon's Foot Sea... But all that changed after the Battle of Far Port...
+shi After the Emerald Fleet blockaded the Strait, it cut off the most important sea route in the realm. For the last thousand years, sailors of all the nations of the Neutral Banners could travel freely through Far Port to reach all the ports of the Dragon's Foot Sea... But all that changed after the Battle of Far Port...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay But the Emerald Fleet should let anyone pass, so long as their paperwork was in order!
+kay But the Emerald Fleet should let anyone pass, so long as their paperwork was in order!
+#% cha shi_neu_sad_closed_slight
+cha shi_neu_sad_closed_slight
+#% voi shi_vns_sad_01
+voi shi_vns_sad_01
+# shi It's not so simple...
+shi It's not so simple...
+#% cha shi_neu_angry_narrow_smalltalk
+cha shi_neu_angry_narrow_smalltalk
+# shi The Song subjected all ships to searches, ostensibly to confiscate contraband... but eventually, they started seizing anything that offended their stodgy Elvish sensibilities...
+shi The Song subjected all ships to searches, ostensibly to confiscate contraband... but eventually, they started seizing anything that offended their stodgy Elvish sensibilities...
+#% cha shi_neu_sad_narrow_grin
+cha shi_neu_sad_narrow_grin
+# shi Look, you know how it is. We might ship a Demonfolk artifact here and an unlicensed tome of magic there... All of us merchants have been relying on the gray market to turn a profit our whole lives. But as soon as the High Elves took charge, they started to seize our cargo and arrest us on trumped up charges...
+shi Look, you know how it is. We might ship a Demonfolk artifact here and an unlicensed tome of magic there... All of us merchants have been relying on the gray market to turn a profit our whole lives. But as soon as the High Elves took charge, they started to seize our cargo and arrest us on trumped up charges...
+#% cha shi_neu_angry_closed_neutral
+cha shi_neu_angry_closed_neutral
+# shi All our protests were dismissed... As the High Elves say, we were all children who they have to educate in their ways.
+shi All our protests were dismissed... As the High Elves say, we were all children who they have to educate in their ways.
+#% cha shi_neu_angry2_neutral_smalltalk
+cha shi_neu_angry2_neutral_smalltalk
+# shi So in the end, we decided enough was enough... and took matters into our own hands.
+shi So in the end, we decided enough was enough... and took matters into our own hands.
+# shi With Fontana's help, we managed to steal a few of the Emerald Fleet's ships... And then, the rest of 'em sped off somewhere in a hurry.
+shi With Fontana's help, we managed to steal a few of the Emerald Fleet's ships... And then, the rest of 'em sped off somewhere in a hurry.
+#% cha shi_neu_angry_closed_neutral
+cha shi_neu_angry_closed_neutral
+# shi I won't apologize for what we did. The Song turned out to be worse tyrants than Pact. There's just no arguing with those religious nut heads...
+shi I won't apologize for what we did. The Song turned out to be worse tyrants than Pact. There's just no arguing with those religious nut heads...
+#% cha kay_neu_confuse_wide_smalltalk
+cha kay_neu_confuse_wide_smalltalk
+# kay But dad... You're a High Elf yourself!
+kay But dad... You're a High Elf yourself!
+#% cha shi_neu_angry_neutral_yell
+cha shi_neu_angry_neutral_yell
+#% voi shi_vns_sur_02
+voi shi_vns_sur_02
+# shi I know that! But I'm a man of the Neutral Banners! Look, I have more in common with the Maan and Demonfolk I grew up with than those Song pricks!
+shi I know that! But I'm a man of the Neutral Banners! Look, I have more in common with the Maan and Demonfolk I grew up with than those Song pricks!
+# shi I just have one thing to say those lot! In the words of my generation, Up yours!
+shi I just have one thing to say those lot! In the words of my generation, Up yours!
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay But... do you not fear turning into an Ork? What about the Monolithic Truth?
+kay But... do you not fear turning into an Ork? What about the Monolithic Truth?
+#% cha shi_neu_confused_neutral_smirk
+cha shi_neu_confused_neutral_smirk
+# shi Oh, that...?
+shi Oh, that...?
+#% cha shi_neu_sad_lookaway_grin
+cha shi_neu_sad_lookaway_grin
+#% voi shi_vns_shy_01
+voi shi_vns_shy_01
+# shi Sonny boy, in my experience, that whole thing about sprouting a pig snout for disobeying the Monolithic Truth is nothing but Song hogwash to keep all us Elves in line...
+shi Sonny boy, in my experience, that whole thing about sprouting a pig snout for disobeying the Monolithic Truth is nothing but Song hogwash to keep all us Elves in line...
+#% cha shi_neu_sad_closed2_grin
+cha shi_neu_sad_closed2_grin
+# shi So long as you pray to a monolith every New Years, not even a failure of a High Elf like your old man's turned into an Ork yet...
+shi So long as you pray to a monolith every New Years, not even a failure of a High Elf like your old man's turned into an Ork yet...
+#% cha shi_neu_angry_narrow_smalltalk
+cha shi_neu_angry_narrow_smalltalk
+# shi So there you have it. We're not going to let the Song push us around any longer.
+shi So there you have it. We're not going to let the Song push us around any longer.
+# shi Fontana here has been way more reasonable with our demands than any Song.
+shi Fontana here has been way more reasonable with our demands than any Song.
+#% cha kay_neu_confuse_neutral_slight
+cha kay_neu_confuse_neutral_slight
+# kay Is this true, Fontana?
+kay Is this true, Fontana?
+#% mus mus_fallen_angel_pt1
+mus mus_fallen_angel_pt1
+#% hid shi
+hid shi
+#% cha fon_neu_lowfocus_closedeye_slight
+cha fon_neu_lowfocus_closedeye_slight
+#% voi fon_vns_neu_01
+voi fon_vns_neu_01
+# fon It is, Shields. And that is merely the beginning of the web of conspiracies we find ourselves ensnared.
+fon It is, Shields. And that is merely the beginning of the web of conspiracies we find ourselves ensnared.
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+# fon For in truth, Veniczar Arcadius has been dead all this time, laid to rest long before the beginning of our invasion of Halla.
+fon For in truth, Veniczar Arcadius has been dead all this time, laid to rest long before the beginning of our invasion of Halla.
+#% cha ava_armup_raised_surprise_smalltalk
+cha ava_armup_raised_surprise_smalltalk
+#% voi ava_vns_shy_04
+voi ava_vns_shy_04
+# ava Do you swear that to be the truth? Then what is that thing that claims to be Arcadius in his stead?
+ava Do you swear that to be the truth? Then what is that thing that claims to be Arcadius in his stead?
+#% cha fon_neu_lowfocus_closedeye_smalltalk
+cha fon_neu_lowfocus_closedeye_smalltalk
+#% voi fon_vns_ang_01
+voi fon_vns_ang_01
+# fon A homunculus created in Arcadius' image, by our true leader, Alice Ashada. 
+fon A homunculus created in Arcadius' image, by our true leader, Alice Ashada. 
+#% cha fon_neu_worry_closedeye_slight
+cha fon_neu_worry_closedeye_slight
+# fon Long ago, she was rescued by Arcadius from the Doom of Diode. Alas, she took his death the hardest among us...
+fon Long ago, she was rescued by Arcadius from the Doom of Diode. Alas, she took his death the hardest among us...
+#% cha fon_neu_angry_neutral_slight
+cha fon_neu_angry_neutral_slight
+# fon Yet, her madness cannot go on any further.
+fon Yet, her madness cannot go on any further.
+# fon The homunculi must be destroyed. And I propose that we join forces to do so.
+fon The homunculi must be destroyed. And I propose that we join forces to do so.
+#% cha kay_neu_angry_narrow_smallsmil
+cha kay_neu_angry_narrow_smallsmil
+# kay I presume you want me to do this, so that you may overthrow the Witch of Asahi, and install yourself as the new Veniczar of Pact?
+kay I presume you want me to do this, so that you may overthrow the Witch of Asahi, and install yourself as the new Veniczar of Pact?
+#% cha fon_neu_lowfocus_neutral_smirk
+cha fon_neu_lowfocus_neutral_smirk
+#% voi fon_vns_neu_02
+voi fon_vns_neu_02
+# fon Let us be pragmatic, given the current state of affairs.
+fon Let us be pragmatic, given the current state of affairs.
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+# fon Veniczar Arcadius dreamed of a day when the Maan of the Asahi Isle could live in peace, free from the tyranny of the Dark Prince and his Orks.
+fon Veniczar Arcadius dreamed of a day when the Maan of the Asahi Isle could live in peace, free from the tyranny of the Dark Prince and his Orks.
+# fon He had no interest in the destruction of the Monolithic Truth or in becoming the king of Halla.
+fon He had no interest in the destruction of the Monolithic Truth or in becoming the king of Halla.
+# fon I intend to honor his legacy by restoring the Pact he envisioned.
+fon I intend to honor his legacy by restoring the Pact he envisioned.
+# fon So indeed, I seek to become the Veniczar. But a Veniczar who will lead Pact to peace, not war.
+fon So indeed, I seek to become the Veniczar. But a Veniczar who will lead Pact to peace, not war.
+#% cha ava_armup_neutral_narrowloo_smalltalk
+cha ava_armup_neutral_narrowloo_smalltalk
+#% voi ava_vns_neu_10
+voi ava_vns_neu_10
+# ava Captain, though Fontana has proven to be a thorn in our sides before, I believe we should hear him out this time...
+ava Captain, though Fontana has proven to be a thorn in our sides before, I believe we should hear him out this time...
+#% cha ava_armscrossed_focus_closedeye_smirk
+cha ava_armscrossed_focus_closedeye_smirk
+# ava At least, there is no harm in turning our enemies against each other...
+ava At least, there is no harm in turning our enemies against each other...
+#% cha fon_neu_lowfocus_neutral_smirk
+cha fon_neu_lowfocus_neutral_smirk
+#% voi fon_vns_neu_02
+voi fon_vns_neu_02
+# fon Heh. How refreshing to see a fellow pragmatist, even among the Elves.
+fon Heh. How refreshing to see a fellow pragmatist, even among the Elves.
+#% cha kay_neu_confuse_thinking_neutral
+cha kay_neu_confuse_thinking_neutral
+# kay Yes... although I think we will keep to our separate ships, though our interests may be momentarily aligned.
+kay Yes... although I think we will keep to our separate ships, though our interests may be momentarily aligned.
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+#% voi fon_vns_neu_05
+voi fon_vns_neu_05
+# fon Very well. Then, know this. There is a secret facility, hidden near the Shattered Rocks of Sargasso, where the homunculi are created.
+fon Very well. Then, know this. There is a secret facility, hidden near the Shattered Rocks of Sargasso, where the homunculi are created.
+# fon I will take my forces and create a diversion, while you strike the facility and destroy those foul automatons once and for all.
+fon I will take my forces and create a diversion, while you strike the facility and destroy those foul automatons once and for all.
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+#% voi ava_vns_ang_02
+voi ava_vns_ang_02
+# ava In our prior battles with the homunculi, they have proven near indestructible. What good will our weapons be against constructs of metal and mana?
+ava In our prior battles with the homunculi, they have proven near indestructible. What good will our weapons be against constructs of metal and mana?
+# fon Indeed, you will need this...
+fon Indeed, you will need this...
+#% cha ava_armup_raised_surprise_smalltalk
+cha ava_armup_raised_surprise_smalltalk
+#% voi ava_vns_shy_04
+voi ava_vns_shy_04
+# ava A Black Iron bomb!
+ava A Black Iron bomb!
+#% cha fon_neu_focus_neutral_smile
+cha fon_neu_focus_neutral_smile
+#% voi fon_vns_neu_06
+voi fon_vns_neu_06
+# fon Detonate it at the facility. Even the most hardened construct will be vaporized by the blast.
+fon Detonate it at the facility. Even the most hardened construct will be vaporized by the blast.
+#% obj MAIN: The Homunculi
+obj MAIN: The Homunculi
+#% cha kay_neu_confuse_neutral_smalltalk
+cha kay_neu_confuse_neutral_smalltalk
+# kay Right...
+kay Right...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Then, let us sail to Sargasso and get this over with...
+kay Then, let us sail to Sargasso and get this over with...
+#% cha kry_fistup_angry_closedeye_clench
+cha kry_fistup_angry_closedeye_clench
+#% voi kry_vns_ang_05
+voi kry_vns_ang_05
+# kry I cannot believe we are actually joining hands with this snake!
+kry I cannot believe we are actually joining hands with this snake!
+#% cha kry_fistup_angry_narrow_neutral
+cha kry_fistup_angry_narrow_neutral
+# kry You know they desecrated a holy monolith in order to fabricate this black iron bomb! Its very existence is heresy!
+kry You know they desecrated a holy monolith in order to fabricate this black iron bomb! Its very existence is heresy!
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay Stay your hand, Sister Paladin. Song seems hardly in the right, given what has passed here.
+kay Stay your hand, Sister Paladin. Song seems hardly in the right, given what has passed here.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Let us fulfill this quest, and see what destiny lies before us.
+kay Let us fulfill this quest, and see what destiny lies before us.
+#% voi kry_vns_sad_02
+voi kry_vns_sad_02
+# kry ...Very well. I acquiesce, only to demonstrate my conviction that Song shall be vindicated in the end.
+kry ...Very well. I acquiesce, only to demonstrate my conviction that Song shall be vindicated in the end.
+#% cha kry_armdown_angry_narrowloo_smalltalk
+cha kry_armdown_angry_narrowloo_smalltalk
+# kry We shall see with our own eyes whether Fontana can be trusted.
+kry We shall see with our own eyes whether Fontana can be trusted.
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay Indeed, we shall...
+kay Indeed, we shall...
+# map 
+map 
+#% 
+
+#% tag chap7_arrivalsargasso
+tag chap7_arrivalsargasso
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% xob MAIN: The Homunculi
+xob MAIN: The Homunculi
+#% obj BATTLE: The Homunculi
+obj BATTLE: The Homunculi
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+#% voi ava_vns_ang_07
+voi ava_vns_ang_07
+# ava We have arrived at our destination, captain.
+ava We have arrived at our destination, captain.
+# ava It appears Fontana was not lying about this secret facility. There are far too many Crimson sails here for a simple pirate cove...
+ava It appears Fontana was not lying about this secret facility. There are far too many Crimson sails here for a simple pirate cove...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Then, let's hope he lives up to his side of the bargain and draws some of the enemy ships away...
+kay Then, let's hope he lives up to his side of the bargain and draws some of the enemy ships away...
+# kay All ships... forward!
+kay All ships... forward!
+#% roo roo_chap7_battle7
+roo roo_chap7_battle7
+#% 
+
+#% tag chap7_battle8_start
+tag chap7_battle8_start
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+#% voi fon_vns_neu_01
+voi fon_vns_neu_01
+# fon I performed as promised, Shields. The remaining ships, I leave to you.
+fon I performed as promised, Shields. The remaining ships, I leave to you.
+# fon You must destroy the defenses at Alice's fort in order to plant the black iron bomb.
+fon You must destroy the defenses at Alice's fort in order to plant the black iron bomb.
+# fon Once the bomb has been planted, she will doubtlessly hit you with everything she has. You must hold out, until the bomb is fully charged.
+fon Once the bomb has been planted, she will doubtlessly hit you with everything she has. You must hold out, until the bomb is fully charged.
+#% cha kay_neu_confuse_neutral_smalltalk
+cha kay_neu_confuse_neutral_smalltalk
+# kay Somehow, I get the feeling we're still doing most of the heavy lifting...
+kay Somehow, I get the feeling we're still doing most of the heavy lifting...
+# fon Beware - this place is guarded by countless homunculi. You will find them nigh indestructible against conventional weapons.
+fon Beware - this place is guarded by countless homunculi. You will find them nigh indestructible against conventional weapons.
+#% hid fon
+hid fon
+#% ifj chap7_fortchi,chigaratrueend
+ifj chap7_fortchi,chigaratrueend
+#% tag chap7_fortchi_true
+tag chap7_fortchi_true
+#% cha chi_handonchest_focus_neutral_smalltalk
+cha chi_handonchest_focus_neutral_smalltalk
+#% voi chi_vns_neu_07
+voi chi_vns_neu_07
+# chi I may have a way to counter them, captain...
+chi I may have a way to counter them, captain...
+# chi When I broke free of the Witch's control back at Diode, I figured out a way to break her control over her homunculi as well.
+chi When I broke free of the Witch's control back at Diode, I figured out a way to break her control over her homunculi as well.
+#% cha chi_armsdown_focus_neutral_bigtalk
+cha chi_armsdown_focus_neutral_bigtalk
+# chi Issue the Disrupt Arcadius Order and I will interrupt the flow of mana to the homunculi.
+chi Issue the Disrupt Arcadius Order and I will interrupt the flow of mana to the homunculi.
+# chi For a limited time, we will then be able to destroy them in hand-to-hand combat.
+chi For a limited time, we will then be able to destroy them in hand-to-hand combat.
+#% cha lyn_armup_confuse_neutral_smirk
+cha lyn_armup_confuse_neutral_smirk
+#% voi lyn_vns_hap_01
+voi lyn_vns_hap_01
+# lyn Of course, just sinking them to the bottom of the sea by blowing up their ships works just as well.
+lyn Of course, just sinking them to the bottom of the sea by blowing up their ships works just as well.
+# jum chap7_fortbegin
+jum chap7_fortbegin
+#% tag chap7_fortchi_false
+tag chap7_fortchi_false
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+#% voi ava_vns_ang_02
+voi ava_vns_ang_02
+# ava It seems we have no choice but to destroy them from afar. Attempting to board any ship crewed by a homunculus will be folly.
+ava It seems we have no choice but to destroy them from afar. Attempting to board any ship crewed by a homunculus will be folly.
+#% tag chap7_fortbegin
+tag chap7_fortbegin
+#% cha fon_neu_angry_closedeye_slight
+cha fon_neu_angry_closedeye_slight
+#% voi fon_vns_neu_01
+voi fon_vns_neu_01
+# fon This is as far as I can take you. The rest is up to you.
+fon This is as far as I can take you. The rest is up to you.
+#% cha kay_neu_sad_closed_groan
+cha kay_neu_sad_closed_groan
+# kay (Come on Fontana... Can't you give us at least another hint?)
+kay (Come on Fontana... Can't you give us at least another hint?)
+#% stop
+stop
+#% 
+
+#% tag chap7_fortdestroy
+tag chap7_fortdestroy
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay The bomb has been planted... How long until it is fully charged?
+kay The bomb has been planted... How long until it is fully charged?
+#% cha fon_neu_lowfocus_neutral_smirk
+cha fon_neu_lowfocus_neutral_smirk
+#% voi fon_vns_neu_04
+voi fon_vns_neu_04
+# fon You must hold your position for 20 turns. A simple task for the Hero of Far Port, no?
+fon You must hold your position for 20 turns. A simple task for the Hero of Far Port, no?
+#% cha kay_neu_angry_narrow_smallsmil
+cha kay_neu_angry_narrow_smallsmil
+# kay Right...
+kay Right...
+#% cha ali_neu_angry2_narrow_shout
+cha ali_neu_angry2_narrow_shout
+#% voi ali_vns_ang_03
+voi ali_vns_ang_03
+# ali Fontana, you double crossing snake! You'll pay for this!
+ali Fontana, you double crossing snake! You'll pay for this!
+#% cha fon_neu_angry_neutral_bigtalk
+cha fon_neu_angry_neutral_bigtalk
+#% voi fon_vns_ang_03
+voi fon_vns_ang_03
+# fon Oh no, I don't think I will, creature. You have worn that mask for long enough. The time has come for it to fall and for your true form to be exposed.
+fon Oh no, I don't think I will, creature. You have worn that mask for long enough. The time has come for it to fall and for your true form to be exposed.
+#% cha ali_neu_angry2_closedeye_slysmile
+cha ali_neu_angry2_closedeye_slysmile
+#% voi ali_vns_ang_01
+voi ali_vns_ang_01
+# ali You meddle with powers beyond your puny comprehension, boy! You shall be destroyed, along with all the other hypocrites of the Monolithic Truth!
+ali You meddle with powers beyond your puny comprehension, boy! You shall be destroyed, along with all the other hypocrites of the Monolithic Truth!
+#% cha kay_neu_sad_narrowloo_clench
+cha kay_neu_sad_narrowloo_clench
+# kay (It's like watching a couple go through a divorce...)
+kay (It's like watching a couple go through a divorce...)
+#% stop
+stop
+#% 
+
+#% tag chap7_battle8_half
+tag chap7_battle8_half
+#% cha ali_neu_angry2_wide2_slysmile
+cha ali_neu_angry2_wide2_slysmile
+# ali Witness my fury!
+ali Witness my fury!
+#% cha kay_neu_focus_wide_clench
+cha kay_neu_focus_wide_clench
+# kay Fontana, that's a whole lot of ships! A little help here?!
+kay Fontana, that's a whole lot of ships! A little help here?!
+#% cha fon_neu_angry_neutral_bigtalk
+cha fon_neu_angry_neutral_bigtalk
+#% voi fon_vns_ang_01
+voi fon_vns_ang_01
+# fon Tch... Lure what enemies you can into this zone!
+fon Tch... Lure what enemies you can into this zone!
+# fon All my ships shall fire a cannon barrage there five turns from now. It is up to you to make the most of it.
+fon All my ships shall fire a cannon barrage there five turns from now. It is up to you to make the most of it.
+#% stop
+stop
+#% 
+
+#% tag chap7_battle8_almost
+tag chap7_battle8_almost
+#% cha fon_neu_angry_neutral_bigtalk
+cha fon_neu_angry_neutral_bigtalk
+#% voi fon_vns_hap_02
+voi fon_vns_hap_02
+# fon My ships are in position! We will unleash everything we have next turn!
+fon My ships are in position! We will unleash everything we have next turn!
+#% stop
+stop
+#% 
+
+#% tag chap7_battle8_fired
+tag chap7_battle8_fired
+#% cha fon_neu_lowfocus_closedeye_slight
+cha fon_neu_lowfocus_closedeye_slight
+# fon We have fired everything we have! The rest is up to you, Shields.
+fon We have fired everything we have! The rest is up to you, Shields.
+#% stop
+stop
+#% 
+
+#% tag chap7_battle8_win
+tag chap7_battle8_win
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+#% voi ava_vns_hap_05
+voi ava_vns_hap_05
+# ava Captain, the black iron bomb is fully charged!
+ava Captain, the black iron bomb is fully charged!
+#% cha fon_neu_lowfocus_neutral_smirk
+cha fon_neu_lowfocus_neutral_smirk
+#% voi fon_vns_neu_04
+voi fon_vns_neu_04
+# fon Impressive, Shields. Now, get the hell out of there, or else you will meet the same fate as the homunculi!
+fon Impressive, Shields. Now, get the hell out of there, or else you will meet the same fate as the homunculi!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay All ships, fall back!
+kay All ships, fall back!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap7_afterbattle8
+tag chap7_afterbattle8
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+# nar ... ... ...
+nar ... ... ...
+#% xob BATTLE: The Homunculi
+xob BATTLE: The Homunculi
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+# hsh 15
+hsh 15
+#% sou sou_shipexplode
+sou sou_shipexplode
+# nar ... ...
+nar ... ...
+# nar ... ... ...
+nar ... ... ...
+#% mus mus_cursedpedigree
+mus mus_cursedpedigree
+#% cha ava_armscrossed_focus_closedeye_smirk
+cha ava_armscrossed_focus_closedeye_smirk
+#% voi ava_vns_hap_01
+voi ava_vns_hap_01
+# ava It is done... The automatons have been destroyed.
+ava It is done... The automatons have been destroyed.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay To think Veniczar Arcadius was dead all this time... Just who have we been fighting against?
+kay To think Veniczar Arcadius was dead all this time... Just who have we been fighting against?
+#% cha fon_neu_lowfocus_closedeye_slight
+cha fon_neu_lowfocus_closedeye_slight
+#% voi fon_vns_sad_01
+voi fon_vns_sad_01
+# fon And now, his memory shall no longer be desecrated by those marionettes. You have done well, Shields.
+fon And now, his memory shall no longer be desecrated by those marionettes. You have done well, Shields.
+#% cha fon_neu_focus_neutral_smalltalk
+cha fon_neu_focus_neutral_smalltalk
+# fon Only one task remains. We must cut off the head of the snake. Alice Ashada must be destroyed.
+fon Only one task remains. We must cut off the head of the snake. Alice Ashada must be destroyed.
+#% cha ava_armup_focus_closedeye_smalltalk
+cha ava_armup_focus_closedeye_smalltalk
+#% voi ava_vns_sad_02
+voi ava_vns_sad_02
+# ava Yes, that is true... Though I hope you afford us more loyalty than what you have displayed to Pact thus far.
+ava Yes, that is true... Though I hope you afford us more loyalty than what you have displayed to Pact thus far.
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+#% voi fon_vns_neu_04
+voi fon_vns_neu_04
+# fon Do not be droll. I am doing all this precisely because I am a loyal retainer of Veniczar Arcadius.
+fon Do not be droll. I am doing all this precisely because I am a loyal retainer of Veniczar Arcadius.
+#% cha fon_neu_lowfocus_closedeye_slight
+cha fon_neu_lowfocus_closedeye_slight
+# fon And I am also doing this for Alice.
+fon And I am also doing this for Alice.
+#% ifj chap7_lynchk,lynnrecruit
+ifj chap7_lynchk,lynnrecruit
+#% tag chap7_lynchk_true
+tag chap7_lynchk_true
+#% cha lyn_armup_angry_narrow_pout
+cha lyn_armup_angry_narrow_pout
+#% voi lyn_vns_ang_01
+voi lyn_vns_ang_01
+# lyn Yes, how kind of you, usurping her at the first opportunity. Peh!
+lyn Yes, how kind of you, usurping her at the first opportunity. Peh!
+#% cha fon_neu_angry_neutral_bigtalk
+cha fon_neu_angry_neutral_bigtalk
+#% voi fon_vns_ang_02
+voi fon_vns_ang_02
+# fon Silence, pet. This goes beyond your comprehension.
+fon Silence, pet. This goes beyond your comprehension.
+#% cha lyn_armup_angry_wideeyes_grin
+cha lyn_armup_angry_wideeyes_grin
+#% voi lyn_vns_ang_01
+voi lyn_vns_ang_01
+# lyn Grrrrrr...
+lyn Grrrrrr...
+#% cha chi_handtoface_angry2_wide2_cry
+cha chi_handtoface_angry2_wide2_cry
+#% voi chi_vns_ang_04
+voi chi_vns_ang_04
+# chi Chiiii...!
+chi Chiiii...!
+#% hid lyn
+hid lyn
+#% hid chi
+hid chi
+#% tag chap7_lynchk_false
+tag chap7_lynchk_false
+#% mus mus_missionbriefing
+mus mus_missionbriefing
+#% cha fon_neu_angry_closedeye_slight
+cha fon_neu_angry_closedeye_slight
+#% voi fon_vns_sad_01
+voi fon_vns_sad_01
+# fon That Kitsune... I wonder if it is truly even still her by this point...
+fon That Kitsune... I wonder if it is truly even still her by this point...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay What do you mean?
+kay What do you mean?
+#% 
+
+#% ifj chap7_afterbattle_kuu,recruitkuushana
+ifj chap7_afterbattle_kuu,recruitkuushana
+#% tag chap7_afterbattle_kuu_true
+tag chap7_afterbattle_kuu_true
+#% cha kuu_neu_focus_closedeye_frown
+cha kuu_neu_focus_closedeye_frown
+#% voi kuu_vns_neu_09
+voi kuu_vns_neu_09
+# kuu The dark history of that woman holds many secrets...
+kuu The dark history of that woman holds many secrets...
+#% cha kuu_neu_focus_lookup_bigtalk
+cha kuu_neu_focus_lookup_bigtalk
+# kuu But know this: From the day she found the Ascendant Spear, she would never again be the same...
+kuu But know this: From the day she found the Ascendant Spear, she would never again be the same...
+#% cha kuu_neu_annoyed_closedeye_smalltalk
+cha kuu_neu_annoyed_closedeye_smalltalk
+# kuu I wonder... if she is yet the lost Kitsune who escaped the Doom of Diode, or if she has fallen under a far darker influence...
+kuu I wonder... if she is yet the lost Kitsune who escaped the Doom of Diode, or if she has fallen under a far darker influence...
+#% cha jem_neu_confuse_closedeye_talk
+cha jem_neu_confuse_closedeye_talk
+#% voi jem_vns_neu_11
+voi jem_vns_neu_11
+# jem 'Tis an accursed artifact, the Ascendant Spear. I held it for but a moment, oblivious to the danger, yet it permanently changed me. We Denari call the Sharrs "Star Seers." Upon touching that Spear, I too gained those powers, albeit to a lesser degree...
+jem 'Tis an accursed artifact, the Ascendant Spear. I held it for but a moment, oblivious to the danger, yet it permanently changed me. We Denari call the Sharrs "Star Seers." Upon touching that Spear, I too gained those powers, albeit to a lesser degree...
+#% cha sol_surprise_sad_wide_frown
+cha sol_surprise_sad_wide_frown
+#% voi sol_vns_neu_05
+voi sol_vns_neu_05
+# sol The Awakening is a hidden magical art, taught only to those declared Sharrs... To think merely possessing a spear could inscribe that knowledge upon one's mind...
+sol The Awakening is a hidden magical art, taught only to those declared Sharrs... To think merely possessing a spear could inscribe that knowledge upon one's mind...
+#% cha kuu_neu_focus_lookup_bigtalk
+cha kuu_neu_focus_lookup_bigtalk
+#% voi kuu_vns_neu_07
+voi kuu_vns_neu_07
+# kuu Nay, the Ascendant Spear is no such blessed weapon. It is a curse. A never-ending nightmare, from which there is no awakening.
+kuu Nay, the Ascendant Spear is no such blessed weapon. It is a curse. A never-ending nightmare, from which there is no awakening.
+#% cha asa_fingerpoint_raised_wide2_bigtalk
+cha asa_fingerpoint_raised_wide2_bigtalk
+#% voi asa_vns_neu_13
+voi asa_vns_neu_13
+# asa A cursed spear...? Could this Ascendant Spear be, in fact, the Sharr'Lac?
+asa A cursed spear...? Could this Ascendant Spear be, in fact, the Sharr'Lac?
+# asa The legendary weapon of Sharr Myren, it is said that anyone who wields the weapon is possessed by her ghost...
+asa The legendary weapon of Sharr Myren, it is said that anyone who wields the weapon is possessed by her ghost...
+#% cha asa_fingerpoint_focus_wide2_smalltalk
+cha asa_fingerpoint_focus_wide2_smalltalk
+# asa Though its wielders gained the power of Sharrs, they have all gone mad in the process. Yet, the accursed spear was lost beyond the Great Wall during ancient times...
+asa Though its wielders gained the power of Sharrs, they have all gone mad in the process. Yet, the accursed spear was lost beyond the Great Wall during ancient times...
+#% cha kuu_neu_annoyed_closedeye_smalltalk
+cha kuu_neu_annoyed_closedeye_smalltalk
+#% voi kuu_vns_sad_01
+voi kuu_vns_sad_01
+# kuu Indeed, that is precisely where we unearthed the damned thing...
+kuu Indeed, that is precisely where we unearthed the damned thing...
+#% hid jem
+hid jem
+#% hid kuu
+hid kuu
+#% hid sol
+hid sol
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+#% voi ava_vns_sad_04
+voi ava_vns_sad_04
+# ava Captain, could it be possible that the Witch of Asahi is in fact, not the Kitsune from Diode, but Sharr Myren herself?
+ava Captain, could it be possible that the Witch of Asahi is in fact, not the Kitsune from Diode, but Sharr Myren herself?
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay A game changer that would be, if our enemy all along was an ancient Sharr of Ryuvia.
+kay A game changer that would be, if our enemy all along was an ancient Sharr of Ryuvia.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay One who now seeks to destroy the Monolithic Truth and end the great Sharr cycle...
+kay One who now seeks to destroy the Monolithic Truth and end the great Sharr cycle...
+#% cha ava_armup_raised_surprise_smalltalk
+cha ava_armup_raised_surprise_smalltalk
+#% voi ava_vns_shy_04
+voi ava_vns_shy_04
+# ava Revenge for being condemned to cast the Final Tear for the sake of Elfdom?
+ava Revenge for being condemned to cast the Final Tear for the sake of Elfdom?
+#% cha asa_armup_concern_narrow_smalltalk
+cha asa_armup_concern_narrow_smalltalk
+#% voi asa_vns_sad_01
+voi asa_vns_sad_01
+# asa We will never know... Sharr Myren was killed in battle against the Demon hoards in the North. The cycle continued, and a new Sharr awakened to her powers.
+asa We will never know... Sharr Myren was killed in battle against the Demon hoards in the North. The cycle continued, and a new Sharr awakened to her powers.
+# asa And now, we know. This cycle will continue forevermore, with each Sharr destined to die in the name of the Elves.
+asa And now, we know. This cycle will continue forevermore, with each Sharr destined to die in the name of the Elves.
+#% tag chap7_afterbattle_kuu_false
+tag chap7_afterbattle_kuu_false
+#% 
+
+#% cha fon_neu_worry_closedeye_smalltalk
+cha fon_neu_worry_closedeye_smalltalk
+#% voi fon_vns_sad_01
+voi fon_vns_sad_01
+# fon War does break the minds of too many of its victims. Perhaps we do her a favor, finally releasing her from her tortured existence.
+fon War does break the minds of too many of its victims. Perhaps we do her a favor, finally releasing her from her tortured existence.
+#% cha fon_neu_focus_neutral_smalltalk
+cha fon_neu_focus_neutral_smalltalk
+# fon She has taken her fleet and sailed to Ongess. For what reason, not even I am privy to.
+fon She has taken her fleet and sailed to Ongess. For what reason, not even I am privy to.
+# fon I am certain that Ongess will be the location of the final battle to determine the fate of the realm.
+fon I am certain that Ongess will be the location of the final battle to determine the fate of the realm.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Then we have our destination.
+kay Then we have our destination.
+#% cha kry_armdown_focus_closedeye_smalltalk
+cha kry_armdown_focus_closedeye_smalltalk
+#% voi kry_vns_sad_04
+voi kry_vns_sad_04
+# kry Nay, Captain Shields. I must interject.
+kry Nay, Captain Shields. I must interject.
+#% cha kry_armdown_focus_neutral_bigtalk
+cha kry_armdown_focus_neutral_bigtalk
+# kry Now that the immediate danger has passed, I say we sail to Ryuvia and secure the Monolith of Truth.
+kry Now that the immediate danger has passed, I say we sail to Ryuvia and secure the Monolith of Truth.
+# kry Though defeating Alice may end the war, without the Great Monolith, all us High Elves will be doomed to turn to Orks just the same. Just as you planned, we have dealt with the Crimson Fleet. Now that we know of its movements, it behooves us to ensure that our future is secure first.
+kry Though defeating Alice may end the war, without the Great Monolith, all us High Elves will be doomed to turn to Orks just the same. Just as you planned, we have dealt with the Crimson Fleet. Now that we know of its movements, it behooves us to ensure that our future is secure first.
+#% cha asa_fist_focus_neutral_smalltalk
+cha asa_fist_focus_neutral_smalltalk
+#% voi asa_vns_neu_08
+voi asa_vns_neu_08
+# asa I second that, captain. Ryuvia needs me. I can't afford to be in a Princess in hiding forever.
+asa I second that, captain. Ryuvia needs me. I can't afford to be in a Princess in hiding forever.
+#% obj MAIN: The Coronation
+obj MAIN: The Coronation
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay Very well. I gave you my word that we will go to Ryuvia and recover the Monolith of Truth once we dealt with the Crimson Fleet.
+kay Very well. I gave you my word that we will go to Ryuvia and recover the Monolith of Truth once we dealt with the Crimson Fleet.
+# kay I shall live up to my end of the bargain. Let us go to Ryuvia first then, and see what has happened to the Emerald Fleet.
+kay I shall live up to my end of the bargain. Let us go to Ryuvia first then, and see what has happened to the Emerald Fleet.
+#% cha kry_armdown_focus_closedeye_smallsmil
+cha kry_armdown_focus_closedeye_smallsmil
+#% voi kry_vns_neu_01
+voi kry_vns_neu_01
+# kry You have my gratitude, captain.
+kry You have my gratitude, captain.
+#% cha fon_neu_lowfocus_neutral_bigtalk
+cha fon_neu_lowfocus_neutral_bigtalk
+#% voi fon_vns_ang_02
+voi fon_vns_ang_02
+# fon Peh, that miserable Monolith will be your folly. You waste your time-
+fon Peh, that miserable Monolith will be your folly. You waste your time-
+#% cha kry_armout_angry_wide_yell
+cha kry_armout_angry_wide_yell
+#% voi kry_vns_ang_04
+voi kry_vns_ang_04
+# kry Silence! I will not hear another word of heresy from you!
+kry Silence! I will not hear another word of heresy from you!
+#% cha fon_neu_angry_closedeye_smalltalk
+cha fon_neu_angry_closedeye_smalltalk
+#% voi fon_vns_sad_01
+voi fon_vns_sad_01
+# fon Sigh... Then see for yourself where your blind devotion to that faith of yours leads...
+fon Sigh... Then see for yourself where your blind devotion to that faith of yours leads...
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay Trust me, I have learned better than to argue with the Monolithic Truth's faithful. You all have your orders.
+kay Trust me, I have learned better than to argue with the Monolithic Truth's faithful. You all have your orders.
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+#% voi ava_vns_neu_08
+voi ava_vns_neu_08
+# ava Understood, captain. Then, Ryuvia shall be our first destination.
+ava Understood, captain. Then, Ryuvia shall be our first destination.
+#% cha fon_neu_focus_neutral_smalltalk
+cha fon_neu_focus_neutral_smalltalk
+#% voi fon_vns_neu_05
+voi fon_vns_neu_05
+# fon I shall keep my fleet on stand by, Shields.
+fon I shall keep my fleet on stand by, Shields.
+# fon Inform me once the situation at Ryuvia is known.
+fon Inform me once the situation at Ryuvia is known.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay I shall, Fontana. Let us keep in touch.
+kay I shall, Fontana. Let us keep in touch.
+# map 
+map 
+#% 
+
+#% tag chap7_returnryuvia
+tag chap7_returnryuvia
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% mus mus_colors_mainloop
+mus mus_colors_mainloop
+#% xob MAIN: The Coronation
+xob MAIN: The Coronation
+#% cha ava_armup_raised_neutral_smallsmil
+cha ava_armup_raised_neutral_smallsmil
+#% voi ava_vns_neu_08
+voi ava_vns_neu_08
+# ava Land ho! The Star Palace rises in the distance! We are approaching Ryuvia, captain.
+ava Land ho! The Star Palace rises in the distance! We are approaching Ryuvia, captain.
+#% cha kay_neu_confuse_big_slight
+cha kay_neu_confuse_big_slight
+# kay Spyglass. Well, I'll be damned. I've never seen so many sails docked at the city before...
+kay Spyglass. Well, I'll be damned. I've never seen so many sails docked at the city before...
+#% cha asa_fist_sad_neutral_smalltalk
+cha asa_fist_sad_neutral_smalltalk
+#% voi asa_vns_sad_01
+voi asa_vns_sad_01
+# asa What has happened? Is the city safe?
+asa What has happened? Is the city safe?
+#% cha kay_neu_confuse_big_slight
+cha kay_neu_confuse_big_slight
+# kay Yes... In fact...
+kay Yes... In fact...
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay The Emerald flag flies atop the Star Palace. The Song Alliance has already retaken the city!
+kay The Emerald flag flies atop the Star Palace. The Song Alliance has already retaken the city!
+#% cha asa_armscrossed_focus_closedeye_frown
+cha asa_armscrossed_focus_closedeye_frown
+# asa I see... Then the Monolith is secure once more and everyone's safe.
+asa I see... Then the Monolith is secure once more and everyone's safe.
+#% cha ava_armscrossed_neutral_neutral_smirk
+cha ava_armscrossed_neutral_neutral_smirk
+#% voi ava_vns_hap_01
+voi ava_vns_hap_01
+# ava Well, sometimes missions really do turn out far easier than originally anticipated.
+ava Well, sometimes missions really do turn out far easier than originally anticipated.
+#% cha kay_neu_focus_thinking_smirk
+cha kay_neu_focus_thinking_smirk
+# kay Bring us into port, commander. Let's go have a chat with the Admiral...
+kay Bring us into port, commander. Let's go have a chat with the Admiral...
+#% cha ava_armscrossed_focus_closedeye_smirk
+cha ava_armscrossed_focus_closedeye_smirk
+# ava Aye aye, captain.
+ava Aye aye, captain.
+# nar ... ... ...
+nar ... ... ...
+#% dbg spr_bg_palace
+dbg spr_bg_palace
+#% cha shi_neu_confused_neutral_smirk
+cha shi_neu_confused_neutral_smirk
+#% voi shi_vns_neu_01
+voi shi_vns_neu_01
+# shi Hey kiddo. I saw your ship pulling into port and rushed over.
+shi Hey kiddo. I saw your ship pulling into port and rushed over.
+#% cha kay_neu_confuse_wide_smalltalk
+cha kay_neu_confuse_wide_smalltalk
+# kay Dad? What are you doing here?
+kay Dad? What are you doing here?
+#% cha shi_neu_focus_neutral_laugh
+cha shi_neu_focus_neutral_laugh
+#% voi shi_vns_neu_02
+voi shi_vns_neu_02
+# shi Well, we're here for the coronation, of course! What better occasion to petition the Queen to address our grievances against the Song? I figured you'd all be in attendance as well.
+shi Well, we're here for the coronation, of course! What better occasion to petition the Queen to address our grievances against the Song? I figured you'd all be in attendance as well.
+#% cha kay_neu_confuse_neutral_slight
+cha kay_neu_confuse_neutral_slight
+# kay The coronation...?
+kay The coronation...?
+#% hid shi
+hid shi
+#% cha asa_excited_raised_wide2_yell
+cha asa_excited_raised_wide2_yell
+#% cha gre_neu_angry_wide_smalltalk
+cha gre_neu_angry_wide_smalltalk
+#% voi gre_vns_hap_04
+voi gre_vns_hap_04
+# gre Your majesty! So there you are!
+gre Your majesty! So there you are!
+# gre We were shocked when we realized your absence from our battle to retake the city!
+gre We were shocked when we realized your absence from our battle to retake the city!
+# gre But rest assured, a glorious one it was! Once again, we used our superior knowledge to rout the enemy and take the city in your name.
+gre But rest assured, a glorious one it was! Once again, we used our superior knowledge to rout the enemy and take the city in your name.
+# gre Now, the time has come for you to ascend to the throne and claim your destiny as the Sharr of Ryuvia!
+gre Now, the time has come for you to ascend to the throne and claim your destiny as the Sharr of Ryuvia!
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Hang on, Admiral. We have only just returned from our mission. There is much you must know about what has happened...
+kay Hang on, Admiral. We have only just returned from our mission. There is much you must know about what has happened...
+#% cha asa_armup_sad_neutral_smalltalk
+cha asa_armup_sad_neutral_smalltalk
+#% voi asa_vns_neu_07
+voi asa_vns_neu_07
+# asa It's all right, captain. In fact, the Admiral has a point.
+asa It's all right, captain. In fact, the Admiral has a point.
+#% cha asa_fist_focus_closedeye_neutral
+cha asa_fist_focus_closedeye_neutral
+# asa Ryuvia has been without a Queen far too long. My people need me.
+asa Ryuvia has been without a Queen far too long. My people need me.
+#% cha asa_fist_focus_neutral_bigtalk
+cha asa_fist_focus_neutral_bigtalk
+# asa I thank you for liberating the city in my stead. I will gladly take my father's seat at the Ryuvian throne, as is my birthright.
+asa I thank you for liberating the city in my stead. I will gladly take my father's seat at the Ryuvian throne, as is my birthright.
+#% cha gre_neu_angry_wide_yell
+cha gre_neu_angry_wide_yell
+# gre Well put, your majesty! Clear the hall! Let the coronation commence at moon rise!
+gre Well put, your majesty! Clear the hall! Let the coronation commence at moon rise!
+#% cha kry_armout_angry_wide_yell
+cha kry_armout_angry_wide_yell
+#% voi kry_vns_neu_13
+voi kry_vns_neu_13
+# kry All hail the Sharr! All hail the Queen!
+kry All hail the Sharr! All hail the Queen!
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay (This should be a moment of triumph... but I cannot worry for all the loose ends we have left unresolved.)
+kay (This should be a moment of triumph... but I cannot worry for all the loose ends we have left unresolved.)
+# kay (But I suppose we all deserve a moment of respite nonetheless.)
+kay (But I suppose we all deserve a moment of respite nonetheless.)
+# kay (After our continuous battles, the crew has been in sore need of shore leave...)
+kay (After our continuous battles, the crew has been in sore need of shore leave...)
+# kay (Ahem... In fact, I should get cleaned up at the Star Palace's baths... Can't show up for the coronation filthy after all.)
+kay (Ahem... In fact, I should get cleaned up at the Star Palace's baths... Can't show up for the coronation filthy after all.)
+#% cha kay_neu_focus_closed_smirk
+cha kay_neu_focus_closed_smirk
+# kay (Perhaps a nice, long soak will sooth my worries...)
+kay (Perhaps a nice, long soak will sooth my worries...)
+#% dbg spr_bg_palaceonsen
+dbg spr_bg_palaceonsen
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+# nar ... ...
+nar ... ...
+# nar ... ... ...
+nar ... ... ...
+#% ccc kay_nude
+ccc kay_nude
+#% sou sou_cannonmiss4
+sou sou_cannonmiss4
+#% mus mus_hatsukoi
+mus mus_hatsukoi
+#% dcg spr_cg_asagaonsen
+dcg spr_cg_asagaonsen
+# asa Oh, ya gonna join in, capt'n? Well, come on in. The water's great.
+asa Oh, ya gonna join in, capt'n? Well, come on in. The water's great.
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Asaga?!
+kay Asaga?!
+# asa Eh? Why're ya so surprised? Don't tell me...
+asa Eh? Why're ya so surprised? Don't tell me...
+# asa Listen, I was just putting up a brave face with the Admiral. If I don't play the role of a perfect Princess, he'd bore my ears off with a long lecture about Elvish etiquette.
+asa Listen, I was just putting up a brave face with the Admiral. If I don't play the role of a perfect Princess, he'd bore my ears off with a long lecture about Elvish etiquette.
+# asa But like I said, I want you to still treat me as just Asaga, ya hear? Just Asaga!
+asa But like I said, I want you to still treat me as just Asaga, ya hear? Just Asaga!
+#% cha kay_neu_sad_closed_smirk
+cha kay_neu_sad_closed_smirk
+# kay Of course... E-Eh heh, well, that wasn't exactly why I was surprised anyways...
+kay Of course... E-Eh heh, well, that wasn't exactly why I was surprised anyways...
+# asa Eh?
+asa Eh?
+#% cha kay_neu_neutral_neutral_smallopen
+cha kay_neu_neutral_neutral_smallopen
+# kay Ahem. Anyways... I suppose this is it, huh. Tomorrow, you'll no longer be the Princess, but the ruler of Ryuvia, on top of being the Sharr.
+kay Ahem. Anyways... I suppose this is it, huh. Tomorrow, you'll no longer be the Princess, but the ruler of Ryuvia, on top of being the Sharr.
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay I guess I really am lucky. Not many sea captains can claim to have rescued a Princess, much less a Sharr.
+kay I guess I really am lucky. Not many sea captains can claim to have rescued a Princess, much less a Sharr.
+# asa 'Suppose so...
+asa 'Suppose so...
+# asa I guess once we defeat the Witch of Asahi once and for all, our lives will be really different...
+asa I guess once we defeat the Witch of Asahi once and for all, our lives will be really different...
+#% cha kay_neu_sad_closed_smirk
+cha kay_neu_sad_closed_smirk
+# kay Indeed. Alas, I cannot imagine wearing a crown a top my head. The shoulder pads of my uniform weigh heavily enough on my back...
+kay Indeed. Alas, I cannot imagine wearing a crown a top my head. The shoulder pads of my uniform weigh heavily enough on my back...
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Ryuvia has greatly suffered due to the war. Your people will need you...
+kay Ryuvia has greatly suffered due to the war. Your people will need you...
+# asa I know that all too well, as well as the weight you must feel on your back every day.
+asa I know that all too well, as well as the weight you must feel on your back every day.
+# asa But... I suppose, I can't run away from it... Not when everyone's counting on me. I don't want to be the Princess who fled any longer.
+asa But... I suppose, I can't run away from it... Not when everyone's counting on me. I don't want to be the Princess who fled any longer.
+# asa But that doesn't mean my duty is to rule the kingdom just as my father did.
+asa But that doesn't mean my duty is to rule the kingdom just as my father did.
+# asa All this time, I've been angry about our ways... The Song claim that our traditions are the greatest in the world and that all the other races are children we must raise... But what I've seen on our journey has opened my eyes to the truth.
+asa All this time, I've been angry about our ways... The Song claim that our traditions are the greatest in the world and that all the other races are children we must raise... But what I've seen on our journey has opened my eyes to the truth.
+# asa There is still much that even we Elves have yet to learn from the other races of Halla.
+asa There is still much that even we Elves have yet to learn from the other races of Halla.
+# asa Ryuvia is no longer the hub of Elvish society as it was in the past. Instead, we Elves are now nothing but the ruling minority. Maan and Demonfolk outnumber us within our walls, yet they still call themselves proud Ryuvians.
+asa Ryuvia is no longer the hub of Elvish society as it was in the past. Instead, we Elves are now nothing but the ruling minority. Maan and Demonfolk outnumber us within our walls, yet they still call themselves proud Ryuvians.
+# asa There is no other choice. Ryuvia cannot follow the Monolithic Truth any longer. We must change.
+asa There is no other choice. Ryuvia cannot follow the Monolithic Truth any longer. We must change.
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay I'm glad to hear that. Looks like you ended up finding the answers you were looking for in the end.
+kay I'm glad to hear that. Looks like you ended up finding the answers you were looking for in the end.
+# asa There's just one thing...
+asa There's just one thing...
+# asa ... ... ...
+asa ... ... ...
+#% cha kay_neu_confuse_thinking_neutral
+cha kay_neu_confuse_thinking_neutral
+# kay What is it?
+kay What is it?
+# asa I don't know if I can do this on my own.
+asa I don't know if I can do this on my own.
+# asa You know, captain... Why don't you stay in Ryuvia once all of this is over?
+asa You know, captain... Why don't you stay in Ryuvia once all of this is over?
+# asa Ahem... Ya know, me being Queen and all, I could put you on a fast track on a promotion to admiral...
+asa Ahem... Ya know, me being Queen and all, I could put you on a fast track on a promotion to admiral...
+#% cha kay_neu_focus_closed2_bigopensm
+cha kay_neu_focus_closed2_bigopensm
+# kay Hahaha. W-Well, as a member of the private marine, I'm more satisfied with being just the captain of the Sunrider...
+kay Hahaha. W-Well, as a member of the private marine, I'm more satisfied with being just the captain of the Sunrider...
+# asa ... ... ...
+asa ... ... ...
+# asa And... I want you to stay.
+asa And... I want you to stay.
+#% cha kay_neu_neutral_wide_neutral
+cha kay_neu_neutral_wide_neutral
+# kay Asaga?
+kay Asaga?
+# asa Stay with me.
+asa Stay with me.
+# asa Ryuvia can't just have a Queen. Be with me.
+asa Ryuvia can't just have a Queen. Be with me.
+#% cha kay_neu_neutral_wide_neutral
+cha kay_neu_neutral_wide_neutral
+# kay ... ... ...
+kay ... ... ...
+#% cha kay_neu_sad_closed_groan
+cha kay_neu_sad_closed_groan
+# kay I... I'm at a loss for words, Asaga-
+kay I... I'm at a loss for words, Asaga-
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay Look, I'm just a sea captain! Hell, my dad's a scoundrel! I'm not exactly lordly material here-
+kay Look, I'm just a sea captain! Hell, my dad's a scoundrel! I'm not exactly lordly material here-
+# asa ... ... ...
+asa ... ... ...
+# asa When this war is finally over, give me an answer. Until then, I'll be just Asaga. Okay?
+asa When this war is finally over, give me an answer. Until then, I'll be just Asaga. Okay?
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay ... ... ...
+kay ... ... ...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay I understand.
+kay I understand.
+# kay I will think this through... and give you my honest answer.
+kay I will think this through... and give you my honest answer.
+# asa That's all I want.
+asa That's all I want.
+#% cha kay_neu_sad_thinking_smallopen
+cha kay_neu_sad_thinking_smallopen
+# kay Now... whew, is the water hot or what?
+kay Now... whew, is the water hot or what?
+# asa It is a bit toasty, yes.
+asa It is a bit toasty, yes.
+#% cha kay_neu_raised_closed2_smirk
+cha kay_neu_raised_closed2_smirk
+# kay We uhh... best be going.
+kay We uhh... best be going.
+# asa Yeah... I guess I shouldn't keep the Admiral waiting.
+asa Yeah... I guess I shouldn't keep the Admiral waiting.
+# asa Come on. Let's go to the coronation.
+asa Come on. Let's go to the coronation.
+#% cha kay_neu_sad_closed_smirk
+cha kay_neu_sad_closed_smirk
+# kay (Come on, Asaga... You're making it sound like you're not the one being crowned...)
+kay (Come on, Asaga... You're making it sound like you're not the one being crowned...)
+#% sou sou_affectiongain
+sou sou_affectiongain
+#% var asagaonsen
+var asagaonsen
+# nar (2 Affection Points gained!)
+nar (2 Affection Points gained!)
+# nar (The waters rejuvenate your soul...)
+nar (The waters rejuvenate your soul...)
+#% sou sou_onsengain
+sou sou_onsengain
+# nar (Communal EN limit increased!)
+nar (Communal EN limit increased!)
+#% ccc kay_uni
+ccc kay_uni
+#% roo roo_chap8_story1
+roo roo_chap8_story1
+#% 
+
+#% tag chap7_liberationofryuvia
+tag chap7_liberationofryuvia
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% mus mus_battleagainsttime
+mus mus_battleagainsttime
+#% xob MAIN: The Liberation of Ryuvia
+xob MAIN: The Liberation of Ryuvia
+#% obj BATTLE: The Liberation of Ryuvia
+obj BATTLE: The Liberation of Ryuvia
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Everyone... This is it...
+kay Everyone... This is it...
+# kay We've returned to Ryuvia once more. Pact has secured the Monolith of Truth deep within the defenses of the Star Palace...
+kay We've returned to Ryuvia once more. Pact has secured the Monolith of Truth deep within the defenses of the Star Palace...
+# kay We must recover it at all cost if we are to save our High Elf allies. More pressingly, the enemy may even turn it into a weapon of war.
+kay We must recover it at all cost if we are to save our High Elf allies. More pressingly, the enemy may even turn it into a weapon of war.
+#% cha asa_fist_focus_closedeye_neutral
+cha asa_fist_focus_closedeye_neutral
+# asa The last time I was here, I was a princess on the run...
+asa The last time I was here, I was a princess on the run...
+#% cha asa_fist_angry_neutral_smalltalk
+cha asa_fist_angry_neutral_smalltalk
+# asa But now, I'm the Sharr! This time, I'm going to save everyone!
+asa But now, I'm the Sharr! This time, I'm going to save everyone!
+#% cha ava_armup_focus_neutral_smalltalk
+cha ava_armup_focus_neutral_smalltalk
+#% voi ava_vns_sad_02
+voi ava_vns_sad_02
+# ava Be that as it may, the Ryuvian Kingdom's very defenses are now being used against us.
+ava Be that as it may, the Ryuvian Kingdom's very defenses are now being used against us.
+#% cha ava_armscrossed_focus_neutral_smalltalk
+cha ava_armscrossed_focus_neutral_smalltalk
+# ava Though the Crimson Fleet cannot confront us here, Pact has deployed several captured vessels of the Ryuvian Navy to thwart our advance.
+ava Though the Crimson Fleet cannot confront us here, Pact has deployed several captured vessels of the Ryuvian Navy to thwart our advance.
+# ava Worse, they have requisitioned an old Ryuvian fort at the mouth of the harbor. It must be destroyed if we are to siege the Star Palace.
+ava Worse, they have requisitioned an old Ryuvian fort at the mouth of the harbor. It must be destroyed if we are to siege the Star Palace.
+#% cha ava_facepalm_focus_closedeye_slight
+cha ava_facepalm_focus_closedeye_slight
+# ava Yes, I am speaking of the same Star Palace which has famously stood for hundreds of thousands of years as the bastion of Elvish rule over Halla.
+ava Yes, I am speaking of the same Star Palace which has famously stood for hundreds of thousands of years as the bastion of Elvish rule over Halla.
+#% cha kay_neu_confuse_thinking_talk
+cha kay_neu_confuse_thinking_talk
+# kay Indeed, it commands quite the mythical reputation. Yet, you could say its invincibility has come into question in recent years...
+kay Indeed, it commands quite the mythical reputation. Yet, you could say its invincibility has come into question in recent years...
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay If Pact can seize control of the Star Palace, then so can we. All hands...
+kay If Pact can seize control of the Star Palace, then so can we. All hands...
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Attack!
+kay Attack!
+#% roo roo_chap7_battle4
+roo roo_chap7_battle4
+#% 
+
+#% tag chap7_battle4_start
+tag chap7_battle4_start
+#% cha sol_side_concern_narrow_talk
+cha sol_side_concern_narrow_talk
+#% voi sol_vns_sad_05
+voi sol_vns_sad_05
+# sol Once, the Star Palace was my home... To think a day would come that I lay siege to it...
+sol Once, the Star Palace was my home... To think a day would come that I lay siege to it...
+#% cha kry_fistup_focus_neutral_yell
+cha kry_fistup_focus_neutral_yell
+#% voi kry_vns_ang_05
+voi kry_vns_ang_05
+# kry These Maan have defiled its sacred halls! We shall drive them back to the isle where they came!
+kry These Maan have defiled its sacred halls! We shall drive them back to the isle where they came!
+#% cha asa_fist_angry_neutral_smalltalk
+cha asa_fist_angry_neutral_smalltalk
+#% voi asa_vns_hap_03
+voi asa_vns_hap_03
+# asa This is it...!
+asa This is it...!
+# asa The liberation of Ryuvia is at hand!
+asa The liberation of Ryuvia is at hand!
+#% cha asa_fist_angry_awakenwid_yell
+cha asa_fist_angry_awakenwid_yell
+# asa We can't let Veniczar Arcadius rule my people any longer!
+asa We can't let Veniczar Arcadius rule my people any longer!
+# asa Everyone! To victory!
+asa Everyone! To victory!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap7_battle4_forttip
+tag chap7_battle4_forttip
+#% cha ava_armscrossed_focus_closedeye_smalltalk
+cha ava_armscrossed_focus_closedeye_smalltalk
+#% voi ava_vns_neu_02
+voi ava_vns_neu_02
+# ava That mighty fort will not crumble easily...
+ava That mighty fort will not crumble easily...
+# ava Attempting a boarding action against the fort will be suicidal against those walls. We have no other choice but to destroy it from sea.
+ava Attempting a boarding action against the fort will be suicidal against those walls. We have no other choice but to destroy it from sea.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (Ava's right this time. Not even I'm crazy enough to try to capture that fortress.)
+kay (Ava's right this time. Not even I'm crazy enough to try to capture that fortress.)
+#% stop
+stop
+#% 
+
+#% tag chap7_battle4_end
+tag chap7_battle4_end
+#% dbg spr_bg_sunriderbridge
+dbg spr_bg_sunriderbridge
+#% mus mus_battleagainsttime
+mus mus_battleagainsttime
+#% xob BATTLE: The Liberation of Ryuvia
+xob BATTLE: The Liberation of Ryuvia
+#% cha ava_armup_focus_neutral_opensmile
+cha ava_armup_focus_neutral_opensmile
+#% voi ava_vns_hap_05
+voi ava_vns_hap_05
+# ava We have done it! The fort is down!
+ava We have done it! The fort is down!
+#% cha asa_bendover_angry_neutral_bigtalk
+cha asa_bendover_angry_neutral_bigtalk
+#% voi asa_vns_hap_01
+voi asa_vns_hap_01
+# asa Now's our chance! Land our troops and prepare for ground assault!
+asa Now's our chance! Land our troops and prepare for ground assault!
+#% sou sou_warning
+sou sou_warning
+#% cha ava_armup_focus_surprise_bigtalk
+cha ava_armup_focus_surprise_bigtalk
+# ava No... Wait...!
+ava No... Wait...!
+#% voi ava_vns_ang_06
+voi ava_vns_ang_06
+# ava Crimson Sails spotted! It's more of the advanced ships we encountered at Ongess!
+ava Crimson Sails spotted! It's more of the advanced ships we encountered at Ongess!
+#% mus mus_bossbattle
+mus mus_bossbattle
+#% cha arc_neu
+cha arc_neu
+# arc Hahahaha! So you've come here to retrieve your Lost Treasure...
+arc Hahahaha! So you've come here to retrieve your Lost Treasure...
+# arc That choice shall be your doom! For we have foreseen this and waited here to meet you!
+arc That choice shall be your doom! For we have foreseen this and waited here to meet you!
+#% cha kay_neu_focus_neutral_talk
+cha kay_neu_focus_neutral_talk
+# kay Your forces are hardly impressive, Veniczar Arcadius. Your fleet is trapped outside the Dragon Foot Sea, including your flagship.
+kay Your forces are hardly impressive, Veniczar Arcadius. Your fleet is trapped outside the Dragon Foot Sea, including your flagship.
+#% cha arc_fistup
+cha arc_fistup
+# arc Irrelevant! For we are legion!
+arc Irrelevant! For we are legion!
+#% hid arc
+hid arc
+#% cha ava_armup_angry_surprise_yell
+cha ava_armup_angry_surprise_yell
+#% voi ava_vns_sur_01
+voi ava_vns_sur_01
+# ava Captain, you are not going to believe this... But multiple ships, each commanded by Veniczar Arcadius are inbound on our position!
+ava Captain, you are not going to believe this... But multiple ships, each commanded by Veniczar Arcadius are inbound on our position!
+#% cha ica_surprised_annoyed_surprise_yell
+cha ica_surprised_annoyed_surprise_yell
+#% voi ica_vns_sur_02
+voi ica_vns_sur_02
+# ica Impossible... They must be impostors. There's only one Veniczar Arcadius!
+ica Impossible... They must be impostors. There's only one Veniczar Arcadius!
+#% ifj chap7_arc_lyn,lynnrecruit
+ifj chap7_arc_lyn,lynnrecruit
+#% tag chap7_arc_lyn_true
+tag chap7_arc_lyn_true
+#% cha lyn_armdown_angry_narrowloo_grin
+cha lyn_armdown_angry_narrowloo_grin
+#% voi lyn_vns_ang_04
+voi lyn_vns_ang_04
+# lyn You better believe it! Ugggh, I was worried about this all along!
+lyn You better believe it! Ugggh, I was worried about this all along!
+#% cha lyn_armup_angry2_bigeyes_yell
+cha lyn_armup_angry2_bigeyes_yell
+# lyn Whoever you thought was Arcadius all along never even existed! All of this is a big conspiracy created by the Witch of Asahi!
+lyn Whoever you thought was Arcadius all along never even existed! All of this is a big conspiracy created by the Witch of Asahi!
+# lyn Those things are nothing but enchanted suits of armor being controlled by her!
+lyn Those things are nothing but enchanted suits of armor being controlled by her!
+#% tag chap7_arc_lyn_false
+tag chap7_arc_lyn_false
+#% ifj chap7_arc_kuu,kuurecruit
+ifj chap7_arc_kuu,kuurecruit
+#% tag chap7_arc_kuu_true
+tag chap7_arc_kuu_true
+#% cha kuu_neu_focus_closedeye_frown
+cha kuu_neu_focus_closedeye_frown
+#% voi kuu_vns_ang_01
+voi kuu_vns_ang_01
+# kuu Those things are but sad homunculi created in the image of a great man.
+kuu Those things are but sad homunculi created in the image of a great man.
+#% cha kuu_neu_focus_lookup_bigtalk
+cha kuu_neu_focus_lookup_bigtalk
+# kuu There is nothing before us but the depraved madness of a woman who cannot let go of the past.
+kuu There is nothing before us but the depraved madness of a woman who cannot let go of the past.
+# kuu We best destroy them.
+kuu We best destroy them.
+#% tag chap7_arc_kuu_false
+tag chap7_arc_kuu_false
+#% cha ica_armscrossed_worry_closedeye_clench
+cha ica_armscrossed_worry_closedeye_clench
+#% voi ica_vns_ang_01
+voi ica_vns_ang_01
+# ica Tch... Could everything have been for naught?
+ica Tch... Could everything have been for naught?
+#% cha ica_handsonhips_angry_widesmall_clench
+cha ica_handsonhips_angry_widesmall_clench
+# ica Arcadius... I swore I would take your head...
+ica Arcadius... I swore I would take your head...
+# ica By my sword, you shall fall! This is my father's vengeance!
+ica By my sword, you shall fall! This is my father's vengeance!
+#% obj BATTLE: The Mask of Arcadius
+obj BATTLE: The Mask of Arcadius
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+#% voi ava_vns_ang_05
+voi ava_vns_ang_05
+# ava Captain, the enemy is nearly upon us. Your orders?
+ava Captain, the enemy is nearly upon us. Your orders?
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay All ships, regroup back at the Sunrider! Looks like we've got to take care of Arcadius first...
+kay All ships, regroup back at the Sunrider! Looks like we've got to take care of Arcadius first...
+#% roo roo_chap7_battle5
+roo roo_chap7_battle5
+#% 
+
+#% tag chap7_battle5_start
+tag chap7_battle5_start
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+#% voi ava_vns_ang_07
+voi ava_vns_ang_07
+# ava We are surrounded by Veniczar Arcadius' ships! They must be sunk before our ground invasion of the Star Palace can commence.
+ava We are surrounded by Veniczar Arcadius' ships! They must be sunk before our ground invasion of the Star Palace can commence.
+#% cha kay_neu_focus_closed_slight
+cha kay_neu_focus_closed_slight
+# kay Yet, things are not what they seem...
+kay Yet, things are not what they seem...
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay We are beset by multiple copies of Arcadius on all sides... What dark sorcery is at play?
+kay We are beset by multiple copies of Arcadius on all sides... What dark sorcery is at play?
+#% ifj chap7_battle5_chi,chigaratrueend
+ifj chap7_battle5_chi,chigaratrueend
+#% tag chap7_battle5_chi_true
+tag chap7_battle5_chi_true
+#% cha chi_handonchest_focus_neutral_smalltalk
+cha chi_handonchest_focus_neutral_smalltalk
+#% voi chi_vns_neu_06
+voi chi_vns_neu_06
+# chi Ever since we left Diode, I've been thinking about what I saw while I was possessed by the enemy...
+chi Ever since we left Diode, I've been thinking about what I saw while I was possessed by the enemy...
+# chi Now the truth is clear: What we believed to be Arcadius was not a man at all, but a homunculus under the control of the Witch of Asahi.
+chi Now the truth is clear: What we believed to be Arcadius was not a man at all, but a homunculus under the control of the Witch of Asahi.
+#% cha chi_shocked_focus_wide_yell
+cha chi_shocked_focus_wide_yell
+# chi Thanks to the captain's trust in Chigara, I was able to break her control over me back at Ongess. Now it's Chigara's turn to save the captain!
+chi Thanks to the captain's trust in Chigara, I was able to break her control over me back at Ongess. Now it's Chigara's turn to save the captain!
+# chi I believe I can disrupt the Witch's control over the homunculi temporarily, giving us a brief window of time to destroy them in hand-to-hand combat.
+chi I believe I can disrupt the Witch's control over the homunculi temporarily, giving us a brief window of time to destroy them in hand-to-hand combat.
+# nar (New Order Available: Disrupt Arcadius.)
+nar (New Order Available: Disrupt Arcadius.)
+# nar (When cast, Chigara will prevent Arcadius from resurrecting for 3 turns!)
+nar (When cast, Chigara will prevent Arcadius from resurrecting for 3 turns!)
+#% cha chi_handonchest_focus_neutral_yell
+cha chi_handonchest_focus_neutral_yell
+# chi Come on captain! Show Chigara your power!
+chi Come on captain! Show Chigara your power!
+#% tag chap7_battle5_chi_false
+tag chap7_battle5_chi_false
+#% cha lyn_armup_angry_bigeyes_shout
+cha lyn_armup_angry_bigeyes_shout
+#% voi lyn_vns_ang_02
+voi lyn_vns_ang_02
+# lyn Black magic or not, a cannonball to his ship will blow him up just fine!
+lyn Black magic or not, a cannonball to his ship will blow him up just fine!
+# lyn All right! Let's get this done!
+lyn All right! Let's get this done!
+#% stop
+stop
+#% 
+
+#% tag chap7_battle5_arcadiusboard
+tag chap7_battle5_arcadiusboard
+#% cha arc_fistup
+cha arc_fistup
+# arc You fool! We are invincible!
+arc You fool! We are invincible!
+#% hid arc
+hid arc
+#% ifj chap7_battle5_board,chigaratrueend
+ifj chap7_battle5_board,chigaratrueend
+#% tag chap7_battle5_board_true
+tag chap7_battle5_board_true
+#% cha chi_shocked_focus_wide_yell
+cha chi_shocked_focus_wide_yell
+#% voi chi_vns_sur_05
+voi chi_vns_sur_05
+# chi Captain, don't forget that we cannot defeat Arcadius until his connection to the Witch of Asahi is severed!
+chi Captain, don't forget that we cannot defeat Arcadius until his connection to the Witch of Asahi is severed!
+# chi Be sure to use the Disrupt Arcadius Order prior to boarding a ship commanded by him!
+chi Be sure to use the Disrupt Arcadius Order prior to boarding a ship commanded by him!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay All right... Let's get this done!
+kay All right... Let's get this done!
+#% stop
+stop
+#% tag chap7_battle5_board_false
+tag chap7_battle5_board_false
+#% cha ava_armup_focus_neutral_yell
+cha ava_armup_focus_neutral_yell
+#% voi ava_vns_sur_01
+voi ava_vns_sur_01
+# ava Captain, we cannot hope to defeat Arcadius when he is but an animated suit of armor!
+ava Captain, we cannot hope to defeat Arcadius when he is but an animated suit of armor!
+#% cha chi_shocked_focus_wide_yell
+cha chi_shocked_focus_wide_yell
+#% voi chi_vns_sur_04
+voi chi_vns_sur_04
+# chi Chii... If only there was some way to disrupt the Witch's magic...
+chi Chii... If only there was some way to disrupt the Witch's magic...
+#% voi ava_vns_sur_02
+voi ava_vns_sur_02
+# ava You must pull our forces back. Attempting to best Arcadius under these conditions is futile.
+ava You must pull our forces back. Attempting to best Arcadius under these conditions is futile.
+#% cha kay_neu_focus_closed_clench
+cha kay_neu_focus_closed_clench
+# kay (Ava's right... If only we could have figured out a way to disrupt the Witch's control...)
+kay (Ava's right... If only we could have figured out a way to disrupt the Witch's control...)
+#% stop
+stop
+#% 
+
+#% tag chap7_battle5_arcdefeat1
+tag chap7_battle5_arcdefeat1
+#% cha arc_neu
+cha arc_neu
+# arc Gah!
+arc Gah!
+#% cha chi_armsdown_focus_neutral_bigtalk
+cha chi_armsdown_focus_neutral_bigtalk
+# chi It worked! Without the Witch of Asahi's powers, this suit of armor has been destroyed!
+chi It worked! Without the Witch of Asahi's powers, this suit of armor has been destroyed!
+#% stop
+stop
+#% 
+
+#% tag chap7_battle5_arcdefeat2
+tag chap7_battle5_arcdefeat2
+#% cha chi_armsdown_focus_neutral_bigtalk
+cha chi_armsdown_focus_neutral_bigtalk
+# chi You're doing it, captain! There's just one more homunculus left now!
+chi You're doing it, captain! There's just one more homunculus left now!
+#% stop
+stop
+#% 
+
+#% tag chap7_battle5_arcdefeat3
+tag chap7_battle5_arcdefeat3
+#% cha arc_neu
+cha arc_neu
+# arc Impossible...!
+arc Impossible...!
+#% hid arc
+hid arc
+#% cha chi_armsbehind_raised_closedeye_bigopensm
+cha chi_armsbehind_raised_closedeye_bigopensm
+#% voi chi_vns_hap_01
+voi chi_vns_hap_01
+# chi You've done it captain! You've taken out all the homunculi!
+chi You've done it captain! You've taken out all the homunculi!
+#% var aff_chi
+var aff_chi
+#% cha ica_armscrossed_worry_closedeye_clench
+cha ica_armscrossed_worry_closedeye_clench
+#% voi ica_vns_ang_04
+voi ica_vns_ang_04
+# ica To think all this time, the target of my vengeance never even existed...
+ica To think all this time, the target of my vengeance never even existed...
+#% cha kay_neu_sad_neutral_smalltalk
+cha kay_neu_sad_neutral_smalltalk
+# kay Are you all right, Icari?
+kay Are you all right, Icari?
+#% var aff_ica
+var aff_ica
+#% cha ica_back_worry_closedeye_smalltalk
+cha ica_back_worry_closedeye_smalltalk
+#% voi ica_vns_neu_09
+voi ica_vns_neu_09
+# ica Yeah... This isn't over yet. The Witch of Asahi still lives.
+ica Yeah... This isn't over yet. The Witch of Asahi still lives.
+#% cha ica_back_focus_smuglooka_smalltalk
+cha ica_back_focus_smuglooka_smalltalk
+# ica In the end, it was her who was responsible for everything...
+ica In the end, it was her who was responsible for everything...
+#% var defeatedallarcadius
+var defeatedallarcadius
+#% stop
+stop
+#% 
+
+#% tag chap7_battle5_end
+tag chap7_battle5_end
+#% cha ava_armup_focus_neutral_opensmile
+cha ava_armup_focus_neutral_opensmile
+#% voi ava_vns_hap_05
+voi ava_vns_hap_05
+# ava We've done it, captain! All enemy ships have been sunk and the Star Palace is completely exposed!
+ava We've done it, captain! All enemy ships have been sunk and the Star Palace is completely exposed!
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay All right... Commence ground invasion!
+kay All right... Commence ground invasion!
+#% cha kay_neu_focus_big_yell
+cha kay_neu_focus_big_yell
+# kay Everyone, this is it! Charge!!
+kay Everyone, this is it! Charge!!
+#% flag
+flag
+#% stop
+stop
+#% 
+
+#% tag chap7_ryuviataken
+tag chap7_ryuviataken
+#% dbg spr_bg_palace
+dbg spr_bg_palace
+#% mus mus_combat
+mus mus_combat
+#% xob BATTLE: The Mask of Arcadius
+xob BATTLE: The Mask of Arcadius
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+#% cha asa_fist_angry_awakenneu_yell
+cha asa_fist_angry_awakenneu_yell
+# asa I am Sharr Asaga di Ryuvia! In my name, lay down your arms!
+asa I am Sharr Asaga di Ryuvia! In my name, lay down your arms!
+#% mus stop
+mus stop
+# pac We surrender!
+pac We surrender!
+#% cha ava_armscrossed_worry_closedeye_smalltalk
+cha ava_armscrossed_worry_closedeye_smalltalk
+#% voi ava_vns_ang_02
+voi ava_vns_ang_02
+# ava At last, it is over...
+ava At last, it is over...
+#% sou mus_posthumusregnum_victory
+sou mus_posthumusregnum_victory
+#% cha ava_armup_worry_closedeye_smirk
+cha ava_armup_worry_closedeye_smirk
+#% voi ava_vns_hap_03
+voi ava_vns_hap_03
+# ava Though the battle was fierce, we have taken the Star Palace.
+ava Though the battle was fierce, we have taken the Star Palace.
+#% cha kay_neu_focus_closed_smirk
+cha kay_neu_focus_closed_smirk
+# kay Everyone... you all did well.
+kay Everyone... you all did well.
+#% cha kay_neu_focus_neutral_smalltalk
+cha kay_neu_focus_neutral_smalltalk
+# kay Now, what of the Monolith of Truth?
+kay Now, what of the Monolith of Truth?
+#% cha kry_fistup_focus_neutral_bigtalk
+cha kry_fistup_focus_neutral_bigtalk
+#% voi kry_vns_hap_05
+voi kry_vns_hap_05
+# kry Our forces are securing it as we speak!
+kry Our forces are securing it as we speak!
+#% cha kry_armdown_focus_neutral_bigopensm
+cha kry_armdown_focus_neutral_bigopensm
+# kry Hah! It appears that their threat to detonate it was nothing more than empty bluster. Well, I should have known!
+kry Hah! It appears that their threat to detonate it was nothing more than empty bluster. Well, I should have known!
+#% cha kry_armdown_neutral_closedeye_bigopensm
+cha kry_armdown_neutral_closedeye_bigopensm
+# kry After all, it was foolish to think that mere Maan would be able to utilize our most sacred icon. Hahaha!
+kry After all, it was foolish to think that mere Maan would be able to utilize our most sacred icon. Hahaha!
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay Whew... Well, that's one problem we don't have to worry about any more...
+kay Whew... Well, that's one problem we don't have to worry about any more...
+#% cha kay_neu_confuse_neutral_slight
+cha kay_neu_confuse_neutral_slight
+# kay Yet, why do I feel as though our victory is not yet complete...?
+kay Yet, why do I feel as though our victory is not yet complete...?
+#% cha ava_armscrossed_worry_narrowloo_smalltalk
+cha ava_armscrossed_worry_narrowloo_smalltalk
+# ava Somehow, I feel the same...
+ava Somehow, I feel the same...
+# ava With Fontana still at large, could he have left one final trap?
+ava With Fontana still at large, could he have left one final trap?
+#% hid kry
+hid kry
+#% hid ava
+hid ava
+#% hid asa
+hid asa
+#% mus mus_colors_mainloop
+mus mus_colors_mainloop
+#% cha gre_neu_focus_surprise_smalltalk
+cha gre_neu_focus_surprise_smalltalk
+#% voi gre_vns_hap_04
+voi gre_vns_hap_04
+# gre Fear not the machinations of that insignificant Maan! For you have done unto the Song Alliance a great feat!
+gre Fear not the machinations of that insignificant Maan! For you have done unto the Song Alliance a great feat!
+# gre The Monolith of Truth has been recovered undamaged and a High Elf once again sits upon the Ryuvian throne! This is a total victory for the elder race!
+gre The Monolith of Truth has been recovered undamaged and a High Elf once again sits upon the Ryuvian throne! This is a total victory for the elder race!
+#% cha gre_neu_focus_neutral_smile
+cha gre_neu_focus_neutral_smile
+# gre I have received word that Pact itself has descended into infighting. Let Fontana and this so-called Witch of Asahi fight out their squabbles, while we turn to more important matters...
+gre I have received word that Pact itself has descended into infighting. Let Fontana and this so-called Witch of Asahi fight out their squabbles, while we turn to more important matters...
+#% cha kay_neu_neutral_wide_smalltalk
+cha kay_neu_neutral_wide_smalltalk
+# kay Admiral Grey? What more important matters?
+kay Admiral Grey? What more important matters?
+#% cha gre_neu_focus_surprise_smalltalk
+cha gre_neu_focus_surprise_smalltalk
+# gre Why, the coronation of Ryuvia's Queen, of course! And the Blessing of the Sharr must be finished from where we left off, so that the Final Tear can be cast.
+gre Why, the coronation of Ryuvia's Queen, of course! And the Blessing of the Sharr must be finished from where we left off, so that the Final Tear can be cast.
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay The battle was hard fought. We need not rush...
+kay The battle was hard fought. We need not rush...
+#% cha asa_armup_sad_neutral_smallopen
+cha asa_armup_sad_neutral_smallopen
+#% voi asa_vns_neu_14
+voi asa_vns_neu_14
+# asa It's all right, captain.
+asa It's all right, captain.
+#% cha asa_fist_focus_closedeye_neutral
+cha asa_fist_focus_closedeye_neutral
+# asa I know what must be done now.
+asa I know what must be done now.
+# asa Everyone fought alongside me to bring this moment about. I won't run from my fate any longer.
+asa Everyone fought alongside me to bring this moment about. I won't run from my fate any longer.
+#% cha asa_fist_angry_neutral_smalltalk
+cha asa_fist_angry_neutral_smalltalk
+# asa Let the coronation be held! From then on, I will be Queen Asaga di Ryuvia!
+asa Let the coronation be held! From then on, I will be Queen Asaga di Ryuvia!
+#% cha gre_neu_angry_surprise_yell
+cha gre_neu_angry_surprise_yell
+#% voi gre_vns_neu_06
+voi gre_vns_neu_06
+# gre Well put, your majesty! Clear the hall! Let the coronation commence at moon rise!
+gre Well put, your majesty! Clear the hall! Let the coronation commence at moon rise!
+#% cha kry_fistup_focus_neutral_bigopensm
+cha kry_fistup_focus_neutral_bigopensm
+#% voi kry_vns_hap_02
+voi kry_vns_hap_02
+# kry All hail the Sharr! All hail the Queen!
+kry All hail the Sharr! All hail the Queen!
+#% mus stop
+mus stop
+#% cha kay_neu_focus_closed_neutral
+cha kay_neu_focus_closed_neutral
+# kay (This should be a moment of triumph... but I cannot worry for all the loose ends we have left unresolved.)
+kay (This should be a moment of triumph... but I cannot worry for all the loose ends we have left unresolved.)
+#% cha kay_neu_sad_closed_smirk
+cha kay_neu_sad_closed_smirk
+# kay (But I suppose we all deserve a moment of respite nonetheless.)
+kay (But I suppose we all deserve a moment of respite nonetheless.)
+# kay (After our continuous battles, the crew has been in sore need of shore leave...)
+kay (After our continuous battles, the crew has been in sore need of shore leave...)
+# kay (Ahem... In fact, I should get cleaned up at the Star Palace's baths... Can't show up for the coronation filthy after all.)
+kay (Ahem... In fact, I should get cleaned up at the Star Palace's baths... Can't show up for the coronation filthy after all.)
+# kay (Perhaps a nice, long soak will sooth my worries...)
+kay (Perhaps a nice, long soak will sooth my worries...)
+#% hid gre
+hid gre
+#% hid asa
+hid asa
+#% hid kry
+hid kry
+#% dbg hide
+dbg hide
+# nar ... ... ...
+nar ... ... ...
+#% ccc kay_nude
+ccc kay_nude
+#% dbg spr_bg_palaceonsen
+dbg spr_bg_palaceonsen
+# nar ... ...
+nar ... ...
+#% sou sou_smallsplash
+sou sou_smallsplash
+# nar ...
+nar ...
+# nar ... ...
+nar ... ...
+# nar ... ... ...
+nar ... ... ...
+#% mus mus_suisougakubunonatsu
+mus mus_suisougakubunonatsu
+#% dcg spr_cg_icarionsen
+dcg spr_cg_icarionsen
+# ica Oy, cap?! Just what do you think you're doing!
+ica Oy, cap?! Just what do you think you're doing!
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Icari? Sorry, I didn't know you were here!
+kay Icari? Sorry, I didn't know you were here!
+# ica Tch... Such a stupid, oblivious captain...
+ica Tch... Such a stupid, oblivious captain...
+#% cha kay_neu_sad_closed2_smirk
+cha kay_neu_sad_closed2_smirk
+# kay E-Eh-heh... Well, we Elves, don't find this sort of thing embarrassing... But I suppose you're right, I should get going...
+kay E-Eh-heh... Well, we Elves, don't find this sort of thing embarrassing... But I suppose you're right, I should get going...
+# ica Sigh... Whatever. I guess you can stay...
+ica Sigh... Whatever. I guess you can stay...
+# ica All the other baths are completely occupied too, so it's not like there's any other choice...
+ica All the other baths are completely occupied too, so it's not like there's any other choice...
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay Ahem. Of course, we take great pride in our hygienic ways! Of course we would not hold a coronation until we were all cleaned of the grime of battle!
+kay Ahem. Of course, we take great pride in our hygienic ways! Of course we would not hold a coronation until we were all cleaned of the grime of battle!
+# ica Stop it... You're starting to sound like a certain Paladin nutso...
+ica Stop it... You're starting to sound like a certain Paladin nutso...
+#% cha kay_neu_raised_wide_talk
+cha kay_neu_raised_wide_talk
+# kay Me?!
+kay Me?!
+#% dcg spr_cg_kryskaonsen
+dcg spr_cg_kryskaonsen
+# kry Did somebody mention me?!
+kry Did somebody mention me?!
+# ica Heeek! You... were there?!
+ica Heeek! You... were there?!
+# kry Hah! Hah! Hah! You would not believe this, but all the other baths are completely occupied! Well, it is only expected! We Elves-
+kry Hah! Hah! Hah! You would not believe this, but all the other baths are completely occupied! Well, it is only expected! We Elves-
+# ica All right, all right, I get it...
+ica All right, all right, I get it...
+# ica The superiority of your Elvish ways are beyond my comprehension...
+ica The superiority of your Elvish ways are beyond my comprehension...
+# kry I am glad you are finally beginning to understand! Of course, our time as comrades in arms has given a new perspective on our child races as well!
+kry I am glad you are finally beginning to understand! Of course, our time as comrades in arms has given a new perspective on our child races as well!
+#% cha kay_neu_confuse_neutral_slight
+cha kay_neu_confuse_neutral_slight
+# kay What new perspective would that be?
+kay What new perspective would that be?
+# ica Ugh... Don't even bother, cap... Knowing her, she's probably going to say something like, "They smell even worse than I anticipated!"
+ica Ugh... Don't even bother, cap... Knowing her, she's probably going to say something like, "They smell even worse than I anticipated!"
+# kry Nay, you mistake me, Sister Icari!
+kry Nay, you mistake me, Sister Icari!
+# kry In fact, I have nothing but praise for your tenacity and quick thinking on the field of battle!
+kry In fact, I have nothing but praise for your tenacity and quick thinking on the field of battle!
+# kry To think some of my kin yet think of you as nothing but children! It is true that experience is the best teacher. I must share what I have learned with the others at once!
+kry To think some of my kin yet think of you as nothing but children! It is true that experience is the best teacher. I must share what I have learned with the others at once!
+# ica And yet you pretty much thought the same thing when you first joined us...
+ica And yet you pretty much thought the same thing when you first joined us...
+# ica Sigh... Whatever... I guess that's basically as far as we're gonna get with you...
+ica Sigh... Whatever... I guess that's basically as far as we're gonna get with you...
+# ica I guess... You ain't half bad... At fighting, anyways. Hmph!
+ica I guess... You ain't half bad... At fighting, anyways. Hmph!
+# kry Of course! Let us be comrades in arms for at least another century! Although I suppose, that may be too long for you? Hahahaha!
+kry Of course! Let us be comrades in arms for at least another century! Although I suppose, that may be too long for you? Hahahaha!
+# ica Uggh... You're always like this...
+ica Uggh... You're always like this...
+#% cha kay_neu_focus_closed_smallopen
+cha kay_neu_focus_closed_smallopen
+# kay I'm glad you two managed to get closer in the end. Who knows! Perhaps one day, you may find yourselves like two peas in a pod!
+kay I'm glad you two managed to get closer in the end. Who knows! Perhaps one day, you may find yourselves like two peas in a pod!
+#% dcg spr_cg_icarionsen
+dcg spr_cg_icarionsen
+# ica NO.
+ica NO.
+# ica W-Whatever! I've had enough of your nonsense! I'm getting in the pool!
+ica W-Whatever! I've had enough of your nonsense! I'm getting in the pool!
+#% mus mus_tanukiagogo
+mus mus_tanukiagogo
+#% sou sou_cartoonrun
+sou sou_cartoonrun
+# ica Uuuooooooaaaahhhhh----!!!!
+ica Uuuooooooaaaahhhhh----!!!!
+#% dcg hide
+dcg hide
+#% sou sou_cannonmiss2
+sou sou_cannonmiss2
+#% dbg spr_bg_white
+dbg spr_bg_white
+# kry What is this behavior?!
+kry What is this behavior?!
+# kry Some sort of Maan mating ritual...?!
+kry Some sort of Maan mating ritual...?!
+#% var icarionsen
+var icarionsen
+#% var kryskaonsen
+var kryskaonsen
+#% cha kay_neu_sad_closed_smalltalk
+cha kay_neu_sad_closed_smalltalk
+# kay (I'm sorry, Kryska... But there's no way I'm getting involved in this mess...)
+kay (I'm sorry, Kryska... But there's no way I'm getting involved in this mess...)
+# kay (Somehow, I get the feeling I'm just in the way here...)
+kay (Somehow, I get the feeling I'm just in the way here...)
+#% sou sou_affectiongain
+sou sou_affectiongain
+# nar (2 Icari Affection Points Gained!)
+nar (2 Icari Affection Points Gained!)
+#% sou sou_affectiongain
+sou sou_affectiongain
+# nar (2 Kryska Affection Points Gained!)
+nar (2 Kryska Affection Points Gained!)
+# nar (The waters rejuvenate your soul...)
+nar (The waters rejuvenate your soul...)
+#% sou sou_onsengain
+sou sou_onsengain
+# nar (The Communal EN cap has been increased by 10!)
+nar (The Communal EN cap has been increased by 10!)
+#% dbg hide
+dbg hide
+# nar ... ... ...
+nar ... ... ...
+# nar ... ...
+nar ... ...
+# nar ...
+nar ...
+# nar ... ...
+nar ... ...
+# nar ... ... ...
+nar ... ... ...
+#% mus mus_colors_mainloop
+mus mus_colors_mainloop
+#% dcg spr_cg_kryskaonsen
+dcg spr_cg_kryskaonsen
+# kry Well then, both my mind and body has been cleansed by this experience! Now, I must return to my duties!
+kry Well then, both my mind and body has been cleansed by this experience! Now, I must return to my duties!
+# ica Please don't say such easily misunderstood words...
+ica Please don't say such easily misunderstood words...
+#% cha kay_neu_confuse_thinking_smirk
+cha kay_neu_confuse_thinking_smirk
+# kay There is no need to rush, Sister Paladin. Surely you could afford to relax a bit further?
+kay There is no need to rush, Sister Paladin. Surely you could afford to relax a bit further?
+# kry I appreciate the offer captain, but I have been tasked by Admiral Grey to a task of the highest importance!
+kry I appreciate the offer captain, but I have been tasked by Admiral Grey to a task of the highest importance!
+# kry I am to secure the Monolith of Truth personally and load it upon our flagship for transit back to the great temple at Ongess!
+kry I am to secure the Monolith of Truth personally and load it upon our flagship for transit back to the great temple at Ongess!
+#% cha kay_neu_raised_wide_neutral
+cha kay_neu_raised_wide_neutral
+# kay I see. Quite an important task, indeed...
+kay I see. Quite an important task, indeed...
+# kry Thus, I must excuse myself.
+kry Thus, I must excuse myself.
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Well, I suppose duty comes first.
+kay Well, I suppose duty comes first.
+# ica Sigh, I'm sure we'll have plenty of time. I'm sure we'll have to listen to hours of speeches before Asaga even appears on the stage...
+ica Sigh, I'm sure we'll have plenty of time. I'm sure we'll have to listen to hours of speeches before Asaga even appears on the stage...
+# kry Hah! Fear not! My task will not take long. Once I am finished, I will of course attend the Sharr's coronation!
+kry Hah! Fear not! My task will not take long. Once I am finished, I will of course attend the Sharr's coronation!
+# kry No High Elf would miss an event of such historical magnitude!
+kry No High Elf would miss an event of such historical magnitude!
+#% cha kay_neu_neutral_neutral_smirk
+cha kay_neu_neutral_neutral_smirk
+# kay Then, we shall see you at the coronation.
+kay Then, we shall see you at the coronation.
+# kry Indeed! It shall take all but a second for a High Elf such as I! Hahaha!
+kry Indeed! It shall take all but a second for a High Elf such as I! Hahaha!
+# ica Sigh... What a dumbass...
+ica Sigh... What a dumbass...
+#% dcg hide
+dcg hide
+#% ccc kay_uni
+ccc kay_uni
+# nar ... ... ...
+nar ... ... ...
+#% roo roo_chap8_story1
+roo roo_chap8_story1

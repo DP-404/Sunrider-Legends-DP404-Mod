@@ -1,0 +1,1792 @@
+# Yes?
+Yes?
+# Ready
+Ready
+# I'm here
+I'm here
+# Hya! (Swing baton)
+Hya! (Swing baton)
+# Hya! (Swing baton)
+Hya! (Swing baton)
+# Hya! (Swing baton)
+Hya! (Swing baton)
+# Whew.
+Whew.
+# Heh.
+Heh.
+# Be on your guard!
+Be on your guard!
+# Prepare to act!
+Prepare to act!
+# Your power is mine!
+Your power is mine!
+# New orders!
+New orders!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Ugh!
+Ugh!
+# Tch!
+Tch!
+# Gah!
+Gah!
+# Falling back!
+Falling back!
+# Mm...
+Mm...
+# You had no chance!
+You had no chance!
+# Reform lines!
+Reform lines!
+# This victory belongs to everyone
+This victory belongs to everyone
+# At your command
+At your command
+# Standing by
+Standing by
+# All hands report ready
+All hands report ready
+# Your orders, captain?
+Your orders, captain?
+# Yes, captain?
+Yes, captain?
+# Another fine mess you've gotten us in...
+Another fine mess you've gotten us in...
+# Heading to coordinates
+Heading to coordinates
+# Steady as she goes!
+Steady as she goes!
+# Full speed ahead!
+Full speed ahead!
+# Aye aye captain!
+Aye aye captain!
+# Underway!
+Underway!
+# Load roundshots! 
+Load roundshots! 
+# Load chainshots!
+Load chainshots!
+# Load grapeshots!
+Load grapeshots!
+# Prepare special ordinance!
+Prepare special ordinance!
+# Fire!
+Fire!
+# Vanguard Cannon, fully charged!
+Vanguard Cannon, fully charged!
+# FIRE!!!!
+FIRE!!!!
+# All hands, charge!
+All hands, charge!
+# Pack sails!
+Pack sails!
+# Release the sails!
+Release the sails!
+# They're dead in the water!
+They're dead in the water!
+# We've done it!
+We've done it!
+# We've been demasted, captain!
+We've been demasted, captain!
+# Light damage, reported!
+Light damage, reported!
+# Nothing we can't handle.
+Nothing we can't handle.
+# Direct hit!
+Direct hit!
+# We're taking on water!
+We're taking on water!
+# She can't take more of this, captain!
+She can't take more of this, captain!
+# Prepare to abandon ship!
+Prepare to abandon ship!
+# All hands: Abandon ship!
+All hands: Abandon ship!
+# Our sails are on fire, captain!
+Our sails are on fire, captain!
+# Drop anchor!
+Drop anchor!
+# Full Forward!
+Full Forward!
+# All Guard!
+All Guard!
+# Full Sails!
+Full Sails!
+# Restock arms!
+Restock arms!
+# Remount all cannons!
+Remount all cannons!
+# Understood, captain
+Understood, captain
+# Order rescinded
+Order rescinded
+# Hey!
+Hey!
+# I'm ready!
+I'm ready!
+# Let's go!
+Let's go!
+# Hya! (Swing Sword)
+Hya! (Swing Sword)
+# Hya! (Swing Sword)
+Hya! (Swing Sword)
+# Hya! (Swing Sword)
+Hya! (Swing Sword)
+# Whew!
+Whew!
+# Tututut!
+Tututut!
+# Toyah!
+Toyah!
+# Horayo!
+Horayo!
+# Here we go! HYAAAAAAAA!!!!!!!!
+Here we go! HYAAAAAAAA!!!!!!!!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Ack!
+Ack!
+# Ow!
+Ow!
+# Hey!
+Hey!
+# Ugh... I'll be back...!
+Ugh... I'll be back...!
+# Yum...
+Yum...
+# I got one!
+I got one!
+# Let's move!
+Let's move!
+# Easy peesy!
+Easy peesy!
+# What's up, capt'n?
+What's up, capt'n?
+# What can I do for ya, capt'n?
+What can I do for ya, capt'n?
+# I'm standing by!
+I'm standing by!
+# What are we doin', capt'n?
+What are we doin', capt'n?
+# Ya can count on me!
+Ya can count on me!
+# Heyho, it's me, Asaga!
+Heyho, it's me, Asaga!
+# Movin' out!
+Movin' out!
+# On route!
+On route!
+# I'm rowrowrowin' mah boat!
+I'm rowrowrowin' mah boat!
+# Let's go!
+Let's go!
+# C'mon!
+C'mon!
+# Load all rounds!
+Load all rounds!
+# Chainshots!
+Chainshots!
+# Prepare grapeshots!
+Prepare grapeshots!
+# Get our secret weapon ready!
+Get our secret weapon ready!
+# Fire!
+Fire!
+# Oh-ho, this never gets old!
+Oh-ho, this never gets old!
+# TOORAAHHH!!!
+TOORAAHHH!!!
+# Let's take 'em out!
+Let's take 'em out!
+# Fold sails!
+Fold sails!
+# Open sails!
+Open sails!
+# Yosha, they're dead in the water!
+Yosha, they're dead in the water!
+# One enemy down!
+One enemy down!
+# All our sails are gone!
+All our sails are gone!
+# We took some hits!
+We took some hits!
+# They managed to graze us!
+They managed to graze us!
+# We've taken damage, capt'n!
+We've taken damage, capt'n!
+# She's been hurt!
+She's been hurt!
+# It's like a beach episode from hell!
+It's like a beach episode from hell!
+# Water's pouring in from every direction!
+Water's pouring in from every direction!
+# Looks like Asaga's goin' for a swim...!
+Looks like Asaga's goin' for a swim...!
+# We're on fire, capt'n!
+We're on fire, capt'n!
+# Let's go everyone!
+Let's go everyone!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# All right, capt'n!
+All right, capt'n!
+# Order rescinded!
+Order rescinded!
+# Yes?
+Yes?
+# It's Chigara!
+It's Chigara!
+# I'm ready!
+I'm ready!
+# Hya! (Chigara swings hammar)
+Hya! (Chigara swings hammar)
+# Hya! (Chigara swings hammar)
+Hya! (Chigara swings hammar)
+# Hya! (Chigara swings hammar)
+Hya! (Chigara swings hammar)
+# Whew!
+Whew!
+# Ha-!
+Ha-!
+# I can build it!
+I can build it!
+# You get a bread! Everyone gets a bread!
+You get a bread! Everyone gets a bread!
+# This is a bakery now!
+This is a bakery now!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Uck!
+Uck!
+# Ack!
+Ack!
+# Aaa!
+Aaa!
+# Chigara's gotta go now!
+Chigara's gotta go now!
+# Bread~--
+Bread~--
+# I got one!
+I got one!
+# Let's do our best!
+Let's do our best!
+# Eh? We won? Eh-heh...
+Eh? We won? Eh-heh...
+# Chigara here.
+Chigara here.
+# Do you want some bread, captain?
+Do you want some bread, captain?
+# I'm standing by.
+I'm standing by.
+# I hear you, captain.
+I hear you, captain.
+# How can I help?
+How can I help?
+# Yes, captain?
+Yes, captain?
+# Okay, we're heading there.
+Okay, we're heading there.
+# Understood, captain!
+Understood, captain!
+# Chigara's doing her best!
+Chigara's doing her best!
+# We're on our way!
+We're on our way!
+# I'll get there as fast as possible!
+I'll get there as fast as possible!
+# Loading roundshots!
+Loading roundshots!
+# Load chainshots!
+Load chainshots!
+# Hee, let's get this over with!
+Hee, let's get this over with!
+# How do you even use this thing?
+How do you even use this thing?
+# F-Fire!
+F-Fire!
+# Heee...! It's Vanguard time!
+Heee...! It's Vanguard time!
+# HYWAAAA!!!
+HYWAAAA!!!
+# Heeee... Let's go...!
+Heeee... Let's go...!
+# Fold sails!
+Fold sails!
+# Release sails!
+Release sails!
+# All right, they're dead in the water!
+All right, they're dead in the water!
+# We got them, captain!
+We got them, captain!
+# Hweeeh? Our sails are collapsing!
+Hweeeh? Our sails are collapsing!
+# We took some damage, captain.
+We took some damage, captain.
+# Whew, looks like it wasn't too bad.
+Whew, looks like it wasn't too bad.
+# That's going to take a while to repair...
+That's going to take a while to repair...
+# We're under attack!
+We're under attack!
+# C-Chigara can't take much more of this!
+C-Chigara can't take much more of this!
+# Hawawawa, everything's sinking!
+Hawawawa, everything's sinking!
+# The bakery might be impossible... but Chigara's still happy.
+The bakery might be impossible... but Chigara's still happy.
+# Our sails are on fire, captain!
+Our sails are on fire, captain!
+# Chigara will fix it!
+Chigara will fix it!
+# You need a fixer upper!
+You need a fixer upper!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# I'll do my best!
+I'll do my best!
+# Nevermind.
+Nevermind.
+# I'm here
+I'm here
+# Yeah?
+Yeah?
+# Standing by.
+Standing by.
+# Hyah! (Swing sword)
+Hyah! (Swing sword)
+# Hyah! (Swing sword)
+Hyah! (Swing sword)
+# Hyah! (Swing sword)
+Hyah! (Swing sword)
+# Ho!
+Ho!
+# Hya!
+Hya!
+# RAIMEIKEN!
+RAIMEIKEN!
+# Nin nin smoke bomb!
+Nin nin smoke bomb!
+# RASENZAN!
+RASENZAN!
+# Clone Jutsu!
+Clone Jutsu!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Ow!
+Ow!
+# Ugh!
+Ugh!
+# Tch!
+Tch!
+# Tch... Falling back!
+Tch... Falling back!
+# Yum...
+Yum...
+# Enemy down.
+Enemy down.
+# Let's go!
+Let's go!
+# Heh. Too easy.
+Heh. Too easy.
+# Icari, reporting.
+Icari, reporting.
+# Yeah?
+Yeah?
+# I'm standing by.
+I'm standing by.
+# What's our move, cap?
+What's our move, cap?
+# I'm in this for the money!
+I'm in this for the money!
+# Let's get this job done!
+Let's get this job done!
+# Moving out!
+Moving out!
+# Full speed ahead!
+Full speed ahead!
+# I'm heading to coordinates!
+I'm heading to coordinates!
+# Can't this boat go any faster?
+Can't this boat go any faster?
+# Man your stations!
+Man your stations!
+# Load roundshots!
+Load roundshots!
+# Load chainshots!
+Load chainshots!
+# Prepare anti-personal rounds!
+Prepare anti-personal rounds!
+# Time for our secret weapon!
+Time for our secret weapon!
+# Fire!
+Fire!
+# Vanguard, ready!
+Vanguard, ready!
+# VANGAAUURRDD!!!
+VANGAAUURRDD!!!
+# Charge!
+Charge!
+# Fold sails!
+Fold sails!
+# Release sails!
+Release sails!
+# They're dead in the water!
+They're dead in the water!
+# Bounty collected!
+Bounty collected!
+# All of our rigging's collapsed!
+All of our rigging's collapsed!
+# Light damage reported!
+Light damage reported!
+# Nothing too bad.
+Nothing too bad.
+# Argh, damage reported!
+Argh, damage reported!
+# Oy, what you are doing, cap?!
+Oy, what you are doing, cap?!
+# Fuck it all!
+Fuck it all!
+# We're getting our asses pounded!
+We're getting our asses pounded!
+# Crap...! I'm bailing out!
+Crap...! I'm bailing out!
+# Ugh, everything's on fire!
+Ugh, everything's on fire!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Leave it to me.
+Leave it to me.
+# Belaying order
+Belaying order
+# Yes?
+Yes?
+# You called?
+You called?
+# Nyohoho...
+Nyohoho...
+# Iyah! (Swing Staff)
+Iyah! (Swing Staff)
+# Iyah! (Swing Staff)
+Iyah! (Swing Staff)
+# Iyah! (Swing Staff)
+Iyah! (Swing Staff)
+# Whew!
+Whew!
+# Ah!
+Ah!
+# Heal!
+Heal!
+# Iyah~
+Iyah~
+# O wind, listen to me!
+O wind, listen to me!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Iyah!
+Iyah!
+# Oo-oof!
+Oo-oof!
+# Ack!
+Ack!
+# Clothing damage...!
+Clothing damage...!
+# Delicious~~!!
+Delicious~~!!
+# Claude's got one!
+Claude's got one!
+# High five!
+High five!
+# Where's Claude's reward, captain-sama?
+Where's Claude's reward, captain-sama?
+# It's me, Claude!
+It's me, Claude!
+# Yes, captain?
+Yes, captain?
+# Your resident goddess, at your service!
+Your resident goddess, at your service!
+# It's everyone's best girl, me!
+It's everyone's best girl, me!
+# What can this goddess do for you?
+What can this goddess do for you?
+# I am ready to serve.
+I am ready to serve.
+# On my way!
+On my way!
+# Let's go thatta way!
+Let's go thatta way!
+# Full speed ahead!
+Full speed ahead!
+# Set sail!
+Set sail!
+# I am your humble goddess!
+I am your humble goddess!
+# Load in all the rounds!
+Load in all the rounds!
+# Put in all those whirly boys!
+Put in all those whirly boys!
+# Ready grapes!
+Ready grapes!
+# Hohoho, Claude likes this!
+Hohoho, Claude likes this!
+# Fire!
+Fire!
+# Show off your manhood, captain-sama!!!
+Show off your manhood, captain-sama!!!
+# IYAAAHHHH!!!!
+IYAAAHHHH!!!!
+# Let's get them!! Hyoyoyoyo... hyoyoyoyoyoyooo!!!
+Let's get them!! Hyoyoyoyo... hyoyoyoyoyoyooo!!!
+# Fold sails!
+Fold sails!
+# Release sails!
+Release sails!
+# Lucky! Their sails have collapsed!
+Lucky! Their sails have collapsed!
+# That's what ya get for messin' with mah man!
+That's what ya get for messin' with mah man!
+# Heeek! All the sails have collapsed!
+Heeek! All the sails have collapsed!
+# Something like this won't faze Claude!
+Something like this won't faze Claude!
+# Don't worry, that did hardly anything at all!
+Don't worry, that did hardly anything at all!
+# We're taking fire, captain!
+We're taking fire, captain!
+# Heeek!
+Heeek!
+# Don't tell me you're doing this on purpose to see Claude's clothing explode?!
+Don't tell me you're doing this on purpose to see Claude's clothing explode?!
+# There's no clothing damage so please don't do this!
+There's no clothing damage so please don't do this!
+# Iyaaahhhh....!!! Glub...glub...glubglubglub...
+Iyaaahhhh....!!! Glub...glub...glubglubglub...
+# Fwweeh, we're on fire!
+Fwweeh, we're on fire!
+# Your goddess hears you! Divine Prayer!
+Your goddess hears you! Divine Prayer!
+# Come, wind! Whoosh!
+Come, wind! Whoosh!
+# The seas hear my voice!
+The seas hear my voice!
+# O rain, come down!
+O rain, come down!
+# Did you call for a miracle? Pero pero perorrriiinnn!!!
+Did you call for a miracle? Pero pero perorrriiinnn!!!
+# -1000
+-1000
+# You can count on me.
+You can count on me.
+# Neverminded
+Neverminded
+# Yes?
+Yes?
+# Hm.
+Hm.
+# You have my bow.
+You have my bow.
+# Hya! (Shoot arrow)
+Hya! (Shoot arrow)
+# Hya! (Shoot arrow)
+Hya! (Shoot arrow)
+# Hya! (Shoot arrow)
+Hya! (Shoot arrow)
+# Hyo!
+Hyo!
+# Hah!
+Hah!
+# Awaken. Mark of the Sharr!
+Awaken. Mark of the Sharr!
+# Stay down.
+Stay down.
+# Burn.
+Burn.
+# Come forth. Rain of Arrows!
+Come forth. Rain of Arrows!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Ah!
+Ah!
+# Ugh!
+Ugh!
+# Ha!
+Ha!
+# I fall into the abyss...
+I fall into the abyss...
+# Nomunomunomu...
+Nomunomunomu...
+# Got one.
+Got one.
+# Come.
+Come.
+# Our enemies are no more.
+Our enemies are no more.
+# Yes?
+Yes?
+# Captain.
+Captain.
+# Holding position.
+Holding position.
+# Ready for orders.
+Ready for orders.
+# Hmm...
+Hmm...
+# Speak.
+Speak.
+# I obey.
+I obey.
+# We move.
+We move.
+# Full speed ahead.
+Full speed ahead.
+# Understood.
+Understood.
+# Underway.
+Underway.
+# Loading roundshots.
+Loading roundshots.
+# Loading chainshots.
+Loading chainshots.
+# Loading grapeshots.
+Loading grapeshots.
+# Readying special ordinance.
+Readying special ordinance.
+# Fire.
+Fire.
+# Vanguard, ready.
+Vanguard, ready.
+# Fire.
+Fire.
+# Initiating hand-to-hand combat.
+Initiating hand-to-hand combat.
+# Sails, fold.
+Sails, fold.
+# Sails, release.
+Sails, release.
+# Enemy craft, dead in the water.
+Enemy craft, dead in the water.
+# Enemy sunk.
+Enemy sunk.
+# Our mast is down.
+Our mast is down.
+# Light damage.
+Light damage.
+# Hull is holding.
+Hull is holding.
+# We are under attack.
+We are under attack.
+# Damage reported.
+Damage reported.
+# The ship cannot last.
+The ship cannot last.
+# Flooding reported.
+Flooding reported.
+# Alas, I return to the abyss...
+Alas, I return to the abyss...
+# Fires reported.
+Fires reported.
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# My bow is yours.
+My bow is yours.
+# Very well.
+Very well.
+# Sir!
+Sir!
+# Standing by!
+Standing by!
+# Reporting!
+Reporting!
+# HYAH! (Slamming hammer)
+HYAH! (Slamming hammer)
+# HYAH! (Slamming hammer)
+HYAH! (Slamming hammer)
+# HYAH! (Slamming hammer)
+HYAH! (Slamming hammer)
+# Ho!
+Ho!
+# Weak!
+Weak!
+# My shield shall not break!
+My shield shall not break!
+# Come face me!
+Come face me!
+# I will protect you!
+I will protect you!
+# Witness the might of the High Elves!
+Witness the might of the High Elves!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Ugh!
+Ugh!
+# Ugh!
+Ugh!
+# Ugh!
+Ugh!
+# Damnation! I must retreat!
+Damnation! I must retreat!
+# I thank you.
+I thank you.
+# You are defeated!
+You are defeated!
+# Moving to position!
+Moving to position!
+# Justice has prevailed!
+Justice has prevailed!
+# I am here.
+I am here.
+# For the Song Alliance!
+For the Song Alliance!
+# May the Sharr guide us.
+May the Sharr guide us.
+# My honor is my shield!
+My honor is my shield!
+# May the Monolithic Truth guide our path!
+May the Monolithic Truth guide our path!
+# As Scripture demands!
+As Scripture demands!
+# Set sail!
+Set sail!
+# Full speed ahead!
+Full speed ahead!
+# Moving to position!
+Moving to position!
+# Sir!
+Sir!
+# Man all oars!
+Man all oars!
+# Loading roundshots!
+Loading roundshots!
+# Load chainshots!
+Load chainshots!
+# Load grapeshots!
+Load grapeshots!
+# Prepare special ordinance!
+Prepare special ordinance!
+# Fire!
+Fire!
+# Witness our might!
+Witness our might!
+# FIRE!
+FIRE!
+# Charge!!
+Charge!!
+# Fold sails!
+Fold sails!
+# Release sails!
+Release sails!
+# Enemy craft, dead in the water!
+Enemy craft, dead in the water!
+# The heretics are sinking!
+The heretics are sinking!
+# We've lost our masts!
+We've lost our masts!
+# Our ship shall not fail!
+Our ship shall not fail!
+# Hold fast!
+Hold fast!
+# Damage reported!
+Damage reported!
+# We are taking on water!
+We are taking on water!
+# The ship is sinking!
+The ship is sinking!
+# We have suffered critical damage!
+We have suffered critical damage!
+# The heretics have sunk our ship!
+The heretics have sunk our ship!
+# The enemy has set fire to our ship!
+The enemy has set fire to our ship!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# You have my hammer!
+You have my hammer!
+# Rescinding command.
+Rescinding command.
+# I'm here!
+I'm here!
+# Hey!
+Hey!
+# Yeah?
+Yeah?
+# Iyah! (Swinging a frying pan)
+Iyah! (Swinging a frying pan)
+# Iyah! (Swinging a frying pan)
+Iyah! (Swinging a frying pan)
+# Iyah! (Swinging a frying pan)
+Iyah! (Swinging a frying pan)
+# Whew!
+Whew!
+# Missed!
+Missed!
+# Heal!
+Heal!
+# Protect!
+Protect!
+# Restore!!
+Restore!!
+# Mirror!
+Mirror!
+# Return from the abyss. Resurrect!!
+Return from the abyss. Resurrect!!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Ack!
+Ack!
+# Haaa!
+Haaa!
+# Hee!
+Hee!
+# Onii-chan... How could you...
+Onii-chan... How could you...
+# Yum!
+Yum!
+# Did you see that?
+Did you see that?
+# Let's switch!
+Let's switch!
+# Not bad, eh onii-chan?
+Not bad, eh onii-chan?
+# I'm here, onii-chan!
+I'm here, onii-chan!
+# It's me, Maray!
+It's me, Maray!
+# Now it's my turn to protect you!
+Now it's my turn to protect you!
+# You can count on me!
+You can count on me!
+# What are we doing?
+What are we doing?
+# Betcha you didn't expect me!
+Betcha you didn't expect me!
+# Let's go!
+Let's go!
+# Okay, we're headed there now!
+Okay, we're headed there now!
+# Course laid in!
+Course laid in!
+# On our way!
+On our way!
+# We're on our way!
+We're on our way!
+# Roundshots loaded!
+Roundshots loaded!
+# Chainshots loaded!
+Chainshots loaded!
+# Grapeshots loaded!
+Grapeshots loaded!
+# Bringing out the secret weapon!
+Bringing out the secret weapon!
+# Fire!
+Fire!
+# Get them, onii-chan!
+Get them, onii-chan!
+# YOSSH!!!
+YOSSH!!!
+# I'm gonna bonk them with my frying pan!
+I'm gonna bonk them with my frying pan!
+# Fold sails!
+Fold sails!
+# Release sails!
+Release sails!
+# Yahoo! Their sails are down!
+Yahoo! Their sails are down!
+# As expected of onii-chan!
+As expected of onii-chan!
+# Oh no, our sails collapsed!
+Oh no, our sails collapsed!
+# Heheheh, that did hardly any damage!
+Heheheh, that did hardly any damage!
+# I'm fine, I'm fine!
+I'm fine, I'm fine!
+# My ship's taken damage!
+My ship's taken damage!
+# Shiiit!
+Shiiit!
+# Good thing I'm good at swimming!
+Good thing I'm good at swimming!
+# We might have to abandon ship soon!
+We might have to abandon ship soon!
+# Whelp, abandon ship!
+Whelp, abandon ship!
+# Ugh, we're on fire!
+Ugh, we're on fire!
+# I've got meals for everyone!
+I've got meals for everyone!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# You can count on me!
+You can count on me!
+# Nevermind!
+Nevermind!
+# What?
+What?
+# Yarrr...
+Yarrr...
+# Tch.
+Tch.
+# Hyah! (Swing cannon)
+Hyah! (Swing cannon)
+# Die! (Swing cannon)
+Die! (Swing cannon)
+# Horah! (Swing cannon)
+Horah! (Swing cannon)
+# Dumbass!
+Dumbass!
+# Hya!
+Hya!
+# I'll blow you all to hell!
+I'll blow you all to hell!
+# Get them, you dogs!
+Get them, you dogs!
+# This is mine now!
+This is mine now!
+# Hahaha... Haaahahaahaha!!!
+Hahaha... Haaahahaahaha!!!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Ugh!
+Ugh!
+# Ugh!
+Ugh!
+# Ugh!
+Ugh!
+# Fuck!
+Fuck!
+# Chomp chomp chomp...
+Chomp chomp chomp...
+# Weak!
+Weak!
+# Move!
+Move!
+# Hahaha, we slaughtered them!
+Hahaha, we slaughtered them!
+# What can this pirate do for ye?
+What can this pirate do for ye?
+# Don't test my patience.
+Don't test my patience.
+# Who we killing?
+Who we killing?
+# Don't worry, I won't backstab you. Yet.
+Don't worry, I won't backstab you. Yet.
+# There be booty to be had.
+There be booty to be had.
+# It's me, Cosette Cosmos!
+It's me, Cosette Cosmos!
+# All right, all right.
+All right, all right.
+# A bold move.
+A bold move.
+# When's the killing gonna start?
+When's the killing gonna start?
+# You better know what you're doing!
+You better know what you're doing!
+# Forward you dogs!
+Forward you dogs!
+# Load roundshots!
+Load roundshots!
+# Load chainshots!
+Load chainshots!
+# Load grapeshots!
+Load grapeshots!
+# Roll out the secret weapon!
+Roll out the secret weapon!
+# Fire!
+Fire!
+# How come you get the big gun, Shields?
+How come you get the big gun, Shields?
+# Hahahahahahaha!!!!
+Hahahahahahaha!!!!
+# Let the killing commence!
+Let the killing commence!
+# Fold sails!
+Fold sails!
+# Release sails!
+Release sails!
+# They're dead in the water!
+They're dead in the water!
+# To the depths they go...
+To the depths they go...
+# Fuck it all, we're dead in the water!
+Fuck it all, we're dead in the water!
+# Is that all?
+Is that all?
+# No real damage to report.
+No real damage to report.
+# We took a broadside!
+We took a broadside!
+# You fool! Command me better!
+You fool! Command me better!
+# You moron! We're taking shots left and right!
+You moron! We're taking shots left and right!
+# You are making me reconsider our alliance!
+You are making me reconsider our alliance!
+# Fuck! Time to abandon ship!
+Fuck! Time to abandon ship!
+# Argh, we're on fire!
+Argh, we're on fire!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# I'll take care of 'em. Heh heh...
+I'll take care of 'em. Heh heh...
+# Fine, whatever.
+Fine, whatever.
+# Yeah?
+Yeah?
+# Reporting.
+Reporting.
+# Standing by.
+Standing by.
+# Hya! (Stab dagger)
+Hya! (Stab dagger)
+# Hya! (Stab dagger)
+Hya! (Stab dagger)
+# Hya! (Stab dagger)
+Hya! (Stab dagger)
+# Ho!
+Ho!
+# Ho!
+Ho!
+# Laying traps...
+Laying traps...
+# Clone jutsu!
+Clone jutsu!
+# Tossing nerve gas!
+Tossing nerve gas!
+# Shuriken storm!!
+Shuriken storm!!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Ack!
+Ack!
+# Ack!
+Ack!
+# Ack!
+Ack!
+# Ugh, this is all your fault Shields!
+Ugh, this is all your fault Shields!
+# Nom.
+Nom.
+# Got one.
+Got one.
+# Let's swap places.
+Let's swap places.
+# Well, I suppose you did pretty good for once.
+Well, I suppose you did pretty good for once.
+# Yeah, Shields?
+Yeah, Shields?
+# Yeah, yeah, I can hear you.
+Yeah, yeah, I can hear you.
+# I can't believe I'm doing this...
+I can't believe I'm doing this...
+# I really should have picked another line of work...
+I really should have picked another line of work...
+# I don't get paid enough for this...
+I don't get paid enough for this...
+# Here we go again...
+Here we go again...
+# I'm going, I'm going...
+I'm going, I'm going...
+# You better not be using me as bait!
+You better not be using me as bait!
+# Are you sure this is a good idea?
+Are you sure this is a good idea?
+# You know, I'd prefer it if you moved me further away from the enemy...
+You know, I'd prefer it if you moved me further away from the enemy...
+# Here we go...
+Here we go...
+# All roundshots loaded!
+All roundshots loaded!
+# Loading chainshots!
+Loading chainshots!
+# Loading grapeshots!
+Loading grapeshots!
+# Rolling out the special weapon!
+Rolling out the special weapon!
+# Fire!!
+Fire!!
+# Pretty big gun you got there, Shields.
+Pretty big gun you got there, Shields.
+# Fire!!
+Fire!!
+# Uggggh, here we go!!
+Uggggh, here we go!!
+# Fold sails!
+Fold sails!
+# Release sails!
+Release sails!
+# Haha, we got their mast!
+Haha, we got their mast!
+# They're going down!
+They're going down!
+# Uwwooo, our sails are collapsing!!
+Uwwooo, our sails are collapsing!!
+# We've been hit! Not too bad.
+We've been hit! Not too bad.
+# The enemy grazed us!
+The enemy grazed us!
+# Ugh, we've been hit!
+Ugh, we've been hit!
+# We're taking damage!
+We're taking damage!
+# Ugh, water's pouring in everywhere!
+Ugh, water's pouring in everywhere!
+# Fuck, I'm getting soaked!
+Fuck, I'm getting soaked!
+# It's over! Abandon ship!
+It's over! Abandon ship!
+# Tch, we're on fire!
+Tch, we're on fire!
+# Hehehe, I've got the enemy's plans...
+Hehehe, I've got the enemy's plans...
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Let's get to work.
+Let's get to work.
+# Belay that order!
+Belay that order!
+# I am here!
+I am here!
+# Ready!
+Ready!
+# Hmph!
+Hmph!
+# Hiyyaah! (Swing machete)
+Hiyyaah! (Swing machete)
+# Hiyyaah! (Swing machete)
+Hiyyaah! (Swing machete)
+# Hiyyaah! (Swing machete)
+Hiyyaah! (Swing machete)
+# Hoo! (Dodge)
+Hoo! (Dodge)
+# Hoo! (Dodge)
+Hoo! (Dodge)
+# RARGGH!!
+RARGGH!!
+# Eat this!
+Eat this!
+# HEEAIEAIEAIEAIEAIEAIEAIE!!!
+HEEAIEAIEAIEAIEAIEAIEAIE!!!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Ugh!
+Ugh!
+# Ugh!
+Ugh!
+# Ugh!
+Ugh!
+# I must retreat!
+I must retreat!
+# Chomp.
+Chomp.
+# Enemy slain!
+Enemy slain!
+# Reform lines!
+Reform lines!
+# Victory!
+Victory!
+# I am here.
+I am here.
+# So this is how you Elves fight...
+So this is how you Elves fight...
+# These are strange tides we sail upon.
+These are strange tides we sail upon.
+# Standing by.
+Standing by.
+# Awaiting orders.
+Awaiting orders.
+# I leave this to you.
+I leave this to you.
+# Very well.
+Very well.
+# We sail!
+We sail!
+# Forward!
+Forward!
+# We move!
+We move!
+# Onwards!
+Onwards!
+# All roundshots loaded!
+All roundshots loaded!
+# Load chainshots!
+Load chainshots!
+# Load grapeshots!
+Load grapeshots!
+# What is this contraption?
+What is this contraption?
+# Fire!
+Fire!
+# A curious weapon you have, Captain Shields.
+A curious weapon you have, Captain Shields.
+# Fire!
+Fire!
+# Strike the enemy!
+Strike the enemy!
+# Fold sails!
+Fold sails!
+# Release sails!
+Release sails!
+# You have destroyed the enemy's mast!
+You have destroyed the enemy's mast!
+# Enemy sunk!
+Enemy sunk!
+# Our mast has collapsed!
+Our mast has collapsed!
+# Light damge reported!
+Light damge reported!
+# We have taken minor damage!
+We have taken minor damage!
+# We've been hit!
+We've been hit!
+# The enemy is upon us!
+The enemy is upon us!
+# The enemy has overpowered us!
+The enemy has overpowered us!
+# We won't last long against this firepower!
+We won't last long against this firepower!
+# We are defeated! Tch!
+We are defeated! Tch!
+# We are on fire!
+We are on fire!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# I shall protect you.
+I shall protect you.
+# Cancel that order!
+Cancel that order!
+# Yes?
+Yes?
+# I am here.
+I am here.
+# Let us be in prayer
+Let us be in prayer
+# Hiya! (Swinging staff)
+Hiya! (Swinging staff)
+# Hiya! (Swinging staff)
+Hiya! (Swinging staff)
+# Hiya! (Swinging staff)
+Hiya! (Swinging staff)
+# Hya!
+Hya!
+# Hya!
+Hya!
+# May you be blessed by the Father!
+May you be blessed by the Father!
+# Hear my prayer, O Great Father!
+Hear my prayer, O Great Father!
+# You will pay for your sins!
+You will pay for your sins!
+# Hear ye, may your good deeds bring forth salvation!
+Hear ye, may your good deeds bring forth salvation!
+# Your vitality withers away, for that is the fate of the wicked!
+Your vitality withers away, for that is the fate of the wicked!
+# O Great Father, is judgment day truly upon us? Meteor!
+O Great Father, is judgment day truly upon us? Meteor!
+# O Great Father, may you look over your children! Protection!
+O Great Father, may you look over your children! Protection!
+# -1000
+-1000
+# Hyaa!
+Hyaa!
+# Hyaa!
+Hyaa!
+# Hyaa!
+Hyaa!
+# Ah, I am defeated!
+Ah, I am defeated!
+# O Great Father, we thank you for our daily bread...
+O Great Father, we thank you for our daily bread...
+# Repent!
+Repent!
+# I move.
+I move.
+# The Lord Father have blessed us with this victory.
+The Lord Father have blessed us with this victory.
+# Let us be in prayer.
+Let us be in prayer.
+# You call, Captain Shields?
+You call, Captain Shields?
+# We act as one.
+We act as one.
+# May the Great Father look over us.
+May the Great Father look over us.
+# All is the will of the Great Father.
+All is the will of the Great Father.
+# May we entrust our fates to the Father.
+May we entrust our fates to the Father.
+# We sail forward.
+We sail forward.
+# O Great Father, bless our ship.
+O Great Father, bless our ship.
+# May our path stay true.
+May our path stay true.
+# I see.
+I see.
+# Very well.
+Very well.
+# Prepare to fire roundshots!
+Prepare to fire roundshots!
+# Chainshots, at the ready!
+Chainshots, at the ready!
+# We must do what we must!
+We must do what we must!
+# O Great Father, rain down your fury!
+O Great Father, rain down your fury!
+# Fire!
+Fire!
+# O ancient weapon, awaken from your slumber!
+O ancient weapon, awaken from your slumber!
+# Vanguard!
+Vanguard!
+# Forward! In the Father's name!
+Forward! In the Father's name!
+# Fold sails!
+Fold sails!
+# Release sails!
+Release sails!
+# The enemy cannot escape now!
+The enemy cannot escape now!
+# May the Great Father have mercy on your souls...
+May the Great Father have mercy on your souls...
+# Our sail has been destroyed!
+Our sail has been destroyed!
+# The Great Father has protected us from the worst
+The Great Father has protected us from the worst
+# The ship has taken minor damage.
+The ship has taken minor damage.
+# O Father, protect us from this trial!
+O Father, protect us from this trial!
+# We have taken damage!
+We have taken damage!
+# O Father, have mercy!
+O Father, have mercy!
+# We cannot hold!
+We cannot hold!
+# Why have you forsaken us, Father?
+Why have you forsaken us, Father?
+# The ship is on fire!
+The ship is on fire!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# May the Holy Father bless this undertaking.
+May the Holy Father bless this undertaking.
+# Canceling.
+Canceling.
+# Here.
+Here.
+# Kukuku.
+Kukuku.
+# Yes?
+Yes?
+# I've got you. (Fire arquebus)
+I've got you. (Fire arquebus)
+# You're mine.
+You're mine.
+# Fall.
+Fall.
+# Ho.
+Ho.
+# Ho.
+Ho.
+# Sniping out target.
+Sniping out target.
+# No escape.
+No escape.
+# Witness.
+Witness.
+# Rise, my illusions.
+Rise, my illusions.
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Ugh!
+Ugh!
+# Ugh!
+Ugh!
+# Ugh!
+Ugh!
+# Tch, falling back!
+Tch, falling back!
+# Chomp.
+Chomp.
+# You were weak.
+You were weak.
+# Moving to position.
+Moving to position.
+# Enemies defeated. They weren't anything special.
+Enemies defeated. They weren't anything special.
+# Jem'hyre, reporting.
+Jem'hyre, reporting.
+# What are we doing, boss?
+What are we doing, boss?
+# Yeah?
+Yeah?
+# You got something?
+You got something?
+# Kukuku.
+Kukuku.
+# I'm waiting.
+I'm waiting.
+# Hope you know what you're doing.
+Hope you know what you're doing.
+# All right, I'm heading there.
+All right, I'm heading there.
+# Setting sail.
+Setting sail.
+# Yeah.
+Yeah.
+# Moving.
+Moving.
+# Roundshots.
+Roundshots.
+# Chainshots.
+Chainshots.
+# Grapeshot.
+Grapeshot.
+# Special weapon.
+Special weapon.
+# Fire.
+Fire.
+# So this is the boss' true power?
+So this is the boss' true power?
+# Kukuku.
+Kukuku.
+# Initiating boarding operations.
+Initiating boarding operations.
+# Folding sails.
+Folding sails.
+# Releasing sails.
+Releasing sails.
+# They're not going anywhere.
+They're not going anywhere.
+# Enemy sunk.
+Enemy sunk.
+# Our sails have collapsed.
+Our sails have collapsed.
+# Took some light damage.
+Took some light damage.
+# Our hull's holding.
+Our hull's holding.
+# Tch, we've been hit.
+Tch, we've been hit.
+# They got us.
+They got us.
+# We're taking on water!
+We're taking on water!
+# Tch, need backup!
+Tch, need backup!
+# Abandoning ship!
+Abandoning ship!
+# We are on fire.
+We are on fire.
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# Call the shots, boss.
+Call the shots, boss.
+# Nevermind.
+Nevermind.
+# Shields.
+Shields.
+# It is I.
+It is I.
+# We finish this.
+We finish this.
+# Hiyaa! (Spear)
+Hiyaa! (Spear)
+# Hiyaa! (Spear)
+Hiyaa! (Spear)
+# Hiyaa! (Spear)
+Hiyaa! (Spear)
+# Back!
+Back!
+# Hya!
+Hya!
+# Hiiiiyaa!
+Hiiiiyaa!
+# Hyaaaaa!
+Hyaaaaa!
+# I've got you!
+I've got you!
+# All hands: Form up!
+All hands: Form up!
+# Decimate them!
+Decimate them!
+# Huntress! Consume!
+Huntress! Consume!
+# -1000
+-1000
+# -1000
+-1000
+# Tch!
+Tch!
+# Fool!
+Fool!
+# Ugh!
+Ugh!
+# Huntress! Fall back!
+Huntress! Fall back!
+# Not bad.
+Not bad.
+# Stay down.
+Stay down.
+# Repositioning!
+Repositioning!
+# An obvious outcome. [Wolf howls]
+An obvious outcome. [Wolf howls]
+# Standing by.
+Standing by.
+# I am here.
+I am here.
+# We shall see if you live up to your reputation.
+We shall see if you live up to your reputation.
+# Prove yourself.
+Prove yourself.
+# Do not fail me.
+Do not fail me.
+# What are your intentions?
+What are your intentions?
+# Very well.
+Very well.
+# Moving to coordinates.
+Moving to coordinates.
+# Setting sail.
+Setting sail.
+# Underway.
+Underway.
+# Manning all oars.
+Manning all oars.
+# Load roundshots!
+Load roundshots!
+# Load chainshots!
+Load chainshots!
+# Load grapeshots!
+Load grapeshots!
+# Prepare special weapon!
+Prepare special weapon!
+# Fire!
+Fire!
+# So this is the Vanguard Cannon...
+So this is the Vanguard Cannon...
+# Fire.
+Fire.
+# To arms!
+To arms!
+# Fold sails!
+Fold sails!
+# Release sails!
+Release sails!
+# We have demasted the enemy!
+We have demasted the enemy!
+# Enemy, sunk!
+Enemy, sunk!
+# Our sails have collapsed!
+Our sails have collapsed!
+# Light damage to report!
+Light damage to report!
+# We've just been grazed!
+We've just been grazed!
+# We are under attack!
+We are under attack!
+# Taking damage!
+Taking damage!
+# The ship is listing!
+The ship is listing!
+# Flooding reported below decks!
+Flooding reported below decks!
+# All hands: Abandon ship!
+All hands: Abandon ship!
+# Fires reported!
+Fires reported!
+# All hands: Reload all arms on the double!
+All hands: Reload all arms on the double!
+# All hands: Man your oars! Look lively now!
+All hands: Man your oars! Look lively now!
+# Wolf Brigade, on me!
+Wolf Brigade, on me!
+# -1000
+-1000
+# -1000
+-1000
+# -1000
+-1000
+# A fine decision, Shields.
+A fine decision, Shields.
+# Belay that order!
+Belay that order!
