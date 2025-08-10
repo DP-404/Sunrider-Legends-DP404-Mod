@@ -13,8 +13,22 @@ DATA_FILES = [
 TEMPLATE_MARK = '#'
 PROGRESS_MARK = '%'
 COMMANDS = [
-    '//', 'bat', 'ccc', 'cha', 'dcg', 'dbg', 'fade', 'flag', 'hid', 'ifj', 'mus',
-    'obj', 'roo', 'sou', 'stop', 'tag', 'var', 'voi', 'xob'
+    '//', '-1000',
+    'bat',
+    'ccc', 'cc0', 'cc1', 'cc2', 'cc3', 'cc4', 'cc5', 'cha', 'cre', 'cva',
+    'dcg', 'dbg',
+    'fade', 'flag',
+    'hid', 'hsh',
+    'ifj',
+    'jum',
+    'map', 'mus',
+    'obj',
+    'par', 'por', 'ptf', 'ptt'
+    'roo',
+    'sav', 'sou', 'spr', 'stop',
+    'tag',
+    'var', 'voi',
+    'xcr', 'xob',
 ]
 
 def load_text(path:str, b64decode:bool=False):
