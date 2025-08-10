@@ -1,0 +1,33 @@
+{
+    "version": "0.2",
+    "language": "es",
+    "enabledFileTypes": {
+        "python": false
+    },
+    "ignoreWords": [
+        "arcadius",
+        "asaga",
+        "asahi",
+        "ava",
+        "chigara",
+        "claude",
+        "cosette",
+        "cullen",
+        "fontana",
+        "halla",
+        "hey",
+        "icari",
+        "kayto",
+        "maan",
+        "maray",
+        "song",
+        "sunrider",
+        "veniczar"
+    ],
+    "ignoreRegExpList": [
+        "^#.*",
+        "^(//|bat|ccc|cha|cre|cva|dcg|dbg|fade|flag|hid|hsh|ifj|jum|map|mus|obj|par|por|roo|sav|sou|stop|tag|var|voi|xob|-1000)(.*)",
+        "[\\w]+-",
+        "^[a-z]+ [a-z_]+$"
+    ]
+}
