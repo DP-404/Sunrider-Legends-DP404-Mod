@@ -3,7 +3,7 @@ import os
 import _utility as utility
 
 class Progress:
-    PROGRESS_LINE = "{Filename:<30} : {TotalProgress:>5}/{TotalCount:>5} [{Completion:>5}%]"
+    PROGRESS_LINE = "{Filename:<30} : {TotalProgress:>5}/{TotalCount:>5} [{Completion:>6.2f}%]"
     TOTAL_PROGRESS = "TOTAL PROGRESS"
 
     def __init__(self, filename:str=TOTAL_PROGRESS, total_count:int=0, total_progress:int=0, total_nocount:int=0):
@@ -14,7 +14,7 @@ class Progress:
 
     @property
     def completion(self):
-        return round(self.total_progress / self.total_count * 100, 1)
+        return round(self.total_progress / self.total_count * 100, 2)
 
     def print(self):
         print(self.PROGRESS_LINE.format(
