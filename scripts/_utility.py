@@ -1,15 +1,30 @@
 import base64
 import os
 from traceback import format_exc
-from typing import Any, Callable
 
+SOURCE_LANGUAGE = 'English'
+LANGUAGE = 'Spanish'
 ENCODING = 'utf8'
-DATA_PATH = os.path.dirname(__file__)
+
+BASE_PATH = os.path.dirname(os.path.dirname(__file__))
+SOURCE_PATH = os.path.join(BASE_PATH, 'source_data')
+if not os.path.exists(SOURCE_PATH):
+    SOURCE_PATH = 'C:/Program Files (x86)/Steam/steamapps/common/Sunrider Legends Tactics'
+    if not os.path.exists(SOURCE_PATH):
+        SOURCE_PATH = ''
+
+DATA_PATH = os.path.join(BASE_PATH, 'data')
 DATA_FILES = [
     f
     for f in os.listdir(DATA_PATH)
     if f.endswith('.txt')
 ]
+SOURCE_DATA_FILES = [
+    f
+    for f in os.listdir(SOURCE_PATH)
+    if f.startswith(SOURCE_LANGUAGE) and f.endswith('.txt')
+]
+
 TEMPLATE_MARK = '#'
 PROGRESS_MARK = '%'
 COMMANDS = [
@@ -31,13 +46,17 @@ COMMANDS = [
     'xcr', 'xob',
 ]
 
+def b64pad(string:str):
+    return string + "=" * ((4 - len(string) % 4) % 4)
+
 def load_text(path:str, b64decode:bool=False):
     with open(path, encoding=ENCODING) as file:
         text = file.read()
+    text = text.replace('\ufeff','')
     lns = text.split('\n')
     if b64decode == True:
         lns = [
-            base64.b64decode(ln).decode(encoding=ENCODING)
+            base64.b64decode(b64pad(ln)).decode(encoding=ENCODING)
             for ln in lns
         ]
     text = '\n'.join(lns)
