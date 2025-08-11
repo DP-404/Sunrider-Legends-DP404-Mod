@@ -9,7 +9,7 @@
             "type": "debugpy",
             "request": "launch",
             "module": "_export",
-            "cwd": "${workspaceFolder}/data",
+            "cwd": "${workspaceFolder}/scripts",
             "justMyCode": true
         },
         {
@@ -17,7 +17,15 @@
             "type": "debugpy",
             "request": "launch",
             "module": "_progress",
-            "cwd": "${workspaceFolder}/data",
+            "cwd": "${workspaceFolder}/scripts",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Diff",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "_diff",
+            "cwd": "${workspaceFolder}/scripts",
             "justMyCode": true
         }
     ]
