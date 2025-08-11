@@ -38,7 +38,7 @@ COMMANDS = [
     'jum',
     'map', 'mus',
     'obj',
-    'par', 'por', 'ptf', 'ptt'
+    'par', 'por', 'ptf', 'ptt',
     'roo',
     'sav', 'sou', 'spr', 'stop',
     'tag',

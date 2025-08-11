@@ -47,6 +47,8 @@ def get_progress(filename:str):
 
         if utility.is_line_progressed(template_line):
             total_progress += 1
+            if not is_cmd and not is_empty:
+                pass
         elif (
             plain_line != work_line
             or is_cmd
