@@ -1,2414 +1,2414 @@
-# NEW GAME
-NEW GAME
-# CONTINUE
-CONTINUE
-# OPTIONS
-OPTIONS
-# QUIT
-QUIT
-# NEW GAME+
-NEW GAME+
-# BONUS
+#% NEW GAME
+NUEVO JUEGO
+#% CONTINUE
+CONTINUAR
+#% OPTIONS
+OPCIONES
+#% QUIT
+SALIR
+#% NEW GAME+
+NUEVO JUEGO+
+#% BONUS
 BONUS
-# Begin Battle
-Begin Battle
-# Place Ships
-Place Ships
-# Assign Crew
-Assign Crew
-# Party Status
-Party Status
-# Ship Equipment
-Ship Equipment
-# Bakery
-Bakery
-# Scout
-Scout
-# Quit to World Map
-Quit to World Map
-# Quick Save
-Quick Save
-# Victory:
-Victory:
-# Defeat:
-Defeat:
-# Sea:
-Sea:
-# Wind:
-Wind:
-# On a Stormy Sea...
-On a Stormy Sea...
-# Rescue the adrift raft.
-Rescue the adrift raft.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Turbulent
-Turbulent
-# Strong
-Strong
-# You have not placed all your units. Are you sure you want to proceed?
-You have not placed all your units. Are you sure you want to proceed?
-# Yes
-Yes
-# No
+#% Begin Battle
+Comenzar Batalla
+#% Place Ships
+Colocar Naves
+#% Assign Crew
+Asignar Tripulación
+#% Party Status
+Estado del Grupo
+#% Ship Equipment
+Equipamiento de Naves
+#% Bakery
+Pastelería
+#% Scout
+Explorar
+#% Quit to World Map
+Salir al Mapa del Mundo
+#% Quick Save
+Guardado Rápido
+#% Victory:
+Victoria:
+#% Defeat:
+Derrota:
+#% Sea:
+Mar:
+#% Wind:
+Viento:
+#% On a Stormy Sea...
+En un Mar Tormentoso...
+#% Rescue the adrift raft.
+Rescatar al naufragio.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Turbulent
+Turbulento
+#% Strong
+Fuerte
+#% You have not placed all your units. Are you sure you want to proceed?
+No has colocado todas tus unidades. ¿Estás seguro de que quieres proceder?
+#% Yes
+Sí
+#% No
 No
-# ROUNDSHOT
-ROUNDSHOT
-# CHAINSHOT
-CHAINSHOT
-# GRAPESHOT
-GRAPESHOT
-# FOLD SAILS
-FOLD SAILS
-# RELEASE SAILS
-RELEASE SAILS
-# CREW
-CREW
-# Sunrider
+#% ROUNDSHOT
+BALAS RASAS
+#% CHAINSHOT
+PALANQUETAS
+#% GRAPESHOT
+METRALLA
+#% FOLD SAILS
+ARRIAR VELAS
+#% RELEASE SAILS
+SOLTAR VELAS
+#% CREW
+TRIP
+#% Sunrider
 Sunrider
-# Pirate Raft
-Pirate Raft
-# Pact Brig
-Pact Brig
-# HWACHA
+#% Pirate Raft
+Balsa Pirata
+#% Pact Brig
+Balsa del Pacto
+#% HWACHA
 HWACHA
-# THUNDERSPEAR
-THUNDERSPEAR
-# MORTAR
-MORTAR
-# JOURNAL
-JOURNAL
-# THE STORY SO FAR...
-THE STORY SO FAR...
-# OBJECTIVE
-OBJECTIVE
-# CERA
+#% THUNDERSPEAR
+LANZA DE TRUENO
+#% MORTAR
+MORTERO
+#% JOURNAL
+DIARIO
+#% THE STORY SO FAR...
+LA HISTORIA HASTA AHORA...
+#% OBJECTIVE
+OBJETIVO
+#% CERA
 CERA
-# SEASIDE VILLAGE>>POPULATION: 300
-SEASIDE VILLAGE>>POPULATION: 300
-# You hail from this quaint harbor town situated deep in the Neutral Banners. A sleepy village of little note, most of the villagers work as clam divers or fishers. Approximate equal proximity to Halla and the Asahi Isle has led to the intermingling of Elves and Maan. Here, they live side by side along with countless mixed Maan-Elves. Apart from the occasional pirate threat, life in Cera is largely dull and slow.
-You hail from this quaint harbor town situated deep in the Neutral Banners. A sleepy village of little note, most of the villagers work as clam divers or fishers. Approximate equal proximity to Halla and the Asahi Isle has led to the intermingling of Elves and Maan. Here, they live side by side along with countless mixed Maan-Elves. Apart from the occasional pirate threat, life in Cera is largely dull and slow.
-# ATTACK
-ATTACK
-# SPECIAL
-SPECIAL
-# SWAP
-SWAP
-# BREAD
-BREAD
-# SKIP
-SKIP
-# BACK STEP I
-BACK STEP I
-# After a basic attack, leap backwards while firing the pistol twice, bypassing one enemy backstab.
-After a basic attack, leap backwards while firing the pistol twice, bypassing one enemy backstab.
-# BACK STEP II
-BACK STEP II
-# After a basic attack, leap backwards while firing the pistol 4 times, bypassing two enemy backstabs.
-After a basic attack, leap backwards while firing the pistol 4 times, bypassing two enemy backstabs.
-# BREAK I
-BREAK I
-# Prevent 1 enemy from back stabbing for 3 turns.
-Prevent 1 enemy from back stabbing for 3 turns.
-# BREAK II
-BREAK II
-# Prevent 3 enemies from back stabbing for 3 turns.
-Prevent 3 enemies from back stabbing for 3 turns.
-# BUILD BALLISTA I
-BUILD BALLISTA I
-# Construct a ballista in 2 turns.
-Construct a ballista in 2 turns.
-# BUILD BALLISTA
-BUILD BALLISTA
-# Construct a ballista which attacks nearest enemy at the end of your turn.
-Construct a ballista which attacks nearest enemy at the end of your turn.
-# Nothing happens...
-Nothing happens...
-# Empty
-Empty
-# Invasion!
-Invasion!
-# Escape with the villagers.
-Escape with the villagers.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Calm
-Calm
-# Calm
-Calm
-# BOARD
-BOARD
-# TRANSFER CREW
-TRANSFER CREW
-# SCUTTLE
-SCUTTLE
-# PROCEED
-PROCEED
-# RETREAT
-RETREAT
-# CHARGE VANGUARD
-CHARGE VANGUARD
-# Exchange a full CMD bar for a single Vanguard charge.
-Exchange a full CMD bar for a single Vanguard charge.
-# VANGUARD
+#% SEASIDE VILLAGE>>POPULATION: 300
+ALDEA COSTERA>>POBLACIÓN: 300
+#% You hail from this quaint harbor town situated deep in the Neutral Banners. A sleepy village of little note, most of the villagers work as clam divers or fishers. Approximate equal proximity to Halla and the Asahi Isle has led to the intermingling of Elves and Maan. Here, they live side by side along with countless mixed Maan-Elves. Apart from the occasional pirate threat, life in Cera is largely dull and slow.
+Procedes de este pintoresco pueblo portuario situado en lo profundo de los Territorios Neutrales. Una aldea adormecida de poca importancia, donde la mayoría de los aldeanos trabajan como buceadores de almejas o pescadores. Su proximidad casi equidistante a Halla y a la Isla Asahi ha conducido a la mezcla de Elfos y Maan. Aquí, viven lado a lado junto a incontables mestizos Maan-Elfos. Aparte de la ocasional amenaza pirata, la vida en Cera es en gran medida aburrida y lenta.
+#% ATTACK
+ATACAR
+#% SPECIAL
+ESPECIAL
+#% SWAP
+CAMBIAR
+#% BREAD
+COMIDA
+#% SKIP
+SALTAR
+#% BACK STEP I
+RETROCESO I
+#% After a basic attack, leap backwards while firing the pistol twice, bypassing one enemy backstab.
+Tras un ataque básico, salta hacia atrás mientras dispara la pistola dos veces, evadiendo un ataque por la espalda enemigo
+#% BACK STEP II
+RETROCESO II
+#% After a basic attack, leap backwards while firing the pistol 4 times, bypassing two enemy backstabs.
+Tras un ataque básico, salta hacia atrás mientras dispara la pistola 4 veces, evadiendo dos ataques por la espalda enemigos
+#% BREAK I
+RUPTURA I
+#% Prevent 1 enemy from back stabbing for 3 turns.
+Evita que 1 enemigo ataque por la espalda durante 3 turnos
+#% BREAK II
+RUPTURA II
+#% Prevent 3 enemies from back stabbing for 3 turns.
+Evita que 3 enemigos ataquen por la espalda durante 3 turnos
+#% BUILD BALLISTA I
+CONSTRUIR BALLESTA I
+#% Construct a ballista in 2 turns.
+Construye una ballesta en 2 turnos
+#% BUILD BALLISTA
+CONSTRUIR BALLESTA
+#% Construct a ballista which attacks nearest enemy at the end of your turn.
+Construye una ballesta que ataca al enemigo más cercano al final de tu turno
+#% Nothing happens...
+No ocurre nada...
+#% Empty
+Vacío
+#% Invasion!
+¡Invasión!
+#% Escape with the villagers.
+Escapa con los aldeanos.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Calm
+Calma
+#% Calm
+Calma
+#% BOARD
+ABORDAR
+#% TRANSFER CREW
+TRANSFERIR TRIPULACIÓN
+#% SCUTTLE
+HUNDIR
+#% PROCEED
+PROCEDER
+#% RETREAT
+RETIRADA
+#% CHARGE VANGUARD
+CARGAR VANGUARD
+#% Exchange a full CMD bar for a single Vanguard charge.
+Cambiar una barra de CMD completa por una carga del Vanguard.
+#% VANGUARD
 VANGUARD
-# Ultimate AOE weapon. Requires Vanguard Charge.
-Ultimate AOE weapon. Requires Vanguard Charge.
-# Attempt to capture target. One use per turn.
-Attempt to capture target. One use per turn.
-# Vanguard, fully charged! FIRE!
-Vanguard, fully charged! FIRE!
-# Legion
+#% Ultimate AOE weapon. Requires Vanguard Charge.
+Arma AOE definitiva. Requiere Carga del Vanguard.
+#% Attempt to capture target. One use per turn.
+Intenta capturar al objetivo. Un uso por turno.
+#% Vanguard, fully charged! FIRE!
+¡Vanguard, completamente cargado! ¡FUEGO!
+#% Legion
 Legion
-# Fishing Boat
-Fishing Boat
-# Press any input to continue.
-Press any input to continue.
-# PRESS ANY INPUT TO CONTINUE
-PRESS ANY INPUT TO CONTINUE
-# Below Deck
-Below Deck
-# Cargo Hold
-Cargo Hold
-# Command Deck
-Command Deck
-# Main Deck
-Main Deck
-# Ready Room
-Ready Room
-# PARTY STATUS
-PARTY STATUS
-# AVA CRESCENTIA
+#% Fishing Boat
+Bote Pesquero
+#% Press any input to continue.
+Presione cualquier botón para continuar.
+#% PRESS ANY INPUT TO CONTINUE
+PRESIONE CUALQUIER BOTÓN PARA CONTINUAR
+#% Below Deck
+Cubierta Inferior
+#% Cargo Hold
+Bodega
+#% Command Deck
+Cubierta de Mando
+#% Main Deck
+Cubierta Principal
+#% Ready Room
+Cámara de Oficiales
+#% PARTY STATUS
+ESTADO DEL EQUIPO
+#% AVA CRESCENTIA
 AVA CRESCENTIA
-# ASAGA OAKRUN
+#% ASAGA OAKRUN
 ASAGA OAKRUN
-# CHIGARA ASHADA
+#% CHIGARA ASHADA
 CHIGARA ASHADA
-# MARAY SHIELDS
+#% MARAY SHIELDS
 MARAY SHIELDS
-# ICARI ISIDOLDE
+#% ICARI ISIDOLDE
 ICARI ISIDOLDE
-# CLAUDE TRILLEO
+#% CLAUDE TRILLEO
 CLAUDE TRILLEO
-# SOLA DI RYUVIA
+#% SOLA DI RYUVIA
 SOLA DI RYUVIA
-# KRYSKA STARES
+#% KRYSKA STARES
 KRYSKA STARES
-# COSETTE COSMOS
+#% COSETTE COSMOS
 COSETTE COSMOS
-# LYNN
+#% LYNN
 LYNN
-# QISAH
+#% QISAH
 QISAH
-# MIIRAGE FOSTER
+#% MIIRAGE FOSTER
 MIIRAGE FOSTER
-# JEM'HYRE
+#% JEM'HYRE
 JEM'HYRE
-# EMIL KUUSHANA
+#% EMIL KUUSHANA
 EMIL KUUSHANA
-# ALICE ASHADA
+#% ALICE ASHADA
 ALICE ASHADA
-# ASAGA DI RYUVIA
+#% ASAGA DI RYUVIA
 ASAGA DI RYUVIA
-#  gil
- gil
-# HP
-HP
-# EN
+#%  gil
+ guiles
+#% HP
+PS
+#% EN
 EN
-# ATK
-ATK
-# SPE
-SPE
-# ACC
-ACC
-# DEF
+#% ATK
+ATQ
+#% SPE
+ESP
+#% ACC
+PREC
+#% DEF
 DEF
-# S.DEF
-S.DEF
-# EVADE
-EVADE
-# Increase HP
-Increase HP
-# Increase EN gain
-Increase EN gain
-# Increase basic attack
-Increase basic attack
-# Increase power of specials
-Increase power of specials
-# Increase attack hit rate
-Increase attack hit rate
-# Increase resistance against basic attacks
-Increase resistance against basic attacks
-# Increase resistance against specials and reduce enemy EN gain
-Increase resistance against specials and reduce enemy EN gain
-# Increase evasion against basic attacks
-Increase evasion against basic attacks
-# SPECIAL ATTACKS
-SPECIAL ATTACKS
-# Set special attacks
-Set special attacks
-# SPECIAL ATTACKS
-SPECIAL ATTACKS
-# PASSIVE ABILITIES
-PASSIVE ABILITIES
-# CHARGE I
-CHARGE I
-# Add 100+ EN to the Communal Pool
-Add 100+ EN to the Communal Pool
-# CHARGE II
-CHARGE II
-# Add 150+ EN to the Communal Pool
-Add 150+ EN to the Communal Pool
-# SIPHON
-SIPHON
-# Steal target's EN for the Communal Pool.
-Steal target's EN for the Communal Pool.
-# INSTRUCTIONS I
-INSTRUCTIONS I
-# Allow a unit which has acted to act again
-Allow a unit which has acted to act again
-# INSTRUCTIONS II
-INSTRUCTIONS II
-# Allow all other units to act again
-Allow all other units to act again
-# ANCHOR TURN
-ANCHOR TURN
-# The ship crewed by Ava gains an Action to rotate up to 180 degrees depending on the distance of its previous move
-The ship crewed by Ava gains an Action to rotate up to 180 degrees depending on the distance of its previous move
-# RESTOCK
-RESTOCK
-# Unlocks an Order to reload your fleet's special ammo
-Unlocks an Order to reload your fleet's special ammo
-# FIX CANNONS
-FIX CANNONS
-# Unlocks an Order to repair your fleet's cannons
-Unlocks an Order to repair your fleet's cannons
-# FULL FORWARD
-FULL FORWARD
-# Unlocks an Order to increase your fleet's DMG
-Unlocks an Order to increase your fleet's DMG
-# UNITY
-UNITY
-# Bonus to Communal EN gain when Ava is in party
-Bonus to Communal EN gain when Ava is in party
-# ALL GUARD
-ALL GUARD
-# Unlocks an Order to increase your fleet's evasion
-Unlocks an Order to increase your fleet's evasion
-# FULL SAILS
-FULL SAILS
-# Unlocks an Order to increase your fleet's move range
-Unlocks an Order to increase your fleet's move range
-# COUNTER
-COUNTER
-# Attack all enemies with pistol
-Attack all enemies with pistol
-# AWAKEN
-AWAKEN
-# Awaken the power of the Sharr. Used in any open ability slot.
-Awaken the power of the Sharr. Used in any open ability slot.
-# LEGEND OF THE SHARR
-LEGEND OF THE SHARR
-# Deal devastating damage to all enemies
-Deal devastating damage to all enemies
-# GENKI I
+#% S.DEF
+DEF ESP.
+#% EVADE
+EVASIÓN
+#% Increase HP
+Aumentar PS
+#% Increase EN gain
+Aumentar obtención de EN
+#% Increase basic attack
+Aumentar ataque básico
+#% Increase power of specials
+Aumentar poder de especiales
+#% Increase attack hit rate
+Aumentar acierto de ataque
+#% Increase resistance against basic attacks
+Aumentar resistencia contra ataques básicos
+#% Increase resistance against specials and reduce enemy EN gain
+Aumentar resistencia contra ataques especiales y reducir obtención de EN enemiga
+#% Increase evasion against basic attacks
+Aumentar evasión contra ataques básicos
+#% SPECIAL ATTACKS
+ATAQUES ESPECIALES
+#% Set special attacks
+Establecer ataques especiales
+#% SPECIAL ATTACKS
+ATAQUES ESPECIALES
+#% PASSIVE ABILITIES
+HABILIDADES PASIVAS
+#% CHARGE I
+CARGA I
+#% Add 100+ EN to the Communal Pool
+Añade +100 EN a la Fuente Comunal
+#% CHARGE II
+CARGA II
+#% Add 150+ EN to the Communal Pool
+Añade +150 EN a la Fuente Comunal
+#% SIPHON
+SIFÓN
+#% Steal target's EN for the Communal Pool.
+Roba EN del objetivo para la Fuente Comunal
+#% INSTRUCTIONS I
+INSTRUCCIONES I
+#% Allow a unit which has acted to act again
+Permite a una unidad que ha actuado actuar nuevamente
+#% INSTRUCTIONS II
+INSTRUCCIONES II
+#% Allow all other units to act again
+Permite a todas las demás unidades actuar nuevamente
+#% ANCHOR TURN
+GIRO AMPLIO
+#% The ship crewed by Ava gains an Action to rotate up to 180 degrees depending on the distance of its previous move
+La nave tripulada por Ava obtiene una Acción para rotar hasta 180 grados en dependencia de la distancia de su movimiento anterior
+#% RESTOCK
+REABASTECER
+#% Unlocks an Order to reload your fleet's special ammo
+Desbloquea una Orden para recargar la munición especial de tu flota
+#% FIX CANNONS
+REPARAR CAÑONES
+#% Unlocks an Order to repair your fleet's cannons
+Desbloquea una Orden para reparar los cañones de tu flota
+#% FULL FORWARD
+AVANCE COMPLETO
+#% Unlocks an Order to increase your fleet's DMG
+Desbloquea una Orden para aumentar el DAÑO de tu flota
+#% UNITY
+UNIDAD
+#% Bonus to Communal EN gain when Ava is in party
+Bonus a la obtención de EN Comunal cuando Ava está en el grupo
+#% ALL GUARD
+DEFENSA TOTAL
+#% Unlocks an Order to increase your fleet's evasion
+Desbloquea una Orden para aumentar la evasión de tu flota
+#% FULL SAILS
+A TODA VELA
+#% Unlocks an Order to increase your fleet's move range
+Desbloquea una Orden para aumentar el rango de movimiento de tu flota
+#% COUNTER
+FINTA
+#% Attack all enemies with pistol
+Ataca a todos los enemigos con pistola
+#% AWAKEN
+DESPERTAR
+#% Awaken the power of the Sharr. Used in any open ability slot.
+Despierta el poder de la Sharr. Usado en cualquier espacio de habilidad abierto
+#% LEGEND OF THE SHARR
+LEYENDA DE LA SHARR
+#% Deal devastating damage to all enemies
+Provoca daño devastador a todos los enemigos
+#% GENKI I
 GENKI I
-# Begin boarding actions with additional EN
-Begin boarding actions with additional EN
-# GENKI II
+#% Begin boarding actions with additional EN
+Empieza acciones de abordaje con EN adicional
+#% GENKI II
 GENKI II
-# Begin boarding actions with full EN if stacked on top of Genki I
-Begin boarding actions with full EN if stacked on top of Genki I
-# TURNABOUT
-TURNABOUT
-# Gain a Vanguard Charge the first time the Sunrider's HP goes below 300
-Gain a Vanguard Charge the first time the Sunrider's HP goes below 300
-# THE HERO
-THE HERO
-# Bonus to DMG when another party member is below 25% HP during boarding actions
-Bonus to DMG when another party member is below 25% HP during boarding actions
-# MOVE IT!
-MOVE IT!
-# Ships crewed by Asaga have +20 EN
-Ships crewed by Asaga have +20 EN
-# REVENGE
-REVENGE
-# Counterattack all enemies while Awakened in hand-to-hand combat
-Counterattack all enemies while Awakened in hand-to-hand combat
-# CONCENTRATION
-CONCENTRATION
-# Extend the duration of Awakening
-Extend the duration of Awakening
-# PURIFY
-PURIFY
-# Base attack DMG drastically increases when Awakened with full EN
-Base attack DMG drastically increases when Awakened with full EN
-# BREAD TOSS
-BREAD TOSS
-# Refill the party's bread slots with random bread from the party inventory
-Refill the party's bread slots with random bread from the party inventory
-# WALL
-WALL
-# Build a wall which blocks enemy arrows
-Build a wall which blocks enemy arrows
-# CATAPULT
-CATAPULT
-# Build a catapult which deals heavy damage
-Build a catapult which deals heavy damage
-# BAKERY
-BAKERY
-# Build a bread stand which refills the party's bread slots with random bread from the party inventory.
-Build a bread stand which refills the party's bread slots with random bread from the party inventory.
-# FRESHLY BAKED
-FRESHLY BAKED
-# Eating bread restores 25 extra HP when Chigara is in the party
-Eating bread restores 25 extra HP when Chigara is in the party
-# COOKBOOK
-COOKBOOK
-# Chigara will indicate when an item can be successfully crafted in the Bakery
-Chigara will indicate when an item can be successfully crafted in the Bakery
-# RESAIL
-RESAIL
-# Unlocks an Order which repairs your fleet's sails
-Unlocks an Order which repairs your fleet's sails
-# FIELD REPAIRS
-FIELD REPAIRS
-# Gradually restore the HP of the ship crewed by Chigara each turn
-Gradually restore the HP of the ship crewed by Chigara each turn
-# REFIT
-REFIT
-# Unlocks an Order which restores your fleet's HP
-Unlocks an Order which restores your fleet's HP
-# RAIMEIKEN I
+#% Begin boarding actions with full EN if stacked on top of Genki I
+Empieza acciones de abordaje con EN completa si se acumula con Genki I
+#% TURNABOUT
+CONTRATAQUE
+#% Gain a Vanguard Charge the first time the Sunrider's HP goes below 300
+Obtén una Carga del Vanguard la primera vez que los PS del Sunrider llegan por debajo de 300
+#% THE HERO
+EL HÉROE
+#% Bonus to DMG when another party member is below 25% HP during boarding actions
+Bonus al DAÑO cuando otro miembro del grupo está por debajo del 25% PS durante acciones de abordaje
+#% MOVE IT!
+¡MUÉVANSE!
+#% Ships crewed by Asaga have +20 EN
+Naves tripuladas por Asaga tienen +20 EN
+#% REVENGE
+VENGANZA
+#% Counterattack all enemies while Awakened in hand-to-hand combat
+Contrataca a todos los enemigos mientras está Despierta en combates mano-a-mano
+#% CONCENTRATION
+CONCENTRACIÓN
+#% Extend the duration of Awakening
+Extiende la duración de Despertar
+#% PURIFY
+PURIFICAR
+#% Base attack DMG drastically increases when Awakened with full EN
+El DAÑO de ataques básicos aumenta drásticamente mientras está Despierta con toda la EN
+#% BREAD TOSS
+ARROJAR PANECILLO
+#% Refill the party's bread slots with random bread from the party inventory
+Rellena los espacios de panecillo del grupo con panecillos aleatorios del inventario del grupo
+#% WALL
+MURO
+#% Build a wall which blocks enemy arrows
+Construye un muro que bloquea flechas enemigas
+#% CATAPULT
+CATAPULTA
+#% Build a catapult which deals heavy damage
+Construye una catapulta que provoca graves daños
+#% BAKERY
+PASTELERÍA
+#% Build a bread stand which refills the party's bread slots with random bread from the party inventory.
+Construye un puesto de panecillos que rellena los espacios de panecillo del grupo con panecillos aleatorios del inventario del grupo
+#% FRESHLY BAKED
+RECIÉN HORNEADO
+#% Eating bread restores 25 extra HP when Chigara is in the party
+Comer panecillos restaura 25 PS extra cuando Chigara está en el grupo
+#% COOKBOOK
+LIBRO DE RECETAS
+#% Chigara will indicate when an item can be successfully crafted in the Bakery
+Chigara indicará cuando un objeto pueda ser creado exitosamente en la Pastelería
+#% RESAIL
+REPARAR VELAS
+#% Unlocks an Order which repairs your fleet's sails
+Desbloquea una Orden que repara las velas de tu flota
+#% FIELD REPAIRS
+REPARACIONES EN EL CAMPO
+#% Gradually restore the HP of the ship crewed by Chigara each turn
+Restaura gradualmente los PS de la nave tripulada por Chigara cada turno
+#% REFIT
+RELLENAR
+#% Unlocks an Order which restores your fleet's HP
+Desbloquea una Orden que restaura los PS de tu flota
+#% RAIMEIKEN I
 RAIMEIKEN I
-# Cut up to 3 enemies at once
-Cut up to 3 enemies at once
-# RASENZAN
+#% Cut up to 3 enemies at once
+Corta hasta 3 enemigos a la vez
+#% RASENZAN
 RASENZAN
-# Strike the enemy and launch it backwards
-Strike the enemy and launch it backwards
-# SMOKE BOMB
-SMOKE BOMB
-# Temporarily increase Icari's evasion
-Temporarily increase Icari's evasion
-# CLONE JUTSU
-CLONE JUTSU
-# Create a shadow clone of Icari
-Create a shadow clone of Icari
-# MERCENARY GUILD I
-MERCENARY GUILD I
-# A disgruntled ashigaru fights alongside Icari until she retreats if her party has less than four members
-A disgruntled ashigaru fights alongside Icari until she retreats if her party has less than four members
-# FINISHER
-FINISHER
-# Icari cannot miss when target is near death in boarding actions
-Icari cannot miss when target is near death in boarding actions
-# NOT YET
-NOT YET
-# Increase evasion when near death in hand-to-hand combat
-Increase evasion when near death in hand-to-hand combat
-# IT'S NOT LIKE THAT
-IT'S NOT LIKE THAT
-# Increase attack DMG when in party with Kryska
-Increase attack DMG when in party with Kryska
-# PAYBACK
-PAYBACK
-# Counterattack on successful evade in hand-to-hand combat
-Counterattack on successful evade in hand-to-hand combat
-# IMPROVED FORMULA
-IMPROVED FORMULA
-# Smoke bomb applies to adjacent party members
-Smoke bomb applies to adjacent party members
-# PANTHER STRIKES
-PANTHER STRIKES
-# Attack twice in hand-to-hand combat
-Attack twice in hand-to-hand combat
-# LETTERS OF MARQUE
-LETTERS OF MARQUE
-# Increase bounty awards
-Increase bounty awards
-# HEAL
-HEAL
-# Restore target's HP
-Restore target's HP
-# WIND GUST
-WIND GUST
-# Push an enemy one row back
-Push an enemy one row back
-# FLAT FOOT
-FLAT FOOT
-# Heavily reduce evasion of target
-Heavily reduce evasion of target
-# DISTRACT
-DISTRACT
-# Decrease accuracy of up to 3 enemies
-Decrease accuracy of up to 3 enemies
-# STUPOR
-STUPOR
-# Chance for target to skip turn
-Chance for target to skip turn
-# DISTRACT
-DISTRACT
-# Decreases the accuracy of 3 enemies
-Decreases the accuracy of 3 enemies
-# PULL
-PULL
-# Move an enemy to any position
-Move an enemy to any position
-# FAN SERVICE
+#% Strike the enemy and launch it backwards
+Golpea al enemigo y lánzalo hacia atrás
+#% SMOKE BOMB
+BOMBA DE HUMO
+#% Temporarily increase Icari's evasion
+Aumenta temporalmente la evasión de Icari
+#% CLONE JUTSU
+JUTSU DE CLONACIÓN
+#% Create a shadow clone of Icari
+Crea un clon de sombra de Icari
+#% MERCENARY GUILD I
+GREMIO MERCENARIO I
+#% A disgruntled ashigaru fights alongside Icari until she retreats if her party has less than four members
+Un ashigaru descontento lucha junto a Icari hasta que ella se retire o si el grupo tiene menos de cuatro miembros
+#% FINISHER
+GOLPE FINAL
+#% Icari cannot miss when target is near death in boarding actions
+Icari no puede fallar cuando el objetivo está cerca de la muerte en acciones de abordaje
+#% NOT YET
+AÚN NO
+#% Increase evasion when near death in hand-to-hand combat
+Aumenta la evasión cerca de la muerte en combate mano-a-mano
+#% IT'S NOT LIKE THAT
+NO ES LO QUE PARECE
+#% Increase attack DMG when in party with Kryska
+Aumenta el DAÑO de ataques cuando está en grupo con Kryska
+#% PAYBACK
+REPRESALIA
+#% Counterattack on successful evade in hand-to-hand combat
+Contrataca al evadir exitosamente en combate mano-a-mano
+#% IMPROVED FORMULA
+FÓRMULA MEJORADA
+#% Smoke bomb applies to adjacent party members
+Bomba de humo se aplica a miembros del grupo adyacentes
+#% PANTHER STRIKES
+GOLPES DE PANTERA
+#% Attack twice in hand-to-hand combat
+Ataca dos veces en combate mano-a-mano
+#% LETTERS OF MARQUE
+PATENTES DE CORSO
+#% Increase bounty awards
+Aumenta las recompensas
+#% HEAL
+CURAR
+#% Restore target's HP
+Restaura los PS del objetivo
+#% WIND GUST
+RÁFAGA DE VIENTO
+#% Push an enemy one row back
+Empuja a un enemigo una fila hacia atrás
+#% FLAT FOOT
+PIE PLANO
+#% Heavily reduce evasion of target
+Reduce enormemente la evasión del objetivo
+#% DISTRACT
+DISTRAER
+#% Decrease accuracy of up to 3 enemies
+Disminuye la precisión de hasta 3 enemigos
+#% STUPOR
+ESTUPOR
+#% Chance for target to skip turn
+Probabilidad de que el objetivo se salte el turno
+#% DISTRACT
+DISTRAER
+#% Decreases the accuracy of 3 enemies
+Disminuye la precisión de 3 enemigos
+#% PULL
+JALAR
+#% Move an enemy to any position
+Mueve a  un enemigo a cualquier posición
+#% FAN SERVICE
 FAN SERVICE
-# Increase effectiveness of Distract
-Increase effectiveness of Distract
-# DIVINE PRAYER
-DIVINE PRAYER
-# Unlocks an Order to randomly receive a blessing or curse
-Unlocks an Order to randomly receive a blessing or curse
-# DIVINE WIND
-DIVINE WIND
-# Adds an Action to ships crewed by Claude to move other ships
-Adds an Action to ships crewed by Claude to move other ships
-# SEA GODDESS
-SEA GODDESS
-# Add an Order to change the direction of the wind
-Add an Order to change the direction of the wind
-# GET DOWN, CAPTAIN!
-GET DOWN, CAPTAIN!
-# Random chance that when the Sunrider is sunk, Claude's ship explodes instead
-Random chance that when the Sunrider is sunk, Claude's ship explodes instead
-# ENERGY SAP
-ENERGY SAP
-# Claude's basic attack saps enemy EN and adds it to the communal EN
-Claude's basic attack saps enemy EN and adds it to the communal EN
-# MIRACLE
-MIRACLE
-# For 1 CMD bar, keep your ship and restore the crew's HP after losing a boarding action
-For 1 CMD bar, keep your ship and restore the crew's HP after losing a boarding action
-# AWAKENED SHOT
-AWAKENED SHOT
-# Attack with extra DMG, ignoring enemy DEF
-Attack with extra DMG, ignoring enemy DEF
-# CRIPPLE
-CRIPPLE
-# Increase DMG dealt by party members on target
-Increase DMG dealt by party members on target
-# RAIN OF ARROWS
-RAIN OF ARROWS
-# Attack all enemies
-Attack all enemies
-# MARK OF THE SHARR
-MARK OF THE SHARR
-# Deal devastating DMG to target
-Deal devastating DMG to target
-# SECOND SHOT I
-SECOND SHOT I
-# Chance Sola fires again if she misses during boarding actions
-Chance Sola fires again if she misses during boarding actions
-# SECOND SHOT II
-SECOND SHOT II
-# Increase Second Shot chance
-Increase Second Shot chance
-# FOCUS
-FOCUS
-# Sola cannot miss when at full EN
-Sola cannot miss when at full EN
-# LEGACY OF THE SHARR
-LEGACY OF THE SHARR
-# Gain a Vanguard Charge when Sola uses Mark of the Sharr
-Gain a Vanguard Charge when Sola uses Mark of the Sharr
-# BOMB ARROWS
-BOMB ARROWS
-# Adds a light arrow attack with low EN cost to ships crewed by Sola
-Adds a light arrow attack with low EN cost to ships crewed by Sola
-# BOSS ENDER
-BOSS ENDER
-# Increase DMG of Mark of the Sharr
-Increase DMG of Mark of the Sharr
-# GUARD
-GUARD
-# Drastically increase DEF
-Drastically increase DEF
-# TAUNT
-TAUNT
-# Force enemies to attack Kryska in boarding actions
-Force enemies to attack Kryska in boarding actions
-# DEFENDER
-DEFENDER
-# Take the hit for allies behind Kryska when the enemy uses a ranged attack
-Take the hit for allies behind Kryska when the enemy uses a ranged attack
-# INDOMINATABLE
-INDOMINATABLE
-# Getting hit increases EN
-Getting hit increases EN
-# DIVINE PUNISHMENT
-DIVINE PUNISHMENT
-# Backstabs deal more damage in boarding actions
-Backstabs deal more damage in boarding actions
-# ENDURANCE
-ENDURANCE
-# Phy Def increases when below 25% health in boarding actions
-Phy Def increases when below 25% health in boarding actions
-# COUNTER
-COUNTER
-# When Taunt is active, Kryska counters all enemies that melee her
-When Taunt is active, Kryska counters all enemies that melee her
-# IRON SHIELD
-IRON SHIELD
-# Increase Phy Def against ranged attacks when Defender is active
-Increase Phy Def against ranged attacks when Defender is active
-# HOLY ASSISTANCE
-HOLY ASSISTANCE
-# Unlocks a Order to summon an Alliance galley in naval combat
-Unlocks a Order to summon an Alliance galley in naval combat
-# SECOND WIND
-SECOND WIND
-# Upon death, revive with 50% HP in boarding actions
-Upon death, revive with 50% HP in boarding actions
-# HEAL I
-HEAL I
-# Restore target's HP
-Restore target's HP
-# PROTECT
-PROTECT
-# Increases target's DEF
-Increases target's DEF
-# RESTORE
-RESTORE
-# Target regenerates HP
-Target regenerates HP
-# MIRROR
-MIRROR
-# Target reflects basic melee attacks
-Target reflects basic melee attacks
-# RESURRECT
-RESURRECT
-# The most recently fallen unit returns at full HP
-The most recently fallen unit returns at full HP
-# MESS HALL
-MESS HALL
-# Unlocks an Order which restores 50% of all crew members' HP
-Unlocks an Order which restores 50% of all crew members' HP
-# CAN'T DISAPPOINT
-CAN'T DISAPPOINT
-# Restore some HP to Maray's party after a boarding action
-Restore some HP to Maray's party after a boarding action
-# NOT LIKE THIS
-NOT LIKE THIS
-# The Sunrider will survive one fatal attack with 1 HP if Maray is onboard
-The Sunrider will survive one fatal attack with 1 HP if Maray is onboard
-# AFTERCARE
-AFTERCARE
-# Restore 25% of her party's HP after winning a hand-to-hand battle.
-Restore 25% of her party's HP after winning a hand-to-hand battle.
-# BLESSED RATIONS
-BLESSED RATIONS
-# Eating a bread increases the party's SP Combo if Maray is in the party
-Eating a bread increases the party's SP Combo if Maray is in the party
-# GET THEM!
-GET THEM!
-# Increases party's DMG for 3 turns
-Increases party's DMG for 3 turns
-# BOMBARD I
-BOMBARD I
-# Deal damage to target
-Deal damage to target
-# SMOKE SHELLS
-SMOKE SHELLS
-# Reduce accuracy of all enemies
-Reduce accuracy of all enemies
-# PICK POCKET
-PICK POCKET
-# Steal gil from target
-Steal gil from target
-# BOMBARD II
-BOMBARD II
-# Deal damage to 3 targets
-Deal damage to 3 targets
-# WHALER
-WHALER
-# Ships equipped with a harpoon have unlimited ammo when crewed by Cosette
-Ships equipped with a harpoon have unlimited ammo when crewed by Cosette
-# CUT PURSE
-CUT PURSE
-# Increase effectiveness of Pick Pocket
-Increase effectiveness of Pick Pocket
-# LOOTER
-LOOTER
-# Increase chance of looting goods after capturing ships
-Increase chance of looting goods after capturing ships
-# TOUGHNESS
-TOUGHNESS
-# Chance to ignore damage from a basic attack during boarding actions
-Chance to ignore damage from a basic attack during boarding actions
-# CALTROP TOSS I
-CALTROP TOSS I
-# Toss 3 caltrops which damage enemies which step on them
-Toss 3 caltrops which damage enemies which step on them
-# CALTROP TOSS II
-CALTROP TOSS II
-# Toss 5 caltrops which damage and poison enemies
-Toss 5 caltrops which damage and poison enemies
-# CONFUSION BOMB I
-CONFUSION BOMB I
-# Toss a bomb which makes the target attack at random
-Toss a bomb which makes the target attack at random
-# CLONE JUTSU
-CLONE JUTSU
-# Create a clone of Lynn which takes hits for her
-Create a clone of Lynn which takes hits for her
-# CONFUSION BOMB II
-CONFUSION BOMB II
-# Toss a bomb which makes 3 targets attack at random
-Toss a bomb which makes 3 targets attack at random
-# POISON BOMB
-POISON BOMB
-# Toss a bomb which poisons the target
-Toss a bomb which poisons the target
-# SHURIKEN STORM
-SHURIKEN STORM
-# Throw many shuriken to deal light damage to all enemies
-Throw many shuriken to deal light damage to all enemies
-# INTERRUPT I
-INTERRUPT I
-# Slight chance to toss a shuriken at an attacking enemy in hand-to-hand combat
-Slight chance to toss a shuriken at an attacking enemy in hand-to-hand combat
-# INTERRUPT II
-INTERRUPT II
-# Increased chance to Interrupt
-Increased chance to Interrupt
-# INTERRUPT III
-INTERRUPT III
-# Chance that Interrupt poisons the enemy
-Chance that Interrupt poisons the enemy
-# LARGE POCKETS
-LARGE POCKETS
-# Caltrop Toss generates 5 caltrops
-Caltrop Toss generates 5 caltrops
-# COLLABORATOR
-COLLABORATOR
-# Unlocks Order to discover all enemy ships
-Unlocks Order to discover all enemy ships
-# INNER EYE
-INNER EYE
-# See enemy EN during hand-to-hand combat
-See enemy EN during hand-to-hand combat
-# TOXINS
-TOXINS
-# Caltrops, bombs, and shurikens poisons the enemy
-Caltrops, bombs, and shurikens poisons the enemy
-# SMASH I
-SMASH I
-# Deal a large amount of DMG to target
-Deal a large amount of DMG to target
-# SMASH II
-SMASH II
-# Deal a large amount of DMG and stun the target
-Deal a large amount of DMG and stun the target
-# BOMB II
-BOMB II
-# Throw a bomb which also stuns the target
-Throw a bomb which also stuns the target
-# SWORD DANCE
-SWORD DANCE
-# Attack 3 targets at once in a whirlwind attack
-Attack 3 targets at once in a whirlwind attack
-# BOMB I
-BOMB I
-# Throw a bomb at the target
-Throw a bomb at the target
-# FLURRY
-FLURRY
-# Perform a Sword Dance, then a Smash
-Perform a Sword Dance, then a Smash
-# DESERT STAMINA
-DESERT STAMINA
-# Qisha heals extra HP from Bread
-Qisha heals extra HP from Bread
-# SURVIVAL INSTINCTS
-SURVIVAL INSTINCTS
-# Evasion increases when below half HP
-Evasion increases when below half HP
-# EXPLOSIVE TINDER
-EXPLOSIVE TINDER
-# Bombs damage 3 targets
-Bombs damage 3 targets
-# EVASIVE MANEUVERS
-EVASIVE MANEUVERS
-# Sword Dance no longer triggers backstabs
-Sword Dance no longer triggers backstabs
-# ADRENALINE
-ADRENALINE
-# Getting hit increases EN when below half HP
-Getting hit increases EN when below half HP
-# BLESS
-BLESS
-# HP Regen for 3 turns to ally
-HP Regen for 3 turns to ally
-# BLESS II
-BLESS II
-# Buff accuracy to 3 targets
-Buff accuracy to 3 targets
-# NULLIFY
-NULLIFY
-# Destroy target's armor and spell res
-Destroy target's armor and spell res
-# NULLIFY II
-NULLIFY II
-# Destroy 3 targets' armor and spell res
-Destroy 3 targets' armor and spell res
-# HOLY WALL
-HOLY WALL
-# Increase defense of party
-Increase defense of party
-# DRAIN
-DRAIN
-# Reset all enemy EN to 0
-Reset all enemy EN to 0
-# HEAVENLY JUSTICE
-HEAVENLY JUSTICE
-# In 3 turns, a meteor strikes dealing massive DMG to all enemies
-In 3 turns, a meteor strikes dealing massive DMG to all enemies
-# HEAVENLY SHIELD
-HEAVENLY SHIELD
-# Bless regenerates HP of 3 units.
-Bless regenerates HP of 3 units.
-# FORCE FEEDBACK
-FORCE FEEDBACK
-# Nullify applies to 3 enemies.
-Nullify applies to 3 enemies.
-# MIND SHIELD
-MIND SHIELD
-# When at low health, attacks damage EN instead of HP.
-When at low health, attacks damage EN instead of HP.
-# MIND SHIELD II
-MIND SHIELD II
-# Improves Mind Shield's chance
-Improves Mind Shield's chance
-# SNIPE I
-SNIPE I
-# Deal large amount of DMG to target
-Deal large amount of DMG to target
-# SNIPE II
-SNIPE II
-# Deal large amount of DMG to target and destroy target's armor
-Deal large amount of DMG to target and destroy target's armor
-# AWAKENED SHOTS
-AWAKENED SHOTS
-# Snipe 3 targets
-Snipe 3 targets
-# SUMMON
-SUMMON
-# Fill any empty slots in the party with copies of self
-Fill any empty slots in the party with copies of self
-# GHOST
-GHOST
-# Boost evasion when at full HP
-Boost evasion when at full HP
-# SOLOIST
-SOLOIST
-# Boost basic DMG when Jem'hyre is alone, excepting Kuushana
-Boost basic DMG when Jem'hyre is alone, excepting Kuushana
-# UNSEEN
-UNSEEN
-# Melee attackers do not target Jem'hyre when other party members are present
-Melee attackers do not target Jem'hyre when other party members are present
-# REVENGE
-REVENGE
-# Gain a Vanguard Charge when a player ship with a greater max HP than the Sunrider is sunk
-Gain a Vanguard Charge when a player ship with a greater max HP than the Sunrider is sunk
-# UNSEEN II
-UNSEEN II
-# Ranged attackers do not target Jem'hyre when other party members are present
-Ranged attackers do not target Jem'hyre when other party members are present
-# KILLER INSTINCTS
-KILLER INSTINCTS
-# Snipe I becomes Awakened Shots when HP is below 25%
-Snipe I becomes Awakened Shots when HP is below 25%
-# KILL SHOT
-KILL SHOT
-# Deal massive DMG to an enemy which shoots a ranged backstab which kills a party member
-Deal massive DMG to an enemy which shoots a ranged backstab which kills a party member
-# HUNTRESS
+#% Increase effectiveness of Distract
+Aumenta la efectividad de Distraer
+#% DIVINE PRAYER
+PLEGARIA DIVINA
+#% Unlocks an Order to randomly receive a blessing or curse
+Desbloquea una orden para recibir aleatoriamente una bendición o maldición
+#% DIVINE WIND
+VIENTO DIVINO
+#% Adds an Action to ships crewed by Claude to move other ships
+Añade una Acción a naves tripuladas por Claude para mover a otras naves
+#% SEA GODDESS
+DIOSA DEL MAR
+#% Add an Order to change the direction of the wind
+Añade una Orden para cambiar la dirección del viento
+#% GET DOWN, CAPTAIN!
+¡CÚBRETE, CAPITÁN!
+#% Random chance that when the Sunrider is sunk, Claude's ship explodes instead
+Posibilidad aleatoria de que cuando el Sunrider sea hundido, la nave de Claude explote en su lugar
+#% ENERGY SAP
+DRENAJE DE ENERGÍA
+#% Claude's basic attack saps enemy EN and adds it to the communal EN
+El ataque básico de Claude drena la EN enemiga y la añade a la EN comunal
+#% MIRACLE
+MILAGRO
+#% For 1 CMD bar, keep your ship and restore the crew's HP after losing a boarding action
+Por 1 barra de CMD, mantén tu nave y recupera los PS de la tripulación tras perder una acción de abordaje
+#% AWAKENED SHOT
+DISPARO DEL DESPERTAR
+#% Attack with extra DMG, ignoring enemy DEF
+Ataca con DAÑO extra, ignorando la DEF enemiga
+#% CRIPPLE
+INCAPACITAR
+#% Increase DMG dealt by party members on target
+Aumenta el DAÑO provocado por miembros del grupo al objetivo
+#% RAIN OF ARROWS
+LLUVIA DE FLECHAS
+#% Attack all enemies
+Ataca a todos los enemigos
+#% MARK OF THE SHARR
+MARCA DE LA SHARR
+#% Deal devastating DMG to target
+Provoca DAÑO devastador al objetivo
+#% SECOND SHOT I
+SEGUNDO DISPARO I
+#% Chance Sola fires again if she misses during boarding actions
+Probabilidad de que Sola dispare de nuevo si falla durante acciones de abordaje
+#% SECOND SHOT II
+SEGUNDO DISPARO II
+#% Increase Second Shot chance
+Aumenta la probabilidad de Segundo Disparo
+#% FOCUS
+CONCENTRACIÓN
+#% Sola cannot miss when at full EN
+Sola no puede fallar cuando tiene la EN completa
+#% LEGACY OF THE SHARR
+LEGADO DE LA SHARR
+#% Gain a Vanguard Charge when Sola uses Mark of the Sharr
+Obtén una Carga del Vanguard cuando Sola use Marca de la Sharr
+#% BOMB ARROWS
+FLECHAS BOMBA
+#% Adds a light arrow attack with low EN cost to ships crewed by Sola
+Añade un ataque con flechas con bajo costo de EN a las naves tripuladas por Sola
+#% BOSS ENDER
+DESTROZA-JEFES
+#% Increase DMG of Mark of the Sharr
+Aumenta el DAÑO de Marca de la Sharr
+#% GUARD
+PROTEGER
+#% Drastically increase DEF
+Aumenta drásticamente la DEF
+#% TAUNT
+PROVOCAR
+#% Force enemies to attack Kryska in boarding actions
+Obliga a enemigos a atacar a Kryska en acciones de abordaje
+#% DEFENDER
+DEFENSORA
+#% Take the hit for allies behind Kryska when the enemy uses a ranged attack
+Recibe golpes por los aliados detrás de Kryska cuando el enemigo use un ataque rango
+#% INDOMINATABLE
+INDOMABLE
+#% Getting hit increases EN
+Recibir golpes aumenta la EN
+#% DIVINE PUNISHMENT
+CASTIGO DIVINO
+#% Backstabs deal more damage in boarding actions
+Ataques por la espalda provocan más daño en acciones de abordaje
+#% ENDURANCE
+RESISTENCIA
+#% Phy Def increases when below 25% health in boarding actions
+La Def Fís aumenta cuando se está por debajo del 25% de la salud en acciones de abordaje
+#% COUNTER
+CONTRATAQUE
+#% When Taunt is active, Kryska counters all enemies that melee her
+Cuando Provocar está activo, Kryska contrataca a todos los enemigos que la ataquen cuerpo a cuerpo
+#% IRON SHIELD
+ESCUDO DE HIERRO
+#% Increase Phy Def against ranged attacks when Defender is active
+Aumenta la Def Fís contra ataques rango cuando Defensora está activo
+#% HOLY ASSISTANCE
+AYUDA SAGRADA
+#% Unlocks a Order to summon an Alliance galley in naval combat
+Desbloquea una Orden para invocar un galeón de la Alianza en combate naval
+#% SECOND WIND
+SEGUNDO ALIENTO
+#% Upon death, revive with 50% HP in boarding actions
+Al morir, revive con el 50% de los PS en acciones de abordaje
+#% HEAL I
+CURAR I
+#% Restore target's HP
+Restaura los PS del objetivo
+#% PROTECT
+PROTEGER
+#% Increases target's DEF
+Aumenta la DEF del objetivo
+#% RESTORE
+RESTAURAR
+#% Target regenerates HP
+El objetivo regenera PS
+#% MIRROR
+ESPEJO
+#% Target reflects basic melee attacks
+El objetivo refleja ataques básicos cuerpo a cuerpo
+#% RESURRECT
+RESUCITAR
+#% The most recently fallen unit returns at full HP
+La unidad caída más reciente regresa con todos los PS
+#% MESS HALL
+COMEDOR
+#% Unlocks an Order which restores 50% of all crew members' HP
+Desbloquea una Orden que restaura el 50% de los PS de todos los tripulantes
+#% CAN'T DISAPPOINT
+NO PUEDO DECEPCIONAR
+#% Restore some HP to Maray's party after a boarding action
+Restaura algunos PS al grupo de Maray después de una acción de abordje
+#% NOT LIKE THIS
+NO DE ESTA FORMA
+#% The Sunrider will survive one fatal attack with 1 HP if Maray is onboard
+El Sunrider sobrevive un ataque fatal con 1 PS si Maray está a bordo
+#% AFTERCARE
+CUIDADOS POSTERIORES
+#% Restore 25% of her party's HP after winning a hand-to-hand battle.
+Restaura el 25% de los PS de su grupo tras ganar una batalla mano-a-mano
+#% BLESSED RATIONS
+RACIONES BENDECIDAS
+#% Eating a bread increases the party's SP Combo if Maray is in the party
+Comer un panecillo aumenta el Combo ESP del grupo si Maray está en el grupo
+#% GET THEM!
+¡A ELLOS!
+#% Increases party's DMG for 3 turns
+Aumenta el DAÑO del grupo durante 3 turnos
+#% BOMBARD I
+BOMBARDEAR I
+#% Deal damage to target
+Provoca daño al objetivo
+#% SMOKE SHELLS
+GRANADAS DE HUMO
+#% Reduce accuracy of all enemies
+Reduce la precisión de todos los enemigos
+#% PICK POCKET
+CARTERISTA
+#% Steal gil from target
+Roba guiles del objetivo
+#% BOMBARD II
+BOMBARDEAR II
+#% Deal damage to 3 targets
+Provoca daño a 3 objetivos
+#% WHALER
+CAZADORA DE BALLENAS
+#% Ships equipped with a harpoon have unlimited ammo when crewed by Cosette
+Naves equipadas con un arpón tienen munición ilimitada estando tripuladas por Cosette
+#% CUT PURSE
+CORTABOLSAS
+#% Increase effectiveness of Pick Pocket
+Aumenta la efectividad de Carterista
+#% LOOTER
+SAQUEADORA
+#% Increase chance of looting goods after capturing ships
+Aumenta la probabilidad de saquear botín tras capturar naves
+#% TOUGHNESS
+RESISTENCIA
+#% Chance to ignore damage from a basic attack during boarding actions
+Probabilidad de ignorar daño de un ataque básico durante acciones de abordaje
+#% CALTROP TOSS I
+ARROJAR ABROJO I
+#% Toss 3 caltrops which damage enemies which step on them
+Arroja 3 abrojos que dañan a los enemigos que los pisen 
+#% CALTROP TOSS II
+ARROJAR ABROJO II
+#% Toss 5 caltrops which damage and poison enemies
+Arroja 5 abrojos que dañan y envenenan enemigos
+#% CONFUSION BOMB I
+BOMBA DE CONFUSIÓN I
+#% Toss a bomb which makes the target attack at random
+Arroja una bomba que hace que el objetivo ataque aleatoriamente
+#% CLONE JUTSU
+JUTSU DE CLONACIÓN
+#% Create a clone of Lynn which takes hits for her
+Crea un clon de Lynn que recibe golpes por ella
+#% CONFUSION BOMB II
+BOMBA DE CONFUSIÓN II
+#% Toss a bomb which makes 3 targets attack at random
+Arroja una bomba que hace que 3 objetivos ataquen aleatoriamente
+#% POISON BOMB
+BOMBA DE VENENO
+#% Toss a bomb which poisons the target
+Arroja una bomba que envenena al objetivo
+#% SHURIKEN STORM
+TORMENTA DE SHURIKEN
+#% Throw many shuriken to deal light damage to all enemies
+Lanza muchos shuriken para provocar daño ligero a todos los enemigos
+#% INTERRUPT I
+INTERRUMPIR I
+#% Slight chance to toss a shuriken at an attacking enemy in hand-to-hand combat
+Ligera posibilidad de arrojar un shuriken a un enemigo atacante en combate mano-a-mano
+#% INTERRUPT II
+INTERRUMPIR II
+#% Increased chance to Interrupt
+Posibilidad de Interrumpir aumentada
+#% INTERRUPT III
+INTERRUMPIR III
+#% Chance that Interrupt poisons the enemy
+Probabilidad de que Interrumpir envenene al enemigo
+#% LARGE POCKETS
+BOLSILLOS GRANDES
+#% Caltrop Toss generates 5 caltrops
+Arrojar Abrojo genera 5 abrojos
+#% COLLABORATOR
+COLABORADOR
+#% Unlocks Order to discover all enemy ships
+Desbloquea una Orden para descubrir a todas las naves enemigas
+#% INNER EYE
+VISIÓN INTERIOR
+#% See enemy EN during hand-to-hand combat
+Observa la EN enemiga durante combate cuerpo-a-cuerpo
+#% TOXINS
+TOXINAS
+#% Caltrops, bombs, and shurikens poisons the enemy
+Abrojos, bombas, y shurikens envenenan al enemigo
+#% SMASH I
+APLASTAR I
+#% Deal a large amount of DMG to target
+Provoca una gran cantidad de DAÑO al objetivo
+#% SMASH II
+APLASTAR II
+#% Deal a large amount of DMG and stun the target
+Provoca una gran cantidad de DAÑO y aturde al objetivo
+#% BOMB II
+BOMBA II
+#% Throw a bomb which also stuns the target
+Lanza una bomba que también aturde al objetivo
+#% SWORD DANCE
+DANZA DE ESPADAS
+#% Attack 3 targets at once in a whirlwind attack
+Ataca a 3 objetivos a la vez en un ataque torbellino
+#% BOMB I
+BOMBA I
+#% Throw a bomb at the target
+Lanza una bomba al objetivo
+#% FLURRY
+RÁFAGA
+#% Perform a Sword Dance, then a Smash
+Realiza una Danza de Espadas, y luego un Aplastar
+#% DESERT STAMINA
+AGUANTE DESÉRTICO
+#% Qisha heals extra HP from Bread
+Qisha cura PS extra por Panecillo
+#% SURVIVAL INSTINCTS
+INSTINTOS DE SUPERVIVENCIA
+#% Evasion increases when below half HP
+La evasión aumenta al estar por debajo de la mitad de los PS
+#% EXPLOSIVE TINDER
+YESCA EXPLOSIVA
+#% Bombs damage 3 targets
+Bombas dañan a 3 objetivos
+#% EVASIVE MANEUVERS
+MANIOBRAS EVASIVAS
+#% Sword Dance no longer triggers backstabs
+Danza de Espadas ya no provoca ataques por la espalda
+#% ADRENALINE
+ADRENALINA
+#% Getting hit increases EN when below half HP
+Ser golpeada aumenta la EN al estar por debajo de la mitad de los PS
+#% BLESS
+BENDICIÓN
+#% HP Regen for 3 turns to ally
+Regeneración de PS durante 3 turnos a un aliado 
+#% BLESS II
+BENDICIÓN II
+#% Buff accuracy to 3 targets
+Potencia la precisión a 3 objetivos
+#% NULLIFY
+ANULAR
+#% Destroy target's armor and spell res
+Restruye la armadura y la resistencia a hechizos del objetivo
+#% NULLIFY II
+ANULAR II
+#% Destroy 3 targets' armor and spell res
+Destruye la armadura y la resistencia a hechizos de 3 objetivos
+#% HOLY WALL
+MURO SAGRADO
+#% Increase defense of party
+Aumenta la defensa del grupo
+#% DRAIN
+DRENAR
+#% Reset all enemy EN to 0
+Reinicia la EN de todos los enemigos a 0
+#% HEAVENLY JUSTICE
+JUSTICIA CELESTIAL
+#% In 3 turns, a meteor strikes dealing massive DMG to all enemies
+En 3 turnos, un meteorito golpea provocando un enorme DAÑO a todos los enemigos
+#% HEAVENLY SHIELD
+ESCUDO CELESTIAL
+#% Bless regenerates HP of 3 units.
+La bendición regenera los PS de 3 unidades
+#% FORCE FEEDBACK
+RETROALIMENTACIÓN DE FUERZA
+#% Nullify applies to 3 enemies.
+Anular se aplica a 3 enemigos
+#% MIND SHIELD
+ESCUDO MENTAL
+#% When at low health, attacks damage EN instead of HP.
+Al tener baja salud, los ataques dañan la EN en lugar de los PS
+#% MIND SHIELD II
+ESCUDO MENTAL II
+#% Improves Mind Shield's chance
+Mejora la probabilidad de Escudo Mental
+#% SNIPE I
+FRANCOTIRADORA I
+#% Deal large amount of DMG to target
+Provoca gran cantidad de DAÑO al objetivo
+#% SNIPE II
+FRANCOTIRADORA II
+#% Deal large amount of DMG to target and destroy target's armor
+Provoca una gran cantidad de DAÑO al objetivo y destruye la armadura del objetivo
+#% AWAKENED SHOTS
+DISPAROS DEL DESPERTAR
+#% Snipe 3 targets
+Ataca con Francotiradora a 3 objetivos
+#% SUMMON
+INVOCAR
+#% Fill any empty slots in the party with copies of self
+Rellena cualquier espacio vacío del grupo con copias de sí
+#% GHOST
+FANTASMA
+#% Boost evasion when at full HP
+Mejora la evasión al tener todos los PS
+#% SOLOIST
+SOLISTA
+#% Boost basic DMG when Jem'hyre is alone, excepting Kuushana
+Mejora el DAÑO básico cuando Jem'hyre está sola, exceptuando a Kuushana
+#% UNSEEN
+INVISIBLE
+#% Melee attackers do not target Jem'hyre when other party members are present
+Los atacantes cuerpo a cuerpo no atacan a Jem'hyre cuando otros miembros del grupo estén presentes
+#% REVENGE
+VENGANZA
+#% Gain a Vanguard Charge when a player ship with a greater max HP than the Sunrider is sunk
+Obtén una Carga del Vanguard cuando un nave del jugador con más máx PS que el Sunrider es hundida
+#% UNSEEN II
+INVISIBLE II
+#% Ranged attackers do not target Jem'hyre when other party members are present
+Los atacantes rango no atacan a Jem'hyre cuando otros miembros del grupo estén presentes
+#% KILLER INSTINCTS
+INSTINTOS ASESINOS
+#% Snipe I becomes Awakened Shots when HP is below 25%
+Francotiradora I se convierte en Disparos Despiertos cuando los PS estén por debajo del 25%
+#% KILL SHOT
+DISPARO ASESINO
+#% Deal massive DMG to an enemy which shoots a ranged backstab which kills a party member
+Provoca un enorme DAÑO a un enemigo que dispare un ataque por la espalda rango que mate a un miembro del grupo
+#% HUNTRESS
 HUNTRESS
-# Deal more DMG the lower Kuushana's HP
-Deal more DMG the lower Kuushana's HP
-# DECAPITATE
-DECAPITATE
-# Steal enemy HP
-Steal enemy HP
-# FULL FORWARD
-FULL FORWARD
-# Buff party's basic attack
-Buff party's basic attack
-# COMMAND
-COMMAND
-# EN Gain of party increased
-EN Gain of party increased
-# FULL FORWARD
-FULL FORWARD
-# DMG of party increased
-DMG of party increased
-# HUNTRESS
+#% Deal more DMG the lower Kuushana's HP
+Provoca más DAÑO mientras menos PS tenga Kuushana
+#% DECAPITATE
+DECAPITAR
+#% Steal enemy HP
+Roba PS enemigos
+#% FULL FORWARD
+AVANCE COMPLETO
+#% Buff party's basic attack
+Mejora el ataque básico del grupo
+#% COMMAND
+COMANDO
+#% EN Gain of party increased
+Obtención de EN del grupo aumentada
+#% FULL FORWARD
+AVANCE COMPLETO
+#% DMG of party increased
+DAÑO del grupo aumentado
+#% HUNTRESS
 HUNTRESS
-# Deals larger DMG the lower Kuushana's health
-Deals larger DMG the lower Kuushana's health
-# LOYAL RETAINER
-LOYAL RETAINER
-# Kuushana spawns a Ronin merc if there is space in the party in hand-to-hand combat
-Kuushana spawns a Ronin merc if there is space in the party in hand-to-hand combat
-# NAVIGATOR
-NAVIGATOR
-# Increases move range of the ship crewed by Kuushana
-Increases move range of the ship crewed by Kuushana
-# QUARTERMASTER
-QUARTERMASTER
-# Unlocks an Order allowing all player ships to Board again.
-Unlocks an Order allowing all player ships to Board again.
-# TACTICAL RETREAT
-TACTICAL RETREAT
-# Retreating from battle restores the crew's HP to what it was prior to the battle
-Retreating from battle restores the crew's HP to what it was prior to the battle
-# SCAVENGE
-SCAVENGE
-# Winning hand-to-hand combat fully restores the ship crewed by Kuushana to full HP
-Winning hand-to-hand combat fully restores the ship crewed by Kuushana to full HP
-# RAPID RELOAD
-RAPID RELOAD
-# Unlocks an Order to reload the cannons of all player ships
-Unlocks an Order to reload the cannons of all player ships
-# EMERGENCY MANEUVERS
-EMERGENCY MANEUVERS
-# Unlocks an Order to allow all player ships to move again
-Unlocks an Order to allow all player ships to move again
-# SUMMON
-SUMMON
-# Unlocks an Order to summon a PACT brig in naval combat
-Unlocks an Order to summon a PACT brig in naval combat
-# AWAKEN
-AWAKEN
-# Transform into Nine Tail Form
-Transform into Nine Tail Form
-# PUNISH I
-PUNISH I
-# Deal massive DMG to target when Awakened
-Deal massive DMG to target when Awakened
-# PUNISH II
-PUNISH II
-# Deal massive DMG to target when Awakened
-Deal massive DMG to target when Awakened
-# HELLFIRE
-HELLFIRE
-# Deal massive DMG to all enemies when Awakened
-Deal massive DMG to all enemies when Awakened
-# DOMINATE
-DOMINATE
-# Unlocks an Order allowing Alice to instantly commandeer an enemy ship with less HP than the Sunrider so long as her ship has more than one crew member
-Unlocks an Order allowing Alice to instantly commandeer an enemy ship with less HP than the Sunrider so long as her ship has more than one crew member
-# ASSUME CONTROL
-ASSUME CONTROL
-# Unlocks an Order to allow Alice to trade places with either Chigara or Lynn in naval combat
-Unlocks an Order to allow Alice to trade places with either Chigara or Lynn in naval combat
-# REANIMATE
-REANIMATE
-# Unlocks an Order to replace Chigara or Lynn with Alice if Alice is not in the battle
-Unlocks an Order to replace Chigara or Lynn with Alice if Alice is not in the battle
-# KITSUNE CALL
-KITSUNE CALL
-# Adds an Action to all ships crewed by Alice to instantly relocate Chigara and Lynn to her side if there are two empty slots in the crew
-Adds an Action to all ships crewed by Alice to instantly relocate Chigara and Lynn to her side if there are two empty slots in the crew
-# ABILITIES
-ABILITIES
-# DESCRIPTION
-DESCRIPTION
-# FLEET STATUS
-FLEET STATUS
-# PURCHASE
-PURCHASE
-# UNASSIGNED
-UNASSIGNED
-# STATS
-STATS
-# HULL
-HULL
-# ARMOR
-ARMOR
-# SAILS
-SAILS
-# CREW
-CREW
-# WEAP1
-WEAP1
-# WEAP2
-WEAP2
-# WEAP3
-WEAP3
-# SPECIAL
-SPECIAL
-# WEAPON
-WEAPON
-# T.SPEAR
-T.SPEAR
-# Fire a rocket which deals heavy DMG and destroys armor.
-Fire a rocket which deals heavy DMG and destroys armor.
-# MORTAR
-MORTAR
-# Has a short firing range but devastates the enemy's crew
-Has a short firing range but devastates the enemy's crew
-# HWACHA
+#% Deals larger DMG the lower Kuushana's health
+Provoca más DAÑO mientras menor sea la salud de Kuushana
+#% LOYAL RETAINER
+FIEL SERVIDOR
+#% Kuushana spawns a Ronin merc if there is space in the party in hand-to-hand combat
+Kuushana invoca un mercenario Ronin si hay un espacio en el grupo en combate mano-a-mano
+#% NAVIGATOR
+NAVEGANTE
+#% Increases move range of the ship crewed by Kuushana
+Aumenta el rango de movimiento de la nave tripulada por Kuushana
+#% QUARTERMASTER
+CONTRAMAESTRE
+#% Unlocks an Order allowing all player ships to Board again.
+Desbloquea una Orden permitiendo a todas las naves del jugador Abordar otra vez
+#% TACTICAL RETREAT
+RETIRADA TÁCTICA
+#% Retreating from battle restores the crew's HP to what it was prior to the battle
+Retirarse de una batalla restaura los PS de la tripulación a como estaban antes de la batalla
+#% SCAVENGE
+APROVECHAR
+#% Winning hand-to-hand combat fully restores the ship crewed by Kuushana to full HP
+Ganar combate mano-a-mano restaura totalmente los PS de la nave tripulada por Kuushana 
+#% RAPID RELOAD
+RECARGA RÁPIDA
+#% Unlocks an Order to reload the cannons of all player ships
+Desbloquea una Orden para recargar los cañones de todas las naves del jugador
+#% EMERGENCY MANEUVERS
+MANIOBRAS DE EMERGENCIA
+#% Unlocks an Order to allow all player ships to move again
+Desbloquea una Orden para permitir a todas las naves del jugador moverse de nuevo
+#% SUMMON
+INVOCAR
+#% Unlocks an Order to summon a PACT brig in naval combat
+Desbloquea una Orden para invocar una balsa del PACTO en combate naval
+#% AWAKEN
+DESPERTAR
+#% Transform into Nine Tail Form
+Transformación en Forma de Nueve Colas
+#% PUNISH I
+CASTIGAR I
+#% Deal massive DMG to target when Awakened
+Provoca un enorme DAÑO al objetivo mientras etá Despierta
+#% PUNISH II
+CASTIGAR II
+#% Deal massive DMG to target when Awakened
+Provoca un enorme DAÑO al objetivo mientras etá Despierta
+#% HELLFIRE
+FUEGO INFERNAL
+#% Deal massive DMG to all enemies when Awakened
+Provoca un enorme DAÑO a todos los enemigos mientras etá Despierta
+#% DOMINATE
+DOMINAR
+#% Unlocks an Order allowing Alice to instantly commandeer an enemy ship with less HP than the Sunrider so long as her ship has more than one crew member
+Desbloquea una Orden permitiéndole a Alice comandar inmediatamente una nave enemiga con menos PS que el Sunrider mientras su nave tenga más de un tripulante
+#% ASSUME CONTROL
+ASUMIR CONTROL
+#% Unlocks an Order to allow Alice to trade places with either Chigara or Lynn in naval combat
+Desbloquea una Orden que permite a Alice intercambiar lugares con Chigara o Lynn en combate naval
+#% REANIMATE
+REANIMAR
+#% Unlocks an Order to replace Chigara or Lynn with Alice if Alice is not in the battle
+Desbloquea una Orden que remplaza a Chigara o Lynn con Alice si Alice no está en la batalla
+#% KITSUNE CALL
+LLAMADA KITSUNE
+#% Adds an Action to all ships crewed by Alice to instantly relocate Chigara and Lynn to her side if there are two empty slots in the crew
+Añade una Acción a todas las naves tripuladas por Alice para reubicar instantáneamente a Chigara y Lynn a su lado si hay dos espacios vacíos en la tripulación
+#% ABILITIES
+HABILIDADES
+#% DESCRIPTION
+DESCRIPCIÓN
+#% FLEET STATUS
+ESTADO DE LA FLOTA
+#% PURCHASE
+COMPRAR
+#% UNASSIGNED
+NO ASIGNADO
+#% STATS
+ESTADO
+#% HULL
+CASCO
+#% ARMOR
+ARMAD
+#% SAILS
+VELAS
+#% CREW
+TRIP
+#% WEAP1
+ARMA1
+#% WEAP2
+ARMA2
+#% WEAP3
+ARMA3
+#% SPECIAL
+ESPECIAL
+#% WEAPON
+ARMA
+#% T.SPEAR
+LANZA T.
+#% Fire a rocket which deals heavy DMG and destroys armor.
+Dispara un proyectil que provoca grave DAÑO y destruye armadura.
+#% MORTAR
+MORTERO
+#% Has a short firing range but devastates the enemy's crew
+Tiene un corto rango de fuego pero devasta la tripulación del enemigo.
+#% HWACHA
 HWACHA
-# A wagon-mounted weapon which shoots many flaming arrows, making the target's sails vulnerable to round shots. 
-A wagon-mounted weapon which shoots many flaming arrows, making the target's sails vulnerable to round shots. 
-# ROUND SHOT
-ROUND SHOT
-# Basic cannons which also destroy the enemy's cannons.
-Basic cannons which also destroy the enemy's cannons.
-# CHAIN SHOT
-CHAIN SHOT
-# Fires chained rounds which destroys the enemy's sails and rigging.
-Fires chained rounds which destroys the enemy's sails and rigging.
-# GRAPE SHOT
-GRAPE SHOT
-# Fires several small pellets which deal little damage to ships, but softens up the enemy's crew.
-Fires several small pellets which deal little damage to ships, but softens up the enemy's crew.
-# REMOVE
-REMOVE
-# EQUIP
-EQUIP
-# SELL
-SELL
-# R: SELL
-R: SELL
-# SAIL RADIUS
-SAIL RADIUS
-# FNT ARMOR
-FNT ARMOR
-# SIDE ARMOR
-SIDE ARMOR
-# MOVE SPEED
-MOVE SPEED
-# TURN SPEED
-TURN SPEED
-# SAIL SPEED
-SAIL SPEED
-# EVASION
-EVASION
-# RELOAD COST
-RELOAD COST
-# ASSIGN CREW
-ASSIGN CREW
-# BAKERY
-BAKERY
-# INGREDIENTS
-INGREDIENTS
-# ITEMS
-ITEMS
-# CREW
-CREW
-# Yosha! That came out well!
-Yosha! That came out well!
-# Looks tasty!
-Looks tasty!
-# I can't wait to try it!
-I can't wait to try it!
-# E-Eh-heh... that didn't turn out as expected...
-E-Eh-heh... that didn't turn out as expected...
-# Oh dear... Is it... edible?
-Oh dear... Is it... edible?
-# It was a failure...
-It was a failure...
-# SELECT
-SELECT
-# ASSIGN
-ASSIGN
-# BAKE (B)
-BAKE (B)
-# BAKE
-BAKE
-# Water
-Water
-# Flour
-Flour
-# Yeast
-Yeast
-# Rice
-Rice
-# Coffee Beans
-Coffee Beans
-# Anzu Beans
-Anzu Beans
-# Sugar
-Sugar
-# Oil
-Oil
-# Cocoa
-Cocoa
-# Rum
-Rum
-# Canned Fruits
-Canned Fruits
-# Eggs
-Eggs
-# Cream
-Cream
-# Chicken
-Chicken
-# Denari Spice
-Denari Spice
-# Elfsprout
-Elfsprout
-# Hardtack
-Hardtack
-# Coffee
-Coffee
-# Bread Roll
-Bread Roll
-# Latte
-Latte
-# Soft Hardtack
-Soft Hardtack
-# Egg Tart
-Egg Tart
-# Anzu Bread
-Anzu Bread
-# Sweet Roll
-Sweet Roll
-# Choco Cornet
-Choco Cornet
-# Rum Sponge Cake
-Rum Sponge Cake
-# Cream Puff
-Cream Puff
-# Chicken Sandwich
-Chicken Sandwich
-# Fruit Tart
-Fruit Tart
-# Curry Bread
-Curry Bread
-# Elfbread
-Elfbread
-# Cake
-Cake
-# Mousse
+#% A wagon-mounted weapon which shoots many flaming arrows, making the target's sails vulnerable to round shots. 
+Un arma montada en vagón que dispara muchas flechas en llamas, haciendo a las velas del objetivo vulnerables a balas.
+#% ROUND SHOT
+BALAS RASAS
+#% Basic cannons which also destroy the enemy's cannons.
+Cañones básicos que además destruyen los cañones del enemigo.
+#% CHAIN SHOT
+PALANQUETAS
+#% Fires chained rounds which destroys the enemy's sails and rigging.
+Dispara balas con cadenas que destruyen las velas.
+#% GRAPE SHOT
+METRALLA
+#% Fires several small pellets which deal little damage to ships, but softens up the enemy's crew.
+Dispara múltiples balas pequeñas que provocan poco daño a naves, pero daña a la tripulación del enemigo.
+#% REMOVE
+QUITAR
+#% EQUIP
+EQUIPAR
+#% SELL
+VENDER
+#% R: SELL
+R: VENDER
+#% SAIL RADIUS
+RADIO DE NAV.
+#% FNT ARMOR
+ARMAD. FRONT.
+#% SIDE ARMOR
+ARMAD. LAT.
+#% MOVE SPEED
+VEL. DE MOV.
+#% TURN SPEED
+VEL. DE GIRO
+#% SAIL SPEED
+VEL. DE VELA
+#% EVASION
+EVASIÓN
+#% RELOAD COST
+COST. DE RECARGA
+#% ASSIGN CREW
+ASIGNAR TRIPULACIÓN
+#% BAKERY
+PASTELERÍA
+#% INGREDIENTS
+INGREDIENTES
+#% ITEMS
+OBJETOS
+#% CREW
+TRIPULACIÓN
+#% Yosha! That came out well!
+¡Yosha! ¡Eso salió bien!
+#% Looks tasty!
+¡Luce delicioso!
+#% I can't wait to try it!
+¡No puedo esperar a probarlo!
+#% E-Eh-heh... that didn't turn out as expected...
+E-Eh-heh... eso no salió como esperaba...
+#% Oh dear... Is it... edible?
+Oh vaya... ¿Es... comestible?
+#% It was a failure...
+Fue un fallo...
+#% SELECT
+SELECCIONAR
+#% ASSIGN
+ASIGNAR
+#% BAKE (B)
+COCINAR (B)
+#% BAKE
+COCINAR
+#% Water
+Agua
+#% Flour
+Harina
+#% Yeast
+Polvo de Hornear
+#% Rice
+Arroz
+#% Coffee Beans
+Granos de Café
+#% Anzu Beans
+Frijoles Anzu
+#% Sugar
+Azúcar
+#% Oil
+Aceite
+#% Cocoa
+Cacao
+#% Rum
+Ron
+#% Canned Fruits
+Frutas Enlatadas
+#% Eggs
+Huevos
+#% Cream
+Crema
+#% Chicken
+Pollo
+#% Denari Spice
+Especias Denari
+#% Elfsprout
+Brote Élfico
+#% Hardtack
+Galleta Marinera
+#% Coffee
+Café
+#% Bread Roll
+Barra de Pan
+#% Latte
+Café con Leche
+#% Soft Hardtack
+Galleta Marinera Blanda
+#% Egg Tart
+Tarta de Huevo
+#% Anzu Bread
+Pan Anzu
+#% Sweet Roll
+Pan Dulce
+#% Choco Cornet
+Cornet de Chocolate
+#% Rum Sponge Cake
+Bizcocho de Ron
+#% Cream Puff
+Bollo de Crema
+#% Chicken Sandwich
+Sándwich de Pollo
+#% Fruit Tart
+Tarta de Frutas
+#% Curry Bread
+Pan de Curry
+#% Elfbread
+Pan Élfico
+#% Cake
+Pastel
+#% Mousse
 Mousse
-# Chocolate Mousse
-Chocolate Mousse
-# Rum Mousse
-Rum Mousse
-# Jam Mousse
-Jam Mousse
-# Parfait Deluxe
-Parfait Deluxe
-# Chocolate Bar
-Chocolate Bar
-# White Chocolate
-White Chocolate
-# Donut
-Donut
-# Glazed Donut
-Glazed Donut
-# Chocolate Donut
-Chocolate Donut
-# Cream Donut
-Cream Donut
-# Jelly Donut
-Jelly Donut
-# Katsu Sandwich
-Katsu Sandwich
-# Fried Anzu Ball
-Fried Anzu Ball
-# Huge Toast
-Huge Toast
-# Mochi
+#% Chocolate Mousse
+Mousse de Chocolate
+#% Rum Mousse
+Mousse de Ron
+#% Jam Mousse
+Mouse de Jalea
+#% Parfait Deluxe
+Parfait De Lujo
+#% Chocolate Bar
+Barra de Chocolate
+#% White Chocolate
+Chocolate Blanco
+#% Donut
+Dona
+#% Glazed Donut
+Dona Glaceada
+#% Chocolate Donut
+Dona de Chocolate
+#% Cream Donut
+Dona de Crema
+#% Jelly Donut
+Dona de Gelatina
+#% Katsu Sandwich
+Sándwich Katsu
+#% Fried Anzu Ball
+Bola de Anzu Frita
+#% Huge Toast
+Tostada Gigante
+#% Mochi
 Mochi
-# Anzu Mochi
-Anzu Mochi
-# Sweet Mochi
-Sweet Mochi
-# Choco Mochi
-Choco Mochi
-# Drunken Mochi
-Drunken Mochi
-# Fruit Mochi
-Fruit Mochi
-# Elf Mochi
-Elf Mochi
-# Fried Mochi
-Fried Mochi
-# Juice
-Juice
-# Cream Soup
-Cream Soup
-# Bread Bowl Soup
-Bread Bowl Soup
-# Omurice
+#% Anzu Mochi
+Mochi de Anzu
+#% Sweet Mochi
+Mochi Dulce
+#% Choco Mochi
+Mochi de Chocolate
+#% Drunken Mochi
+Mochi con Alcohol
+#% Fruit Mochi
+Mochi de Frutas
+#% Elf Mochi
+Mochi Élfico
+#% Fried Mochi
+Mochi Frito
+#% Juice
+Jugo
+#% Cream Soup
+Sopa de Crema
+#% Bread Bowl Soup
+Sopa en Pan
+#% Omurice
 Omurice
-# Curry
+#% Curry
 Curry
-# Chicken Curry
-Chicken Curry
-# Mess
-Mess
-# CHAPTER 1
-CHAPTER 1
-# On a Stormy Sea...
-On a Stormy Sea...
-# INTERLUDE...
-INTERLUDE...
-# At New Edar...
-At New Edar...
-# CHAPTER 2
-CHAPTER 2
-# Scoundrel's Tales
-Scoundrel's Tales
-# TYDARIA
+#% Chicken Curry
+Curry de Pollo
+#% Mess
+Desastre
+#% CHAPTER 1
+CAPÍTULO 1
+#% On a Stormy Sea...
+En un Mar Tormentoso...
+#% INTERLUDE...
+INTERLUDIO...
+#% At New Edar...
+En New Edar...
+#% CHAPTER 2
+CAPÍTULO 2
+#% Scoundrel's Tales
+Cuentos de Pícaros
+#% TYDARIA
 TYDARIA
-# Mining Town>>POPULATION: 600
-Mining Town>>POPULATION: 600
-# This frontier town is largely built around the ore mines of Tydaria. Mostly occupied by male Maan and Demonfolk, the miners provide the Neutral Banners with much of its pig iron, but offer little in the way of other services. The town is comprised of wooden shanties, punctuated by the occasional brothel.
-This frontier town is largely built around the ore mines of Tydaria. Mostly occupied by male Maan and Demonfolk, the miners provide the Neutral Banners with much of its pig iron, but offer little in the way of other services. The town is comprised of wooden shanties, punctuated by the occasional brothel.
-# HEAL II
-HEAL II
-# Greatly restore target's HP
-Greatly restore target's HP
-# DONE
-DONE
-# NO CREW
-NO CREW
-# Who is This Lost, Sassy Child?
-Who is This Lost, Sassy Child?
-# Defeat the pirate fleet.
-Defeat the pirate fleet.
-# The Sunrider is lost.
-The Sunrider is lost.
-# Calm
-Calm
-# Calm
-Calm
-# ERROR: All ships must be crewed!
-ERROR: All ships must be crewed!
-# LOOT GAINED
-LOOT GAINED
-# VERSTA
+#% Mining Town>>POPULATION: 600
+Pueblo Minero>>POBLACIÓN: 600
+#% This frontier town is largely built around the ore mines of Tydaria. Mostly occupied by male Maan and Demonfolk, the miners provide the Neutral Banners with much of its pig iron, but offer little in the way of other services. The town is comprised of wooden shanties, punctuated by the occasional brothel.
+Este pueblo fronterizo está construido ampliamente alrededor de las minas de Tydaria. En su mayoría ocupado por hombres Maan y Demonios, los mineros suministran a los Territorios Neutrales con mucho de su hierro bruto, pero ofrecen poco en el sentido de otros servicios. El pueblo se compone de chozas de madera, con algún burdel ocasional.
+#% HEAL II
+CURAR II
+#% Greatly restore target's HP
+Restaura enormemente los PS del objetivo
+#% DONE
+HECHO
+#% NO CREW
+SIN TRIPULACIÓN
+#% Who is This Lost, Sassy Child?
+¿Quién es Esta Niña Perdida y Descarada?
+#% Defeat the pirate fleet.
+Derrota a la flota pirata.
+#% The Sunrider is lost.
+El Sunrider es hundido.
+#% Calm
+Calma
+#% Calm
+Calma
+#% ERROR: All ships must be crewed!
+ERROR: ¡Todas las naves deben estar tripuladas!
+#% LOOT GAINED
+BOTÍN OBTENIDO
+#% VERSTA
 VERSTA
-# PORT TOWN>>POPULATION: 5000
-PORT TOWN>>POPULATION: 5000
-# Long ago, Versta was a hold of the Holy Ryuvian Empire, home to a mighty tower which ascended into the clouds, demonstrating the monolithic power of the Church to all the ships which sailed through the Strait of Far Port. Today, little remains of the ancient tower and a more modest stone light house serves to guide the hundreds of ships which pass by the city on route to the Dragon Foot Sea.
-Long ago, Versta was a hold of the Holy Ryuvian Empire, home to a mighty tower which ascended into the clouds, demonstrating the monolithic power of the Church to all the ships which sailed through the Strait of Far Port. Today, little remains of the ancient tower and a more modest stone light house serves to guide the hundreds of ships which pass by the city on route to the Dragon Foot Sea.
-# SET PARTY
-SET PARTY
-# RAIMEIKEN II
+#% PORT TOWN>>POPULATION: 5000
+PUEBLO PORTUARIO>>POBLACIÓN: 5000
+#% Long ago, Versta was a hold of the Holy Ryuvian Empire, home to a mighty tower which ascended into the clouds, demonstrating the monolithic power of the Church to all the ships which sailed through the Strait of Far Port. Today, little remains of the ancient tower and a more modest stone light house serves to guide the hundreds of ships which pass by the city on route to the Dragon Foot Sea.
+Hace mucho tiempo, Versta fue un fuerte del Sacro Imperio Ryuviano, hogar de una imponente torre que ascendía hasta las nubes, demostrando el monolítico poder de la Iglesia a todas las naves que navegaran a través del Estrecho de Far Port. Hoy, poco queda de la antigua torre y una faro de piedra más modesto sirve como guía a los cientos de navíos que pasan por la ciudad en ruta al Mar Dragon Foot.
+#% SET PARTY
+ESTABLECER GRUPO
+#% RAIMEIKEN II
 RAIMEIKEN II
-# Cut through all enemies, dealing great damage.
-Cut through all enemies, dealing great damage.
-# +25 HP
-+25 HP
-# +40 EN
+#% Cut through all enemies, dealing great damage.
+Corta a todos los enemigos, provocando grandes daños.
+#% +25 HP
++25 PS
+#% +40 EN
 +40 EN
-# +40 HP
-+40 HP
-# +100 EN
+#% +40 HP
++40 PS
+#% +100 EN
 +100 EN
-# +25 HP, +40 EN
-+25 HP, +40 EN
-# +100 HP
-+100 HP
-# +80 HP
-+80 HP
-# +100 HP
-+100 HP
-# +100 HP
-+100 HP
-# +80 HP, +40 EN
-+80 HP, +40 EN
-# +125 HP
-+125 HP
-# +130 HP
-+130 HP
-# +80 HP
-+80 HP
-# +140 HP
-+140 HP
-# FULL HP
-FULL HP
-# FULL HP
-FULL HP
-# +25 EN GEN
-+25 EN GEN
-# +25 EN GEN, +75 HP
-+25 EN GEN, +75 HP
-# +40 EN GEN
-+40 EN GEN
-# +25 EN GEN, +50 HP
-+25 EN GEN, +50 HP
-# +40 EN/HP GEN
-+40 EN/HP GEN
-# +100 EN
+#% +25 HP, +40 EN
++25 PS, +40 EN
+#% +100 HP
++100 PS
+#% +80 HP
++80 PS
+#% +100 HP
++100 PS
+#% +100 HP
++100 PS
+#% +80 HP, +40 EN
++80 PS, +40 EN
+#% +125 HP
++125 PS
+#% +130 HP
++130 PS
+#% +80 HP
++80 PS
+#% +140 HP
++140 PS
+#% FULL HP
+TODOS LOS PS
+#% FULL HP
+TODOS LOS PS
+#% +25 EN GEN
++25 GEN. EN
+#% +25 EN GEN, +75 HP
++25 GEN. EN, +75 PS
+#% +40 EN GEN
++40 GEN. EN
+#% +25 EN GEN, +50 HP
++25 GEN. EN, +50 PS
+#% +40 EN/HP GEN
++40 GEN. EN/PS
+#% +100 EN
 +100 EN
-# +150 EN
+#% +150 EN
 +150 EN
-# +70 HP
-+70 HP
-# +10 DEF UP
-+10 DEF UP
-# +8 DEF UP
-+8 DEF UP
-# +12 DEF UP
-+12 DEF UP
-# +9 DEF UP
-+9 DEF UP
-# +200 HP
-+200 HP
-# +150 HP
-+150 HP
-# MAX DEF
-MAX DEF
-# +20 HP GEN
-+20 HP GEN
-# +30 HP GEN
-+30 HP GEN
-# +35 HP GEN
-+35 HP GEN
-# +20 HP GEN, +30 EN
-+20 HP GEN, +30 EN
-# +20 HP GEN, +40 EN
-+20 HP GEN, +40 EN
-# +25 HP GEN
-+25 HP GEN
-# +50 HP GEN
-+50 HP GEN
-# +20 HP GEN, +5 DEF UP
-+20 HP GEN, +5 DEF UP
-# +50 EN
+#% +70 HP
++70 PS
+#% +10 DEF UP
++10 DEF
+#% +8 DEF UP
++8 DEF
+#% +12 DEF UP
++12 DEF
+#% +9 DEF UP
++9 DEF
+#% +200 HP
++200 PS
+#% +150 HP
++150 PS
+#% MAX DEF
+MÁX DEF
+#% +20 HP GEN
++20 GEN. PS
+#% +30 HP GEN
++30 GEN. PS
+#% +35 HP GEN
++35 GEN. PS
+#% +20 HP GEN, +30 EN
++20 GEN. PS, +30 EN
+#% +20 HP GEN, +40 EN
++20 GEN. PS, +40 EN
+#% +25 HP GEN
++25 GEN. PS
+#% +50 HP GEN
++50 GEN. PS
+#% +20 HP GEN, +5 DEF UP
++20 GEN. PS, +5 DEF
+#% +50 EN
 +50 EN
-# +70 HP
-+70 HP
-# +100 HP
-+100 HP
-# +80 HP
-+80 HP
-# +140 HP
-+140 HP
-# +180 HP
-+180 HP
-# +20 HP
-+20 HP
-# Aid the Verstan ship
-Aid the Verstan ship
-# Capture the Pact supply ship
-Capture the Pact supply ship
-# Neutral
+#% +70 HP
++70 PS
+#% +100 HP
++100 PS
+#% +80 HP
++80 PS
+#% +140 HP
++140 PS
+#% +180 HP
++180 PS
+#% +20 HP
++20 PS
+#% Aid the Verstan ship
+Auxilia a la nave Verstana
+#% Capture the Pact supply ship
+Captura la nave de suministros del Pacto
+#% Neutral
 Neutral
-# Pact Frigate
-Pact Frigate
-# Versta Frigate
-Versta Frigate
-# Pact Cutter
-Pact Cutter
-# Supply Ship
-Supply Ship
-# The Versta Affair (A)
-The Versta Affair (A)
-# Take control of the Verstan frigate, then sink all enemies. You must crew at least two girls on a ship to board other ships.
-Take control of the Verstan frigate, then sink all enemies. You must crew at least two girls on a ship to board other ships.
-# The Sunrider or the Verstan frigate is sunk.
-The Sunrider or the Verstan frigate is sunk.
-# Breeze
-Breeze
-# Calm
-Calm
-# The Versta Affair (B)
-The Versta Affair (B)
-# Capture the enemy supply ship, then sink all enemies.
-Capture the enemy supply ship, then sink all enemies.
-# The supply ship either escapes or is sunk before you loot it, or the Sunrider is sunk.
-The supply ship either escapes or is sunk before you loot it, or the Sunrider is sunk.
-# Breeze
-Breeze
-# Calm
-Calm
-# VOLARIS
+#% Pact Frigate
+Fragata del Pacto
+#% Versta Frigate
+Fragata Verstana
+#% Pact Cutter
+Cúter del Pacto
+#% Supply Ship
+Nave de Suministros
+#% The Versta Affair (A)
+El Incidente de Versta (A)
+#% Take control of the Verstan frigate, then sink all enemies. You must crew at least two girls on a ship to board other ships.
+Toma el control de la fragata Verstana, luego hunde a todos los enemigos. Debes tripular al menos a dos chicas en una nave para abordar otras naves.
+#% The Sunrider or the Verstan frigate is sunk.
+El Sunrider o la fragata Verstana son hundidos.
+#% Breeze
+Brisa
+#% Calm
+Calma
+#% The Versta Affair (B)
+El Incidente de Versta (B)
+#% Capture the enemy supply ship, then sink all enemies.
+Captura la nave de suministros enemiga, luego hunde a todos los enemigos.
+#% The supply ship either escapes or is sunk before you loot it, or the Sunrider is sunk.
+La nave de suministros escapa o es hundida antes de que la saquees, o el Sunrider es hundido.
+#% Breeze
+Brisa
+#% Calm
+Calma
+#% VOLARIS
 VOLARIS
-# HOME OF THE HIGH ELVES>>POPULATION: 1000 Elves+5000 Other Races
-HOME OF THE HIGH ELVES>>POPULATION: 1000 Elves+5000 Other Races
-# In the current age, Old Ryuvia has lost most of its luster and it is Volaris which is the shining jewel of the Dragon's Foot Sea. Ruled by the High Elves of the Song Alliance, absolute devotion to the Church is imposed upon all those who live here. The other races of the realm are considered children to be educated by the elders of Song in the intricacies of culture, science, and magicka. Given the dominance of the Song Alliance, many other races tolerate or even embrace their low status in Elvish society to receive gifts.
-In the current age, Old Ryuvia has lost most of its luster and it is Volaris which is the shining jewel of the Dragon's Foot Sea. Ruled by the High Elves of the Song Alliance, absolute devotion to the Church is imposed upon all those who live here. The other races of the realm are considered children to be educated by the elders of Song in the intricacies of culture, science, and magicka. Given the dominance of the Song Alliance, many other races tolerate or even embrace their low status in Elvish society to receive gifts.
-# Rotate depending on distance of prev. move.
-Rotate depending on distance of prev. move.
-# Reload your fleet's special ammo
-Reload your fleet's special ammo
-# Repair your fleet's cannons
-Repair your fleet's cannons
-# Increase your fleet's DMG
-Increase your fleet's DMG
-# Increase your fleet's evasion
-Increase your fleet's evasion
-# Increase your fleet's move/turn speed. +Bonus with sails.
-Increase your fleet's move/turn speed. +Bonus with sails.
-# Repair your fleet's sails
-Repair your fleet's sails
-# Restore half of your fleet's HP
-Restore half of your fleet's HP
-# Restore 50% of all crew members' HP
-Restore 50% of all crew members' HP
-# MERCENARY GUILD II
-MERCENARY GUILD II
-# An unemployed sailor fights alongside Icari until she is knocked out if her party has less than four members
-An unemployed sailor fights alongside Icari until she is knocked out if her party has less than four members
-# MERCENARY GUILD III
-MERCENARY GUILD III
-# A ronin fights alongside Icari until she is knocked out if her party has less than four members
-A ronin fights alongside Icari until she is knocked out if her party has less than four members
-# ANCIENT KNOWLEDGE
-ANCIENT KNOWLEDGE
-# Clone Jutsu can now be used on party members
-Clone Jutsu can now be used on party members
-# KEEN STRIKE
-KEEN STRIKE
-# Deal an attack which cannot miss
-Deal an attack which cannot miss
-# USE WISHALL - 
-USE WISHALL - 
-# RETRY
-RETRY
-# LOAD
-LOAD
-# DONE
-DONE
-# RAID: Tydaria
-RAID: Tydaria
-# Sink all enemies
-Sink all enemies
-# The Sunrider is lost
-The Sunrider is lost
-# Calm
-Calm
-# Calm
-Calm
-# HARPOON
-HARPOON
-# Deals minor damage, but pulls targets closer.
-Deals minor damage, but pulls targets closer.
-# BLACK IRON PLATING
-BLACK IRON PLATING
-# ARMOR
-ARMOR
-# +4 to side armor
-+4 to side armor
-# WHALING SHIP
-WHALING SHIP
-# Havoc
+#% HOME OF THE HIGH ELVES>>POPULATION: 1000 Elves+5000 Other Races
+HOGAR DE LOS ALTOS ELFOS>>POBLACIÓN: 1000 Elfos + 5000 Otras Razas
+#% In the current age, Old Ryuvia has lost most of its luster and it is Volaris which is the shining jewel of the Dragon's Foot Sea. Ruled by the High Elves of the Song Alliance, absolute devotion to the Church is imposed upon all those who live here. The other races of the realm are considered children to be educated by the elders of Song in the intricacies of culture, science, and magicka. Given the dominance of the Song Alliance, many other races tolerate or even embrace their low status in Elvish society to receive gifts.
+En la era actual, la Antigua Ryuvia ha perdido la mayor parte de su poder y es Volaris quien es la brillante joya del Mar Dragon's Foot. Siendo gobernada por los Altos Elfos de la Alianza Song, la absoluta devoción a la Iglesia es impuesta a todos aquellos que viven aquí. Las otras razas del reino son consideradas niños a ser educados por los ancianos de Song en las intrincadas cultura, ciencia y magicka. Dada la dominación de la Alianza Song, muchas otras razas toleran o incluso aceptan su bajo estatus en la sociedad Élfica para recibir regalos.
+#% Rotate depending on distance of prev. move.
+Rotar en dependencia de la distancia del movimiento anterior.
+#% Reload your fleet's special ammo
+Recargar la munición especial de tu flota
+#% Repair your fleet's cannons
+Reparar los cañones de tu flota
+#% Increase your fleet's DMG
+Aumentar el DAÑO de tu flota
+#% Increase your fleet's evasion
+Aumentar la evasión de tu flota
+#% Increase your fleet's move/turn speed. +Bonus with sails.
+Aumentar la velocidad de movimiento/giro de tu flota. +Bonus con velas.
+#% Repair your fleet's sails
+Reparar las velas de tu flota
+#% Restore half of your fleet's HP
+Restaurar la mitad de los PS de tu flota
+#% Restore 50% of all crew members' HP
+Restaurar el 50% de los PS de todos los tripulantes
+#% MERCENARY GUILD II
+GREMIO MERCENARIO II
+#% An unemployed sailor fights alongside Icari until she is knocked out if her party has less than four members
+Un marinero desempleado pelea junto a Icari hasta que sea derrotada o si el grupo tiene menos de cuatro miembros
+#% MERCENARY GUILD III
+GREMIO MERCENARIO III
+#% A ronin fights alongside Icari until she is knocked out if her party has less than four members
+Un luchador pelea junto a Icari hasta que sea derrotada o si el grupo tiene menos de cuatro miembros
+#% ANCIENT KNOWLEDGE
+CONOCIMIENTO ANTIGUO
+#% Clone Jutsu can now be used on party members
+El Jutsu de Clonación puede usarse ahora en miembros del grupo
+#% KEEN STRIKE
+GOLPE CERTERO
+#% Deal an attack which cannot miss
+Asesta un ataque que no puede fallar
+#% USE WISHALL - 
+USAR EL WISHALL - 
+#% RETRY
+REINTENTAR
+#% LOAD
+CARGAR
+#% DONE
+HECHO
+#% RAID: Tydaria
+SAQUEAR: Tydaria
+#% Sink all enemies
+Hunde a todos los enemigos
+#% The Sunrider is lost
+El Sunrider es hundido
+#% Calm
+Calma
+#% Calm
+Calma
+#% HARPOON
+ARPÓN
+#% Deals minor damage, but pulls targets closer.
+Provoca daños menores, pero acerca a los enemigos.
+#% BLACK IRON PLATING
+REFUERZO DE HIERRO NEGRO
+#% ARMOR
+ARMADURA
+#% +4 to side armor
++4 armadura lateral
+#% WHALING SHIP
+BALLENERO
+#% Havoc
 Havoc
-# SHIP OF THE LINE
-SHIP OF THE LINE
-# Receive a random effect of great boon or doom
-Receive a random effect of great boon or doom
-# Change the direction of the wind
-Change the direction of the wind
-# The wind has shifted!
-The wind has shifted!
-# Full Forward is cast!
-Full Forward is cast!
-# All bounties increased 5x!
-All bounties increased 5x!
-# All ships have full EN!
-All ships have full EN!
-# All party members regain all HP!
-All party members regain all HP!
-# Vanguard Charge gained!
-Vanguard Charge gained!
-# Claude's ship catches on fire!
-Claude's ship catches on fire!
-# Claude loses HP!
-Claude loses HP!
-# Nothing happens...
-Nothing happens...
-# All your ships take damage!
-All your ships take damage!
-# Change Wind Direction
-Change Wind Direction
-# CANCEL
-CANCEL
-# DONE
-DONE
-# DIVINE WIND
-DIVINE WIND
-# Move another ship
-Move another ship
-# MIRACLE - 1 CMD BAR
-MIRACLE - 1 CMD BAR
-# FIRE ARROW
-FIRE ARROW
-# Set the target ablaze, dealing damage each turn
-Set the target ablaze, dealing damage each turn
-# EVADE SHOT
-EVADE SHOT
-# Counterattack enemy on successful evade in boarding actions
-Counterattack enemy on successful evade in boarding actions
-# MAIN: Rescue Claude
-MAIN: Rescue Claude
-# Capture or sink the Havoc.
-Capture or sink the Havoc.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Heavy fog
-Heavy fog
-# Dead
-Dead
-# FORGOTTEN ABYSS
-FORGOTTEN ABYSS
-# Ship Graveyard
-Ship Graveyard
-# This forsaken lagoon is covered with perpetual fog and punctuated by deadly reefs. Legend has it that a fallen Elf prince unleashed black magic here, damning all those who enter to spend eternity as undead.
-This forsaken lagoon is covered with perpetual fog and punctuated by deadly reefs. Legend has it that a fallen Elf prince unleashed black magic here, damning all those who enter to spend eternity as undead.
-# BOMB ARROWS
-BOMB ARROWS
-# Deal light damage.
-Deal light damage.
-# Lost Ship
-Lost Ship
-# MAIN: The Lost Fleet Attacks!
-MAIN: The Lost Fleet Attacks!
-# The Sunrider reaches the marked location.
-The Sunrider reaches the marked location.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Heavy fog
-Heavy fog
-# Dead
-Dead
-# Imperium
+#% SHIP OF THE LINE
+NAVÍO DE LÍNEA
+#% Receive a random effect of great boon or doom
+Recibe un efecto aleatorio de gran bendición o maldición
+#% Change the direction of the wind
+Cambia la dirección del viento
+#% The wind has shifted!
+¡El viento ha cambiado!
+#% Full Forward is cast!
+¡Avance Completo lanzado!
+#% All bounties increased 5x!
+¡Todas las recompensas aumentadas x5!
+#% All ships have full EN!
+¡Todas las naves tienen toda la EN!
+#% All party members regain all HP!
+¡Todos los miembros del grupo recuperan todos los PS!
+#% Vanguard Charge gained!
+¡Cañón Vanguard obtenido!
+#% Claude's ship catches on fire!
+¡La nave de Claude se prende en llamas!
+#% Claude loses HP!
+¡Claude pierde PS!
+#% Nothing happens...
+No ocurre nada...
+#% All your ships take damage!
+¡Todas tus naves reciben daño!
+#% Change Wind Direction
+Cambiar la Dirección del Viento
+#% CANCEL
+CANCELAR
+#% DONE
+HECHO
+#% DIVINE WIND
+VIENTO DIVINO
+#% Move another ship
+Mueve otra nave
+#% MIRACLE - 1 CMD BAR
+MILAGRO - 1 BARRA DE CMD
+#% FIRE ARROW
+FLECHA DE FUEGO
+#% Set the target ablaze, dealing damage each turn
+Prende al objetivo en llamas, provocando daño cada turno
+#% EVADE SHOT
+DISPARO EVASIVO
+#% Counterattack enemy on successful evade in boarding actions
+Contrataca al enemigo al evadir exitosamente en acciones de abordaje
+#% MAIN: Rescue Claude
+PRINCIPAL: Rescatar a Claude
+#% Capture or sink the Havoc.
+Capturar o hundir al Havoc.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Heavy fog
+Niebla densa
+#% Dead
+Muerto
+#% FORGOTTEN ABYSS
+ABISMO OLVIDADO
+#% Ship Graveyard
+Cementerio de Barcos
+#% This forsaken lagoon is covered with perpetual fog and punctuated by deadly reefs. Legend has it that a fallen Elf prince unleashed black magic here, damning all those who enter to spend eternity as undead.
+Esta laguna olvidada está cubierta por una niebla perpetua y atravesada por arrecifes mortales. La leyenda cuenta que un príncipe Élfico caído desató una magia negra aquí, maldiciendo a todos aquellos que entraran a pasar la eternidad como no muertos.
+#% BOMB ARROWS
+FLECHAS BOMBA
+#% Deal light damage.
+Provoca daño ligero.
+#% Lost Ship
+Nave Perdida
+#% MAIN: The Lost Fleet Attacks!
+PRINCIPAL: ¡La Flota Perdida ataca!
+#% The Sunrider reaches the marked location.
+El Sunrider alcanza la ubicación marcada.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Heavy fog
+Niebla densa
+#% Dead
+Muerto
+#% Imperium
 Imperium
-# PURIFIER
-PURIFIER
-# The enemy retreats...
-The enemy retreats...
-# Use the secret passageway
-Use the secret passageway
-# Sneak Chigara in
-Sneak Chigara in
-# CHAPTER 3
-CHAPTER 3
-# The Abyss
-The Abyss
-# CHAPTER 4
-CHAPTER 4
-# The Sharr
-The Sharr
-# RYUVIA
+#% PURIFIER
+PURIFICADOR
+#% The enemy retreats...
+El enemigo se retira...
+#% Use the secret passageway
+Usa el pasadizo secreto
+#% Sneak Chigara in
+Escabullir a Chigara
+#% CHAPTER 3
+CAPÍTULO 3
+#% The Abyss
+El Abismo
+#% CHAPTER 4
+CAPÍTULO 4
+#% The Sharr
+La Sharr
+#% RYUVIA
 RYUVIA
-# Ancestral Home of Elves>>Population: 100 000
-Ancestral Home of Elves>>Population: 100 000
-# Long ago, Ryuvia was the greatest of the Elf settlements, built atop the great Elf Woods as a symbol of their superiority. Alas, following the collapse of the Holy Ryuvian Empire, much of Ryuvia's old wonder has been lost and it now nearly the same as any other economically depressed Maan city. Over the course of centuries, Elf and Maan came to intermingle here, leading most immortal High Elves to depart for Volaris. The Star Palace, the former seat of the Holy Empire's power, is now a drab stone castle which overlooks the Dragon's Foot Sea.
-Long ago, Ryuvia was the greatest of the Elf settlements, built atop the great Elf Woods as a symbol of their superiority. Alas, following the collapse of the Holy Ryuvian Empire, much of Ryuvia's old wonder has been lost and it now nearly the same as any other economically depressed Maan city. Over the course of centuries, Elf and Maan came to intermingle here, leading most immortal High Elves to depart for Volaris. The Star Palace, the former seat of the Holy Empire's power, is now a drab stone castle which overlooks the Dragon's Foot Sea.
-# SARGASSO
+#% Ancestral Home of Elves>>Population: 100 000
+Hogar Ancestral de los Elfos>>Población: 100 000
+#% Long ago, Ryuvia was the greatest of the Elf settlements, built atop the great Elf Woods as a symbol of their superiority. Alas, following the collapse of the Holy Ryuvian Empire, much of Ryuvia's old wonder has been lost and it now nearly the same as any other economically depressed Maan city. Over the course of centuries, Elf and Maan came to intermingle here, leading most immortal High Elves to depart for Volaris. The Star Palace, the former seat of the Holy Empire's power, is now a drab stone castle which overlooks the Dragon's Foot Sea.
+Hace mucho tiempo, Ryuvia fue el mayor de los asentamientos de Elfos, construida en la cima del gran Bosque Élfico como un símbolo de su superioridad. Pero, tras el colapso del Sacro Imperio Ryuviano, la mayoría de las antiguas maravillas de Ryuvia se han perdido y ahora es casi como cualquier otra económicamente deprimente ciudad Maan. Con el paso de los siglos, Elfos y Maan llegaron a mezclarse aquí, llevando a la mayoría de los inmortales Altos Elfos a partir hacia Volaris. El Palacio Estelar, el antiguo trono del poder del Sacro Imperio, es ahora un castillo de piedra con vistas al Mar Dragon's Foot.
+#% SARGASSO
 SARGASSO
-# Pirate Cove>>Population: 500 or so scalawags
-Pirate Cove>>Population: 500 or so scalawags
-# A treacherous inlet full of reefs, this bay proved useful only to those wishing to disappear. Sargasso is home to the largest pirate den in Halla, where all manner of thieves, scoundrels, and general lowlifes drink and gamble away their meager lives. There is little semblance of law here, with the Pirate's Code enforced by the strong upon the weak.
-A treacherous inlet full of reefs, this bay proved useful only to those wishing to disappear. Sargasso is home to the largest pirate den in Halla, where all manner of thieves, scoundrels, and general lowlifes drink and gamble away their meager lives. There is little semblance of law here, with the Pirate's Code enforced by the strong upon the weak.
-# Escape Ryuvia
-Escape Ryuvia
-# Sink the enemy fleet or move the Sunrider to the marked escape zone.
-Sink the enemy fleet or move the Sunrider to the marked escape zone.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Calm
-Calm
-# Calm
-Calm
-# Sargasso Rescue A
-Sargasso Rescue A
-# Defeat the Pact fleet.
-Defeat the Pact fleet.
-# The Sunrider or the Havoc is sunk.
-The Sunrider or the Havoc is sunk.
-# Calm
-Calm
-# Calm
-Calm
-# Sargasso Rescue B
-Sargasso Rescue B
-# Board and capture the Havoc, then move her to the marked escape zone.
-Board and capture the Havoc, then move her to the marked escape zone.
-# The Sunrider or the Havoc is sunk.
-The Sunrider or the Havoc is sunk.
-# Calm
-Calm
-# Calm
-Calm
-# ELFWOOD
-ELFWOOD
-# HULL
-HULL
-# +10 Move Speed
-+10 Move Speed
-# Timber from the great elf woods is both sturdy and lightweight, permitting the construction of swift vessels.
-Timber from the great elf woods is both sturdy and lightweight, permitting the construction of swift vessels.
-# IRONWOOD
-IRONWOOD
-# HULL
-HULL
-# +250 Max HP
-+250 Max HP
-# Ironwood is found only atop the highest mountains of the Asahi Isle.
-Ironwood is found only atop the highest mountains of the Asahi Isle.
-# DEMONWOOD
-DEMONWOOD
-# HULL
-HULL
-# +10 Evasion
-+10 Evasion
-# Timber from beyond the Great Wall, which has many mysterious qualities.
-Timber from beyond the Great Wall, which has many mysterious qualities.
-# MAGICKA BLESSING
-MAGICKA BLESSING
-# ARMOR
-ARMOR
-# +10 Move Speed, +5 Turn Speed
-+10 Move Speed, +5 Turn Speed
-# Who needs armor when you have the power of magic on your side.
-Who needs armor when you have the power of magic on your side.
-# FULL COTTON
-FULL COTTON
-# SAILS
-SAILS
-# +25% Sail Movement
-+25% Sail Movement
-# These sails are expertly knitted and can leverage even the faintest sea breeze.
-These sails are expertly knitted and can leverage even the faintest sea breeze.
-# GNOME HALFWEAVE
-GNOME HALFWEAVE
-# SAILS
-SAILS
-# +10 Evasion
-+10 Evasion
-# A Gnome mad scientist created this fabric, which has half the weight of regular sails with no drop in performance.
-A Gnome mad scientist created this fabric, which has half the weight of regular sails with no drop in performance.
-# GUNNERY TEAM
-GUNNERY TEAM
-# CREW
-CREW
-# -30 Reload Cost
--30 Reload Cost
-# A crack team of disciplined Maan who can quickly reload cannons even in the heat of combat.
-A crack team of disciplined Maan who can quickly reload cannons even in the heat of combat.
-# OARSMEN
-OARSMEN
-# CREW
-CREW
-# +5 Move Speed, +5 Turn Speed
-+5 Move Speed, +5 Turn Speed
-# A team of unemployed Elkmen eager to do manual work.
-A team of unemployed Elkmen eager to do manual work.
-# MINE
-MINE
-# SPECIAL
-SPECIAL
-# Drop a proximity mine which deals massive damage to any ship which gets too close.
-Drop a proximity mine which deals massive damage to any ship which gets too close.
-# Drop proximity mine within radius
-Drop proximity mine within radius
-# Form a truce with Cosette
-Form a truce with Cosette
-# Attack Cosette
-Attack Cosette
-# FAR PORT
+#% Pirate Cove>>Population: 500 or so scalawags
+Caleta Pirata>>Población: 500 bribones aproximadamente
+#% A treacherous inlet full of reefs, this bay proved useful only to those wishing to disappear. Sargasso is home to the largest pirate den in Halla, where all manner of thieves, scoundrels, and general lowlifes drink and gamble away their meager lives. There is little semblance of law here, with the Pirate's Code enforced by the strong upon the weak.
+Una ensenada traicionera repleta de arrecifes, esta bahía resultó útil solo a aquellos que deseaban desaparecer. Sargasso alberga la mayor guarida pirata en Halla, donde toda clase de ladrones, sinvergüenzas, y gentuza beben y apuestan sus míseras vidas. Hay escaso vestigio de la ley aquí, con el Código Pirata impuesto por el fuerte sobre el débil.
+#% Escape Ryuvia
+Escapa de Ryuvia
+#% Sink the enemy fleet or move the Sunrider to the marked escape zone.
+Hunde la flota enemiga o mueve al Sunrider a la zona de escape marcada.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Calm
+Calma
+#% Calm
+Calma
+#% Sargasso Rescue A
+Rescate en Sargasso A
+#% Defeat the Pact fleet.
+Derrota a la flota del Pacto.
+#% The Sunrider or the Havoc is sunk.
+El Sunrider o el Havoc son hundidos.
+#% Calm
+Calma
+#% Calm
+Calma
+#% Sargasso Rescue B
+Rescate en Sargasso B
+#% Board and capture the Havoc, then move her to the marked escape zone.
+Aborda y captura al Havor, luego muévela a la zona de escape marcada.
+#% The Sunrider or the Havoc is sunk.
+El Sunrider o el Havoc son hundidos.
+#% Calm
+Calma
+#% Calm
+Calma
+#% ELFWOOD
+MADERA ÉLFICA
+#% HULL
+CASCO
+#% +10 Move Speed
++10 Velocidad de Movimiento
+#% Timber from the great elf woods is both sturdy and lightweight, permitting the construction of swift vessels.
+La leña de los grandes bosques élficos es tanto robusta como ligera, permitiendo la construcción de buques ágiles.
+#% IRONWOOD
+MADERA DE HIERRO
+#% HULL
+CASCO
+#% +250 Max HP
++250 Máx PS
+#% Ironwood is found only atop the highest mountains of the Asahi Isle.
+La madera de hierro solo se encuentra en la cima de las montañas más altas de la Isla Asahi.
+#% DEMONWOOD
+MADERA DEMONÍACA
+#% HULL
+CASCO
+#% +10 Evasion
++10 Evasión
+#% Timber from beyond the Great Wall, which has many mysterious qualities.
+Leña de más allá del Gran Muro, que tiene muchas cualidades misteriosas.
+#% MAGICKA BLESSING
+BENDICIÓN DE MAGICKA
+#% ARMOR
+ARMADURA
+#% +10 Move Speed, +5 Turn Speed
++10 Vel. de Mov., +5 Vel. de Giro
+#% Who needs armor when you have the power of magic on your side.
+Quién necesita armadura cuando tienes el poder de la magia de tu lado.
+#% FULL COTTON
+TODO ALGODÓN
+#% SAILS
+VELAS
+#% +25% Sail Movement
++25% Mov. de Velas
+#% These sails are expertly knitted and can leverage even the faintest sea breeze.
+Estas velas están tejidas por expertos y pueden moverse incluso con la brisa de mar más ligera.
+#% GNOME HALFWEAVE
+TEJIDO LIGERO GNÓMICO
+#% SAILS
+VELAS
+#% +10 Evasion
++10 Evasión
+#% A Gnome mad scientist created this fabric, which has half the weight of regular sails with no drop in performance.
+Un científico loco Gnomo creó este tejido, que tiene la mitad del peso de las velas normales sin disminuir su rendimiento.
+#% GUNNERY TEAM
+EQUIPO DE ARTILLERÍA
+#% CREW
+TRIP
+#% -30 Reload Cost
+-30 Costo de Recarga
+#% A crack team of disciplined Maan who can quickly reload cannons even in the heat of combat.
+Un equipo experto de disciplinados Maan que puede recargar cañones rápidamente incluso en el calor del combate.
+#% OARSMEN
+REMEROS
+#% CREW
+TRIP
+#% +5 Move Speed, +5 Turn Speed
++5 Vel. de Mov., +5 Vel. de Giro
+#% A team of unemployed Elkmen eager to do manual work.
+Un equipo de Hombres Alce desempleados dispuestos a hacer trabajo manual.
+#% MINE
+MINA
+#% SPECIAL
+ESPECIAL
+#% Drop a proximity mine which deals massive damage to any ship which gets too close.
+Arroja una mina de proximidad que provoca daños masivos a cualquier nave que se acerque demasiado.
+#% Drop proximity mine within radius
+Lanzar mina de proximidad dentro del radio.
+#% Form a truce with Cosette
+Formar una tregua con Cosette
+#% Attack Cosette
+Atacar a Cosette
+#% FAR PORT
 FAR PORT
-# Strategic Strait
-Strategic Strait
-# Barely a few hundred meters across in some areas and ravaged by crosswinds, learning to navigate the treacherous passage into the Dragon's Foot Sea is a rite of passage for all the sailors of Halla.
-Barely a few hundred meters across in some areas and ravaged by crosswinds, learning to navigate the treacherous passage into the Dragon's Foot Sea is a rite of passage for all the sailors of Halla.
-# Loot the ship's cargo and equipment then set it ablaze.
-Loot the ship's cargo and equipment then set it ablaze.
-# Automatically transfers everything to the other ship.
-Automatically transfers everything to the other ship.
-# Premonition
-Premonition
-# Board and capture the enemy commander. Sink all other enemies.
-Board and capture the enemy commander. Sink all other enemies.
-# The Sunrider or the enemy commander is sunk.
-The Sunrider or the enemy commander is sunk.
-# Choppy
-Choppy
-# Moderate
-Moderate
-# Scuttle for 
-Scuttle for 
-# CHANGE PARTY
-CHANGE PARTY
-# Pact Ship of the Line
-Pact Ship of the Line
-# The Battle of Far Port
-The Battle of Far Port
-# Hold out until the Emerald Fleet arrives.
-Hold out until the Emerald Fleet arrives.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Rough Seas
-Rough Seas
-# Crosswinds
-Crosswinds
-# Vaendryl
+#% Strategic Strait
+Estrecho Estratégico
+#% Barely a few hundred meters across in some areas and ravaged by crosswinds, learning to navigate the treacherous passage into the Dragon's Foot Sea is a rite of passage for all the sailors of Halla.
+Con apenas algunos cientos de metros de ancho en algunas áreas y asolado por vientos cruzados, aprender a navegar el traicionero paso hacia el Mar Dragon's Foot es un rito de iniciación para todos los marineros de Halla.
+#% Loot the ship's cargo and equipment then set it ablaze.
+Saque la carga y el equipamiento de la nave y luego incéndiala.
+#% Automatically transfers everything to the other ship.
+Transfiere automáticamente todo a la otra nave.
+#% Premonition
+Premonición
+#% Board and capture the enemy commander. Sink all other enemies.
+Aborda y captura al comandante enemigo. Hunde a todos los demás enemigos.
+#% The Sunrider or the enemy commander is sunk.
+El Sunrider o el comandante enemigo es hundido.
+#% Choppy
+Agitado
+#% Moderate
+Moderado
+#% Scuttle for 
+Hundir por 
+#% CHANGE PARTY
+CAMBIAR GRUPO
+#% Pact Ship of the Line
+Navío de Línea del Pacto
+#% The Battle of Far Port
+La Batalla de Far Port
+#% Hold out until the Emerald Fleet arrives.
+Resiste hasta que llegue la Flota Esmeralda.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Rough Seas
+Mares agitados
+#% Crosswinds
+Vientos cruzados
+#% Vaendryl
 Vaendryl
-# Advanced cannons which also destroy the enemy's cannons.
-Advanced cannons which also destroy the enemy's cannons.
-# Cannons with elongated barrels which increase their accuracy.
-Cannons with elongated barrels which increase their accuracy.
-# SONG FRIGATE
-SONG FRIGATE
-# Radiant
+#% Advanced cannons which also destroy the enemy's cannons.
+Cañones avanzados que también pueden destruir los cañones del enemigo.
+#% Cannons with elongated barrels which increase their accuracy.
+Cañones alargados que aumentan su precisión.
+#% SONG FRIGATE
+FRAGATA DE SONG
+#% Radiant
 Radiant
-# RAID: Versta
-RAID: Versta
-# Vigilantes
+#% RAID: Versta
+ASALTAR: Versta
+#% Vigilantes
 Vigilantes
-# CREW
-CREW
-# x2 RNDSHT DMG <50% HP
-x2 RNDSHT DMG <50% HP
-# Vigilantes use their hatred of the enemy to deal more damage with roundshots when self HP is below half.
-Vigilantes use their hatred of the enemy to deal more damage with roundshots when self HP is below half.
-# Reveal all hidden ships.
-Reveal all hidden ships.
-# More Than We Bargained For
-More Than We Bargained For
-# Sink the Pact fleet.
-Sink the Pact fleet.
-# Qisah reaches the escape zone or she is killed in battle. The Sunrider cannot be sunk. Qisah's ship cannot be captured.
-Qisah reaches the escape zone or she is killed in battle. The Sunrider cannot be sunk. Qisah's ship cannot be captured.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# The Taming of the Shrew
-The Taming of the Shrew
-# Sink the Pact fleet.
-Sink the Pact fleet.
-# Qisah is killed or the Sunrider is sunk.
-Qisah is killed or the Sunrider is sunk.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# FERROS
+#% CREW
+TRIP
+#% x2 RNDSHT DMG <50% HP
+x2 DAÑO DISP <50% PS
+#% Vigilantes use their hatred of the enemy to deal more damage with roundshots when self HP is below half.
+Los Vigilantes usan su odio por el enemigo para provocar más daño con balas rasas cuando sus PS están por debajo de la mitad.
+#% Reveal all hidden ships.
+Revela todas las naves ocultas.
+#% More Than We Bargained For
+Más De Lo Que Esperábamos
+#% Sink the Pact fleet.
+Hunde la flota del Pacto.
+#% Qisah reaches the escape zone or she is killed in battle. The Sunrider cannot be sunk. Qisah's ship cannot be captured.
+Qisah alcanza la zona de escape o es asesinada en batalla. El Sunrider no puede ser hundido. La nave de Qisah no puede ser capturada.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% The Taming of the Shrew
+La Fierecilla Domada
+#% Sink the Pact fleet.
+Hunde la flota del Pacto.
+#% Qisah is killed or the Sunrider is sunk.
+Qisah es asesinada o el Sunrider es hundido.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% FERROS
 FERROS
-# Denari Trade Hub>>Population: 40 000
-Denari Trade Hub>>Population: 40 000
-# Serving as the gate to the Denari Outlands, Ferros is inhabited by Maan, Demi-Elves, and Demonfolk alike. A mighty city in the desert, it is renown for its three main attractions: The coliseum, the bazaar, and the bathhouse.
-Serving as the gate to the Denari Outlands, Ferros is inhabited by Maan, Demi-Elves, and Demonfolk alike. A mighty city in the desert, it is renown for its three main attractions: The coliseum, the bazaar, and the bathhouse.
-# Huntress
+#% Denari Trade Hub>>Population: 40 000
+Centro de Comercio Denari>>Población: 40 000
+#% Serving as the gate to the Denari Outlands, Ferros is inhabited by Maan, Demi-Elves, and Demonfolk alike. A mighty city in the desert, it is renown for its three main attractions: The coliseum, the bazaar, and the bathhouse.
+Sirviendo como la entrada a las Tierras Denari, Ferros está habitado tanto por Maan, Semielfos, como por Demonios. Una poderosa ciudad en el desierto, es reconocida por sus tres atracciones principales: El coliseo, el bazar, y la casa de baños.
+#% Huntress
 Huntress
-# The Crimson Wolf
-The Crimson Wolf
-# Defeat the Huntress.
-Defeat the Huntress.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# Dragoon
+#% The Crimson Wolf
+La Loba Carmesí
+#% Defeat the Huntress.
+Derrota al Huntress.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% Dragoon
 Dragoon
-# Blue Bird
+#% Blue Bird
 Blue Bird
-# To Slay the Beast
-To Slay the Beast
-# Sink or capture the Imperium.
-Sink or capture the Imperium.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Fog
-Fog
-# Dead
-Dead
-# A Match With Destiny
-A Match With Destiny
-# Sink the enemy fleet.
-Sink the enemy fleet.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# Porkchops?!
-Porkchops?!
-# All player ships reach the escape zone. Fast ships are highly recommended!
-All player ships reach the escape zone. Fast ships are highly recommended!
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Dead
-Dead
-# Dead
-Dead
-# REQ
+#% To Slay the Beast
+Derrotar a la Bestia
+#% Sink or capture the Imperium.
+Hunde o captura al Imperium.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Fog
+Niebla
+#% Dead
+Muerto
+#% A Match With Destiny
+Un Encuentro Con El Destino
+#% Sink the enemy fleet.
+Hunde la flota enemiga.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% Porkchops?!
+¡¿Chuleta?!
+#% All player ships reach the escape zone. Fast ships are highly recommended!
+Todas las naves del jugador alcanzan la zona de escape. ¡Se recomienda fuertemente naves rápidas!
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Dead
+Muerto
+#% Dead
+Muerto
+#% REQ
 REQ
-# DISGRUNTLED MOOK
-DISGRUNTLED MOOK
-# UNEMPLOYED GRUNT
-UNEMPLOYED GRUNT
-# MERCENARY BOMBER
-MERCENARY BOMBER
-# DEFECTOR ARCHER
-DEFECTOR ARCHER
-# RONIN ELITE
-RONIN ELITE
-# HIRE: 
-HIRE: 
-# Pirates in the Holy Land A
-Pirates in the Holy Land A
-# Sink the enemy fleet.
-Sink the enemy fleet.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# Pirates in the Holy Land B
-Pirates in the Holy Land B
-# Capture all 3 stolen Song frigates and sink all other enemies.
-Capture all 3 stolen Song frigates and sink all other enemies.
-# The Sunrider or a Song frigate is sunk.
-The Sunrider or a Song frigate is sunk.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# SELF DESTRUCT
-SELF DESTRUCT
-# SPECIAL
-SPECIAL
-# Destroy self to deal heavy damage to nearby enemies.
-Destroy self to deal heavy damage to nearby enemies.
-# TITANWOOD
-TITANWOOD
-# HULL
-HULL
-# +500 Max HP
-+500 Max HP
-# Timber grown by a secret religious sect on the Asahi Isle.
-Timber grown by a secret religious sect on the Asahi Isle.
-# STONE GOLEMS
-STONE GOLEMS
-# CREW
-CREW
-# +25 EN
+#% DISGRUNTLED MOOK
+ESBIRRO DESCONTENTO
+#% UNEMPLOYED GRUNT
+SOLDADO DESEMPLEADO
+#% MERCENARY BOMBER
+BOMBARDERO MERCENARIO
+#% DEFECTOR ARCHER
+ARQUERO DESERTOR
+#% RONIN ELITE
+RONIN DE ÉLITE
+#% HIRE: 
+UNIR: 
+#% Pirates in the Holy Land A
+Piratas en la Tierra Santa A
+#% Sink the enemy fleet.
+Hunde la flota enemiga.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% Pirates in the Holy Land B
+Piratas en la Tierra Santa B
+#% Capture all 3 stolen Song frigates and sink all other enemies.
+Captura las 3 fragatas Song robadas y hunde a todos los demás enemigos.
+#% The Sunrider or a Song frigate is sunk.
+El Sunrider o una fragata Song son hundidos.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% SELF DESTRUCT
+AUTO DESTRUCCIÓN
+#% SPECIAL
+ESPECIAL
+#% Destroy self to deal heavy damage to nearby enemies.
+Se destruye a sí para provocar daño fuerte a enemigos cercanos.
+#% TITANWOOD
+MADERA DE TITÁN
+#% HULL
+CASCO
+#% +500 Max HP
++500 PS Máx
+#% Timber grown by a secret religious sect on the Asahi Isle.
+Madera crecida por una secta religiosa secreta en la Isla Asahi.
+#% STONE GOLEMS
+GÓLEMS DE PIEDRA
+#% CREW
+TRIP
+#% +25 EN
 +25 EN
-# Magical golems which can perform laborious tasks with ease.
-Magical golems which can perform laborious tasks with ease.
-# Pact Steamer
-Pact Steamer
-# Ambush at Ongess
-Ambush at Ongess
-# Sink the enemy fleet.
-Sink the enemy fleet.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# Pirates in the Storm
-Pirates in the Storm
-# Sink the enemy fleet.
-Sink the enemy fleet.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Gale
-Gale
-# Treacherous
-Treacherous
-# The Madness of Petite Cosette
-The Madness of Petite Cosette
-# Capture the Havoc to disrupt Cosette's powers then sink all enemies.
-Capture the Havoc to disrupt Cosette's powers then sink all enemies.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Gale
-Gale
-# Treacherous
-Treacherous
-# Her Destiny
-Her Destiny
-# Sink the enemy fleet.
-Sink the enemy fleet.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# The Liberation of Ryuvia
-The Liberation of Ryuvia
-# Sack the fort and sink the enemy fleet.
-Sack the fort and sink the enemy fleet.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# The Mask of Arcadius
-The Mask of Arcadius
-# Defeat Veniczar Arcadius and sink the enemy fleet.
-Defeat Veniczar Arcadius and sink the enemy fleet.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# Fortress
-Fortress
-# DISRUPT ARCADIUS
-DISRUPT ARCADIUS
-# Prevent Arcadius from resurrecting
-Prevent Arcadius from resurrecting
-# ONGESS
+#% Magical golems which can perform laborious tasks with ease.
+Gólems mágicos que pueden realizar tareas laboriosas con facilidad.
+#% Pact Steamer
+Vapor del Pacto
+#% Ambush at Ongess
+Emboscada en Ongess
+#% Sink the enemy fleet.
+Hunde la flota enemiga.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% Pirates in the Storm
+Piratas en la Tormenta
+#% Sink the enemy fleet.
+Hunde la flota enemiga.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Gale
+Tormenta
+#% Treacherous
+Traicionero
+#% The Madness of Petite Cosette
+La Locura de la Pequeña Cosette
+#% Capture the Havoc to disrupt Cosette's powers then sink all enemies.
+Captura al Havoc o interrumpe los poderes de Cosette y luego hunde a todos los enemigos.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Gale
+Tormenta
+#% Treacherous
+Traicionero
+#% Her Destiny
+Su Destino
+#% Sink the enemy fleet.
+Hunde la flota enemiga.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% The Liberation of Ryuvia
+La Liberación de Ryuvia
+#% Sack the fort and sink the enemy fleet.
+Asaltar el fuerte y hundir la flota enemiga.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% The Mask of Arcadius
+La Máscara de Arcadius
+#% Defeat Veniczar Arcadius and sink the enemy fleet.
+Derrota a Veniczar Arcadius y hunde la flota enemiga.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% Fortress
+Fuerte
+#% DISRUPT ARCADIUS
+INTERRUMPIR A ARCADIUS
+#% Prevent Arcadius from resurrecting
+Evitar que Arcadius resucite
+#% ONGESS
 ONGESS
-# The Holy Land
-The Holy Land
-# According to the Monolithic Truth, the High Elves first landed here on a fragment of the Winter Moon, their impact carving out the Dragon's Foot Sea. This isle is considered the Holy Land for all adherents to the Church - but constant wars of religion and for control over its black iron deposits have turned it into a grave yard.
-According to the Monolithic Truth, the High Elves first landed here on a fragment of the Winter Moon, their impact carving out the Dragon's Foot Sea. This isle is considered the Holy Land for all adherents to the Church - but constant wars of religion and for control over its black iron deposits have turned it into a grave yard.
-# ELF ARCHER
-ELF ARCHER
-# ELF SWORDSMAN
-ELF SWORDSMAN
-# You have reached your max fleet size. Scuttle some ships to make room for more.
-You have reached your max fleet size. Scuttle some ships to make room for more.
-# Select Location
-Select Location
-# SUMMON RAIN
-SUMMON RAIN
-# All fires put out in area for 3 turns.
-All fires put out in area for 3 turns.
-# SUMMON RAIN
-SUMMON RAIN
-# Unlocks an Order to summon rain clouds which puts out nearby fires.
-Unlocks an Order to summon rain clouds which puts out nearby fires.
-# REINFORCED MOUNTS
-REINFORCED MOUNTS
-# ARMOR
-ARMOR
-# Reduce cannon damage
-Reduce cannon damage
-# Fortify firing points, reducing the destruction of cannons during battle.
-Fortify firing points, reducing the destruction of cannons during battle.
-# FIREPROOF SAILS
-FIREPROOF SAILS
-# SAILS
-SAILS
-# Immunity to fire
-Immunity to fire
-# These sails are coated with fireproof sap from the Elvish woods.
-These sails are coated with fireproof sap from the Elvish woods.
-# MARINES
-MARINES
-# CREW
-CREW
-# Immunity to demoralize
-Immunity to demoralize
-# These hardened veterans do not lose their mettle even when their ship loses its masts.
-These hardened veterans do not lose their mettle even when their ship loses its masts.
-# ENCHANTED SAILS
-ENCHANTED SAILS
-# SAILS
-SAILS
-# Unlimited raise/lower sails
-Unlimited raise/lower sails
-# The ship's rigging has been enchanted to immediately follow the will of the captain.
-The ship's rigging has been enchanted to immediately follow the will of the captain.
-# ROGUES
-ROGUES
-# CREW
-CREW
-# Double bounty
-Double bounty
-# These scallywags know how to pilfer every coin from bounties.
-These scallywags know how to pilfer every coin from bounties.
-# MASTERWORK SAILS
-MASTERWORK SAILS
-# SAILS
-SAILS
-# +50% Sail Movement
-+50% Sail Movement
-# These priceless sails have been created by an Elvish master.
-These priceless sails have been created by an Elvish master.
-# BLACK IRON CANNONS
-BLACK IRON CANNONS
-# ROUNDSHOT
-ROUNDSHOT
-# +5 DMG
-+5 DMG
-# A special consolation prize from your patron goddess for meeting a bad end.
-A special consolation prize from your patron goddess for meeting a bad end.
-# Go to Ryuvia.
-Go to Ryuvia.
-# Go to Far Port.
-Go to Far Port.
-# CANNONS
-CANNONS
-# Pan Camera Up
-Pan Camera Up
-# Pan Camera Down
-Pan Camera Down
-# Pan Camera Left
-Pan Camera Left
-# Pan Camera Right
-Pan Camera Right
-# Zoom In
-Zoom In
-# Zoom Out
-Zoom Out
-# Fire Weapon 1
-Fire Weapon 1
-# Fire Weapon 2
-Fire Weapon 2
-# Fire Weapon 3
-Fire Weapon 3
-# Fire Weapon 4
-Fire Weapon 4
-# Fire Weapon 5
-Fire Weapon 5
-# Fire Weapon 6
-Fire Weapon 6
-# Fire Weapon 7
-Fire Weapon 7
-# Fire Weapon 8
-Fire Weapon 8
-# Fire Weapon 9
-Fire Weapon 9
-# Fire Weapon 10
-Fire Weapon 10
-# Select Next Unit
-Select Next Unit
-# Select Previous Unit
-Select Previous Unit
-# Advance Text
-Advance Text
-# Skip
-Skip
-# Toggle Auto
-Toggle Auto
-# Quick Save
-Quick Save
-# Quick Load
-Quick Load
-# See Log
-See Log
-# Pause
-Pause
-# Select Unit 1
-Select Unit 1
-# Select Unit 2
-Select Unit 2
-# Select Unit 3
-Select Unit 3
-# Select Unit 4
-Select Unit 4
-# Select Unit 5
-Select Unit 5
-# Select Unit 6
-Select Unit 6
-# Select Unit 7
-Select Unit 7
-# Select Unit 8
-Select Unit 8
-# Open Commands
-Open Commands
-# Maintain Heading
-Maintain Heading
-# The Bitter Conclusion
-The Bitter Conclusion
-# Survive for as long as possible.
-Survive for as long as possible.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# BLACK IRON GUNS
-BLACK IRON GUNS
-# Powerful cannons forged from black iron.
-Powerful cannons forged from black iron.
-# AMBUSH AT RYUVIA
-AMBUSH AT RYUVIA
-# Defeat the enemy fleet.
-Defeat the enemy fleet.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Moderate
-Moderate
-# Moderate
-Moderate
-# THE BATTLE OF VOLARIS
-THE BATTLE OF VOLARIS
-# Defeat the enemy fleet.
-Defeat the enemy fleet.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Heavy
-Heavy
-# Heavy
-Heavy
-# THE WITCH OF ASAHI
-THE WITCH OF ASAHI
-# Defeat the enemy fleet.
-Defeat the enemy fleet.
-# The Sunrider is sunk.
-The Sunrider is sunk.
-# Heavy
-Heavy
-# Heavy
-Heavy
-# DMG CONTROL
-DMG CONTROL
-# Repair minor sail and cannon damage.
-Repair minor sail and cannon damage.
-# BUCCANEERS
-BUCCANEERS
-# x3 Bounty
-x3 Bounty
-# Increase bounty from boarding actions.
-Increase bounty from boarding actions.
-# FIRE PROOF SAILS
-FIRE PROOF SAILS
-# Fire immunity
-Fire immunity
-# Sails cannot catch fire.
-Sails cannot catch fire.
-# REINFORCED MOUNTS
-REINFORCED MOUNTS
-# 50% Cannon Def
-50% Cannon Def
-# Decrease cannon loss.
-Decrease cannon loss.
-# MAGIC ARMOR
-MAGIC ARMOR
-# +10 F Armor
-+10 F Armor
-# Elvish enchantments protect the ship's front.
-Elvish enchantments protect the ship's front.
-# MARINES
-MARINES
-# 5 Morale Floor
-5 Morale Floor
-# Hardened soldiers who never lose their mettle under fire. Morale never goes below five.
-Hardened soldiers who never lose their mettle under fire. Morale never goes below five.
-# WARNING: Unmoved ships with sails will drift
-WARNING: Unmoved ships with sails will drift
-# BELL CANNON
-BELL CANNON
-# Deal devastating damage to target.
-Deal devastating damage to target.
-# SPECIAL ORDINANCE
-SPECIAL ORDINANCE
-# 0 Cannons, +3 spe. ammo
-0 Cannons, +3 spe. ammo
-# Replace cannons with extra ammo for special weapon.
-Replace cannons with extra ammo for special weapon.
-# MANA SHIELD
-MANA SHIELD
-# Message Box Transparency
-Message Box Transparency
-# Pact and Pirate Fleets at Sargasso
-Pact and Pirate Fleets at Sargasso
-# SHELL SHOT
-SHELL SHOT
-# Cannon shot designed to destroy enemy cannons.
-Cannon shot designed to destroy enemy cannons.
-# MASTER SAILS
-MASTER SAILS
-# +50% Sail Movement
-+50% Sail Movement
-# Sails made by Elvish masters infused with wind magic.
-Sails made by Elvish masters infused with wind magic.
-# Black Jack
+#% The Holy Land
+La Tierra Santa
+#% According to the Monolithic Truth, the High Elves first landed here on a fragment of the Winter Moon, their impact carving out the Dragon's Foot Sea. This isle is considered the Holy Land for all adherents to the Church - but constant wars of religion and for control over its black iron deposits have turned it into a grave yard.
+De acuerdo a la Verdad Monolítica, los Altos Elfos aterrizaron aquí por primera vez en un fragmento de la Luna de Invierno, cuyo impacto excavó el Mar Dragon's Foot. Esta isla es considerada la Tierra Santa para todos los adherentes a la Iglesia - pero constantes guerras de religión y por el control de sus depósitos de hierro negro la han vuelto un cementerio.
+#% ELF ARCHER
+ARQUERO ELFO
+#% ELF SWORDSMAN
+ESPADACHÍN ELFO
+#% You have reached your max fleet size. Scuttle some ships to make room for more.
+Has alcanzado el tamaño máximo de tu flota. Hunde algunas naves para hacer espacio para más.
+#% Select Location
+Seleccionar Ubicación
+#% SUMMON RAIN
+INVOCAR LLUVIA
+#% All fires put out in area for 3 turns.
+Todos los fuegos se apagan en el área durante 3 turnos.
+#% SUMMON RAIN
+INVOCAR LLUVIA
+#% Unlocks an Order to summon rain clouds which puts out nearby fires.
+Desbloquea una Orden para invocar nubes de lluvia que apagan fuegos cercanos.
+#% REINFORCED MOUNTS
+SOPORTES REFORZADOS
+#% ARMOR
+ARMADURA
+#% Reduce cannon damage
+Reduce el daño de cañón
+#% Fortify firing points, reducing the destruction of cannons during battle.
+Fortificar los puntos de disparo, reduciendo la destrucción de cañones durante la batalla.
+#% FIREPROOF SAILS
+VELAS A PRUEBA DE FUEGO
+#% SAILS
+VELAS
+#% Immunity to fire
+Inmunidad al fuego
+#% These sails are coated with fireproof sap from the Elvish woods.
+Estas velas están recubiertas de savia incombustible de los bosques Élficos.
+#% MARINES
+MARINEROS
+#% CREW
+TRIP
+#% Immunity to demoralize
+Inmunidad a desmoralizar
+#% These hardened veterans do not lose their mettle even when their ship loses its masts.
+Estos aguerridos veteranos no pierden su temple incluso cuando su nave pierde sus mástiles.
+#% ENCHANTED SAILS
+VELAS ENCANTADAS
+#% SAILS
+VELAS
+#% Unlimited raise/lower sails
+Recoger/bajar ilimitadamente las velas
+#% The ship's rigging has been enchanted to immediately follow the will of the captain.
+La jarcia de la nave ha sido encantada para seguir inmediatamente la voluntad del capitán.
+#% ROGUES
+PÍCAROS
+#% CREW
+TRIP
+#% Double bounty
+Duplica la recompensa
+#% These scallywags know how to pilfer every coin from bounties.
+Estos sinvergüenzas saben cómo birlar cada centavo de las recompensas.
+#% MASTERWORK SAILS
+VELAS DE OBRA MAESTRA
+#% SAILS
+VELAS
+#% +50% Sail Movement
++50% Movimiento de Velas
+#% These priceless sails have been created by an Elvish master.
+Estas velas invaluables han sido creadas por un maestro Élfico.
+#% BLACK IRON CANNONS
+CAÑONES DE HIERRO NEGRO
+#% ROUNDSHOT
+BALAS RASAS
+#% +5 DMG
++5 DAÑO
+#% A special consolation prize from your patron goddess for meeting a bad end.
+Un premio de consolación especial de tu diosa patrona por encontrarte un final malo.
+#% Go to Ryuvia.
+Ir a Ryuvia.
+#% Go to Far Port.
+Ir a Far Port.
+#% CANNONS
+CAÑONES
+#% Pan Camera Up
+Mover Cámara Arriba
+#% Pan Camera Down
+Mover Cámara Abajo
+#% Pan Camera Left
+Mover Cámara Izquierda
+#% Pan Camera Right
+Mover Cámara Derecha
+#% Zoom In
+Acercar
+#% Zoom Out
+Alejar
+#% Fire Weapon 1
+Disparar Arma 1
+#% Fire Weapon 2
+Disparar Arma 2
+#% Fire Weapon 3
+Disparar Arma 3
+#% Fire Weapon 4
+Disparar Arma 4
+#% Fire Weapon 5
+Disparar Arma 5
+#% Fire Weapon 6
+Disparar Arma 6
+#% Fire Weapon 7
+Disparar Arma 7
+#% Fire Weapon 8
+Disparar Arma 8
+#% Fire Weapon 9
+Disparar Arma 9
+#% Fire Weapon 10
+Disparar Arma 10
+#% Select Next Unit
+Seleccionar Unidad Siguiente
+#% Select Previous Unit
+Seleccionar Unidad Anterior
+#% Advance Text
+Avanzar Texto
+#% Skip
+Saltar
+#% Toggle Auto
+Modo Auto
+#% Quick Save
+Guardado Rápido
+#% Quick Load
+Cargado Rápido
+#% See Log
+Ver Historial
+#% Pause
+Pausar
+#% Select Unit 1
+Seleccionar Unidad 1
+#% Select Unit 2
+Seleccionar Unidad 2
+#% Select Unit 3
+Seleccionar Unidad 3
+#% Select Unit 4
+Seleccionar Unidad 4
+#% Select Unit 5
+Seleccionar Unidad 5
+#% Select Unit 6
+Seleccionar Unidad 6
+#% Select Unit 7
+Seleccionar Unidad 7
+#% Select Unit 8
+Seleccionar Unidad 8
+#% Open Commands
+Abrir Comandos
+#% Maintain Heading
+Mantener Dirección
+#% The Bitter Conclusion
+La Amarga Conclusión
+#% Survive for as long as possible.
+Sobrevive tanto como sea posible.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% BLACK IRON GUNS
+CAÑONES DE HIERRO NEGRO
+#% Powerful cannons forged from black iron.
+Poderosos cañones forjados de hierro negro.
+#% AMBUSH AT RYUVIA
+EMBOSCADA EN RYUVIA
+#% Defeat the enemy fleet.
+Derrota la flota enemiga.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Moderate
+Moderado
+#% Moderate
+Moderado
+#% THE BATTLE OF VOLARIS
+LA BATALLA DE VOLARIS
+#% Defeat the enemy fleet.
+Derrota la flota enemiga.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Heavy
+Intenso
+#% Heavy
+Intenso
+#% THE WITCH OF ASAHI
+LA BRUJA DE ASAHI
+#% Defeat the enemy fleet.
+Derrota la flota enemiga.
+#% The Sunrider is sunk.
+El Sunrider es hundido.
+#% Heavy
+Intenso
+#% Heavy
+Intenso
+#% DMG CONTROL
+CONTROL DE DAÑOS
+#% Repair minor sail and cannon damage.
+Repara daños menores de vela y cañón.
+#% BUCCANEERS
+BUCANEROS
+#% x3 Bounty
+Recompensas x3
+#% Increase bounty from boarding actions.
+Aumenta las recompensas de acciones de abordaje.
+#% FIRE PROOF SAILS
+VELAS A PRUEBA DE FUEGO
+#% Fire immunity
+Inmunidad al fuego
+#% Sails cannot catch fire.
+Las velas no se pueden incendiar
+#% REINFORCED MOUNTS
+SOPORTES REFORZADOS
+#% 50% Cannon Def
+50% Def de Cañones
+#% Decrease cannon loss.
+Disminuye la pérdida de cañones.
+#% MAGIC ARMOR
+ARMADURA MÁGICA
+#% +10 F Armor
++10 Armadura Frontal
+#% Elvish enchantments protect the ship's front.
+Encantamientos élficos protegen el frente de la nave.
+#% MARINES
+MARINEROS
+#% 5 Morale Floor
+Moral Mínima 5
+#% Hardened soldiers who never lose their mettle under fire. Morale never goes below five.
+Aguerridos soldados que nunca pierden su temple bajo fuego. La moral nunca baja de cinco.
+#% WARNING: Unmoved ships with sails will drift
+ADVERTENCIA: Naves no movidas con las velas sueltas vagarán
+#% BELL CANNON
+CAÑÓN DE CAMPANA
+#% Deal devastating damage to target.
+Provoca daño devastador al objetivo.
+#% SPECIAL ORDINANCE
+MUNICIÓN ESPECIAL
+#% 0 Cannons, +3 spe. ammo
+0 Cañones, +3 munición esp.
+#% Replace cannons with extra ammo for special weapon.
+Remplaza los cañones con munición extra para armas especiales.
+#% MANA SHIELD
+ESCUDO DE MANÁ
+#% Message Box Transparency
+Transparencia de la Caja de Diálogo
+#% Pact and Pirate Fleets at Sargasso
+Flotas del Pacto y Piratas en Sargasso
+#% SHELL SHOT
+BALAS EXPLOSIVAS
+#% Cannon shot designed to destroy enemy cannons.
+Balas de cañón diseñadas para destruir cañones enemigos.
+#% MASTER SAILS
+VELAS MAESTRAS
+#% +50% Sail Movement
++50% Movimiento de Velas
+#% Sails made by Elvish masters infused with wind magic.
+Velas hechas por maestros Élficos imbuidas con magia de viento.
+#% Black Jack
 Black Jack
-# Liberty
+#% Liberty
 Liberty
-# Bianca
+#% Bianca
 Bianca
-# Phoenix
+#% Phoenix
 Phoenix
-# Seraphim
+#% Seraphim
 Seraphim
-# Paladin
+#% Paladin
 Paladin
-# High Roller
+#% High Roller
 High Roller
-# Dominator
+#% Dominator
 Dominator
-# Spell Caster
+#% Spell Caster
 Spell Caster
-# Arch Angel
+#% Arch Angel
 Arch Angel
-# Calamity
+#% Calamity
 Calamity
-# The Holy Sister's Sins
-The Holy Sister's Sins
-# Sink the pirate fleet.
-Sink the pirate fleet.
-# Championship
-Championship
-# Mild
-Mild
-# All player ships can board again.
-All player ships can board again.
-# Reload cannons of all player ships.
-Reload cannons of all player ships.
-# All player ships can move again.
-All player ships can move again.
-# The Madness of Petite Cosette
-The Madness of Petite Cosette
-# Capture the Havoc to disrupt Cosette's magic, then sink her once and for all.
-Capture the Havoc to disrupt Cosette's magic, then sink her once and for all.
-# Her Destiny
-Her Destiny
-# Sink all enemies. You cannot keep any ships captured during this battle.
-Sink all enemies. You cannot keep any ships captured during this battle.
-# Dissension
-Dissension
-# Sink all Pact ships.
-Sink all Pact ships.
-# An Elvish ship is sunk or the Sunrider is sunk.
-An Elvish ship is sunk or the Sunrider is sunk.
-# Homunculi
-Homunculi
-# Destroy the fort then sink all reinforcements.
-Destroy the fort then sink all reinforcements.
-# Escape From Ryuvia... Again.
-Escape From Ryuvia... Again.
-# All player ships must reach the escape zone.
-All player ships must reach the escape zone.
-# Operation Rescue Dad
-Operation Rescue Dad
-# Capture all three transport ships before any of them reaches the escape zone.
-Capture all three transport ships before any of them reaches the escape zone.
-# A transport ship is sunk before it is captured, or one reaches the escape zone, or the Sunrider is sunk.
-A transport ship is sunk before it is captured, or one reaches the escape zone, or the Sunrider is sunk.
-# Our Path
-Our Path
-# Capture the Legion.
-Capture the Legion.
-# The Legion or the Sunrider is sunk.
-The Legion or the Sunrider is sunk.
-# End the Monolithic Truth
-End the Monolithic Truth
-# Weaker Enemy Ships
-Weaker Enemy Ships
-# Your Ships Regain HP
-Your Ships Regain HP
-# More Money
-More Money
-# More Movement
-More Movement
-# Use Sails Anytime
-Use Sails Anytime
-# Deal more RPG DMG
-Deal more RPG DMG
-# No Ship Permadeath
-No Ship Permadeath
-# No Move Take Backs
-No Move Take Backs
-# Deadlier RPG Battles
-Deadlier RPG Battles
-# Ironman Mode
-Ironman Mode
-# Instakill Spears
-Instakill Spears
-# Whale Tax
-Whale Tax
-# Bonus
+#% The Holy Sister's Sins
+Los Pecados de la Santa Hermana
+#% Sink the pirate fleet.
+Hunde la flota pirata.
+#% Championship
+Campeonato
+#% Mild
+Suave
+#% All player ships can board again.
+Todas las naves del jugador pueden abordar otra vez.
+#% Reload cannons of all player ships.
+Recargar cañones de todas las naves del jugador.
+#% All player ships can move again.
+Todas las naves del jugador se pueden mover otra vez.
+#% The Madness of Petite Cosette
+La Locura de la Pequeña Cosette
+#% Capture the Havoc to disrupt Cosette's magic, then sink her once and for all.
+Captura al Havoc o interrumpe los poderes de Cosette y luego hunde a todos los enemigos.
+#% Her Destiny
+Su Destino
+#% Sink all enemies. You cannot keep any ships captured during this battle.
+Hunde a todos los enemigos. No puedes conservar ninguna nave capturada durante esta batalla.
+#% Dissension
+Discordia
+#% Sink all Pact ships.
+Hunde todas las naves del Pacto.
+#% An Elvish ship is sunk or the Sunrider is sunk.
+Una nave Élfica es hundida o el Sunrider es hundido.
+#% Homunculi
+Homúnculo
+#% Destroy the fort then sink all reinforcements.
+Destruye el fuerte y luego hunde todos los refuerzos.
+#% Escape From Ryuvia... Again.
+Escapar de Ryuvia... Otra vez.
+#% All player ships must reach the escape zone.
+Todas las naves deben alcanzar la zona de escape.
+#% Operation Rescue Dad
+Operación Rescatar a Papá
+#% Capture all three transport ships before any of them reaches the escape zone.
+Captura las tres naves de transporte antes de que alguna de ellas llegue a la zona de escape.
+#% A transport ship is sunk before it is captured, or one reaches the escape zone, or the Sunrider is sunk.
+Una nave de transporte es hundida antes de que sea capturada, o alguna alcanza la zona de escape, o el Sunrider es hundido.
+#% Our Path
+Nuestro Rumbo
+#% Capture the Legion.
+Captura al Legion.
+#% The Legion or the Sunrider is sunk.
+El Legion o el Sunrider son hundidos.
+#% End the Monolithic Truth
+Termina la Verdad Monolítica
+#% Weaker Enemy Ships
+Naves Enemigas Más Débiles
+#% Your Ships Regain HP
+Tus Naves Recuperan PS
+#% More Money
+Más Dinero
+#% More Movement
+Más Movimiento
+#% Use Sails Anytime
+Usar Velas cuando sea
+#% Deal more RPG DMG
+Provocar más DAÑO RPG
+#% No Ship Permadeath
+Muerte de Naves no Permanente
+#% No Move Take Backs
+Sin Deshacer Movimiento
+#% Deadlier RPG Battles
+Batallas RPG más Mortales
+#% Ironman Mode
+Modo Ironman
+#% Instakill Spears
+Lanzas de Muerte Inmediata
+#% Whale Tax
+Impuesto por Ballena
+#% Bonus
 Bonus
-# Are you sure you want to restart? All unsaved progress will be lost.
-Are you sure you want to restart? All unsaved progress will be lost.
-# UNHOLY REGENERATION
-UNHOLY REGENERATION
-# Pirate Frigate
-Pirate Frigate
-# RALLY
-RALLY
-# Unlocks an Order to increase morale of all ships.
-Unlocks an Order to increase morale of all ships.
-# Increase morale of all ships by 5.
-Increase morale of all ships by 5.
-# Song Ship of the Line
-Song Ship of the Line
-# GATE OF EDAR
-GATE OF EDAR
-# GENERAL SETTINGS
-GENERAL SETTINGS
-# Auto Save Frequency
-Auto Save Frequency
-# Every 5 Turns
-Every 5 Turns
-# Every 10 Turns
-Every 10 Turns
-# Every 15 Turns
-Every 15 Turns
-# Never
-Never
-# Game saved
-Game saved
-# WRITTEN AND DIRECTED BY SAM YANG
-WRITTEN AND DIRECTED BY SAM YANG
-# 2D Art      ASHTON WILSON, PAUL JIN
-2D Art      ASHTON WILSON, PAUL JIN
-# 3D Art      SAM YANG, DMYTRO GANNOTSKY, AMIN ADUKOV
-3D Art      SAM YANG, DMYTRO GANNOTSKY, AMIN ADUKOV
-# Map Art      KARIN W.
-Map Art      KARIN W.
-# Prologue Art      ANDREW DUBYNA
-Prologue Art      ANDREW DUBYNA
-# UI Art      ADIROSA
-UI Art      ADIROSA
-# Programming      SAM YANG
-Programming      SAM YANG
-# Voice Acting
-Voice Acting
-# Ava Crescentia      HIMARI
+#% Are you sure you want to restart? All unsaved progress will be lost.
+¿Estás seguro de que quieres reiniciar? Todo el progreso no guardado se perderá.
+#% UNHOLY REGENERATION
+REGENERACIÓN IMPÍA
+#% Pirate Frigate
+Fragata Pirata
+#% RALLY
+CONCENTRACIÓN
+#% Unlocks an Order to increase morale of all ships.
+Desbloquea una Orden para aumentar la moral de todas las naves.
+#% Increase morale of all ships by 5.
+Aumenta la moral de todas las naves en 5.
+#% Song Ship of the Line
+Navío de Línea Song
+#% GATE OF EDAR
+PUERTA DE EDAR
+#% GENERAL SETTINGS
+CONFIGURACIONES GENERALES
+#% Auto Save Frequency
+Frecuencia de Autoguardado
+#% Every 5 Turns
+Cada 5 Turnos
+#% Every 10 Turns
+Cada 10 Turnos
+#% Every 15 Turns
+Cada 15 Turnos
+#% Never
+Nunca
+#% Game saved
+Juego guardado
+#% WRITTEN AND DIRECTED BY SAM YANG
+ESCRITO Y DIRIGIDO POR SAM YANG
+#% 2D Art      ASHTON WILSON, PAUL JIN
+Arte 2D      ASHTON WILSON, PAUL JIN
+#% 3D Art      SAM YANG, DMYTRO GANNOTSKY, AMIN ADUKOV
+Arte 3D      SAM YANG, DMYTRO GANNOTSKY, AMIN ADUKOV
+#% Map Art      KARIN W.
+Arte de Mapa      KARIN W.
+#% Prologue Art      ANDREW DUBYNA
+Arte del Prólogo      ANDREW DUBYNA
+#% UI Art      ADIROSA
+Arte IU      ADIROSA
+#% Programming      SAM YANG
+Programación      SAM YANG
+#% Voice Acting
+Actuación de Voz
+#% Ava Crescentia      HIMARI
 Ava Crescentia      HIMARI
-# Asaga di Ryuvia      SAKURA MATSURI
+#% Asaga di Ryuvia      SAKURA MATSURI
 Asaga di Ryuvia      SAKURA MATSURI
-# Chigara Ashada      YOMOGI KASUMI
+#% Chigara Ashada      YOMOGI KASUMI
 Chigara Ashada      YOMOGI KASUMI
-# Lynn      YOMOGI KASUMI
+#% Lynn      YOMOGI KASUMI
 Lynn      YOMOGI KASUMI
-# Alice Ashada      YOMOGI KASUMI
+#% Alice Ashada      YOMOGI KASUMI
 Alice Ashada      YOMOGI KASUMI
-# Icari Isidolde      HARUNA REN
+#% Icari Isidolde      HARUNA REN
 Icari Isidolde      HARUNA REN
-# Kryska Stares      YUMENO USAGI
+#% Kryska Stares      YUMENO USAGI
 Kryska Stares      YUMENO USAGI
-# Claude Trilleo      AYANE MAKO
+#% Claude Trilleo      AYANE MAKO
 Claude Trilleo      AYANE MAKO
-# Sola di Ryuvia      YAHIRO MAMI
+#% Sola di Ryuvia      YAHIRO MAMI
 Sola di Ryuvia      YAHIRO MAMI
-# Cosette Cosmos, Others      HAYASE YAYOI
+#% Cosette Cosmos, Others      HAYASE YAYOI
 Cosette Cosmos, Others      HAYASE YAYOI
-# Maray Shields      MITAKA RIN
+#% Maray Shields      MITAKA RIN
 Maray Shields      MITAKA RIN
-# Jem'hyre      MITAKA RIN
+#% Jem'hyre      MITAKA RIN
 Jem'hyre      MITAKA RIN
-# Miirage Foster      MITAKA RIN
+#% Miirage Foster      MITAKA RIN
 Miirage Foster      MITAKA RIN
-# Emil Kuushana      NAKASE HINA
+#% Emil Kuushana      NAKASE HINA
 Emil Kuushana      NAKASE HINA
-# Qisah      NAKASE HINA
+#% Qisah      NAKASE HINA
 Qisah      NAKASE HINA
-# Fontana, Clayton Shields, Others      OSHITA KOTA
-Fontana, Clayton Shields, Others      OSHITA KOTA
-# Cullen, Jaylor, Crow Harbor, Others      KOBA YOSHIYUKI
-Cullen, Jaylor, Crow Harbor, Others      KOBA YOSHIYUKI
-# Admiral Grey, Arcadius, Others      KOSHI YUKIMITSU
-Admiral Grey, Arcadius, Others      KOSHI YUKIMITSU
-# Voice Engineer      TAKANASHI KEITA
-Voice Engineer      TAKANASHI KEITA
-# Voice FX      JEFFREY TAYLOR
-Voice FX      JEFFREY TAYLOR
-# Quality Assurance      BEN JENNINGS, MARIA CHAVEZ (SEKAI PROJECT), MARTIN DAVICO (SEKAI PROJECT), DARREL PINGA (SEKAI PROJECT)
-Quality Assurance      BEN JENNINGS, MARIA CHAVEZ (SEKAI PROJECT), MARTIN DAVICO (SEKAI PROJECT), DARREL PINGA (SEKAI PROJECT)
-# Japanese Translation      MARIA CHAVEZ (SEKAI PROJECT)
-Japanese Translation      MARIA CHAVEZ (SEKAI PROJECT)
-# Community Management      BEN JENNINGS
-Community Management      BEN JENNINGS
-# Audio Licensed From      JAMENDO, POND5, AUDIOSTOCK
-Audio Licensed From      JAMENDO, POND5, AUDIOSTOCK
-# Additional Music      SEYCARA THE ANIME ORCHESTRA
-Additional Music      SEYCARA THE ANIME ORCHESTRA
-# Textures      TEXTURES.COM
-Textures      TEXTURES.COM
-# OP Song "BEGINNING" Vocals      SAGARA KOKORO
-OP Song "BEGINNING" Vocals      SAGARA KOKORO
-# OP Song "BEGINNING" Composition, Arrangement      TAKANASHI KEITA
-OP Song "BEGINNING" Composition, Arrangement      TAKANASHI KEITA
-# OP Song "BEGINNING" Lyrics      KAZUKI RAN
-OP Song "BEGINNING" Lyrics      KAZUKI RAN
-# ED Song "SUNRIDER MEDLEY" Vocals      MANDY B. BLUE
-ED Song "SUNRIDER MEDLEY" Vocals      MANDY B. BLUE
-# ED Song "SUNRIDER MEDLEY" Composition, Arrangement      TAKANASHI KEITA
-ED Song "SUNRIDER MEDLEY" Composition, Arrangement      TAKANASHI KEITA
-# ED Song "SUNRIDER MEDLEY" Lyrics      KAZUKI RAN
-ED Song "SUNRIDER MEDLEY" Lyrics      KAZUKI RAN
-# Published by Sekai Project
-Published by Sekai Project
-# This game is a work of fiction. Any similarities between the contents of this game and any real world individuals, brands, or events are not intended and purely coincidental. The statements and opinions expressed in this game do not necessarily reflect the opinions of Love in Space, Sekai Project, or any of its agents.
-This game is a work of fiction. Any similarities between the contents of this game and any real world individuals, brands, or events are not intended and purely coincidental. The statements and opinions expressed in this game do not necessarily reflect the opinions of Love in Space, Sekai Project, or any of its agents.
-# (C) Love in Space Inc., 2025
+#% Fontana, Clayton Shields, Others      OSHITA KOTA
+Fontana, Clayton Shields, Otros      OSHITA KOTA
+#% Cullen, Jaylor, Crow Harbor, Others      KOBA YOSHIYUKI
+Cullen, Jaylor, Crow Harbor, Otros      KOBA YOSHIYUKI
+#% Admiral Grey, Arcadius, Others      KOSHI YUKIMITSU
+Admiral Grey, Arcadius, Otros      KOSHI YUKIMITSU
+#% Voice Engineer      TAKANASHI KEITA
+Ingeniero de Voz      TAKANASHI KEITA
+#% Voice FX      JEFFREY TAYLOR
+Voz FX      JEFFREY TAYLOR
+#% Quality Assurance      BEN JENNINGS, MARIA CHAVEZ (SEKAI PROJECT), MARTIN DAVICO (SEKAI PROJECT), DARREL PINGA (SEKAI PROJECT)
+Aseguramiento de Calidad      BEN JENNINGS, MARIA CHAVEZ (SEKAI PROJECT), MARTIN DAVICO (SEKAI PROJECT), DARREL PINGA (SEKAI PROJECT)
+#% Japanese Translation      MARIA CHAVEZ (SEKAI PROJECT)
+Traducción Japonés      MARIA CHAVEZ (SEKAI PROJECT)
+#% Community Management      BEN JENNINGS
+Administrador de la Comunidad      BEN JENNINGS
+#% Audio Licensed From      JAMENDO, POND5, AUDIOSTOCK
+Audio Licenciado De      JAMENDO, POND5, AUDIOSTOCK
+#% Additional Music      SEYCARA THE ANIME ORCHESTRA
+Música Adicional      SEYCARA THE ANIME ORCHESTRA
+#% Textures      TEXTURES.COM
+Texturas      TEXTURES.COM
+#% OP Song "BEGINNING" Vocals      SAGARA KOKORO
+Canción OP "BEGINNING" Voz      SAGARA KOKORO
+#% OP Song "BEGINNING" Composition, Arrangement      TAKANASHI KEITA
+Canción OP "BEGINNING" Composición, Arreglo      TAKANASHI KEITA
+#% OP Song "BEGINNING" Lyrics      KAZUKI RAN
+Canción OP "BEGINNING" Letra      KAZUKI RAN
+#% ED Song "SUNRIDER MEDLEY" Vocals      MANDY B. BLUE
+Canción ED "SUNRIDER MEDLEY" Voz      MANDY B. BLUE
+#% ED Song "SUNRIDER MEDLEY" Composition, Arrangement      TAKANASHI KEITA
+Canción ED "SUNRIDER MEDLEY" Composición, Arreglo      TAKANASHI KEITA
+#% ED Song "SUNRIDER MEDLEY" Lyrics      KAZUKI RAN
+Canción ED "SUNRIDER MEDLEY" Letra      KAZUKI RAN
+#% Published by Sekai Project
+Publicado por Sekai Project
+#% This game is a work of fiction. Any similarities between the contents of this game and any real world individuals, brands, or events are not intended and purely coincidental. The statements and opinions expressed in this game do not necessarily reflect the opinions of Love in Space, Sekai Project, or any of its agents.
+Este juego es una obra de ficción. Cualquier semejanza entre los contenidos de este juego y cualquier individuo, marca o eventos del mundo real son pura coincidencia y no intencionales. Las afirmaciones y opiniones expresadas en este juego no reflejan necesariamente las opiniones de Love in Space, Sekai Project, y ninguno de sus agentes.
+#% (C) Love in Space Inc., 2025
 (C) Love in Space Inc., 2025
-# Insert mysterious message here...
-Insert mysterious message here...
-# We thank our Love in Space Patreons, including...
-We thank our Love in Space Patreons, including...
-# Brett, Big Toast, Alvin V., The-Only-Joe, Francis Dinkleberg
+#% Insert mysterious message here...
+Inserte mensaje misterioso aquí...
+#% We thank our Love in Space Patreons, including...
+Le agradecemos a nuestros Patreons de Love in Space, incluyendo...
+#% Brett, Big Toast, Alvin V., The-Only-Joe, Francis Dinkleberg
 Brett, Big Toast, Alvin V., The-Only-Joe, Francis Dinkleberg
-# Eugen, Alec Cummings. StrifeHavoc, Ryan Samr, Edward Scott Merry
+#% Eugen, Alec Cummings. StrifeHavoc, Ryan Samr, Edward Scott Merry
 Eugen, Alec Cummings. StrifeHavoc, Ryan Samr, Edward Scott Merry
-# JT, Austin Van Ysseldyk, Naeko, Darkwolfultima, Peter Blake
+#% JT, Austin Van Ysseldyk, Naeko, Darkwolfultima, Peter Blake
 JT, Austin Van Ysseldyk, Naeko, Darkwolfultima, Peter Blake
-# Zanair, QuakeRiley, Justin Eide, Eric Tsai, procrastinatingStudent
+#% Zanair, QuakeRiley, Justin Eide, Eric Tsai, procrastinatingStudent
 Zanair, QuakeRiley, Justin Eide, Eric Tsai, procrastinatingStudent
-# Shang.EXE
+#% Shang.EXE
 Shang.EXE
-# GrumpyBone
+#% GrumpyBone
 GrumpyBone
-# Battle Brotier
+#% Battle Brotier
 Battle Brotier
-# Templar366
+#% Templar366
 Templar366
-# Serf
+#% Serf
 Serf
-# Van "Mankotron" Hang
+#% Van "Mankotron" Hang
 Van "Mankotron" Hang
-# Spacegirl95
+#% Spacegirl95
 Spacegirl95
-# Kailub Ives
+#% Kailub Ives
 Kailub Ives
-# Tristan Irwin
+#% Tristan Irwin
 Tristan Irwin
-# radN3X 
+#% radN3X 
 radN3X 
-# Andrew J Nowak
+#% Andrew J Nowak
 Andrew J Nowak
-# James "JR" Dabinett
+#% James "JR" Dabinett
 James "JR" Dabinett
-# Cory F.
+#% Cory F.
 Cory F.
-# Warchief Williams
+#% Warchief Williams
 Warchief Williams
-# J.M. Ellis
+#% J.M. Ellis
 J.M. Ellis
-# Radu Epure
+#% Radu Epure
 Radu Epure
-# Taihou
+#% Taihou
 Taihou
-# RESET POSITION
-RESET POSITION
-# Pirate Sloop
-Pirate Sloop
-# TIP: Be careful not to spread your crew too thin! Assigning three or more crew members to a ship keeps most enemies away.
-TIP: Be careful not to spread your crew too thin! Assigning three or more crew members to a ship keeps most enemies away.
-# TIP: Unleash more powerful special attacks during boarding actions by using specials back-to-back in one turn.
-TIP: Unleash more powerful special attacks during boarding actions by using specials back-to-back in one turn.
-# TIP: Collapsing the enemy's sails with hwacha and chain shots drastically reduces the enemy's fighting power in boarding actions.
-TIP: Collapsing the enemy's sails with hwacha and chain shots drastically reduces the enemy's fighting power in boarding actions.
-# TIP: Use mortars and grape shots to soften the enemy's crew before boarding.
-TIP: Use mortars and grape shots to soften the enemy's crew before boarding.
-# TIP: Use your sails to move further when the wind is in your favor.
-TIP: Use your sails to move further when the wind is in your favor.
-# TIP: Move lightly crewed support ships behind heavily crewed warships.
-TIP: Move lightly crewed support ships behind heavily crewed warships.
-# TIP: Board enemy ships to loot their equipment and supplies.
-TIP: Board enemy ships to loot their equipment and supplies.
-# TIP: Scuttling a captured ship in the Assign Crew menu yields much more gold than during battles.
-TIP: Scuttling a captured ship in the Assign Crew menu yields much more gold than during battles.
-# TIP: Ships can fire on both sides before having to reload.
-TIP: Ships can fire on both sides before having to reload.
-# TIP: You can customize your game play experience with difficulty mods in the custom difficulty menu.
-TIP: You can customize your game play experience with difficulty mods in the custom difficulty menu.
-# TIP
-TIP
+#% RESET POSITION
+REINICIAR POSICIÓN
+#% Pirate Sloop
+Velero Pirata
+#% TIP: Be careful not to spread your crew too thin! Assigning three or more crew members to a ship keeps most enemies away.
+CONSEJO: ¡Ten cuidado y no disperses mucho a tu tripulación! Asignar tres o más tripulantes a una nave aleja a la mayoría de los enemigos.
+#% TIP: Unleash more powerful special attacks during boarding actions by using specials back-to-back in one turn.
+CONSEJO: Desata ataques especiales más poderosos durante acciones de abordaje usando especiales uno tras otro en un turno.
+#% TIP: Collapsing the enemy's sails with hwacha and chain shots drastically reduces the enemy's fighting power in boarding actions.
+CONSEJO: Colapsar las velas del enemigo con hwacha y palanquetas reduce drásticamente el poder de lucha del enemigo en acciones de abordaje.
+#% TIP: Use mortars and grape shots to soften the enemy's crew before boarding.
+CONSEJO: Usa morteros y metralla para dañar a la tripulación del enemigo antes de abordar.
+#% TIP: Use your sails to move further when the wind is in your favor.
+CONSEJO: Usa tus velas para moverte más lejos cuando el viento esté a tu favor.
+#% TIP: Move lightly crewed support ships behind heavily crewed warships.
+CONSEJO: Mueve naves de apoyo ligeramente tripuladas detrás de acorazados fuertemente tripulados.
+#% TIP: Board enemy ships to loot their equipment and supplies.
+CONSEJO: Aborda naves enemigas para saquear sus equipamientos y suministros.
+#% TIP: Scuttling a captured ship in the Assign Crew menu yields much more gold than during battles.
+CONSEJO: Hundir una nave capturada en el menú de Asignar Tripulación otorga mucho más oro que durante batallas.
+#% TIP: Ships can fire on both sides before having to reload.
+CONSEJO: Las naves pueden disparar por ambos lados antes de tener que recargar.
+#% TIP: You can customize your game play experience with difficulty mods in the custom difficulty menu.
+CONSEJO: Puedes personalizar tu experiencia de jugabilidad con modificadores de dificultad en el menú de dificultad personalizada.
+#% TIP
+CONSEJO
