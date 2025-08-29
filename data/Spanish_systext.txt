@@ -1,1792 +1,1792 @@
-# Yes?
-Yes?
-# Ready
-Ready
-# I'm here
-I'm here
-# Hya! (Swing baton)
-Hya! (Swing baton)
-# Hya! (Swing baton)
-Hya! (Swing baton)
-# Hya! (Swing baton)
-Hya! (Swing baton)
-# Whew.
-Whew.
-# Heh.
+#% Yes?
+¿Sí?
+#% Ready
+Lista
+#% I'm here
+Estoy aquí
+#% Hya! (Swing baton)
+¡Hya! (Mueve el bastón)
+#% Hya! (Swing baton)
+¡Hya! (Mueve el bastón)
+#% Hya! (Swing baton)
+¡Hya! (Mueve el bastón)
+#% Whew.
+Uf.
+#% Heh.
 Heh.
-# Be on your guard!
-Be on your guard!
-# Prepare to act!
-Prepare to act!
-# Your power is mine!
-Your power is mine!
-# New orders!
-New orders!
-# -1000
+#% Be on your guard!
+¡En guardia!
+#% Prepare to act!
+¡Preparada para actuar!
+#% Your power is mine!
+¡Tu poder es mío!
+#% New orders!
+¡Nuevas órdenes!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Ugh!
-Ugh!
-# Tch!
-Tch!
-# Gah!
-Gah!
-# Falling back!
-Falling back!
-# Mm...
+#% Ugh!
+¡Ugh!
+#% Tch!
+¡Tch!
+#% Gah!
+¡Gah!
+#% Falling back!
+¡Retrocediendo!
+#% Mm...
 Mm...
-# You had no chance!
-You had no chance!
-# Reform lines!
-Reform lines!
-# This victory belongs to everyone
-This victory belongs to everyone
-# At your command
-At your command
-# Standing by
-Standing by
-# All hands report ready
-All hands report ready
-# Your orders, captain?
-Your orders, captain?
-# Yes, captain?
-Yes, captain?
-# Another fine mess you've gotten us in...
-Another fine mess you've gotten us in...
-# Heading to coordinates
-Heading to coordinates
-# Steady as she goes!
-Steady as she goes!
-# Full speed ahead!
-Full speed ahead!
-# Aye aye captain!
-Aye aye captain!
-# Underway!
-Underway!
-# Load roundshots! 
-Load roundshots! 
-# Load chainshots!
-Load chainshots!
-# Load grapeshots!
-Load grapeshots!
-# Prepare special ordinance!
-Prepare special ordinance!
-# Fire!
-Fire!
-# Vanguard Cannon, fully charged!
-Vanguard Cannon, fully charged!
-# FIRE!!!!
-FIRE!!!!
-# All hands, charge!
-All hands, charge!
-# Pack sails!
-Pack sails!
-# Release the sails!
-Release the sails!
-# They're dead in the water!
-They're dead in the water!
-# We've done it!
-We've done it!
-# We've been demasted, captain!
-We've been demasted, captain!
-# Light damage, reported!
-Light damage, reported!
-# Nothing we can't handle.
-Nothing we can't handle.
-# Direct hit!
-Direct hit!
-# We're taking on water!
-We're taking on water!
-# She can't take more of this, captain!
-She can't take more of this, captain!
-# Prepare to abandon ship!
-Prepare to abandon ship!
-# All hands: Abandon ship!
-All hands: Abandon ship!
-# Our sails are on fire, captain!
-Our sails are on fire, captain!
-# Drop anchor!
-Drop anchor!
-# Full Forward!
-Full Forward!
-# All Guard!
-All Guard!
-# Full Sails!
-Full Sails!
-# Restock arms!
-Restock arms!
-# Remount all cannons!
-Remount all cannons!
-# Understood, captain
-Understood, captain
-# Order rescinded
-Order rescinded
-# Hey!
-Hey!
-# I'm ready!
-I'm ready!
-# Let's go!
-Let's go!
-# Hya! (Swing Sword)
-Hya! (Swing Sword)
-# Hya! (Swing Sword)
-Hya! (Swing Sword)
-# Hya! (Swing Sword)
-Hya! (Swing Sword)
-# Whew!
-Whew!
-# Tututut!
-Tututut!
-# Toyah!
-Toyah!
-# Horayo!
-Horayo!
-# Here we go! HYAAAAAAAA!!!!!!!!
-Here we go! HYAAAAAAAA!!!!!!!!
-# -1000
+#% You had no chance!
+¡No tenías oportunidad!
+#% Reform lines!
+¡Reformen las filas!
+#% This victory belongs to everyone
+Esta victoria les pertenece a todos
+#% At your command
+A sus órdenes
+#% Standing by
+En posición
+#% All hands report ready
+Toda la tripulación se reporta lista
+#% Your orders, captain?
+¿Sus órdenes, capitán?
+#% Yes, captain?
+¿Sí, capitán?
+#% Another fine mess you've gotten us in...
+Otro buen lío en el que nos ha metido...
+#% Heading to coordinates
+Dirigiéndonos a las coordenadas
+#% Steady as she goes!
+¡Avanzando firme!
+#% Full speed ahead!
+¡Adelante a toda velocidad!
+#% Aye aye captain!
+¡Sí capitán!
+#% Underway!
+¡En camino!
+#% Load roundshots! 
+¡Carguen balas rasas!
+#% Load chainshots!
+¡Carguen palanquetas!
+#% Load grapeshots!
+¡Carguen metralla!
+#% Prepare special ordinance!
+¡Preparen el arma especial!
+#% Fire!
+¡Fuego!
+#% Vanguard Cannon, fully charged!
+¡Cañón Vanguard, completamente cargado!
+#% FIRE!!!!
+¡¡¡¡FUEGO!!!!
+#% All hands, charge!
+¡A toda la tripulación, a la carga!
+#% Pack sails!
+¡Recojan las velas!
+#% Release the sails!
+¡Liberen las velas!
+#% They're dead in the water!
+¡Están acabados!
+#% We've done it!
+¡Lo hemos hecho!
+#% We've been demasted, captain!
+¡Hemos sido desarbolados, capitán!
+#% Light damage, reported!
+¡Daños ligeros, reportados!
+#% Nothing we can't handle.
+Nada que no podamos aguantar.
+#% Direct hit!
+¡Golpe directo!
+#% We're taking on water!
+¡Nos está entrando agua!
+#% She can't take more of this, captain!
+¡No podrá aguantar más de esto, capitán!
+#% Prepare to abandon ship!
+¡Prepárense para abandonar la nave!
+#% All hands: Abandon ship!
+¡A toda la tripulación: abandonen la nave!
+#% Our sails are on fire, captain!
+¡Nuestras velas están en llamas, capitán!
+#% Drop anchor!
+¡Suelten el ancla!
+#% Full Forward!
+¡Avance Completo!
+#% All Guard!
+¡Defensa Total!
+#% Full Sails!
+¡A Toda Vela!
+#% Restock arms!
+¡Reabastezcan armas!
+#% Remount all cannons!
+¡Vuelvan a montar todos los cañones!
+#% Understood, captain
+Entendido, capitán
+#% Order rescinded
+Orden cancelada
+#% Hey!
+¡Hey!
+#% I'm ready!
+¡Estoy lista!
+#% Let's go!
+¡Vamos!
+#% Hya! (Swing Sword)
+¡Hya! (Mueve la Espada)
+#% Hya! (Swing Sword)
+¡Hya! (Mueve la Espada)
+#% Hya! (Swing Sword)
+¡Hya! (Mueve la Espada)
+#% Whew!
+¡U!
+#% Tututut!
+¡Tututut!
+#% Toyah!
+¡Toyah!
+#% Horayo!
+¡Horayo!
+#% Here we go! HYAAAAAAAA!!!!!!!!
+¡Aquí vamos! ¡¡¡¡¡¡¡¡HYAAAAAAAA!!!!!!!!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Ack!
-Ack!
-# Ow!
-Ow!
-# Hey!
-Hey!
-# Ugh... I'll be back...!
-Ugh... I'll be back...!
-# Yum...
+#% Ack!
+¡Ack!
+#% Ow!
+¡Ow!
+#% Hey!
+¡Hey!
+#% Ugh... I'll be back...!
+Ugh... ¡Volveré...!
+#% Yum...
 Yum...
-# I got one!
-I got one!
-# Let's move!
-Let's move!
-# Easy peesy!
-Easy peesy!
-# What's up, capt'n?
-What's up, capt'n?
-# What can I do for ya, capt'n?
-What can I do for ya, capt'n?
-# I'm standing by!
-I'm standing by!
-# What are we doin', capt'n?
-What are we doin', capt'n?
-# Ya can count on me!
-Ya can count on me!
-# Heyho, it's me, Asaga!
-Heyho, it's me, Asaga!
-# Movin' out!
-Movin' out!
-# On route!
-On route!
-# I'm rowrowrowin' mah boat!
-I'm rowrowrowin' mah boat!
-# Let's go!
-Let's go!
-# C'mon!
-C'mon!
-# Load all rounds!
-Load all rounds!
-# Chainshots!
-Chainshots!
-# Prepare grapeshots!
-Prepare grapeshots!
-# Get our secret weapon ready!
-Get our secret weapon ready!
-# Fire!
-Fire!
-# Oh-ho, this never gets old!
-Oh-ho, this never gets old!
-# TOORAAHHH!!!
-TOORAAHHH!!!
-# Let's take 'em out!
-Let's take 'em out!
-# Fold sails!
-Fold sails!
-# Open sails!
-Open sails!
-# Yosha, they're dead in the water!
-Yosha, they're dead in the water!
-# One enemy down!
-One enemy down!
-# All our sails are gone!
-All our sails are gone!
-# We took some hits!
-We took some hits!
-# They managed to graze us!
-They managed to graze us!
-# We've taken damage, capt'n!
-We've taken damage, capt'n!
-# She's been hurt!
-She's been hurt!
-# It's like a beach episode from hell!
-It's like a beach episode from hell!
-# Water's pouring in from every direction!
-Water's pouring in from every direction!
-# Looks like Asaga's goin' for a swim...!
-Looks like Asaga's goin' for a swim...!
-# We're on fire, capt'n!
-We're on fire, capt'n!
-# Let's go everyone!
-Let's go everyone!
-# -1000
+#% I got one!
+¡Tengo a uno!
+#% Let's move!
+¡Movámonos!
+#% Easy peesy!
+¡Muy fácil!
+#% What's up, capt'n?
+¿Qué pasa, capitán?
+#% What can I do for ya, capt'n?
+¿Qué puedo hacer por ti, capitán?
+#% I'm standing by!
+¡En posición!
+#% What are we doin', capt'n?
+¿Qué hacemos, capitán?
+#% Ya can count on me!
+¡Puedes contar conmigo!
+#% Heyho, it's me, Asaga!
+¡Heyho, soy yo, Asaga!
+#% Movin' out!
+¡Saliendo!
+#% On route!
+¡En ruta!
+#% I'm rowrowrowin' mah boat!
+¡Estoy brumbrumbrum mi bote!
+#% Let's go!
+¡Vamos!
+#% C'mon!
+¡Venga!
+#% Load all rounds!
+¡Carguen todas las balas!
+#% Chainshots!
+¡Palanquetas!
+#% Prepare grapeshots!
+¡Preparen metralla!
+#% Get our secret weapon ready!
+¡Preparen nuestra arma secreta!
+#% Fire!
+¡Fuego!
+#% Oh-ho, this never gets old!
+¡Oh-ho, esto nunca pasa de moda!
+#% TOORAAHHH!!!
+¡¡¡TOORAAHHH!!!
+#% Let's take 'em out!
+¡Derribémoslos!
+#% Fold sails!
+¡Arríen las velas!
+#% Open sails!
+¡Abran las velas!
+#% Yosha, they're dead in the water!
+¡Yosha, fueron hundidos!
+#% One enemy down!
+¡Un enemigo derribado!
+#% All our sails are gone!
+¡Nos hemos quedado sin velas!
+#% We took some hits!
+¡Recibimos algunos golpes!
+#% They managed to graze us!
+¡Lograron golpearnos!
+#% We've taken damage, capt'n!
+¡Hemos recibido daño, capitán!
+#% She's been hurt!
+¡Recibió daño!
+#% It's like a beach episode from hell!
+¡Es como el episodio de playa del infierno!
+#% Water's pouring in from every direction!
+¡Sale agua de todas direcciones!
+#% Looks like Asaga's goin' for a swim...!
+¡Parece que Asaga va a nadar...!
+#% We're on fire, capt'n!
+¡Estamos en llamas, capitán!
+#% Let's go everyone!
+¡Vamos todos!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# All right, capt'n!
-All right, capt'n!
-# Order rescinded!
-Order rescinded!
-# Yes?
-Yes?
-# It's Chigara!
-It's Chigara!
-# I'm ready!
-I'm ready!
-# Hya! (Chigara swings hammar)
-Hya! (Chigara swings hammar)
-# Hya! (Chigara swings hammar)
-Hya! (Chigara swings hammar)
-# Hya! (Chigara swings hammar)
-Hya! (Chigara swings hammar)
-# Whew!
-Whew!
-# Ha-!
-Ha-!
-# I can build it!
-I can build it!
-# You get a bread! Everyone gets a bread!
-You get a bread! Everyone gets a bread!
-# This is a bakery now!
-This is a bakery now!
-# -1000
+#% All right, capt'n!
+¡Muy bien, capitán!
+#% Order rescinded!
+¡Órdenes recibidas!
+#% Yes?
+¿Sí?
+#% It's Chigara!
+¡Aquí Chigara!
+#% I'm ready!
+¡Estoy lista!
+#% Hya! (Chigara swings hammar)
+¡Hya! (Chigara mueve el martillo)
+#% Hya! (Chigara swings hammar)
+¡Hya! (Chigara mueve el martillo)
+#% Hya! (Chigara swings hammar)
+¡Hya! (Chigara mueve el martillo)
+#% Whew!
+¡Uf!
+#% Ha-!
+¡Ha-!
+#% I can build it!
+¡Puedo construirlo!
+#% You get a bread! Everyone gets a bread!
+¡Ten un panecillo! ¡Todos tengan panecillos!
+#% This is a bakery now!
+¡Esto es una pastelería ahora!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Uck!
-Uck!
-# Ack!
-Ack!
-# Aaa!
-Aaa!
-# Chigara's gotta go now!
-Chigara's gotta go now!
-# Bread~--
-Bread~--
-# I got one!
-I got one!
-# Let's do our best!
-Let's do our best!
-# Eh? We won? Eh-heh...
-Eh? We won? Eh-heh...
-# Chigara here.
-Chigara here.
-# Do you want some bread, captain?
-Do you want some bread, captain?
-# I'm standing by.
-I'm standing by.
-# I hear you, captain.
-I hear you, captain.
-# How can I help?
-How can I help?
-# Yes, captain?
-Yes, captain?
-# Okay, we're heading there.
-Okay, we're heading there.
-# Understood, captain!
-Understood, captain!
-# Chigara's doing her best!
-Chigara's doing her best!
-# We're on our way!
-We're on our way!
-# I'll get there as fast as possible!
-I'll get there as fast as possible!
-# Loading roundshots!
-Loading roundshots!
-# Load chainshots!
-Load chainshots!
-# Hee, let's get this over with!
-Hee, let's get this over with!
-# How do you even use this thing?
-How do you even use this thing?
-# F-Fire!
-F-Fire!
-# Heee...! It's Vanguard time!
-Heee...! It's Vanguard time!
-# HYWAAAA!!!
-HYWAAAA!!!
-# Heeee... Let's go...!
-Heeee... Let's go...!
-# Fold sails!
-Fold sails!
-# Release sails!
-Release sails!
-# All right, they're dead in the water!
-All right, they're dead in the water!
-# We got them, captain!
-We got them, captain!
-# Hweeeh? Our sails are collapsing!
-Hweeeh? Our sails are collapsing!
-# We took some damage, captain.
-We took some damage, captain.
-# Whew, looks like it wasn't too bad.
-Whew, looks like it wasn't too bad.
-# That's going to take a while to repair...
-That's going to take a while to repair...
-# We're under attack!
-We're under attack!
-# C-Chigara can't take much more of this!
-C-Chigara can't take much more of this!
-# Hawawawa, everything's sinking!
-Hawawawa, everything's sinking!
-# The bakery might be impossible... but Chigara's still happy.
-The bakery might be impossible... but Chigara's still happy.
-# Our sails are on fire, captain!
-Our sails are on fire, captain!
-# Chigara will fix it!
-Chigara will fix it!
-# You need a fixer upper!
-You need a fixer upper!
-# -1000
+#% Uck!
+¡Uck!
+#% Ack!
+¡Ack!
+#% Aaa!
+¡Aaa!
+#% Chigara's gotta go now!
+¡Chigara tiene que irse ahora!
+#% Bread~--
+Panecillo~--
+#% I got one!
+¡Tengo a uno!
+#% Let's do our best!
+¡Esforcémonos al máximo!
+#% Eh? We won? Eh-heh...
+¿Eh? ¿Ganamos? Eh-heh...
+#% Chigara here.
+Aquí Chigara.
+#% Do you want some bread, captain?
+¿Necesitas panecillos, capitán?
+#% I'm standing by.
+Estoy en posición.
+#% I hear you, captain.
+Te escucho, capitán.
+#% How can I help?
+¿Cómo puedo ayudar?
+#% Yes, captain?
+¿Sí, capitán?
+#% Okay, we're heading there.
+Okey, nos dirigimos allá.
+#% Understood, captain!
+¡Entendido, capitán!
+#% Chigara's doing her best!
+¡Chigara se está esforzando!
+#% We're on our way!
+¡Estamos en camino!
+#% I'll get there as fast as possible!
+¡Llegaré ahí lo más rápido posible!
+#% Loading roundshots!
+¡Cargando balas rasas!
+#% Load chainshots!
+¡Cargando palanquetas!
+#% Hee, let's get this over with!
+¡Hee, terminemos con esto!
+#% How do you even use this thing?
+¿Cómo se supone que usas esta cosa?
+#% F-Fire!
+¡F-Fuego!
+#% Heee...! It's Vanguard time!
+¡Heee...! ¡Es hora del Vanguard!
+#% HYWAAAA!!!
+¡¡¡HYWAAAA!!!
+#% Heeee... Let's go...!
+Heeee... ¡Vamos...!
+#% Fold sails!
+¡Arríen las velas!
+#% Release sails!
+¡Suelten las velas!
+#% All right, they're dead in the water!
+¡Muy bien, están acabados!
+#% We got them, captain!
+¡Los tenemos, capitán!
+#% Hweeeh? Our sails are collapsing!
+¿Hweeeh? ¡Nuestras velas están colapsando!
+#% We took some damage, captain.
+Recibimos algo de daño, capitán.
+#% Whew, looks like it wasn't too bad.
+Uf, parece que no era tan grave.
+#% That's going to take a while to repair...
+Eso tomará un rato para repararse...
+#% We're under attack!
+¡Estamos bajo ataque!
+#% C-Chigara can't take much more of this!
+¡C-Chigara no puede aguantar mucho más esto!
+#% Hawawawa, everything's sinking!
+¡Hawawawa, todo se está hundiendo!
+#% The bakery might be impossible... but Chigara's still happy.
+La pastelería podrá ser imposible... pero aun así Chigara está feliz.
+#% Our sails are on fire, captain!
+¡Nuestras velas están en llamas, capitán!
+#% Chigara will fix it!
+¡Chigara lo reparará!
+#% You need a fixer upper!
+¡Necesitas reparar algo!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# I'll do my best!
-I'll do my best!
-# Nevermind.
-Nevermind.
-# I'm here
-I'm here
-# Yeah?
-Yeah?
-# Standing by.
-Standing by.
-# Hyah! (Swing sword)
-Hyah! (Swing sword)
-# Hyah! (Swing sword)
-Hyah! (Swing sword)
-# Hyah! (Swing sword)
-Hyah! (Swing sword)
-# Ho!
-Ho!
-# Hya!
-Hya!
-# RAIMEIKEN!
-RAIMEIKEN!
-# Nin nin smoke bomb!
-Nin nin smoke bomb!
-# RASENZAN!
-RASENZAN!
-# Clone Jutsu!
-Clone Jutsu!
-# -1000
+#% I'll do my best!
+¡Me esforzaré!
+#% Nevermind.
+Olvídenlo.
+#% I'm here
+Estoy aquí.
+#% Yeah?
+¿Sí?
+#% Standing by.
+En posición.
+#% Hyah! (Swing sword)
+¡Hyah! (Mueve la espada)
+#% Hyah! (Swing sword)
+¡Hyah! (Mueve la espada)
+#% Hyah! (Swing sword)
+¡Hyah! (Mueve la espada)
+#% Ho!
+¡Ho!
+#% Hya!
+¡Hya!
+#% RAIMEIKEN!
+¡RAIMEIKEN!
+#% Nin nin smoke bomb!
+¡Bomba de humo estilo ninja!
+#% RASENZAN!
+¡RASENZAN!
+#% Clone Jutsu!
+¡Jutsu de Clonación!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Ow!
-Ow!
-# Ugh!
-Ugh!
-# Tch!
-Tch!
-# Tch... Falling back!
-Tch... Falling back!
-# Yum...
+#% Ow!
+¡Ow!
+#% Ugh!
+¡Ugh!
+#% Tch!
+¡Tch!
+#% Tch... Falling back!
+Tch... ¡Retirándome!
+#% Yum...
 Yum...
-# Enemy down.
-Enemy down.
-# Let's go!
-Let's go!
-# Heh. Too easy.
-Heh. Too easy.
-# Icari, reporting.
-Icari, reporting.
-# Yeah?
-Yeah?
-# I'm standing by.
-I'm standing by.
-# What's our move, cap?
-What's our move, cap?
-# I'm in this for the money!
-I'm in this for the money!
-# Let's get this job done!
-Let's get this job done!
-# Moving out!
-Moving out!
-# Full speed ahead!
-Full speed ahead!
-# I'm heading to coordinates!
-I'm heading to coordinates!
-# Can't this boat go any faster?
-Can't this boat go any faster?
-# Man your stations!
-Man your stations!
-# Load roundshots!
-Load roundshots!
-# Load chainshots!
-Load chainshots!
-# Prepare anti-personal rounds!
-Prepare anti-personal rounds!
-# Time for our secret weapon!
-Time for our secret weapon!
-# Fire!
-Fire!
-# Vanguard, ready!
-Vanguard, ready!
-# VANGAAUURRDD!!!
-VANGAAUURRDD!!!
-# Charge!
-Charge!
-# Fold sails!
-Fold sails!
-# Release sails!
-Release sails!
-# They're dead in the water!
-They're dead in the water!
-# Bounty collected!
-Bounty collected!
-# All of our rigging's collapsed!
-All of our rigging's collapsed!
-# Light damage reported!
-Light damage reported!
-# Nothing too bad.
-Nothing too bad.
-# Argh, damage reported!
-Argh, damage reported!
-# Oy, what you are doing, cap?!
-Oy, what you are doing, cap?!
-# Fuck it all!
-Fuck it all!
-# We're getting our asses pounded!
-We're getting our asses pounded!
-# Crap...! I'm bailing out!
-Crap...! I'm bailing out!
-# Ugh, everything's on fire!
-Ugh, everything's on fire!
-# -1000
+#% Enemy down.
+Enemigo derribado.
+#% Let's go!
+¡Vamos!
+#% Heh. Too easy.
+Heh. Demasiado fácil.
+#% Icari, reporting.
+Icari, reportándose.
+#% Yeah?
+¿Sí?
+#% I'm standing by.
+Estoy en posición.
+#% What's our move, cap?
+¿Cuál es nuestro movimiento, capitán?
+#% I'm in this for the money!
+¡Estoy en esto por el dinero!
+#% Let's get this job done!
+¡Terminemos este trabajo!
+#% Moving out!
+¡Moviéndonos!
+#% Full speed ahead!
+¡Adelante a toda velocidad!
+#% I'm heading to coordinates!
+¡Me dirijo a las coordenadas!
+#% Can't this boat go any faster?
+¿No puede ir más rápido este bote?
+#% Man your stations!
+¡A sus lugares!
+#% Load roundshots!
+¡Carguen balas rasas!
+#% Load chainshots!
+¡Carguen palanquetas!
+#% Prepare anti-personal rounds!
+¡Carguen munición antipersonal!
+#% Time for our secret weapon!
+¡Hora de nuestra arma secreta!
+#% Fire!
+¡Fuego!
+#% Vanguard, ready!
+¡Vanguard, preparado!
+#% VANGAAUURRDD!!!
+¡¡¡VANGAAUURRDD!!!
+#% Charge!
+¡A la carga!
+#% Fold sails!
+¡Arríen las velas!
+#% Release sails!
+¡Suelten las velas!
+#% They're dead in the water!
+¡Están acabados!
+#% Bounty collected!
+¡Recompensa obtenida!
+#% All of our rigging's collapsed!
+¡Todo nuestro aparejo ha colapsado!
+#% Light damage reported!
+¡Daños ligeros reportados!
+#% Nothing too bad.
+Nada muy grave.
+#% Argh, damage reported!
+¡Argh, daños reportados!
+#% Oy, what you are doing, cap?!
+¡¿Oy, qué estás haciendo, capitán?!
+#% Fuck it all!
+¡Al diablo todo!
+#% We're getting our asses pounded!
+¡Nos están golpeando el trasero!
+#% Crap...! I'm bailing out!
+¡Maldición...! ¡Me largo!
+#% Ugh, everything's on fire!
+¡Ugh, todo está ardiendo!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Leave it to me.
-Leave it to me.
-# Belaying order
-Belaying order
-# Yes?
-Yes?
-# You called?
-You called?
-# Nyohoho...
+#% Leave it to me.
+Déjamelo a mí.
+#% Belaying order
+Recibiendo órdenes.
+#% Yes?
+¿Sí?
+#% You called?
+¿Llamaste?
+#% Nyohoho...
 Nyohoho...
-# Iyah! (Swing Staff)
-Iyah! (Swing Staff)
-# Iyah! (Swing Staff)
-Iyah! (Swing Staff)
-# Iyah! (Swing Staff)
-Iyah! (Swing Staff)
-# Whew!
-Whew!
-# Ah!
-Ah!
-# Heal!
-Heal!
-# Iyah~
+#% Iyah! (Swing Staff)
+¡Iyah! (Mueve la Vara)
+#% Iyah! (Swing Staff)
+¡Iyah! (Mueve la Vara)
+#% Iyah! (Swing Staff)
+¡Iyah! (Mueve la Vara)
+#% Whew!
+¡Uf!
+#% Ah!
+¡Ah!
+#% Heal!
+¡Curar!
+#% Iyah~
 Iyah~
-# O wind, listen to me!
-O wind, listen to me!
-# -1000
+#% O wind, listen to me!
+¡Oh viento, escúchame!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Iyah!
-Iyah!
-# Oo-oof!
-Oo-oof!
-# Ack!
-Ack!
-# Clothing damage...!
-Clothing damage...!
-# Delicious~~!!
-Delicious~~!!
-# Claude's got one!
-Claude's got one!
-# High five!
-High five!
-# Where's Claude's reward, captain-sama?
-Where's Claude's reward, captain-sama?
-# It's me, Claude!
-It's me, Claude!
-# Yes, captain?
-Yes, captain?
-# Your resident goddess, at your service!
-Your resident goddess, at your service!
-# It's everyone's best girl, me!
-It's everyone's best girl, me!
-# What can this goddess do for you?
-What can this goddess do for you?
-# I am ready to serve.
-I am ready to serve.
-# On my way!
-On my way!
-# Let's go thatta way!
-Let's go thatta way!
-# Full speed ahead!
-Full speed ahead!
-# Set sail!
-Set sail!
-# I am your humble goddess!
-I am your humble goddess!
-# Load in all the rounds!
-Load in all the rounds!
-# Put in all those whirly boys!
-Put in all those whirly boys!
-# Ready grapes!
-Ready grapes!
-# Hohoho, Claude likes this!
-Hohoho, Claude likes this!
-# Fire!
-Fire!
-# Show off your manhood, captain-sama!!!
-Show off your manhood, captain-sama!!!
-# IYAAAHHHH!!!!
-IYAAAHHHH!!!!
-# Let's get them!! Hyoyoyoyo... hyoyoyoyoyoyooo!!!
-Let's get them!! Hyoyoyoyo... hyoyoyoyoyoyooo!!!
-# Fold sails!
-Fold sails!
-# Release sails!
-Release sails!
-# Lucky! Their sails have collapsed!
-Lucky! Their sails have collapsed!
-# That's what ya get for messin' with mah man!
-That's what ya get for messin' with mah man!
-# Heeek! All the sails have collapsed!
-Heeek! All the sails have collapsed!
-# Something like this won't faze Claude!
-Something like this won't faze Claude!
-# Don't worry, that did hardly anything at all!
-Don't worry, that did hardly anything at all!
-# We're taking fire, captain!
-We're taking fire, captain!
-# Heeek!
-Heeek!
-# Don't tell me you're doing this on purpose to see Claude's clothing explode?!
-Don't tell me you're doing this on purpose to see Claude's clothing explode?!
-# There's no clothing damage so please don't do this!
-There's no clothing damage so please don't do this!
-# Iyaaahhhh....!!! Glub...glub...glubglubglub...
-Iyaaahhhh....!!! Glub...glub...glubglubglub...
-# Fwweeh, we're on fire!
-Fwweeh, we're on fire!
-# Your goddess hears you! Divine Prayer!
-Your goddess hears you! Divine Prayer!
-# Come, wind! Whoosh!
-Come, wind! Whoosh!
-# The seas hear my voice!
-The seas hear my voice!
-# O rain, come down!
-O rain, come down!
-# Did you call for a miracle? Pero pero perorrriiinnn!!!
-Did you call for a miracle? Pero pero perorrriiinnn!!!
-# -1000
+#% Iyah!
+¡Iyah!
+#% Oo-oof!
+¡O-oof!
+#% Ack!
+¡Ack!
+#% Clothing damage...!
+¡Ropa dañada...!
+#% Delicious~~!!
+¡¡Delicioso~~!!
+#% Claude's got one!
+¡Claude atrapó a uno!
+#% High five!
+¡Choca los cinco!
+#% Where's Claude's reward, captain-sama?
+¿Dónde está la recompensa de Claude, capitán-sama?
+#% It's me, Claude!
+¡Soy yo, Claude!
+#% Yes, captain?
+¿Sí, capitán?
+#% Your resident goddess, at your service!
+¡Tu diosa residente, a tu servicio!
+#% It's everyone's best girl, me!
+¡Aquí la chica favorita de todos, yo!
+#% What can this goddess do for you?
+¿Qué puede hacer esta diosa por ti?
+#% I am ready to serve.
+Estoy lista para servir.
+#% On my way!
+¡En marcha!
+#% Let's go thatta way!
+¡Vayamos por ahí!
+#% Full speed ahead!
+¡Adelante a toda velocidad!
+#% Set sail!
+¡Naveguemos!
+#% I am your humble goddess!
+¡Soy tu humilde diosa!
+#% Load in all the rounds!
+¡Carguen todas las balas!
+#% Put in all those whirly boys!
+¡Carguen a todos esos chicos giratorios!
+#% Ready grapes!
+¡Preparen metralla!
+#% Hohoho, Claude likes this!
+¡Hohoho, a Claude le gusta esto!
+#% Fire!
+¡Fuego!
+#% Show off your manhood, captain-sama!!!
+¡¡¡Demuestra tu hombría, capitán-sama!!!
+#% IYAAAHHHH!!!!
+¡¡¡¡IYAAAHHHH!!!!
+#% Let's get them!! Hyoyoyoyo... hyoyoyoyoyoyooo!!!
+¡¡Acabemos con ellos!! Hyoyoyoyo... ¡¡¡hyoyoyoyoyoyooo!!!
+#% Fold sails!
+¡Arríen las velas!
+#% Release sails!
+¡Suelten las velas!
+#% Lucky! Their sails have collapsed!
+¡Qué suerte! ¡Sus velas han colapsado!
+#% That's what ya get for messin' with mah man!
+¡Eso es lo que te llevas por meterte con mi hombre!
+#% Heeek! All the sails have collapsed!
+¡Heeek! ¡Todas las velas han colapsado!
+#% Something like this won't faze Claude!
+¡Algo como esto no asustará a Claude!
+#% Don't worry, that did hardly anything at all!
+¡No te preocupes, eso no hizo casi nada en absoluto!
+#% We're taking fire, captain!
+¡Estamos recibiendo fuego, capitán!
+#% Heeek!
+¡Heeek!
+#% Don't tell me you're doing this on purpose to see Claude's clothing explode?!
+¡¿No me digas que estás haciendo esto a propósito para ver las ropas de Claude explotar?!
+#% There's no clothing damage so please don't do this!
+¡No hay daño de ropas así que por favor no hagas esto!
+#% Iyaaahhhh....!!! Glub...glub...glubglubglub...
+¡¡¡Iyaaahhhh....!!! Glub...glub...glubglubglub...
+#% Fwweeh, we're on fire!
+¡Fweeh, estamos en llamas!
+#% Your goddess hears you! Divine Prayer!
+¡Tu diosa te escucha! ¡Plegaria Divina!
+#% Come, wind! Whoosh!
+¡Vamos, viento! ¡Whoosh!
+#% The seas hear my voice!
+¡Los mares escuchan mi voz!
+#% O rain, come down!
+¡Oh lluvia, desciende!
+#% Did you call for a miracle? Pero pero perorrriiinnn!!!
+¿Pediste un milagro? ¡¡¡Pero pero perorrriiinnn!!!
+#% -1000
 -1000
-# You can count on me.
-You can count on me.
-# Neverminded
-Neverminded
-# Yes?
-Yes?
-# Hm.
+#% You can count on me.
+Puedes contar conmigo.
+#% Neverminded
+Olvídenlo.
+#% Yes?
+¿Sí?
+#% Hm.
 Hm.
-# You have my bow.
-You have my bow.
-# Hya! (Shoot arrow)
-Hya! (Shoot arrow)
-# Hya! (Shoot arrow)
-Hya! (Shoot arrow)
-# Hya! (Shoot arrow)
-Hya! (Shoot arrow)
-# Hyo!
-Hyo!
-# Hah!
-Hah!
-# Awaken. Mark of the Sharr!
-Awaken. Mark of the Sharr!
-# Stay down.
-Stay down.
-# Burn.
-Burn.
-# Come forth. Rain of Arrows!
-Come forth. Rain of Arrows!
-# -1000
+#% You have my bow.
+Mi arco es suyo.
+#% Hya! (Shoot arrow)
+¡Hya! (Dispara flecha)
+#% Hya! (Shoot arrow)
+¡Hya! (Dispara flecha)
+#% Hya! (Shoot arrow)
+¡Hya! (Dispara flecha)
+#% Hyo!
+¡Hyo!
+#% Hah!
+¡Hah!
+#% Awaken. Mark of the Sharr!
+Despierta. ¡Marca de la Sharr!
+#% Stay down.
+Cae.
+#% Burn.
+Arde.
+#% Come forth. Rain of Arrows!
+Adelante. ¡Lluvia de Flechas!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Ah!
-Ah!
-# Ugh!
-Ugh!
-# Ha!
-Ha!
-# I fall into the abyss...
-I fall into the abyss...
-# Nomunomunomu...
+#% Ah!
+¡Ah!
+#% Ugh!
+¡Ugh!
+#% Ha!
+¡Ha!
+#% I fall into the abyss...
+Caí al abismo...
+#% Nomunomunomu...
 Nomunomunomu...
-# Got one.
-Got one.
-# Come.
-Come.
-# Our enemies are no more.
-Our enemies are no more.
-# Yes?
-Yes?
-# Captain.
-Captain.
-# Holding position.
-Holding position.
-# Ready for orders.
-Ready for orders.
-# Hmm...
+#% Got one.
+Tengo a uno.
+#% Come.
+Vamos.
+#% Our enemies are no more.
+Nuestros enemigos han sucumbido.
+#% Yes?
+¿Sí?
+#% Captain.
+Capitán.
+#% Holding position.
+En posición.
+#% Ready for orders.
+Lista para órdenes.
+#% Hmm...
 Hmm...
-# Speak.
-Speak.
-# I obey.
-I obey.
-# We move.
-We move.
-# Full speed ahead.
-Full speed ahead.
-# Understood.
-Understood.
-# Underway.
-Underway.
-# Loading roundshots.
-Loading roundshots.
-# Loading chainshots.
-Loading chainshots.
-# Loading grapeshots.
-Loading grapeshots.
-# Readying special ordinance.
-Readying special ordinance.
-# Fire.
-Fire.
-# Vanguard, ready.
-Vanguard, ready.
-# Fire.
-Fire.
-# Initiating hand-to-hand combat.
-Initiating hand-to-hand combat.
-# Sails, fold.
-Sails, fold.
-# Sails, release.
-Sails, release.
-# Enemy craft, dead in the water.
-Enemy craft, dead in the water.
-# Enemy sunk.
-Enemy sunk.
-# Our mast is down.
-Our mast is down.
-# Light damage.
-Light damage.
-# Hull is holding.
-Hull is holding.
-# We are under attack.
-We are under attack.
-# Damage reported.
-Damage reported.
-# The ship cannot last.
-The ship cannot last.
-# Flooding reported.
-Flooding reported.
-# Alas, I return to the abyss...
-Alas, I return to the abyss...
-# Fires reported.
-Fires reported.
-# -1000
+#% Speak.
+Hable.
+#% I obey.
+Obedeceré.
+#% We move.
+Nos movemos.
+#% Full speed ahead.
+Adelante a toda velocidad.
+#% Understood.
+Entendido.
+#% Underway.
+En camino.
+#% Loading roundshots.
+Cargando balas rasas.
+#% Loading chainshots.
+Cargando palanquetas.
+#% Loading grapeshots.
+Cargando metralla.
+#% Readying special ordinance.
+Preparando munición especial.
+#% Fire.
+Fuego.
+#% Vanguard, ready.
+Vanguard, listo.
+#% Fire.
+Fuego.
+#% Initiating hand-to-hand combat.
+Iniciando combate mano-a-mano.
+#% Sails, fold.
+Velas, arríen.
+#% Sails, release.
+Velas, suelten.
+#% Enemy craft, dead in the water.
+Nave enemiga, derribada.
+#% Enemy sunk.
+Enemigo hundido.
+#% Our mast is down.
+Nuestro mástil ha caído.
+#% Light damage.
+Daños ligeros.
+#% Hull is holding.
+El casco está resistiendo.
+#% We are under attack.
+Estamos bajo ataque
+#% Damage reported.
+Daños reportados
+#% The ship cannot last.
+La nave no podrá aguantar.
+#% Flooding reported.
+Inundación reportada.
+#% Alas, I return to the abyss...
+Adiós, regreso al abismo...
+#% Fires reported.
+Fuegos reportados.
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# My bow is yours.
-My bow is yours.
-# Very well.
-Very well.
-# Sir!
-Sir!
-# Standing by!
-Standing by!
-# Reporting!
-Reporting!
-# HYAH! (Slamming hammer)
-HYAH! (Slamming hammer)
-# HYAH! (Slamming hammer)
-HYAH! (Slamming hammer)
-# HYAH! (Slamming hammer)
-HYAH! (Slamming hammer)
-# Ho!
-Ho!
-# Weak!
-Weak!
-# My shield shall not break!
-My shield shall not break!
-# Come face me!
-Come face me!
-# I will protect you!
-I will protect you!
-# Witness the might of the High Elves!
-Witness the might of the High Elves!
-# -1000
+#% My bow is yours.
+Mi arco es suyo.
+#% Very well.
+Muy bien.
+#% Sir!
+¡Señor!
+#% Standing by!
+¡En posición!
+#% Reporting!
+¡Reportándose!
+#% HYAH! (Slamming hammer)
+¡HYAH! (Aplasta el martillo)
+#% HYAH! (Slamming hammer)
+¡HYAH! (Aplasta el martillo)
+#% HYAH! (Slamming hammer)
+¡HYAH! (Aplasta el martillo)
+#% Ho!
+¡Ho!
+#% Weak!
+¡Débil!
+#% My shield shall not break!
+¡Mi escudo no se romperá!
+#% Come face me!
+¡Enfréntate a mí!
+#% I will protect you!
+¡Te protegeré!
+#% Witness the might of the High Elves!
+¡Observa el poder de los Altos Elfos!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Ugh!
-Ugh!
-# Ugh!
-Ugh!
-# Ugh!
-Ugh!
-# Damnation! I must retreat!
-Damnation! I must retreat!
-# I thank you.
-I thank you.
-# You are defeated!
-You are defeated!
-# Moving to position!
-Moving to position!
-# Justice has prevailed!
-Justice has prevailed!
-# I am here.
-I am here.
-# For the Song Alliance!
-For the Song Alliance!
-# May the Sharr guide us.
-May the Sharr guide us.
-# My honor is my shield!
-My honor is my shield!
-# May the Monolithic Truth guide our path!
-May the Monolithic Truth guide our path!
-# As Scripture demands!
-As Scripture demands!
-# Set sail!
-Set sail!
-# Full speed ahead!
-Full speed ahead!
-# Moving to position!
-Moving to position!
-# Sir!
-Sir!
-# Man all oars!
-Man all oars!
-# Loading roundshots!
-Loading roundshots!
-# Load chainshots!
-Load chainshots!
-# Load grapeshots!
-Load grapeshots!
-# Prepare special ordinance!
-Prepare special ordinance!
-# Fire!
-Fire!
-# Witness our might!
-Witness our might!
-# FIRE!
-FIRE!
-# Charge!!
-Charge!!
-# Fold sails!
-Fold sails!
-# Release sails!
-Release sails!
-# Enemy craft, dead in the water!
-Enemy craft, dead in the water!
-# The heretics are sinking!
-The heretics are sinking!
-# We've lost our masts!
-We've lost our masts!
-# Our ship shall not fail!
-Our ship shall not fail!
-# Hold fast!
-Hold fast!
-# Damage reported!
-Damage reported!
-# We are taking on water!
-We are taking on water!
-# The ship is sinking!
-The ship is sinking!
-# We have suffered critical damage!
-We have suffered critical damage!
-# The heretics have sunk our ship!
-The heretics have sunk our ship!
-# The enemy has set fire to our ship!
-The enemy has set fire to our ship!
-# -1000
+#% Ugh!
+¡Ugh!
+#% Ugh!
+¡Ugh!
+#% Ugh!
+¡Ugh!
+#% Damnation! I must retreat!
+¡Maldición! ¡Debo retirarme!
+#% I thank you.
+Gracias.
+#% You are defeated!
+¡Han sido derrotados!
+#% Moving to position!
+¡Moviéndose a la posición!
+#% Justice has prevailed!
+¡La justicia ha prevalecido!
+#% I am here.
+Aquí estoy.
+#% For the Song Alliance!
+¡Por la Alianza Song!
+#% May the Sharr guide us.
+Que la Sharr nos guíe.
+#% My honor is my shield!
+¡Mi honor es mi escudo!
+#% May the Monolithic Truth guide our path!
+¡Que la Verdad Monolítica guíe nuestro rumbo!
+#% As Scripture demands!
+¡Como la Escritura demanda!
+#% Set sail!
+¡Establezcan rumbo!
+#% Full speed ahead!
+¡Adelante a toda velocidad!
+#% Moving to position!
+¡Moviéndose a la posición!
+#% Sir!
+¡Señor!
+#% Man all oars!
+¡A los remos!
+#% Loading roundshots!
+¡Carguen balas rasas!
+#% Load chainshots!
+¡Carguen palanquetas!
+#% Load grapeshots!
+¡Carguen metralla!
+#% Prepare special ordinance!
+¡Preparen la munición especial!
+#% Fire!
+¡Fuego!
+#% Witness our might!
+¡Observa nuestro poder!
+#% FIRE!
+¡FUEGO!
+#% Charge!!
+¡¡Carguen!!
+#% Fold sails!
+¡Arríen las velas!
+#% Release sails!
+¡Suelten las velas!
+#% Enemy craft, dead in the water!
+¡Balsa enemiga, hundida!
+#% The heretics are sinking!
+¡Los herejes se están hundiendo!
+#% We've lost our masts!
+¡Hemos perdido nuestros mástiles!
+#% Our ship shall not fail!
+¡Nuestra nave no caerá!
+#% Hold fast!
+¡Aguántense rápido!
+#% Damage reported!
+¡Daños reportados!
+#% We are taking on water!
+¡Nos está entrando agua!
+#% The ship is sinking!
+¡La nave se está hundiendo!
+#% We have suffered critical damage!
+¡Hemos sufrido daños críticos!
+#% The heretics have sunk our ship!
+¡Los herejes han hundido nuestra nave!
+#% The enemy has set fire to our ship!
+¡El enemigo ha incendiado nuestra nave!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# You have my hammer!
-You have my hammer!
-# Rescinding command.
-Rescinding command.
-# I'm here!
-I'm here!
-# Hey!
-Hey!
-# Yeah?
-Yeah?
-# Iyah! (Swinging a frying pan)
-Iyah! (Swinging a frying pan)
-# Iyah! (Swinging a frying pan)
-Iyah! (Swinging a frying pan)
-# Iyah! (Swinging a frying pan)
-Iyah! (Swinging a frying pan)
-# Whew!
-Whew!
-# Missed!
-Missed!
-# Heal!
-Heal!
-# Protect!
-Protect!
-# Restore!!
-Restore!!
-# Mirror!
-Mirror!
-# Return from the abyss. Resurrect!!
-Return from the abyss. Resurrect!!
-# -1000
+#% You have my hammer!
+¡Mi martillo es suyo!
+#% Rescinding command.
+Recibiendo orden.
+#% I'm here!
+¡Aquí estoy!
+#% Hey!
+¡Hey!
+#% Yeah?
+¿Sí?
+#% Iyah! (Swinging a frying pan)
+¡Iyah! (Mueve la sartén)
+#% Iyah! (Swinging a frying pan)
+¡Iyah! (Mueve la sartén)
+#% Iyah! (Swinging a frying pan)
+¡Iyah! (Mueve la sartén)
+#% Whew!
+¡U!
+#% Missed!
+¡Fallo!
+#% Heal!
+¡Curar!
+#% Protect!
+¡Proteger!
+#% Restore!!
+¡¡Restaurar!!
+#% Mirror!
+¡Espejo!
+#% Return from the abyss. Resurrect!!
+Regresen del abismo. ¡¡Resucitar!!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Ack!
-Ack!
-# Haaa!
-Haaa!
-# Hee!
-Hee!
-# Onii-chan... How could you...
-Onii-chan... How could you...
-# Yum!
-Yum!
-# Did you see that?
-Did you see that?
-# Let's switch!
-Let's switch!
-# Not bad, eh onii-chan?
-Not bad, eh onii-chan?
-# I'm here, onii-chan!
-I'm here, onii-chan!
-# It's me, Maray!
-It's me, Maray!
-# Now it's my turn to protect you!
-Now it's my turn to protect you!
-# You can count on me!
-You can count on me!
-# What are we doing?
-What are we doing?
-# Betcha you didn't expect me!
-Betcha you didn't expect me!
-# Let's go!
-Let's go!
-# Okay, we're headed there now!
-Okay, we're headed there now!
-# Course laid in!
-Course laid in!
-# On our way!
-On our way!
-# We're on our way!
-We're on our way!
-# Roundshots loaded!
-Roundshots loaded!
-# Chainshots loaded!
-Chainshots loaded!
-# Grapeshots loaded!
-Grapeshots loaded!
-# Bringing out the secret weapon!
-Bringing out the secret weapon!
-# Fire!
-Fire!
-# Get them, onii-chan!
-Get them, onii-chan!
-# YOSSH!!!
-YOSSH!!!
-# I'm gonna bonk them with my frying pan!
-I'm gonna bonk them with my frying pan!
-# Fold sails!
-Fold sails!
-# Release sails!
-Release sails!
-# Yahoo! Their sails are down!
-Yahoo! Their sails are down!
-# As expected of onii-chan!
-As expected of onii-chan!
-# Oh no, our sails collapsed!
-Oh no, our sails collapsed!
-# Heheheh, that did hardly any damage!
-Heheheh, that did hardly any damage!
-# I'm fine, I'm fine!
-I'm fine, I'm fine!
-# My ship's taken damage!
-My ship's taken damage!
-# Shiiit!
-Shiiit!
-# Good thing I'm good at swimming!
-Good thing I'm good at swimming!
-# We might have to abandon ship soon!
-We might have to abandon ship soon!
-# Whelp, abandon ship!
-Whelp, abandon ship!
-# Ugh, we're on fire!
-Ugh, we're on fire!
-# I've got meals for everyone!
-I've got meals for everyone!
-# -1000
+#% Ack!
+¡Ack!
+#% Haaa!
+¡Haaa!
+#% Hee!
+¡Hee!
+#% Onii-chan... How could you...
+Onii-chan... Cómo pudiste...
+#% Yum!
+¡Yum!
+#% Did you see that?
+¿Viste eso?
+#% Let's switch!
+¡Cambiemos!
+#% Not bad, eh onii-chan?
+Nada mal, ¿eh onii-chan?
+#% I'm here, onii-chan!
+Estoy aquí, onii-chan!
+#% It's me, Maray!
+¡Soy yo, Maray!
+#% Now it's my turn to protect you!
+¡Ahora es mi turno de protegerte!
+#% You can count on me!
+¡Puedes contar conmigo!
+#% What are we doing?
+¿Que haremos?
+#% Betcha you didn't expect me!
+¡Apuesto a que no me esperabas!
+#% Let's go!
+¡Vamos!
+#% Okay, we're headed there now!
+¡Okey, nos dirigimos ahí ahora!
+#% Course laid in!
+¡Curso establecido!
+#% On our way!
+¡En camino!
+#% We're on our way!
+¡Estamos en camino!
+#% Roundshots loaded!
+¡Balas rasas cargadas!
+#% Chainshots loaded!
+¡Palanquetas cargadas!
+#% Grapeshots loaded!
+¡Metralla cargada!
+#% Bringing out the secret weapon!
+¡Saquen el arma secreta!
+#% Fire!
+¡Fuego!
+#% Get them, onii-chan!
+¡A ellos, onii-chan!
+#% YOSSH!!!
+¡¡¡YOSSH!!!
+#% I'm gonna bonk them with my frying pan!
+¡Los golpearé con mi sartén!
+#% Fold sails!
+¡Arríen las velas!
+#% Release sails!
+¡Suelten las velas!
+#% Yahoo! Their sails are down!
+¡Yahoo! ¡Perdieron sus velas!
+#% As expected of onii-chan!
+¡Como esperaba de onii-chan!
+#% Oh no, our sails collapsed!
+¡Oh no, nuestras velas han colapsado!
+#% Heheheh, that did hardly any damage!
+¡Heheheh, eso apenas hizo daño!
+#% I'm fine, I'm fine!
+¡Estoy bien, estoy bien!
+#% My ship's taken damage!
+¡Mi nave ha recibido daño!
+#% Shiiit!
+¡Diaaablos!
+#% Good thing I'm good at swimming!
+¡Qué bueno que soy buena nadando!
+#% We might have to abandon ship soon!
+¡Podríamos tener que abandonar la nave pronto!
+#% Whelp, abandon ship!
+¡Marineros, abandonen la nave!
+#% Ugh, we're on fire!
+¡Ugh, estamos en llamas!
+#% I've got meals for everyone!
+¡Tengo comida para todos!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# You can count on me!
-You can count on me!
-# Nevermind!
-Nevermind!
-# What?
-What?
-# Yarrr...
+#% You can count on me!
+¡Puedes contar conmigo!
+#% Nevermind!
+¡Olvídenlo!
+#% What?
+¿Qué?
+#% Yarrr...
 Yarrr...
-# Tch.
+#% Tch.
 Tch.
-# Hyah! (Swing cannon)
-Hyah! (Swing cannon)
-# Die! (Swing cannon)
-Die! (Swing cannon)
-# Horah! (Swing cannon)
-Horah! (Swing cannon)
-# Dumbass!
-Dumbass!
-# Hya!
-Hya!
-# I'll blow you all to hell!
-I'll blow you all to hell!
-# Get them, you dogs!
-Get them, you dogs!
-# This is mine now!
-This is mine now!
-# Hahaha... Haaahahaahaha!!!
-Hahaha... Haaahahaahaha!!!
-# -1000
+#% Hyah! (Swing cannon)
+¡Hyah! (Mueve el cañón)
+#% Die! (Swing cannon)
+¡Muere! (Mueve el cañón)
+#% Horah! (Swing cannon)
+¡Horah! (Mueve el cañón)
+#% Dumbass!
+¡Tonto!
+#% Hya!
+¡Hya!
+#% I'll blow you all to hell!
+¡Los explotaré al infierno!
+#% Get them, you dogs!
+¡A ellos, perros!
+#% This is mine now!
+¡Esto es mío ahora!
+#% Hahaha... Haaahahaahaha!!!
+Hahaha... ¡¡¡Haaahahaahaha!!!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Ugh!
-Ugh!
-# Ugh!
-Ugh!
-# Ugh!
-Ugh!
-# Fuck!
-Fuck!
-# Chomp chomp chomp...
-Chomp chomp chomp...
-# Weak!
-Weak!
-# Move!
-Move!
-# Hahaha, we slaughtered them!
-Hahaha, we slaughtered them!
-# What can this pirate do for ye?
-What can this pirate do for ye?
-# Don't test my patience.
-Don't test my patience.
-# Who we killing?
-Who we killing?
-# Don't worry, I won't backstab you. Yet.
-Don't worry, I won't backstab you. Yet.
-# There be booty to be had.
-There be booty to be had.
-# It's me, Cosette Cosmos!
-It's me, Cosette Cosmos!
-# All right, all right.
-All right, all right.
-# A bold move.
-A bold move.
-# When's the killing gonna start?
-When's the killing gonna start?
-# You better know what you're doing!
-You better know what you're doing!
-# Forward you dogs!
-Forward you dogs!
-# Load roundshots!
-Load roundshots!
-# Load chainshots!
-Load chainshots!
-# Load grapeshots!
-Load grapeshots!
-# Roll out the secret weapon!
-Roll out the secret weapon!
-# Fire!
-Fire!
-# How come you get the big gun, Shields?
-How come you get the big gun, Shields?
-# Hahahahahahaha!!!!
-Hahahahahahaha!!!!
-# Let the killing commence!
-Let the killing commence!
-# Fold sails!
-Fold sails!
-# Release sails!
-Release sails!
-# They're dead in the water!
-They're dead in the water!
-# To the depths they go...
-To the depths they go...
-# Fuck it all, we're dead in the water!
-Fuck it all, we're dead in the water!
-# Is that all?
-Is that all?
-# No real damage to report.
-No real damage to report.
-# We took a broadside!
-We took a broadside!
-# You fool! Command me better!
-You fool! Command me better!
-# You moron! We're taking shots left and right!
-You moron! We're taking shots left and right!
-# You are making me reconsider our alliance!
-You are making me reconsider our alliance!
-# Fuck! Time to abandon ship!
-Fuck! Time to abandon ship!
-# Argh, we're on fire!
-Argh, we're on fire!
-# -1000
+#% Ugh!
+¡Ugh!
+#% Ugh!
+¡Ugh!
+#% Ugh!
+¡Ugh!
+#% Fuck!
+¡Demonios!
+#% Chomp chomp chomp...
+Ñom, ñom, ñom...
+#% Weak!
+¡Débil!
+#% Move!
+¡Muévete!
+#% Hahaha, we slaughtered them!
+¡Hahaha, los asesinamos!
+#% What can this pirate do for ye?
+¿Que puede hacer esta pirata por ti?
+#% Don't test my patience.
+No pongas a prueba mi paciencia.
+#% Who we killing?
+¿A quién mataremos?
+#% Don't worry, I won't backstab you. Yet.
+No te preocupes, no te apuñalaré por la espalda. Todavía.
+#% There be booty to be had.
+Hay un botín que conseguir.
+#% It's me, Cosette Cosmos!
+¡Soy yo, Cosette Cosmos!
+#% All right, all right.
+Muy bien, muy bien.
+#% A bold move.
+Un movimiento atrevido.
+#% When's the killing gonna start?
+¿Cuándo empezará la matanza?
+#% You better know what you're doing!
+¡Más te vale saber lo que estás haciendo!
+#% Forward you dogs!
+¡Adelante perros!
+#% Load roundshots!
+¡Carguen balas rasas!
+#% Load chainshots!
+¡Carguen palanquetas!
+#% Load grapeshots!
+¡Carguen metralla!
+#% Roll out the secret weapon!
+¡Saquen el arma secreta!
+#% Fire!
+¡Fuego!
+#% How come you get the big gun, Shields?
+¿Cómo conseguiste el gran cañón, Shields?
+#% Hahahahahahaha!!!!
+¡¡¡¡Hahahahahahaha!!!!
+#% Let the killing commence!
+¡Que comience la matanza!
+#% Fold sails!
+¡Arríen las velas!
+#% Release sails!
+¡Suelten las velas!
+#% They're dead in the water!
+¡Muertos!
+#% To the depths they go...
+Van a las profundidades...
+#% Fuck it all, we're dead in the water!
+¡Al diablo con todo, estamos muertos!
+#% Is that all?
+¿Eso es todo?
+#% No real damage to report.
+Sin daños reales que reportar.
+#% We took a broadside!
+¡Recibimos un golpe por el costado!
+#% You fool! Command me better!
+¡Idiota! ¡Dame mejores órdenes!
+#% You moron! We're taking shots left and right!
+¡Tonto! ¡Estamos recibiendo disparos por la izquierda y derecha!
+#% You are making me reconsider our alliance!
+¡Me estás haciendo reconsiderar nuestra alianza!
+#% Fuck! Time to abandon ship!
+¡Demonios! ¡Hora de abandonar la nave!
+#% Argh, we're on fire!
+¡Argh, estamos en llamas!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# I'll take care of 'em. Heh heh...
-I'll take care of 'em. Heh heh...
-# Fine, whatever.
-Fine, whatever.
-# Yeah?
-Yeah?
-# Reporting.
-Reporting.
-# Standing by.
-Standing by.
-# Hya! (Stab dagger)
-Hya! (Stab dagger)
-# Hya! (Stab dagger)
-Hya! (Stab dagger)
-# Hya! (Stab dagger)
-Hya! (Stab dagger)
-# Ho!
-Ho!
-# Ho!
-Ho!
-# Laying traps...
-Laying traps...
-# Clone jutsu!
-Clone jutsu!
-# Tossing nerve gas!
-Tossing nerve gas!
-# Shuriken storm!!
-Shuriken storm!!
-# -1000
+#% I'll take care of 'em. Heh heh...
+Me encargaré de ellos. Heh heh...
+#% Fine, whatever.
+Bien, lo que sea.
+#% Yeah?
+¿Sí?
+#% Reporting.
+Reportándose.
+#% Standing by.
+En posición.
+#% Hya! (Stab dagger)
+¡Hya! (Clava la daga)
+#% Hya! (Stab dagger)
+¡Hya! (Clava la daga)
+#% Hya! (Stab dagger)
+¡Hya! (Clava la daga)
+#% Ho!
+¡Ho!
+#% Ho!
+¡Ho!
+#% Laying traps...
+Colocando trampas...
+#% Clone jutsu!
+¡Jutsu de clonación!
+#% Tossing nerve gas!
+¡Arrojando gas nervioso!
+#% Shuriken storm!!
+¡¡Tormenta de shuriken!!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Ack!
-Ack!
-# Ack!
-Ack!
-# Ack!
-Ack!
-# Ugh, this is all your fault Shields!
-Ugh, this is all your fault Shields!
-# Nom.
-Nom.
-# Got one.
-Got one.
-# Let's swap places.
-Let's swap places.
-# Well, I suppose you did pretty good for once.
-Well, I suppose you did pretty good for once.
-# Yeah, Shields?
-Yeah, Shields?
-# Yeah, yeah, I can hear you.
-Yeah, yeah, I can hear you.
-# I can't believe I'm doing this...
-I can't believe I'm doing this...
-# I really should have picked another line of work...
-I really should have picked another line of work...
-# I don't get paid enough for this...
-I don't get paid enough for this...
-# Here we go again...
-Here we go again...
-# I'm going, I'm going...
-I'm going, I'm going...
-# You better not be using me as bait!
-You better not be using me as bait!
-# Are you sure this is a good idea?
-Are you sure this is a good idea?
-# You know, I'd prefer it if you moved me further away from the enemy...
-You know, I'd prefer it if you moved me further away from the enemy...
-# Here we go...
-Here we go...
-# All roundshots loaded!
-All roundshots loaded!
-# Loading chainshots!
-Loading chainshots!
-# Loading grapeshots!
-Loading grapeshots!
-# Rolling out the special weapon!
-Rolling out the special weapon!
-# Fire!!
-Fire!!
-# Pretty big gun you got there, Shields.
-Pretty big gun you got there, Shields.
-# Fire!!
-Fire!!
-# Uggggh, here we go!!
-Uggggh, here we go!!
-# Fold sails!
-Fold sails!
-# Release sails!
-Release sails!
-# Haha, we got their mast!
-Haha, we got their mast!
-# They're going down!
-They're going down!
-# Uwwooo, our sails are collapsing!!
-Uwwooo, our sails are collapsing!!
-# We've been hit! Not too bad.
-We've been hit! Not too bad.
-# The enemy grazed us!
-The enemy grazed us!
-# Ugh, we've been hit!
-Ugh, we've been hit!
-# We're taking damage!
-We're taking damage!
-# Ugh, water's pouring in everywhere!
-Ugh, water's pouring in everywhere!
-# Fuck, I'm getting soaked!
-Fuck, I'm getting soaked!
-# It's over! Abandon ship!
-It's over! Abandon ship!
-# Tch, we're on fire!
-Tch, we're on fire!
-# Hehehe, I've got the enemy's plans...
-Hehehe, I've got the enemy's plans...
-# -1000
+#% Ack!
+¡Ack!
+#% Ack!
+¡Ack!
+#% Ack!
+¡Ack!
+#% Ugh, this is all your fault Shields!
+¡Ugh, todo esto es tu culpa Shields!
+#% Nom.
+Ñom.
+#% Got one.
+Tengo a uno.
+#% Let's swap places.
+Cambiemos lugares.
+#% Well, I suppose you did pretty good for once.
+Bueno, supongo que lo hiciste bastante bien para variar.
+#% Yeah, Shields?
+¿Sí, Shields?
+#% Yeah, yeah, I can hear you.
+Sí, sí, te escucho.
+#% I can't believe I'm doing this...
+No puedo creer que estoy haciendo esto...
+#% I really should have picked another line of work...
+Realmente debería haber escogido otro trabajo...
+#% I don't get paid enough for this...
+No me pagan lo suficiente por esto...
+#% Here we go again...
+Aquí vamos de nuevo...
+#% I'm going, I'm going...
+Ya voy, ya voy...
+#% You better not be using me as bait!
+¡Más te vale no estarme usando como anzuelo!
+#% Are you sure this is a good idea?
+¿Estás seguro de que esta es una buena idea?
+#% You know, I'd prefer it if you moved me further away from the enemy...
+Sabes, preferiría si me movieras más lejos del enemigo...
+#% Here we go...
+Aquí vamos...
+#% All roundshots loaded!
+¡Todas las balas rasas cargadas!
+#% Loading chainshots!
+¡Cargando palanquetas!
+#% Loading grapeshots!
+¡Cargando metralla!
+#% Rolling out the special weapon!
+¡Sacando el arma especial!
+#% Fire!!
+¡¡Fuego!!
+#% Pretty big gun you got there, Shields.
+Tienes un cañón bastante grande ahí, Shields.
+#% Fire!!
+¡¡Fuego!!
+#% Uggggh, here we go!!
+¡¡Uggggh, aquí vamos!!
+#% Fold sails!
+¡Arríen las velas!
+#% Release sails!
+¡Suelten las velas!
+#% Haha, we got their mast!
+¡Haha, tenemos su mástil!
+#% They're going down!
+¡Están cayendo!
+#% Uwwooo, our sails are collapsing!!
+¡¡Uwwooo, nuestras velas están colapsando!!
+#% We've been hit! Not too bad.
+¡Hemos sido golpeados! Nada demasiado grave.
+#% The enemy grazed us!
+¡El enemigo nos rozó!
+#% Ugh, we've been hit!
+¡Ugh, hemos sido golpeados!
+#% We're taking damage!
+¡Estamos recibiendo daño!
+#% Ugh, water's pouring in everywhere!
+¡Ugh, está saliendo agua de todas partes!
+#% Fuck, I'm getting soaked!
+¡Demonios, me estoy empapando!
+#% It's over! Abandon ship!
+¡Se acabó! ¡Abandonen la nave!
+#% Tch, we're on fire!
+¡Tch, estamos en llamas!
+#% Hehehe, I've got the enemy's plans...
+Hehehe, tengo los planes del enemigo...
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Let's get to work.
-Let's get to work.
-# Belay that order!
-Belay that order!
-# I am here!
-I am here!
-# Ready!
-Ready!
-# Hmph!
-Hmph!
-# Hiyyaah! (Swing machete)
-Hiyyaah! (Swing machete)
-# Hiyyaah! (Swing machete)
-Hiyyaah! (Swing machete)
-# Hiyyaah! (Swing machete)
-Hiyyaah! (Swing machete)
-# Hoo! (Dodge)
-Hoo! (Dodge)
-# Hoo! (Dodge)
-Hoo! (Dodge)
-# RARGGH!!
-RARGGH!!
-# Eat this!
-Eat this!
-# HEEAIEAIEAIEAIEAIEAIEAIE!!!
-HEEAIEAIEAIEAIEAIEAIEAIE!!!
-# -1000
+#% Let's get to work.
+Pongámonos a trabajar.
+#% Belay that order!
+¡Anulen esa orden!
+#% I am here!
+¡Estoy aquí!
+#% Ready!
+¡Lista!
+#% Hmph!
+¡Hmph!
+#% Hiyyaah! (Swing machete)
+¡Hiyyaah! (Mueve el machete)
+#% Hiyyaah! (Swing machete)
+¡Hiyyaah! (Mueve el machete)
+#% Hiyyaah! (Swing machete)
+¡Hiyyaah! (Mueve el machete)
+#% Hoo! (Dodge)
+¡Hoo! (Esquiva)
+#% Hoo! (Dodge)
+¡Hoo! (Esquiva)
+#% RARGGH!!
+¡¡RARGGH!!
+#% Eat this!
+¡Cómete esto!
+#% HEEAIEAIEAIEAIEAIEAIEAIE!!!
+¡¡¡HEEAIEAIEAIEAIEAIEAIEAIE!!!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Ugh!
-Ugh!
-# Ugh!
-Ugh!
-# Ugh!
-Ugh!
-# I must retreat!
-I must retreat!
-# Chomp.
-Chomp.
-# Enemy slain!
-Enemy slain!
-# Reform lines!
-Reform lines!
-# Victory!
-Victory!
-# I am here.
-I am here.
-# So this is how you Elves fight...
-So this is how you Elves fight...
-# These are strange tides we sail upon.
-These are strange tides we sail upon.
-# Standing by.
-Standing by.
-# Awaiting orders.
-Awaiting orders.
-# I leave this to you.
-I leave this to you.
-# Very well.
-Very well.
-# We sail!
-We sail!
-# Forward!
-Forward!
-# We move!
-We move!
-# Onwards!
-Onwards!
-# All roundshots loaded!
-All roundshots loaded!
-# Load chainshots!
-Load chainshots!
-# Load grapeshots!
-Load grapeshots!
-# What is this contraption?
-What is this contraption?
-# Fire!
-Fire!
-# A curious weapon you have, Captain Shields.
-A curious weapon you have, Captain Shields.
-# Fire!
-Fire!
-# Strike the enemy!
-Strike the enemy!
-# Fold sails!
-Fold sails!
-# Release sails!
-Release sails!
-# You have destroyed the enemy's mast!
-You have destroyed the enemy's mast!
-# Enemy sunk!
-Enemy sunk!
-# Our mast has collapsed!
-Our mast has collapsed!
-# Light damge reported!
-Light damge reported!
-# We have taken minor damage!
-We have taken minor damage!
-# We've been hit!
-We've been hit!
-# The enemy is upon us!
-The enemy is upon us!
-# The enemy has overpowered us!
-The enemy has overpowered us!
-# We won't last long against this firepower!
-We won't last long against this firepower!
-# We are defeated! Tch!
-We are defeated! Tch!
-# We are on fire!
-We are on fire!
-# -1000
+#% Ugh!
+¡Ugh!
+#% Ugh!
+¡Ugh!
+#% Ugh!
+¡Ugh!
+#% I must retreat!
+¡Debo retirarme!
+#% Chomp.
+Ñom.
+#% Enemy slain!
+¡Enemigo asesinado!
+#% Reform lines!
+¡Reformen las filas!
+#% Victory!
+¡Victoria!
+#% I am here.
+Estoy aquí.
+#% So this is how you Elves fight...
+Así que así es como luchan ustedes los Elfos...
+#% These are strange tides we sail upon.
+Son mareas extrañas sobre las que navegamos.
+#% Standing by.
+En posición.
+#% Awaiting orders.
+Esperando órdenes.
+#% I leave this to you.
+Le dejaré esto a usted.
+#% Very well.
+Muy bien.
+#% We sail!
+¡Partimos!
+#% Forward!
+¡Adelante!
+#% We move!
+¡Nos movemos!
+#% Onwards!
+¡Hacia adelante!
+#% All roundshots loaded!
+¡Todas las balas rasas cargadas!
+#% Load chainshots!
+¡Carguen palanquetas!
+#% Load grapeshots!
+¡Carguen metralla!
+#% What is this contraption?
+¿Qué es este artilugio?
+#% Fire!
+¡Fuego!
+#% A curious weapon you have, Captain Shields.
+Un arma curiosa la que tiene ahí, Capitán Shields.
+#% Fire!
+¡Fuego!
+#% Strike the enemy!
+¡Golpeen al enemigo!
+#% Fold sails!
+¡Arríen las velas!
+#% Release sails!
+¡Suelten las velas!
+#% You have destroyed the enemy's mast!
+¡Ha destruido el mástil del enemigo!
+#% Enemy sunk!
+¡Enemigo hundido!
+#% Our mast has collapsed!
+¡Nuestro mástil ha colapsado!
+#% Light damge reported!
+¡Daños ligeros reportados!
+#% We have taken minor damage!
+¡Hemos recibido daños menores!
+#% We've been hit!
+¡Hemos sido golpeados!
+#% The enemy is upon us!
+¡El enemigo está encima de nosotros!
+#% The enemy has overpowered us!
+¡El enemigo nos ha superado!
+#% We won't last long against this firepower!
+¡No duraremos mucho contra este poder de fuego!
+#% We are defeated! Tch!
+¡Fuimos derrotados! ¡Tch!
+#% We are on fire!
+¡Estamos en llamas!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# I shall protect you.
-I shall protect you.
-# Cancel that order!
-Cancel that order!
-# Yes?
-Yes?
-# I am here.
-I am here.
-# Let us be in prayer
-Let us be in prayer
-# Hiya! (Swinging staff)
-Hiya! (Swinging staff)
-# Hiya! (Swinging staff)
-Hiya! (Swinging staff)
-# Hiya! (Swinging staff)
-Hiya! (Swinging staff)
-# Hya!
-Hya!
-# Hya!
-Hya!
-# May you be blessed by the Father!
-May you be blessed by the Father!
-# Hear my prayer, O Great Father!
-Hear my prayer, O Great Father!
-# You will pay for your sins!
-You will pay for your sins!
-# Hear ye, may your good deeds bring forth salvation!
-Hear ye, may your good deeds bring forth salvation!
-# Your vitality withers away, for that is the fate of the wicked!
-Your vitality withers away, for that is the fate of the wicked!
-# O Great Father, is judgment day truly upon us? Meteor!
-O Great Father, is judgment day truly upon us? Meteor!
-# O Great Father, may you look over your children! Protection!
-O Great Father, may you look over your children! Protection!
-# -1000
+#% I shall protect you.
+Te protegeré.
+#% Cancel that order!
+¡Cancelen esa orden!
+#% Yes?
+¿Sí?
+#% I am here.
+Estoy aquí.
+#% Let us be in prayer
+Déjanos rezar.
+#% Hiya! (Swinging staff)
+¡Hiya! (Mueve el bastón)
+#% Hiya! (Swinging staff)
+¡Hiya! (Mueve el bastón)
+#% Hiya! (Swinging staff)
+¡Hiya! (Mueve el bastón)
+#% Hya!
+¡Hya!
+#% Hya!
+¡Hya!
+#% May you be blessed by the Father!
+¡Que el Padre te bendiga!
+#% Hear my prayer, O Great Father!
+¡Escucha mi plegaria, Oh Gran Padre!
+#% You will pay for your sins!
+¡Pagarás por tus pecados!
+#% Hear ye, may your good deeds bring forth salvation!
+¡Escucha, ya que tus buenos actos traerán la salvación!
+#% Your vitality withers away, for that is the fate of the wicked!
+¡Tu vitalidad se marchita, pues ese es el destino de los malvados!
+#% O Great Father, is judgment day truly upon us? Meteor!
+Oh Gran Padre, ¿el día del juicio está realmente sobre nosotros? ¡Meteorito!
+#% O Great Father, may you look over your children! Protection!
+¡Oh Gran Padre, cuida a tus hijos! ¡Protección!
+#% -1000
 -1000
-# Hyaa!
-Hyaa!
-# Hyaa!
-Hyaa!
-# Hyaa!
-Hyaa!
-# Ah, I am defeated!
-Ah, I am defeated!
-# O Great Father, we thank you for our daily bread...
-O Great Father, we thank you for our daily bread...
-# Repent!
-Repent!
-# I move.
-I move.
-# The Lord Father have blessed us with this victory.
-The Lord Father have blessed us with this victory.
-# Let us be in prayer.
-Let us be in prayer.
-# You call, Captain Shields?
-You call, Captain Shields?
-# We act as one.
-We act as one.
-# May the Great Father look over us.
-May the Great Father look over us.
-# All is the will of the Great Father.
-All is the will of the Great Father.
-# May we entrust our fates to the Father.
-May we entrust our fates to the Father.
-# We sail forward.
-We sail forward.
-# O Great Father, bless our ship.
-O Great Father, bless our ship.
-# May our path stay true.
-May our path stay true.
-# I see.
-I see.
-# Very well.
-Very well.
-# Prepare to fire roundshots!
-Prepare to fire roundshots!
-# Chainshots, at the ready!
-Chainshots, at the ready!
-# We must do what we must!
-We must do what we must!
-# O Great Father, rain down your fury!
-O Great Father, rain down your fury!
-# Fire!
-Fire!
-# O ancient weapon, awaken from your slumber!
-O ancient weapon, awaken from your slumber!
-# Vanguard!
-Vanguard!
-# Forward! In the Father's name!
-Forward! In the Father's name!
-# Fold sails!
-Fold sails!
-# Release sails!
-Release sails!
-# The enemy cannot escape now!
-The enemy cannot escape now!
-# May the Great Father have mercy on your souls...
-May the Great Father have mercy on your souls...
-# Our sail has been destroyed!
-Our sail has been destroyed!
-# The Great Father has protected us from the worst
-The Great Father has protected us from the worst
-# The ship has taken minor damage.
-The ship has taken minor damage.
-# O Father, protect us from this trial!
-O Father, protect us from this trial!
-# We have taken damage!
-We have taken damage!
-# O Father, have mercy!
-O Father, have mercy!
-# We cannot hold!
-We cannot hold!
-# Why have you forsaken us, Father?
-Why have you forsaken us, Father?
-# The ship is on fire!
-The ship is on fire!
-# -1000
+#% Hyaa!
+¡Hyaa!
+#% Hyaa!
+¡Hyaa!
+#% Hyaa!
+¡Hyaa!
+#% Ah, I am defeated!
+¡Ah, fui derrotada!
+#% O Great Father, we thank you for our daily bread...
+Oh Gran Padre, te agradecemos nuestro pan diario...
+#% Repent!
+¡Arrepiéntete!
+#% I move.
+Me muevo.
+#% The Lord Father have blessed us with this victory.
+El Señor Padre nos ha bendecido con esta victoria.
+#% Let us be in prayer.
+Recemos.
+#% You call, Captain Shields?
+¿Llama, Capitán Shields?
+#% We act as one.
+Actuamos como uno.
+#% May the Great Father look over us.
+Que el Gran Padre nos proteja.
+#% All is the will of the Great Father.
+Todo es la voluntad del Gran Padre.
+#% May we entrust our fates to the Father.
+Confiemos nuestros destinos al Padre.
+#% We sail forward.
+Partimos hacia adelante.
+#% O Great Father, bless our ship.
+Oh Gran Padre, bendice nuestra nave.
+#% May our path stay true.
+Que nuestro camino siga siendo el correcto.
+#% I see.
+Ya veo.
+#% Very well.
+Muy bien.
+#% Prepare to fire roundshots!
+¡Prepárense para disparar balas rasas!
+#% Chainshots, at the ready!
+¡Palanquetas, preparadas!
+#% We must do what we must!
+¡Debemos hacer lo que debamos!
+#% O Great Father, rain down your fury!
+¡Oh Gran Padre, que llueva tu furia!
+#% Fire!
+¡Fuego!
+#% O ancient weapon, awaken from your slumber!
+¡Oh arma antigua, despierta de tu letargo!
+#% Vanguard!
+¡Vanguard!
+#% Forward! In the Father's name!
+¡Adelante! ¡En el nombre del Padre!
+#% Fold sails!
+¡Arríen las velas!
+#% Release sails!
+¡Suelten las velas!
+#% The enemy cannot escape now!
+¡El enemigo no puede escapar ahora!
+#% May the Great Father have mercy on your souls...
+Que el Gran Padre se apiade de sus almas...
+#% Our sail has been destroyed!
+¡Nuestra vela ha sido destruida!
+#% The Great Father has protected us from the worst
+El Gran Padre nos ha protegido de lo peor.
+#% The ship has taken minor damage.
+La nave ha recibido daños menores.
+#% O Father, protect us from this trial!
+¡Oh Padre, protégenos de esta prueba!
+#% We have taken damage!
+¡Hemos recibido daños!
+#% O Father, have mercy!
+¡Oh Padre, ten piedad!
+#% We cannot hold!
+¡No podremos resistir!
+#% Why have you forsaken us, Father?
+¿Por qué nos has abandonado, Padre?
+#% The ship is on fire!
+¡La nave está en llamas!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# May the Holy Father bless this undertaking.
-May the Holy Father bless this undertaking.
-# Canceling.
-Canceling.
-# Here.
-Here.
-# Kukuku.
+#% May the Holy Father bless this undertaking.
+Que el Santo Padre bendiga esta tarea.
+#% Canceling.
+Cancelando.
+#% Here.
+Aquí.
+#% Kukuku.
 Kukuku.
-# Yes?
-Yes?
-# I've got you. (Fire arquebus)
-I've got you. (Fire arquebus)
-# You're mine.
-You're mine.
-# Fall.
-Fall.
-# Ho.
+#% Yes?
+¿Sí?
+#% I've got you. (Fire arquebus)
+Te tengo. (Dispara arcabuz)
+#% You're mine.
+Eres mío.
+#% Fall.
+Cae.
+#% Ho.
 Ho.
-# Ho.
+#% Ho.
 Ho.
-# Sniping out target.
-Sniping out target.
-# No escape.
-No escape.
-# Witness.
-Witness.
-# Rise, my illusions.
-Rise, my illusions.
-# -1000
+#% Sniping out target.
+Disparando al objetivo.
+#% No escape.
+No hay escape.
+#% Witness.
+Observa.
+#% Rise, my illusions.
+Levántense, ilusiones mías.
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Ugh!
-Ugh!
-# Ugh!
-Ugh!
-# Ugh!
-Ugh!
-# Tch, falling back!
-Tch, falling back!
-# Chomp.
-Chomp.
-# You were weak.
-You were weak.
-# Moving to position.
-Moving to position.
-# Enemies defeated. They weren't anything special.
-Enemies defeated. They weren't anything special.
-# Jem'hyre, reporting.
-Jem'hyre, reporting.
-# What are we doing, boss?
-What are we doing, boss?
-# Yeah?
-Yeah?
-# You got something?
-You got something?
-# Kukuku.
+#% Ugh!
+¡Ugh!
+#% Ugh!
+¡Ugh!
+#% Ugh!
+¡Ugh!
+#% Tch, falling back!
+¡Tch, retirándome!
+#% Chomp.
+Ñom.
+#% You were weak.
+Eres débil.
+#% Moving to position.
+Moviéndome a la posición.
+#% Enemies defeated. They weren't anything special.
+Enemigos derrotados. No fueron nada especial.
+#% Jem'hyre, reporting.
+Jem'hyre, reportándose.
+#% What are we doing, boss?
+¿Qué haremos, jefe?
+#% Yeah?
+¿Sí?
+#% You got something?
+¿Tienes algo?
+#% Kukuku.
 Kukuku.
-# I'm waiting.
-I'm waiting.
-# Hope you know what you're doing.
-Hope you know what you're doing.
-# All right, I'm heading there.
-All right, I'm heading there.
-# Setting sail.
-Setting sail.
-# Yeah.
-Yeah.
-# Moving.
-Moving.
-# Roundshots.
-Roundshots.
-# Chainshots.
-Chainshots.
-# Grapeshot.
-Grapeshot.
-# Special weapon.
-Special weapon.
-# Fire.
-Fire.
-# So this is the boss' true power?
-So this is the boss' true power?
-# Kukuku.
+#% I'm waiting.
+Estoy esperando.
+#% Hope you know what you're doing.
+Espero que sepas lo que estás haciendo.
+#% All right, I'm heading there.
+Muy bien, me dirijo hacia allí.
+#% Setting sail.
+Estableciendo curso.
+#% Yeah.
+Sí.
+#% Moving.
+Moviéndonos.
+#% Roundshots.
+Balas rasas.
+#% Chainshots.
+Palanquetas.
+#% Grapeshot.
+Metralla.
+#% Special weapon.
+Arma especial.
+#% Fire.
+Fuego.
+#% So this is the boss' true power?
+¿Conque este es el verdadero poder del jefe?
+#% Kukuku.
 Kukuku.
-# Initiating boarding operations.
-Initiating boarding operations.
-# Folding sails.
-Folding sails.
-# Releasing sails.
-Releasing sails.
-# They're not going anywhere.
-They're not going anywhere.
-# Enemy sunk.
-Enemy sunk.
-# Our sails have collapsed.
-Our sails have collapsed.
-# Took some light damage.
-Took some light damage.
-# Our hull's holding.
-Our hull's holding.
-# Tch, we've been hit.
-Tch, we've been hit.
-# They got us.
-They got us.
-# We're taking on water!
-We're taking on water!
-# Tch, need backup!
-Tch, need backup!
-# Abandoning ship!
-Abandoning ship!
-# We are on fire.
-We are on fire.
-# -1000
+#% Initiating boarding operations.
+Iniciando operaciones de abordaje.
+#% Folding sails.
+Arriando velas.
+#% Releasing sails.
+Soltando velas.
+#% They're not going anywhere.
+No irán a ninguna parte.
+#% Enemy sunk.
+Enemigo hundido.
+#% Our sails have collapsed.
+Nuestras velas han colapsado.
+#% Took some light damage.
+Recibimos algún daño ligero.
+#% Our hull's holding.
+Nuestro casco está resistiendo.
+#% Tch, we've been hit.
+Tch, fuimos golpeados.
+#% They got us.
+Nos tienen.
+#% We're taking on water!
+¡Nos está entrando agua!
+#% Tch, need backup!
+¡Tch, necesitamos refuerzos!
+#% Abandoning ship!
+¡Abandonen la nave!
+#% We are on fire.
+Estamos en llamas.
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Call the shots, boss.
-Call the shots, boss.
-# Nevermind.
-Nevermind.
-# Shields.
+#% Call the shots, boss.
+Manda, jefe.
+#% Nevermind.
+Olvídenlo.
+#% Shields.
 Shields.
-# It is I.
-It is I.
-# We finish this.
-We finish this.
-# Hiyaa! (Spear)
-Hiyaa! (Spear)
-# Hiyaa! (Spear)
-Hiyaa! (Spear)
-# Hiyaa! (Spear)
-Hiyaa! (Spear)
-# Back!
-Back!
-# Hya!
-Hya!
-# Hiiiiyaa!
-Hiiiiyaa!
-# Hyaaaaa!
-Hyaaaaa!
-# I've got you!
-I've got you!
-# All hands: Form up!
-All hands: Form up!
-# Decimate them!
-Decimate them!
-# Huntress! Consume!
-Huntress! Consume!
-# -1000
+#% It is I.
+Soy yo.
+#% We finish this.
+Terminemos con esto.
+#% Hiyaa! (Spear)
+¡Hiyaa! (Lanza)
+#% Hiyaa! (Spear)
+¡Hiyaa! (Lanza)
+#% Hiyaa! (Spear)
+¡Hiyaa! (Lanza)
+#% Back!
+¡Atrás!
+#% Hya!
+¡Hya!
+#% Hiiiiyaa!
+¡Hiiiiyaa!
+#% Hyaaaaa!
+¡Hyaaaaa!
+#% I've got you!
+¡Te tengo!
+#% All hands: Form up!
+¡A toda la tripulación: Formen!
+#% Decimate them!
+¡Discemínenlos!
+#% Huntress! Consume!
+¡Huntress! ¡Consume!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# Tch!
-Tch!
-# Fool!
-Fool!
-# Ugh!
-Ugh!
-# Huntress! Fall back!
-Huntress! Fall back!
-# Not bad.
-Not bad.
-# Stay down.
-Stay down.
-# Repositioning!
-Repositioning!
-# An obvious outcome. [Wolf howls]
-An obvious outcome. [Wolf howls]
-# Standing by.
-Standing by.
-# I am here.
-I am here.
-# We shall see if you live up to your reputation.
-We shall see if you live up to your reputation.
-# Prove yourself.
-Prove yourself.
-# Do not fail me.
-Do not fail me.
-# What are your intentions?
-What are your intentions?
-# Very well.
-Very well.
-# Moving to coordinates.
-Moving to coordinates.
-# Setting sail.
-Setting sail.
-# Underway.
-Underway.
-# Manning all oars.
-Manning all oars.
-# Load roundshots!
-Load roundshots!
-# Load chainshots!
-Load chainshots!
-# Load grapeshots!
-Load grapeshots!
-# Prepare special weapon!
-Prepare special weapon!
-# Fire!
-Fire!
-# So this is the Vanguard Cannon...
-So this is the Vanguard Cannon...
-# Fire.
-Fire.
-# To arms!
-To arms!
-# Fold sails!
-Fold sails!
-# Release sails!
-Release sails!
-# We have demasted the enemy!
-We have demasted the enemy!
-# Enemy, sunk!
-Enemy, sunk!
-# Our sails have collapsed!
-Our sails have collapsed!
-# Light damage to report!
-Light damage to report!
-# We've just been grazed!
-We've just been grazed!
-# We are under attack!
-We are under attack!
-# Taking damage!
-Taking damage!
-# The ship is listing!
-The ship is listing!
-# Flooding reported below decks!
-Flooding reported below decks!
-# All hands: Abandon ship!
-All hands: Abandon ship!
-# Fires reported!
-Fires reported!
-# All hands: Reload all arms on the double!
-All hands: Reload all arms on the double!
-# All hands: Man your oars! Look lively now!
-All hands: Man your oars! Look lively now!
-# Wolf Brigade, on me!
-Wolf Brigade, on me!
-# -1000
+#% Tch!
+¡Tch!
+#% Fool!
+¡Tonto!
+#% Ugh!
+¡Ugh!
+#% Huntress! Fall back!
+¡Huntress! ¡Retírate!
+#% Not bad.
+Nada mal.
+#% Stay down.
+Quietos.
+#% Repositioning!
+¡Reposicionándose!
+#% An obvious outcome. [Wolf howls]
+Un resultado obvio. [Aullidos de lobo]
+#% Standing by.
+En posición.
+#% I am here.
+Estoy aquí.
+#% We shall see if you live up to your reputation.
+Ya veremos si está a la altura de su reputación.
+#% Prove yourself.
+Pruébate.
+#% Do not fail me.
+No me falle.
+#% What are your intentions?
+¿Cuáles son sus intenciones?
+#% Very well.
+Muy bien.
+#% Moving to coordinates.
+Moviéndome a las coordenadas.
+#% Setting sail.
+Estableciendo rumbo.
+#% Underway.
+En camino.
+#% Manning all oars.
+Tomando todos los remos.
+#% Load roundshots!
+¡Carguen balas rasas!
+#% Load chainshots!
+¡Carguen palanquetas!
+#% Load grapeshots!
+¡Carguen metralla!
+#% Prepare special weapon!
+¡Preparen el arma especial!
+#% Fire!
+¡Fuego!
+#% So this is the Vanguard Cannon...
+Conque este es el Cañón Vanguard...
+#% Fire.
+Fuego.
+#% To arms!
+¡A las armas!
+#% Fold sails!
+¡Arríen las velas!
+#% Release sails!
+¡Suelten las velas!
+#% We have demasted the enemy!
+¡Hemos desarbolado al enemigo!
+#% Enemy, sunk!
+¡Enemigo, hundido!
+#% Our sails have collapsed!
+¡Nuestras velas han colapsado!
+#% Light damage to report!
+¡Daños ligeros a reportar!
+#% We've just been grazed!
+¡Acabamos de ser rozados!
+#% We are under attack!
+¡Estamos bajo ataque!
+#% Taking damage!
+¡Recibiendo daño!
+#% The ship is listing!
+¡La nave se está escorando!
+#% Flooding reported below decks!
+¡Inundaciones reportadas en las cubiertas inferiores!
+#% All hands: Abandon ship!
+¡A toda la tripulación: Abandonen la nave!
+#% Fires reported!
+¡Fuegos reportados!
+#% All hands: Reload all arms on the double!
+¡A toda la tripulación: Recarguen todas las armas a paso doble!
+#% All hands: Man your oars! Look lively now!
+¡A toda la tripulación: A los remos! ¡Más rápido!
+#% Wolf Brigade, on me!
+¡Brigada Lobo, a mí!
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# -1000
+#% -1000
 -1000
-# A fine decision, Shields.
-A fine decision, Shields.
-# Belay that order!
-Belay that order!
+#% A fine decision, Shields.
+Una buena decisión, Shields.
+#% Belay that order!
+¡Olviden esa orden!
