@@ -1,78 +1,78 @@
-# ﻿Kayto
-﻿Kayto
-# Ava
+#% Kayto
+Kayto
+#% Ava
 Ava
-# Asaga
+#% Asaga
 Asaga
-# Chigara
+#% Chigara
 Chigara
-# Villager 1
-Villager 1
-# Villager 2
-Villager 2
-# Villager 3
-Villager 3
-# Elder
-Elder
-# Maray
+#% Villager 1
+Aldeano 1
+#% Villager 2
+Aldeano 2
+#% Villager 3
+Aldeano 3
+#% Elder
+Anciano
+#% Maray
 Maray
-# Cullen
+#% Cullen
 Cullen
-# Fontana
+#% Fontana
 Fontana
-# Arcadius
+#% Arcadius
 Arcadius
-# Alice
+#% Alice
 Alice
-# Cosette
+#% Cosette
 Cosette
-# Icari
+#% Icari
 Icari
-# Pact Soldier
-Pact Soldier
-# Verstan
-Verstan
-# Grey
+#% Pact Soldier
+Soldado del Pacto
+#% Verstan
+Verstano
+#% Grey
 Grey
-# Kryska
+#% Kryska
 Kryska
-# Claude
+#% Claude
 Claude
-# Sola
+#% Sola
 Sola
-# Crow Harbor
+#% Crow Harbor
 Crow Harbor
-# Jaylor
+#% Jaylor
 Jaylor
-# Lynn
+#% Lynn
 Lynn
-# Elf 1
-Elf 1
-# Elf 2
-Elf 2
-# Elf 3
-Elf 3
-# Elf 4
-Elf 4
-# Herald
-Herald
-# Dad
-Dad
-# Qisah
+#% Elf 1
+Elfo 1
+#% Elf 2
+Elfo 2
+#% Elf 3
+Elfo 3
+#% Elf 4
+Elfo 4
+#% Herald
+Heraldo
+#% Dad
+Papá
+#% Qisah
 Qisah
-# Kuushana
+#% Kuushana
 Kuushana
-# Jem'hyre
+#% Jem'hyre
 Jem'hyre
-# Miirage
+#% Miirage
 Miirage
-# Omega
+#% Omega
 Omega
-# Everyone
-Everyone
-# God
-God
-# Elf Boss
-Elf Boss
-# Demonfolk Child
-Demonfolk Child
+#% Everyone
+Todos
+#% God
+Dios
+#% Elf Boss
+Jefe Elfo
+#% Demonfolk Child
+Niño Demonfolk
