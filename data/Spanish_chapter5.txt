@@ -36,11 +36,11 @@ ifj chap5_chklosthistory,revisitsolamom
 tag chap5_chklosthistory_true
 #% obj SIDE: Lost History
 obj SIDE: Lost History
-# map
+#% map
 map
 #% tag chap5_chklosthistory_false
 tag chap5_chklosthistory_false
-# map 
+#% map 
 map 
 #% 
 
@@ -106,7 +106,7 @@ ava Very good, captain.
 obj SIDE: Investigate Cera
 #% var done_chap5_martalk1
 var done_chap5_martalk1
-# map 
+#% map 
 map 
 #% 
 
@@ -194,7 +194,7 @@ ica Come on, let's get moving, before he moves somewhere else.
 obj SIDE: The Silver Shrew
 #% var done_chap5_icatalk1
 var done_chap5_icatalk1
-# map 
+#% map 
 map 
 #% 
 
@@ -224,7 +224,7 @@ kay Bring us into the harbor, commander. Let's dock and investigate.
 cha ava_armscrossed_focus_neutral_neutral
 # ava Aye aye captain.
 ava Aye aye captain.
-# por shi_neu_raised_closed2_laugh
+#% por shi_neu_raised_closed2_laugh
 por shi_neu_raised_closed2_laugh
 # shi ...Ooyyy......
 shi ...Ooyyy......
@@ -232,7 +232,7 @@ shi ...Ooyyy......
 cha ava_armup_surprised_surprise_smalltalk
 # ava Wait a minute...
 ava Wait a minute...
-# por shi_neu_focus_neutral_laugh
+#% por shi_neu_focus_neutral_laugh
 por shi_neu_focus_neutral_laugh
 # shi Oooyyy!!! Kayto, is that you?!
 shi Oooyyy!!! Kayto, is that you?!
@@ -240,7 +240,7 @@ shi Oooyyy!!! Kayto, is that you?!
 cha kay_neu_sad_wide_clench
 # kay Oh no...
 kay Oh no...
-# por shi_neu_raised_closed2_laugh
+#% por shi_neu_raised_closed2_laugh
 por shi_neu_raised_closed2_laugh
 # shi Long time no see! It's me...!
 shi Long time no see! It's me...!
@@ -296,7 +296,7 @@ kay I did not sink the Crimson Fleet, Maray. I just held the Strait until reinfo
 cha kay_neu_sad_narrowloo_smalltalk
 # kay And no, I'm definitely not going out with Asaga!
 kay And no, I'm definitely not going out with Asaga!
-# por asa_excited_angry_trianglee_yell
+#% por asa_excited_angry_trianglee_yell
 por asa_excited_angry_trianglee_yell
 # asa (Achoo!)
 asa (Achoo!)
@@ -570,7 +570,7 @@ cha kay_neu_sad_closed_smalltalk
 kay Sigh...
 # kay Just what kind of a mess has he gotten into now...
 kay Just what kind of a mess has he gotten into now...
-# map 
+#% map 
 map 
 #% 
 
@@ -654,7 +654,7 @@ kay Bring us into the harbor, commander. Let's dock and investigate.
 cha ava_armup_focus_neutral_smalltalk
 # ava Aye aye captain.
 ava Aye aye captain.
-# por shi_neu_raised_closed2_laugh
+#% por shi_neu_raised_closed2_laugh
 por shi_neu_raised_closed2_laugh
 # shi ...Ooyyy......
 shi ...Ooyyy......
@@ -664,7 +664,7 @@ hid shi
 cha ava_armup_surprised_wide_smalltalk
 # ava Wait a minute...
 ava Wait a minute...
-# por shi_neu_focus_neutral_laugh
+#% por shi_neu_focus_neutral_laugh
 por shi_neu_focus_neutral_laugh
 # shi Oooyyy!!! Kayto, is that you?!
 shi Oooyyy!!! Kayto, is that you?!
@@ -672,7 +672,7 @@ shi Oooyyy!!! Kayto, is that you?!
 cha kay_neu_sad_wide_clench
 # kay Oh no...
 kay Oh no...
-# por shi_neu_raised_closed2_laugh
+#% por shi_neu_raised_closed2_laugh
 por shi_neu_raised_closed2_laugh
 # shi Long time no see! It's me...!
 shi Long time no see! It's me...!
@@ -1106,7 +1106,7 @@ kay Hopefully not for the duration of my life.
 cha kay_neu_focus_closed_neutral
 # kay Sigh... now, let's deal with cleaning up the rest of this mess...
 kay Sigh... now, let's deal with cleaning up the rest of this mess...
-# jum chap5_qisahquest
+#% jum chap5_qisahquest
 jum chap5_qisahquest
 #% 
 
@@ -1254,7 +1254,7 @@ cha qis_neu_angry_widesmall_shout
 voi qis_vns_ang_01
 # qis You blat-pasha!
 qis You blat-pasha!
-# hsh 5
+#% hsh 5
 hsh 5
 #% sou sou_punch
 sou sou_punch
@@ -1264,7 +1264,7 @@ cha shi_neu_angry2_closed2_yell
 qis That's for lying about the deed!
 #% sou sou_punch
 sou sou_punch
-# hsh 8
+#% hsh 8
 hsh 8
 # qis And that's for lying about your marriage!
 qis And that's for lying about your marriage!
@@ -1324,7 +1324,7 @@ ifj chap5_marayonsen,marayalive
 
 #% tag chap5_marayonsen_false
 tag chap5_marayonsen_false
-# map 
+#% map 
 map 
 #% 
 
@@ -1374,7 +1374,7 @@ tag chap5_marayonsen_kidnap_false
 mar Did you hear that Kayto defeated the Terror of the Seas at the Sargasso Bay? That sure takes me back...
 # shi Did he now? Well, the apple never falls too far.
 shi Did he now? Well, the apple never falls too far.
-# jum chap5_marayonsen2
+#% jum chap5_marayonsen2
 jum chap5_marayonsen2
 #% 
 
@@ -1480,7 +1480,7 @@ kay Who needs that guy anyways. Good riddance I'd say.
 mar Kayto, you're starting to act like Icari...
 # kay NO.
 kay NO.
-# por ica_surprised_annoyed_closedeye_yell_blush
+#% por ica_surprised_annoyed_closedeye_yell_blush
 por ica_surprised_annoyed_closedeye_yell_blush
 # ica Achoo!
 ica Achoo!
@@ -1506,7 +1506,7 @@ kay W-Well, yeah... I suppose I did take care of you...
 kay But... there wasn't...
 # mar Avvy and the Elder were there, weren't they?
 mar Avvy and the Elder were there, weren't they?
-# por ava_armup_surprised_widesmall_smalltalk_blush
+#% por ava_armup_surprised_widesmall_smalltalk_blush
 por ava_armup_surprised_widesmall_smalltalk_blush
 # ava ...A-... Ah...
 ava ...A-... Ah...
@@ -1514,7 +1514,7 @@ ava ...A-... Ah...
 mar In fact, I bet she's been by your side this whole side because our dad put her dad up to it!
 # mar Just think! It makes perfect sense!
 mar Just think! It makes perfect sense!
-# por ava_facepalm_worry_closedeye_sigh_shadow
+#% por ava_facepalm_worry_closedeye_sigh_shadow
 por ava_facepalm_worry_closedeye_sigh_shadow
 # ava Ah... ah... Whew...
 ava Ah... ah... Whew...
@@ -1588,7 +1588,7 @@ nar (Maray's affection increased by 2!)
 ccc kay_uni
 #% var marayonsen
 var marayonsen
-# map 
+#% map 
 map 
 #% 
 
@@ -1676,7 +1676,7 @@ qis We shall see...
 obj SIDE: Passage to Ferros
 #% var done_chap5_toferros
 var done_chap5_toferros
-# map 
+#% map 
 map 
 #% 
 
@@ -2090,7 +2090,7 @@ mar Eh-heh. I told you the "Bonk the Baddies With a Frying Pan as They Show Up" 
 cha kay_neu_neutral_neutral_smirk
 # kay I suppose so. Well, now, I guess we'll have to turn to our own troubles now.
 kay I suppose so. Well, now, I guess we'll have to turn to our own troubles now.
-# jum chap5_ferrosend
+#% jum chap5_ferrosend
 jum chap5_ferrosend
 #% 
 
@@ -2312,7 +2312,7 @@ nar (Net profit of 5000 gil!)
 obj SIDE: The Colosseum
 #% ccc kay_uni
 ccc kay_uni
-# map 
+#% map 
 map 
 #% 
 
@@ -2386,7 +2386,7 @@ kay And find them we shall.
 obj SIDE: Defeat Crow Harbor
 #% var done_chap5_soltalk1
 var done_chap5_soltalk1
-# map 
+#% map 
 map 
 #% 
 
@@ -2916,7 +2916,7 @@ cha kay_neu_neutral_neutral_smirk
 kay No problem.
 #% var done_chap5_solalt_sink
 var done_chap5_solalt_sink
-# map 
+#% map 
 map 
 #% 
 
@@ -3204,7 +3204,7 @@ sou sou_affectiongain
 nar (Sola's affection increased by 2!)
 #% var solaonsen
 var solaonsen
-# map 
+#% map 
 map 
 #% 
 
@@ -3252,7 +3252,7 @@ sou sou_affectiongain
 nar (Sola's affection increased by 2!)
 #% var solaonsen
 var solaonsen
-# map 
+#% map 
 map 
 #% 
 
@@ -3352,7 +3352,7 @@ cha kay_neu_focus_neutral_slight
 kay (Looks like I'll have to ask everyone individually. I should listen to what they say carefully and see if they say something which contradicts the truth...)
 #% var done_chap5_soltalk2
 var done_chap5_soltalk2
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3376,7 +3376,7 @@ ava Thus, we can rule out anyone who has no affinity with magic.
 cha kay_neu_focus_thinking_smirk
 # kay That's definitely useful. Good thinking, Ava.
 kay That's definitely useful. Good thinking, Ava.
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3388,7 +3388,7 @@ cha sol_side_angry_neutral_talk
 voi sol_vns_sur_01
 # sol We must find who took the Dreadstone!
 sol We must find who took the Dreadstone!
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3406,7 +3406,7 @@ cha ica_point_focus_neutral_smalltalk
 ica Besides, I got it from the Song Alliance in the first place. Honestly, it's got to be a High Elf who did it.
 # ica Kryska's always talking about how everything belongs to the High Elves. I bet it's her who took it!
 ica Kryska's always talking about how everything belongs to the High Elves. I bet it's her who took it!
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3426,7 +3426,7 @@ cha kry_armout_focus_neutral_bigtalk
 kry Icari was the one who sought to use the Dreadstone in the first place, was it not?
 # kry I would say that would make her the prime suspect!
 kry I would say that would make her the prime suspect!
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3448,7 +3448,7 @@ asa This can only be the work of a Pact spy!
 cha asa_armup_confuse_closedeye_smalltalk
 # asa I bet whoever took it is long gone. Sad to say, but I reckon we've been hoodwinked.
 asa I bet whoever took it is long gone. Sad to say, but I reckon we've been hoodwinked.
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3470,7 +3470,7 @@ cha chi_handtoface_sad_closedeye_smalltalk
 chi Honestly, this sounds like something an enemy intruder would do...
 # chi Whoever it was, I doubt that the thief is among us...
 chi Whoever it was, I doubt that the thief is among us...
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3498,7 +3498,7 @@ mar W-Well, as your sister, I still think you're too close to her. Watch your ba
 cha kay_neu_sad_closed_smalltalk
 # kay (Thanks for looking after me, but I don't think you're thinking this through...)
 kay (Thanks for looking after me, but I don't think you're thinking this through...)
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3522,7 +3522,7 @@ cla Perhaps the artifact was stolen while we were docked at Volaris? Most of the
 cha cla_armscrossed_sad_closedeye_smalltalk
 # cla Whoever it was, the thief must be long gone by now...
 cla Whoever it was, the thief must be long gone by now...
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3554,7 +3554,7 @@ cos Hehehe... Looks like you've been played for a fool, Shields.
 cha cos_fists_confused_crazy_widesmile
 # cos Let me know if you need help thinking of a punishment once you nab her... We pirates are a creative lot when it comes to torture.
 cos Let me know if you need help thinking of a punishment once you nab her... We pirates are a creative lot when it comes to torture.
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3574,7 +3574,7 @@ qis Could this Dreadstone work like that?
 cha qis_neu_neutral_closedeye_frown
 # qis In any matter, I do not believe it is on board this ship.
 qis In any matter, I do not believe it is on board this ship.
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3586,7 +3586,7 @@ cha lyn_armup_concern_closedeye_talk
 voi lyn_vns_ang_01
 # lyn I can't help you Shields, I don't even know what this Dreadstone thing is!
 lyn I can't help you Shields, I don't even know what this Dreadstone thing is!
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3598,7 +3598,7 @@ cha mii_neu_sad_closedeye_neutral
 voi mii_vns_sad_01
 # mii May the Holy Mother forgive whoever stole the Dreadstone...
 mii May the Holy Mother forgive whoever stole the Dreadstone...
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3610,7 +3610,7 @@ cha jem_neu_confuse_closedeye_talk
 voi jem_vns_sad_01
 # jem I have no clue what this Dreadstone is...
 jem I have no clue what this Dreadstone is...
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3630,7 +3630,7 @@ kuu Once we get to the bottom of this, I shall strip the perpetrator and lash he
 cha kay_neu_confuse_wide_smalltalk
 # kay (Why does she sound so excited about the lashing part...?)
 kay (Why does she sound so excited about the lashing part...?)
-# cre chap5_interrogate
+#% cre chap5_interrogate
 cre chap5_interrogate
 #% 
 
@@ -3650,11 +3650,11 @@ kay (But there was something somebody said which wasn't the truth...)
 cha kay_neu_focus_closed_neutral
 # kay (What should I do?)
 kay (What should I do?)
-# cc0 chap5_accuse
+#% cc0 chap5_accuse
 cc0 chap5_accuse
-# cc1 The thief is not among us.
+#% cc1 The thief is not among us.
 cc1 The thief is not among us.
-# cc2 One of us is the thief.
+#% cc2 One of us is the thief.
 cc2 One of us is the thief.
 #% 
 
@@ -3668,11 +3668,11 @@ voi ava_vns_sad_04
 ava Are you certain, captain? That would mean that the Dreadstone is now long gone...
 # ava Think of what you heard from each crew member. Did any of them say something which contradict the truth?
 ava Think of what you heard from each crew member. Did any of them say something which contradict the truth?
-# cc0 chap5_accuse
+#% cc0 chap5_accuse
 cc0 chap5_accuse
-# cc1 The thief is not among us.
+#% cc1 The thief is not among us.
 cc1 The thief is not among us.
-# cc2 One of us is the thief.
+#% cc2 One of us is the thief.
 cc2 One of us is the thief.
 #% 
 
@@ -3686,15 +3686,15 @@ kay (It's unbelievable... But what this person said doesn't add up to what actua
 kay (In fact, I can still remember it like it was yesterday...)
 # kay (That person is...)
 kay (That person is...)
-# cc0 chap5_thief1
+#% cc0 chap5_thief1
 cc0 chap5_thief1
-# cc1 Chigara
+#% cc1 Chigara
 cc1 Chigara
-# cc2 Icari
+#% cc2 Icari
 cc2 Icari
-# cc3 Kryska
+#% cc3 Kryska
 cc3 Kryska
-# cc4 Claude
+#% cc4 Claude
 cc4 Claude
 #% 
 
@@ -3726,13 +3726,13 @@ kay (Ava's right. Out of all the girls who I spoke to, whose statement included 
 hid chi
 #% hid ava
 hid ava
-# cc0 chap5_thief2
+#% cc0 chap5_thief2
 cc0 chap5_thief2
-# cc1 Icari
+#% cc1 Icari
 cc1 Icari
-# cc2 Kryska
+#% cc2 Kryska
 cc2 Kryska
-# cc3 Claude
+#% cc3 Claude
 cc3 Claude
 #% 
 
@@ -3764,13 +3764,13 @@ kay (Ava's right. Out of all the girls who I spoke to, whose statement included 
 hid ava
 #% hid ica
 hid ica
-# cc0 chap5_thief3
+#% cc0 chap5_thief3
 cc0 chap5_thief3
-# cc1 Chigara
+#% cc1 Chigara
 cc1 Chigara
-# cc2 Kryska
+#% cc2 Kryska
 cc2 Kryska
-# cc3 Claude
+#% cc3 Claude
 cc3 Claude
 #% 
 
@@ -3800,13 +3800,13 @@ kay (Ava's right. Out of all the girls who I spoke to, whose statement included 
 hid kry
 #% hid ava
 hid ava
-# cc0 chap5_thief4
+#% cc0 chap5_thief4
 cc0 chap5_thief4
-# cc1 Chigara
+#% cc1 Chigara
 cc1 Chigara
-# cc2 Icari
+#% cc2 Icari
 cc2 Icari
-# cc3 Claude
+#% cc3 Claude
 cc3 Claude
 #% 
 
@@ -4230,15 +4230,15 @@ cha kay_neu_focus_neutral_smalltalk
 kay Then, answer my questions.
 # cla Yes, Mr. Ethical.
 cla Yes, Mr. Ethical.
-# cc0 chap5_claudechoice1
+#% cc0 chap5_claudechoice1
 cc0 chap5_claudechoice1
-# cc1 Are you still within the Dreadstone?
+#% cc1 Are you still within the Dreadstone?
 cc1 Are you still within the Dreadstone?
-# cc2 Why did Crow Harbor seek immortality?
+#% cc2 Why did Crow Harbor seek immortality?
 cc2 Why did Crow Harbor seek immortality?
-# cc3 What is your end goal?
+#% cc3 What is your end goal?
 cc3 What is your end goal?
-# cc4 You'll REALLY do anything? (End Conversation)
+#% cc4 You'll REALLY do anything? (End Conversation)
 cc4 You'll REALLY do anything? (End Conversation)
 #% 
 
@@ -4266,13 +4266,13 @@ cla Of course not, captain... Although a certain uptight first mate would look s
 cha kay_neu_focus_neutral_smalltalk
 # kay And that would be why you're going to remain bound within that prison of yours...
 kay And that would be why you're going to remain bound within that prison of yours...
-# cc0 chap5_claudechoice2
+#% cc0 chap5_claudechoice2
 cc0 chap5_claudechoice2
-# cc1 Why did Crow Harbor seek immortality?
+#% cc1 Why did Crow Harbor seek immortality?
 cc1 Why did Crow Harbor seek immortality?
-# cc2 What is your end goal?
+#% cc2 What is your end goal?
 cc2 What is your end goal?
-# cc3 You'll REALLY do anything? (End Conversation)
+#% cc3 You'll REALLY do anything? (End Conversation)
 cc3 You'll REALLY do anything? (End Conversation)
 #% 
 
@@ -4340,13 +4340,13 @@ kay (So Crow Harbor sought another method of gaining eternal life... because the
 kay (Countless Elves throughout history have succumbed to their temptations and in their greed, became mortal Orks. Crow likely sought an insurance against that possibility...)
 # kay (But what does Claude mean by Crow's task now becoming mine? I need not fear becoming an Ork thanks to my Maan blood...)
 kay (But what does Claude mean by Crow's task now becoming mine? I need not fear becoming an Ork thanks to my Maan blood...)
-# cc0 chap5_claudechoice3
+#% cc0 chap5_claudechoice3
 cc0 chap5_claudechoice3
-# cc1 Are you still within the Dreadstone?
+#% cc1 Are you still within the Dreadstone?
 cc1 Are you still within the Dreadstone?
-# cc2 What is your end goal?
+#% cc2 What is your end goal?
 cc2 What is your end goal?
-# cc3 You'll REALLY do anything? (End Conversation)
+#% cc3 You'll REALLY do anything? (End Conversation)
 cc3 You'll REALLY do anything? (End Conversation)
 #% 
 
@@ -4378,13 +4378,13 @@ cla You are truly quite extraordinary, to have won the favor of a goddess as pow
 cha kay_neu_sad_closed_slight
 # kay Wow. Lucky me.
 kay Wow. Lucky me.
-# cc0 chap5_claudechoice4
+#% cc0 chap5_claudechoice4
 cc0 chap5_claudechoice4
-# cc1 Are you still within the Dreadstone?
+#% cc1 Are you still within the Dreadstone?
 cc1 Are you still within the Dreadstone?
-# cc2 Why did Crow Harbor seek immortality?
+#% cc2 Why did Crow Harbor seek immortality?
 cc2 Why did Crow Harbor seek immortality?
-# cc3 You'll REALLY do anything? (End Conversation)
+#% cc3 You'll REALLY do anything? (End Conversation)
 cc3 You'll REALLY do anything? (End Conversation)
 #% 
 
@@ -4616,7 +4616,7 @@ sou sou_partygain
 nar (Regained the Dreadstone!)
 # nar (Claude has rejoined the party!)
 nar (Claude has rejoined the party!)
-# map 
+#% map 
 map 
 #% 
 
@@ -4746,7 +4746,7 @@ kay Don't worry, Chigara. We'll get to the bottom of this, I swear.
 obj SIDE: Fox Call
 #% var done_chap5_chitalk1
 var done_chap5_chitalk1
-# map 
+#% map 
 map 
 #% 
 
@@ -4952,7 +4952,7 @@ cha kay_neu_focus_neutral_neutral
 kay Well, at least we have a lead. You heard the commander, Lynn. First, we've got to exorcise the Lost Fleet, then we can investigate Diode.
 # lyn Sigh... I was worried about that.
 lyn Sigh... I was worried about that.
-# jum chap5_portalinvestigate
+#% jum chap5_portalinvestigate
 jum chap5_portalinvestigate
 #% tag chap5_checkportal_true
 tag chap5_checkportal_true
@@ -5026,7 +5026,7 @@ cha kay_neu_sad_closed_smalltalk
 kay Please don't bonk our friends, Maray...
 #% tag chap5_maraybonk_false
 tag chap5_maraybonk_false
-# map 
+#% map 
 map 
 #% 
 
@@ -5334,7 +5334,7 @@ cha kay_neu_focus_neutral_smalltalk
 kay Goddess or not, she's our only chance at releasing Chigara and Lynn from Pact's control. Come on, let's go investigate the ruins.
 #% tag chap5_claudegonechk_true
 tag chap5_claudegonechk_true
-# sav rpgbattle
+#% sav rpgbattle
 sav rpgbattle
 #% cha chi_handonchest_sad_neutrallo_smalltalk
 cha chi_handonchest_sad_neutrallo_smalltalk
@@ -5348,7 +5348,7 @@ cha lyn_armup_angry_neutral_talk
 voi lyn_vns_neu_14
 # lyn Count me in too.
 lyn Count me in too.
-# par roo_chap5_story_chi4
+#% par roo_chap5_story_chi4
 par roo_chap5_story_chi4
 #% 
 
@@ -5508,7 +5508,7 @@ kay I wouldn't say so. Gather what you can from the research. Perhaps we can fig
 hid ava
 #% mus mus_omegaapproach
 mus mus_omegaapproach
-# hsh 15
+#% hsh 15
 hsh 15
 # nar (Rumble)
 nar (Rumble)
@@ -5616,19 +5616,19 @@ flag
 dcg spr_cg_omega
 # ome !!!!!!!!
 ome !!!!!!!!
-# por lyn_armup_angry_wideeyes_yell
+#% por lyn_armup_angry_wideeyes_yell
 por lyn_armup_angry_wideeyes_yell
 #% voi lyn_vns_sur_02
 voi lyn_vns_sur_02
 # lyn It's a stark naked spider lady!!!!
 lyn It's a stark naked spider lady!!!!
-# por chi_armsdown_angry_narrow_smirk_shadow
+#% por chi_armsdown_angry_narrow_smirk_shadow
 por chi_armsdown_angry_narrow_smirk_shadow
 #% voi ali_vns_hap_01
 voi ali_vns_hap_01
 # chi Kukuku. Meet my dear twin sister... or at least what is left of her, after what the madmen of Diode did to her!
 chi Kukuku. Meet my dear twin sister... or at least what is left of her, after what the madmen of Diode did to her!
-# por chi_shocked_focus_narrow_bigopensm_shadow
+#% por chi_shocked_focus_narrow_bigopensm_shadow
 por chi_shocked_focus_narrow_bigopensm_shadow
 # chi Oh, but I got back at them for what they did to us... It was I who caused the Calamity!
 chi Oh, but I got back at them for what they did to us... It was I who caused the Calamity!
@@ -5846,7 +5846,7 @@ tag chap5_chigararesist_true
 cha kay_neu_focus_closed_slight
 # kay I wouldn't say so. In fact, she managed to free herself of the enemy's possession. If anything, we've now learned that the enemy's mind control can be broken.
 kay I wouldn't say so. In fact, she managed to free herself of the enemy's possession. If anything, we've now learned that the enemy's mind control can be broken.
-# jum chap5_diodemerge
+#% jum chap5_diodemerge
 jum chap5_diodemerge
 #% tag chap5_chigararesist_false
 tag chap5_chigararesist_false
@@ -6174,7 +6174,7 @@ nar (The Communal EN cap has been increased by 10!)
 dcg hide
 #% ccc kay_uni
 ccc kay_uni
-# map 
+#% map 
 map 
 #% 
 
@@ -6200,7 +6200,7 @@ kay (If I was handy with a sword, I might have considered throwing my hat into t
 cha kay_neu_neutral_neutral_smirk
 # kay (Maybe after the war, I could pay this place a visit with a special someone...)
 kay (Maybe after the war, I could pay this place a visit with a special someone...)
-# map 
+#% map 
 map 
 #% tag chap5_colloseumcheck_true
 tag chap5_colloseumcheck_true
@@ -6306,7 +6306,7 @@ jem Very good, Mr. Manager.
 jem Then, go and defeat the healer from beyond Asahi. I await your success...
 #% obj RPG BATTLE: The Healer From Beyond Asahi
 obj RPG BATTLE: The Healer From Beyond Asahi
-# map 
+#% map 
 map 
 #% 
 
@@ -6358,7 +6358,7 @@ mii Though it breaks my heart, it seems I have no other choice but to deliver ou
 cha kay_neu_neutral_wide_smalltalk
 # kay Wait, I meant no offense-
 kay Wait, I meant no offense-
-# sav rpgbattle
+#% sav rpgbattle
 sav rpgbattle
 #% cha mii_neu_focus_narrow_bigtalk
 cha mii_neu_focus_narrow_bigtalk
@@ -6374,7 +6374,7 @@ kay (Looks like the match has begun!)
 cha kay_neu_sad_closed_smalltalk
 # kay (And yet, I feel like some sort of a misunderstanding has taken place...)
 kay (And yet, I feel like some sort of a misunderstanding has taken place...)
-# par roo_chap5_rpgbattle2
+#% par roo_chap5_rpgbattle2
 par roo_chap5_rpgbattle2
 #% 
 
@@ -6502,11 +6502,11 @@ mii Yes... Allow me to apply this ointment and cleanse your body. Then, you will
 cha kay_neu_raised_wide_talk
 # kay Oh... I see.
 kay Oh... I see.
-# cc0 chap5_miirageonsenchoice
+#% cc0 chap5_miirageonsenchoice
 cc0 chap5_miirageonsenchoice
-# cc1 Yes!
+#% cc1 Yes!
 cc1 Yes!
-# cc2 No!
+#% cc2 No!
 cc2 No!
 #% 
 
@@ -6552,7 +6552,7 @@ nar ... ... ...
 nar ... ...
 # nar ...
 nar ...
-# jum chap5_miiragekidnapped
+#% jum chap5_miiragekidnapped
 jum chap5_miiragekidnapped
 #% 
 
@@ -6628,7 +6628,7 @@ kay (The ship is in danger... I mustn't spend any further time here.)
 kay (Ava... Could we be in danger?)
 #% dcg hide
 dcg hide
-# jum chap5_miirageship
+#% jum chap5_miirageship
 jum chap5_miirageship
 #% 
 
@@ -6894,7 +6894,7 @@ cla (Unlocks the locks.)
 cha kay_neu_neutral_wide_neutral
 # kay Or just unlock it.
 kay Or just unlock it.
-# jum chap5_miirageship
+#% jum chap5_miirageship
 jum chap5_miirageship
 #% 
 
@@ -7132,7 +7132,7 @@ cha kay_neu_focus_closed_neutral
 kay (An unfortunate end to this tale, but at least the ship is safe.)
 # kay (Now, I should return to Jem'hyre and tell her what has passed...)
 kay (Now, I should return to Jem'hyre and tell her what has passed...)
-# map 
+#% map 
 map 
 #% 
 
@@ -7156,7 +7156,7 @@ ava We have captured the Sister. Surely, you would not be so naive as to overloo
 cha kay_neu_focus_closed_smalltalk
 # kay Ahem... She is at least entitled to speak in her defense. I believe I am owed an explanation as to what happened...
 kay Ahem... She is at least entitled to speak in her defense. I believe I am owed an explanation as to what happened...
-# jum chap5_miirecruit
+#% jum chap5_miirecruit
 jum chap5_miirecruit
 #% 
 
@@ -7352,7 +7352,7 @@ cha shi_neu_sad_closed2_grin
 voi shi_vns_neu_04
 # shi It was a worth a shot...
 shi It was a worth a shot...
-# jum chap5_miiragerecruit_false
+#% jum chap5_miiragerecruit_false
 jum chap5_miiragerecruit_false
 #% 
 
@@ -7406,7 +7406,7 @@ cha kay_neu_confuse_narrowloo_smallopen
 kay (I suppose that ends this saga...)
 # kay (I should return to Jem'hyre and report what happened...)
 kay (I should return to Jem'hyre and report what happened...)
-# map 
+#% map 
 map 
 #% 
 
@@ -7452,7 +7452,7 @@ jem I will prove to be no easy foe. Though I may be small, I am still a Star See
 cha kay_neu_focus_neutral_smalltalk
 # kay That power belongs to the Sharrs of Ryuvia. How did you come to acquire such an ability?
 kay That power belongs to the Sharrs of Ryuvia. How did you come to acquire such an ability?
-# sav rpgbattle
+#% sav rpgbattle
 sav rpgbattle
 #% cha jem_neu_focus_awakenneu_slysmile
 cha jem_neu_focus_awakenneu_slysmile
@@ -7462,7 +7462,7 @@ voi jem_vns_hap_01
 jem Kukuku. The secrets of Pact are not for you. Now, how about we put our powers to the test?
 # jem Let us meet in battle... oniichama!
 jem Let us meet in battle... oniichama!
-# par roo_chap5_rpgbattle3
+#% par roo_chap5_rpgbattle3
 par roo_chap5_rpgbattle3
 #% 
 
@@ -7698,7 +7698,7 @@ cha kay_neu_focus_closed_smallopen
 kay I understand...!
 #% ccc kay_uni
 ccc kay_uni
-# map 
+#% map 
 map 
 #% 
 
@@ -8010,5 +8010,6 @@ cha kay_neu_sad_closed_smalltalk
 kay (I just hope she doesn't end up more popular than me...)
 #% ccc kay_uni
 ccc kay_uni
-# map 
+#% map 
 map 
+#%

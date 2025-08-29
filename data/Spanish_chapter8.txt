@@ -182,7 +182,7 @@ lyn Unless we cut off their connection to the Witch of Asahi, those things are b
 tag chap8_badend_lyn_false
 #% obj RPG BATTLE: Betrayal
 obj RPG BATTLE: Betrayal
-# sav rpgbattle
+#% sav rpgbattle
 sav rpgbattle
 #% cha kay_neu_focus_closed_clench
 cha kay_neu_focus_closed_clench
@@ -200,7 +200,7 @@ kay To arms!
 sou sou_partyleave
 # nar (Kryska has left the party.)
 nar (Kryska has left the party.)
-# par roo_chap8_rpgbattle1
+#% par roo_chap8_rpgbattle1
 par roo_chap8_rpgbattle1
 #% 
 
@@ -716,7 +716,7 @@ hid gre
 hid asa
 #% obj RPG BATTLE: The Monolithic Truth
 obj RPG BATTLE: The Monolithic Truth
-# sav rpgbattle
+#% sav rpgbattle
 sav rpgbattle
 #% mus mus_mardukswrath
 mus mus_mardukswrath
@@ -746,7 +746,7 @@ kay We have no choice! To arms! We must escape this place and get back to the sh
 sou sou_partyleave
 # nar (Kryska has left the party.)
 nar (Kryska has left the party.)
-# par roo_chap8_rpgbattle2
+#% par roo_chap8_rpgbattle2
 par roo_chap8_rpgbattle2
 #% 
 
@@ -1238,7 +1238,7 @@ cha kay_neu_focus_neutral_smalltalk
 kay The enemy awaits us at Volaris...
 # kay Prepare yourselves... This may truly be our final battle...
 kay Prepare yourselves... This may truly be our final battle...
-# map 
+#% map 
 map 
 #% 
 
@@ -1706,7 +1706,7 @@ sol Impossible... Those are my mother's ships! What are they doing here?
 cha shi_neu_confused_neutral_grin
 # shi Heh. Us old folks aren't only good for lecturing about the old ways, you know. We've still got a trick or two up our sleeves.
 shi Heh. Us old folks aren't only good for lecturing about the old ways, you know. We've still got a trick or two up our sleeves.
-# jum chap8_battle5_solend
+#% jum chap8_battle5_solend
 jum chap8_battle5_solend
 #% tag chap8_battle5_sol_false
 tag chap8_battle5_sol_false
@@ -1886,7 +1886,7 @@ kry It sounds absurd, but he may have been the mastermind all along and us his p
 cha kay_neu_focus_closed_slight
 # kay First, we shall rescue my dad and his allies... Perhaps then we might have a better understanding of the conspiracy we find ourselves in...
 kay First, we shall rescue my dad and his allies... Perhaps then we might have a better understanding of the conspiracy we find ourselves in...
-# map 
+#% map 
 map 
 #% 
 
@@ -2184,7 +2184,7 @@ kay Yeah... Don't worry.
 cha kay_neu_focus_closed_smallopen
 # kay Give me some credit. I've gotten out of worse jams already.
 kay Give me some credit. I've gotten out of worse jams already.
-# map 
+#% map 
 map 
 #% 
 
@@ -2434,7 +2434,7 @@ cha kay_neu_focus_neutral_smalltalk
 kay Set sail for Ongess.
 # kay Let us finish this, once and for all.
 kay Let us finish this, once and for all.
-# map 
+#% map 
 map 
 #% 
 
@@ -2650,7 +2650,7 @@ cha jem_neu_confuse_neutral_slysmile
 voi jem_vns_neu_07
 # jem The end which leads to the beginning. Kukuku. How fitting.
 jem The end which leads to the beginning. Kukuku. How fitting.
-# map 
+#% map 
 map 
 #% 
 
@@ -2798,7 +2798,7 @@ cha kay_neu_focus_neutral_smalltalk
 kay Set sail for Ongess.
 # kay Let us finish this, once and for all.
 kay Let us finish this, once and for all.
-# map 
+#% map 
 map 
 #% 
 
@@ -3056,7 +3056,7 @@ cha kay_neu_focus_closed_slight
 kay Not this time, Ava. It's all hands on deck for this one.
 #% mus stop
 mus stop
-# sav rpgbattle
+#% sav rpgbattle
 sav rpgbattle
 # nar (The next battle will decide the fate of the realm...)
 nar (The next battle will decide the fate of the realm...)
@@ -3066,7 +3066,7 @@ nar (Pick your starting party.)
 nar (When they fall in battle, you will be prompted to select a replacement.)
 # nar (If all of your companions fall, then eternal darkness shall fall upon the world...)
 nar (If all of your companions fall, then eternal darkness shall fall upon the world...)
-# par roo_chap8_story7
+#% par roo_chap8_story7
 par roo_chap8_story7
 #% 
 
@@ -3146,8 +3146,8 @@ asa All along, your plan was to destroy yourself and the Monolith at the same ti
 cha ali_neu_angry_neutralaw_slysmile
 # ali Hah! What do you know of my plans?!
 ali Hah! What do you know of my plans?!
-# asa You're not Alice Asada, are you...?
-asa You're not Alice Asada, are you...?
+# asa You're not Alice Ashada, are you...?
+asa You're not Alice Ashada, are you...?
 # asa You're Sharr Myren... All this time, you were trapped within the Sharr'Lac... But when Alice wielded the spear, you possessed her body and used it as a tool to enact your revenge against Ryuvia.
 asa You're Sharr Myren... All this time, you were trapped within the Sharr'Lac... But when Alice wielded the spear, you possessed her body and used it as a tool to enact your revenge against Ryuvia.
 # asa Because all those thousands of years ago, we sent you to die against the Demon army just so you would cast the Final Tear...
@@ -3340,7 +3340,7 @@ kay I'm sorry...
 nar ... ... ...
 #% mus stop
 mus stop
-# por asa_excited_angry_funnyclos_shout
+#% por asa_excited_angry_funnyclos_shout
 por asa_excited_angry_funnyclos_shout
 # asa ...uuuuwwwoooooo...!!!!
 asa ...uuuuwwwoooooo...!!!!
@@ -3354,13 +3354,13 @@ hid chi
 hid ica
 #% hid ava
 hid ava
-# por asa_excited_angry_funnyclos_shout
+#% por asa_excited_angry_funnyclos_shout
 por asa_excited_angry_funnyclos_shout
 # asa ...UUUUOOOOOAAAAAHHHHHHH!!!!
 asa ...UUUUOOOOOAAAAAHHHHHHH!!!!
 #% sou sou_punch
 sou sou_punch
-# hsh 10
+#% hsh 10
 hsh 10
 #% cha asa_excited_angry_widesmall_bigopensm_shadow
 cha asa_excited_angry_widesmall_bigopensm_shadow
@@ -3468,7 +3468,7 @@ cha kry_fistup_angry_widesmall_shout
 kry WILL YOU EVER SHUT UP, YOU OLD FOOL!
 #% sou sou_punch
 sou sou_punch
-# hsh 10
+#% hsh 10
 hsh 10
 #% cha gre_neu_angry_widesmall_clench
 cha gre_neu_angry_widesmall_clench
@@ -4008,7 +4008,7 @@ kay What about Alice? Is she...?
 cha kuu_neu_neutral_closedeye_smirk
 # kuu I have her here. She has lost consciousness... But she lives.
 kuu I have her here. She has lost consciousness... But she lives.
-# por ali_neu_sad_closedeye_slight
+#% por ali_neu_sad_closedeye_slight
 por ali_neu_sad_closedeye_slight
 # ali ... ... ...
 ali ... ... ...
@@ -4288,7 +4288,7 @@ hid ava
 hid mar
 # nar ... ... ...
 nar ... ... ...
-# sav rpgbattle
+#% sav rpgbattle
 sav rpgbattle
 #% cha shi_neu_confused_neutral_smirk
 cha shi_neu_confused_neutral_smirk
@@ -4302,7 +4302,7 @@ kay This is the Emerald Fleet we're up against. It's not going to be easy...
 cha shi_neu_confused_neutral_grin
 # shi Hah! Precisely the sort of father-son time I've been waiting for!
 shi Hah! Precisely the sort of father-son time I've been waiting for!
-# par roo_chap8_story15
+#% par roo_chap8_story15
 par roo_chap8_story15
 #% 
 
@@ -4334,7 +4334,7 @@ gre You must cast the Final Tear! It is your destiny!
 gre If you shall not cast it willingly, I shall make you!
 # gre Oh Great Monolith of Truth, give unto your servant the power to carry out your will...!!!!
 gre Oh Great Monolith of Truth, give unto your servant the power to carry out your will...!!!!
-# hsh 10
+#% hsh 10
 hsh 10
 # gre Gurrggh... Gurrrggghaaaaaaahhhhhhhh!!!!!!!
 gre Gurrggh... Gurrrggghaaaaaaahhhhhhhh!!!!!!!
@@ -4602,7 +4602,7 @@ dbg spr_bg_white
 nar ... ... ...
 #% dcg spr_cg_kaytovanguard
 dcg spr_cg_kaytovanguard
-# por ava_armup_focus_widesmall_yell
+#% por ava_armup_focus_widesmall_yell
 por ava_armup_focus_widesmall_yell
 # ava Oh, sweet mother of god!
 ava Oh, sweet mother of god!
@@ -5060,6 +5060,8 @@ cha kay_neu_focus_big_yell
 kay Raise sails! Set course for Ryuvia!
 #% roo roo_chap9_story1
 roo roo_chap9_story1
+#% 
+
 #% 
 
 #% 

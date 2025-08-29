@@ -80,7 +80,7 @@ sou sou_partyleave
 nar (Asaga has left the party.)
 #% var unlock_chap4_soltalk1
 var unlock_chap4_soltalk1
-# map 
+#% map 
 map 
 #% 
 
@@ -122,7 +122,7 @@ sou sou_partyleave
 nar (Asaga has left the party.)
 #% var unlock_chap4_soltalk1
 var unlock_chap4_soltalk1
-# map 
+#% map 
 map 
 #% 
 
@@ -258,15 +258,15 @@ voi sol_vns_neu_06
 sol From just my brief time onboard this ship, it is clear that Ryuvia still needs my service.
 # sol Our next move is clear: We must rescue the Princess - and discover the true Sharr, who will save us all.
 sol Our next move is clear: We must rescue the Princess - and discover the true Sharr, who will save us all.
-# cc0 chap4_soltalk1
+#% cc0 chap4_soltalk1
 cc0 chap4_soltalk1
-# cc1 Tell me more of your past.
+#% cc1 Tell me more of your past.
 cc1 Tell me more of your past.
-# cc2 What happened before you were encased in that crystal?
+#% cc2 What happened before you were encased in that crystal?
 cc2 What happened before you were encased in that crystal?
-# cc3 How can the crew and I help you adjust to this time?
+#% cc3 How can the crew and I help you adjust to this time?
 cc3 How can the crew and I help you adjust to this time?
-# cc4 We must rescue Asaga. (End Conversation)
+#% cc4 We must rescue Asaga. (End Conversation)
 cc4 We must rescue Asaga. (End Conversation)
 #% 
 
@@ -304,13 +304,13 @@ sol I am sorry. I have little desire to speak on this subject.
 cha kay_neu_focus_closed_neutral
 # kay Right, I beg your pardon, my lady. I should have been more sensitive.
 kay Right, I beg your pardon, my lady. I should have been more sensitive.
-# cc0 chap4_soltalk2
+#% cc0 chap4_soltalk2
 cc0 chap4_soltalk2
-# cc1 What happened before you were encased in that crystal?
+#% cc1 What happened before you were encased in that crystal?
 cc1 What happened before you were encased in that crystal?
-# cc2 How can the crew and I help you adjust to this time?
+#% cc2 How can the crew and I help you adjust to this time?
 cc2 How can the crew and I help you adjust to this time?
-# cc3 We must rescue Asaga. (End Conversation)
+#% cc3 We must rescue Asaga. (End Conversation)
 cc3 We must rescue Asaga. (End Conversation)
 #% 
 
@@ -392,13 +392,13 @@ sol I see... She must be quite an adept caster, your patroness.
 cha kay_neu_sad_thinking_smallopen
 # kay Y-Yeaahh... Let's just say she's got... a lot of endowments.
 kay Y-Yeaahh... Let's just say she's got... a lot of endowments.
-# cc0 chap4_soltalk3
+#% cc0 chap4_soltalk3
 cc0 chap4_soltalk3
-# cc1 Tell me more of your past.
+#% cc1 Tell me more of your past.
 cc1 Tell me more of your past.
-# cc2 How can the crew and I help you adjust to this time?
+#% cc2 How can the crew and I help you adjust to this time?
 cc2 How can the crew and I help you adjust to this time?
-# cc3 We must rescue Asaga. (End Conversation)
+#% cc3 We must rescue Asaga. (End Conversation)
 cc3 We must rescue Asaga. (End Conversation)
 #% 
 
@@ -494,13 +494,13 @@ sol Very well...
 cha sol_back_confuse_narrow_slight
 # sol Such a strange era... and a strange man.
 sol Such a strange era... and a strange man.
-# cc0 chap4_soltalk4
+#% cc0 chap4_soltalk4
 cc0 chap4_soltalk4
-# cc1 Tell me more of your past.
+#% cc1 Tell me more of your past.
 cc1 Tell me more of your past.
-# cc2 What happened before you were encased in that crystal?
+#% cc2 What happened before you were encased in that crystal?
 cc2 What happened before you were encased in that crystal?
-# cc3 We must rescue Asaga. (End Conversation)
+#% cc3 We must rescue Asaga. (End Conversation)
 cc3 We must rescue Asaga. (End Conversation)
 #% 
 
@@ -570,7 +570,7 @@ sol Yes, captain.
 var unlock_chap4_avatalka
 #% var done_chap4_soltalk1
 var done_chap4_soltalk1
-# map 
+#% map 
 map 
 #% 
 
@@ -606,7 +606,7 @@ sol You have something in mind. Very well. I shall stand by.
 var unlock_chap4_avatalkb
 #% var done_chap4_soltalk1
 var done_chap4_soltalk1
-# map 
+#% map 
 map 
 #% 
 
@@ -658,7 +658,7 @@ kay I did tell you of the Sargasso Bay's many tricks, no? If we are bogged down 
 cha kay_neu_focus_closed_slight
 # kay (Two paths with co-equal boons and dooms are upon us. A decision must be made...)
 kay (Two paths with co-equal boons and dooms are upon us. A decision must be made...)
-# cre chap4_cosdecide
+#% cre chap4_cosdecide
 cre chap4_cosdecide
 #% 
 
@@ -674,9 +674,9 @@ ava Like I said, I advise we attack Cosmos and rescue the Princess before Pact g
 ava At least the danger the Crimson Fleet poses is apparent. The treachery that pirate will unleash if we trust her is not.
 #% hid ava
 hid ava
-# cva ava1
+#% cva ava1
 cva ava1
-# cre chap4_cosdecide
+#% cre chap4_cosdecide
 cre chap4_cosdecide
 #% 
 
@@ -694,9 +694,9 @@ cha ica_handsonhips_focus_neutral_smalltalk
 ica Look, people like Cosette and I are basically just businessmen. We both see the massive Pact fleet behind us. For a price, I don't see why we can't agree to put aside our differences and face the bigger threat together.
 #% hid ica
 hid ica
-# cva ica0
+#% cva ica0
 cva ica0
-# cre chap4_cosdecide
+#% cre chap4_cosdecide
 cre chap4_cosdecide
 #% 
 
@@ -714,9 +714,9 @@ cha chi_shocked_focus_neutrallo_yell
 chi We've got to save her from that pirate! There's no telling what she might do to her!
 #% hid chi
 hid chi
-# cva chi1
+#% cva chi1
 cva chi1
-# cre chap4_cosdecide
+#% cre chap4_cosdecide
 cre chap4_cosdecide
 #% 
 
@@ -732,9 +732,9 @@ sol I am ill suited to offer advice regarding this predicament.
 sol I leave the decision to you.
 #% hid sol
 hid sol
-# cva sol2
+#% cva sol2
 cva sol2
-# cre chap4_cosdecide
+#% cre chap4_cosdecide
 cre chap4_cosdecide
 #% 
 
@@ -750,9 +750,9 @@ cla Don't worry, I've got your back, my man!
 cla Your goddess will keep on loving you whichever way you decide!
 #% hid cla
 hid cla
-# cva cla2
+#% cva cla2
 cva cla2
-# cre chap4_cosdecide
+#% cre chap4_cosdecide
 cre chap4_cosdecide
 #% 
 
@@ -772,9 +772,9 @@ mar Now it's your turn to defeat the Terror of the Seas here!
 mar Looks like big brother will have to add his own chapter to that story!
 #% hid mar
 hid mar
-# cva mar1
+#% cva mar1
 cva mar1
-# cre chap4_cosdecide
+#% cre chap4_cosdecide
 cre chap4_cosdecide
 #% 
 
@@ -790,9 +790,9 @@ kry We must rescue the Princess from the dastardly pirates at once!
 kry There is nothing to be gained by joining hands with those brigands!
 #% hid kry
 hid kry
-# cva kry1
+#% cva kry1
 cva kry1
-# cre chap4_cosdecide
+#% cre chap4_cosdecide
 cre chap4_cosdecide
 #% 
 
@@ -804,17 +804,17 @@ cha kay_neu_focus_closed_neutral
 kay (Nearly everyone appears to be in support of attacking Cosette, but I feel the far more tactical option here is to form a truce with her instead...)
 # kay (Nevertheless, a decision must be made... What should I do?)
 kay (Nevertheless, a decision must be made... What should I do?)
-# cc0 chap4_sargasso
+#% cc0 chap4_sargasso
 cc0 chap4_sargasso
-# cc1 Offer Cosette a truce
+#% cc1 Offer Cosette a truce
 cc1 Offer Cosette a truce
-# cc2 Attack Cosette
+#% cc2 Attack Cosette
 cc2 Attack Cosette
 #% 
 
 #% tag chap4_sargasso_cc1
 tag chap4_sargasso_cc1
-# xcr 0
+#% xcr 0
 xcr 0
 #% obj MAIN: Pirate of the Shattered Rocks A
 obj MAIN: Pirate of the Shattered Rocks A
@@ -832,13 +832,13 @@ kay We will offer Cosette a truce and take the Pact fleet as one.
 kay While she has been dishonorable in the past, she will have no other choice but to accept our help with the Crimson Fleet descending upon her hideout.
 # kay Once we have escaped the Crimson Fleet, we will negotiate Asaga's release with Cosette.
 kay Once we have escaped the Crimson Fleet, we will negotiate Asaga's release with Cosette.
-# jum chap4_sargasso_end
+#% jum chap4_sargasso_end
 jum chap4_sargasso_end
 #% 
 
 #% tag chap4_sargasso_cc2
 tag chap4_sargasso_cc2
-# xcr 1
+#% xcr 1
 xcr 1
 #% obj MAIN: Pirate of the Shattered Rocks B
 obj MAIN: Pirate of the Shattered Rocks B
@@ -854,7 +854,7 @@ kay We will rush into the Sargasso Bay and capture the Havoc.
 kay Once Asaga has been rescued, we will then fight our way out of the bay.
 # kay If and when the Pact fleet arrives, we will run away as quickly as possible.
 kay If and when the Pact fleet arrives, we will run away as quickly as possible.
-# jum chap4_sargasso_end
+#% jum chap4_sargasso_end
 jum chap4_sargasso_end
 #% 
 
@@ -866,13 +866,13 @@ cha ava_armup_focus_neutral_smalltalk
 voi ava_vns_ang_01
 # ava Understood, captain.
 ava Understood, captain.
-# sav rpgbattle
+#% sav rpgbattle
 sav rpgbattle
 # ava Next, please name four crewmen who you would have as your personal guards?
 ava Next, please name four crewmen who you would have as your personal guards?
 # ava Given the odds we face in this battle, you will be sure to need additional protection.
 ava Given the odds we face in this battle, you will be sure to need additional protection.
-# par roo_chap4_story2
+#% par roo_chap4_story2
 par roo_chap4_story2
 #% 
 
@@ -894,7 +894,7 @@ kay Not to worry. I'm sure Cosette will give her a stately reception.
 kay She has every reason to ensure that her prize remains unharmed.
 #% var done_chap4_avatalkb
 var done_chap4_avatalkb
-# map 
+#% map 
 map 
 #% 
 
@@ -1296,7 +1296,7 @@ chi (Who was she...?)
 cha kay_neu_focus_neutral_smalltalk
 # kay At ease. Now, let us rendezvous with the Havoc and-
 kay At ease. Now, let us rendezvous with the Havoc and-
-# hsh 15
+#% hsh 15
 hsh 15
 #% mus mus_epicbravery_sadcut_cut
 mus mus_epicbravery_sadcut_cut
@@ -1430,7 +1430,7 @@ mus mus_fallen_angel_pt2
 dbg spr_bg_underwater
 # nar ... ... ...
 nar ... ... ...
-# por cos_laugh_crazyangr_wide_bigtalk_shadow
+#% por cos_laugh_crazyangr_wide_bigtalk_shadow
 por cos_laugh_crazyangr_wide_bigtalk_shadow
 # cos Blub...blububububu...!
 cos Blub...blububububu...!
@@ -1438,17 +1438,17 @@ cos Blub...blububububu...!
 cos (Shields...! You scum!!! How dare you run off with my prize without me?!)
 # cos (Shit...! I can't...)
 cos (Shit...! I can't...)
-# por cos_laugh_raised_wide_bigclench_shadow
+#% por cos_laugh_raised_wide_bigclench_shadow
 por cos_laugh_raised_wide_bigclench_shadow
 # cos Buububu... Gack...
 cos Buububu... Gack...
 # cos (Is this... it...?)
 cos (Is this... it...?)
-# por cos_armscrossed_flat_wide_grin_shadow
+#% por cos_armscrossed_flat_wide_grin_shadow
 por cos_armscrossed_flat_wide_grin_shadow
 # cos (Heh...)
 cos (Heh...)
-# por cos_armscrossed_flat_closedeye_smirk_shadow
+#% por cos_armscrossed_flat_closedeye_smirk_shadow
 por cos_armscrossed_flat_closedeye_smirk_shadow
 # cos (What a shitty end...)
 cos (What a shitty end...)
@@ -1474,7 +1474,7 @@ tag chap4_dreadstonecheck_true
 sou sou_dreadstone_whisper
 #% dcg spr_rpg_dreadstone
 dcg spr_rpg_dreadstone
-# por cos_armscrossed_raised_widebigpu_talk_shadow
+#% por cos_armscrossed_raised_widebigpu_talk_shadow
 por cos_armscrossed_raised_widebigpu_talk_shadow
 # cos (Is this... Hell?)
 cos (Is this... Hell?)
@@ -1800,7 +1800,7 @@ kay Hmm... In other words, if we could get Chigara on the inside, we could sail 
 cha kay_neu_focus_closed_neutral
 # kay (Two paths... A decision will have to be made.)
 kay (Two paths... A decision will have to be made.)
-# cre chap4_crewcullen
+#% cre chap4_crewcullen
 cre chap4_crewcullen
 #% 
 
@@ -1818,9 +1818,9 @@ cha ava_armup_focus_neutral_smalltalk
 ava I see no other option than to attempt to sneak past the palace gates.
 #% hid ava
 hid ava
-# cva ava1
+#% cva ava1
 cva ava1
-# cre chap4_crewcullen
+#% cre chap4_crewcullen
 cre chap4_crewcullen
 #% 
 
@@ -1836,9 +1836,9 @@ mar Big bro might have fallen heads over heels for the big fluffy fox tail, but 
 mar Are you sure you can really count on her to let us in through the gates? She's already hidden the truth from you once! It's an awful lot of trust to be putting in someone we hardly know...
 #% hid mar
 hid mar
-# cva mar0
+#% cva mar0
 cva mar0
-# cre chap4_crewcullen
+#% cre chap4_crewcullen
 cre chap4_crewcullen
 #% 
 
@@ -1854,9 +1854,9 @@ cla Attempting to bamboozle our way in through the palace gates seems our best o
 cla My... Give a signal if you need Claude's help in "distracting" some of the guards...
 #% hid cla
 hid cla
-# cva cla1
+#% cva cla1
 cva cla1
-# cre chap4_crewcullen
+#% cre chap4_crewcullen
 cre chap4_crewcullen
 #% 
 
@@ -1870,9 +1870,9 @@ voi chi_vns_hap_04
 chi Chigara believes she can sneak into the palace and let everyone in through the palace gates!
 #% hid chi
 hid chi
-# cva chi1
+#% cva chi1
 cva chi1
-# cre chap4_crewcullen
+#% cre chap4_crewcullen
 cre chap4_crewcullen
 #% 
 
@@ -1888,9 +1888,9 @@ ica Trying to get through the front gate, versus a thousand year old secret pass
 ica Honestly, both options sound equally suicidal. I'm leaving this one to you.
 #% hid ica
 hid ica
-# cva ica2
+#% cva ica2
 cva ica2
-# cre chap4_crewcullen
+#% cre chap4_crewcullen
 cre chap4_crewcullen
 #% 
 
@@ -1906,9 +1906,9 @@ kry While a thousand years may have passed for you Lessors, that span of time is
 kry An elvish secret passageway would surely stand the test of time and still exist, even after all these years! Let us use it to rescue the Princess!
 #% hid kry
 hid kry
-# cva kry0
+#% cva kry0
 cva kry0
-# cre chap4_crewcullen
+#% cre chap4_crewcullen
 cre chap4_crewcullen
 #% 
 
@@ -1922,9 +1922,9 @@ voi sol_vns_hap_03
 sol We High Elves are loath to change anything, including our secret passageways. I believe it still exists, even after so many years.
 #% hid sol
 hid sol
-# cva sol0
+#% cva sol0
 cva sol0
-# cre chap4_crewcullen
+#% cre chap4_crewcullen
 cre chap4_crewcullen
 #% 
 
@@ -1944,9 +1944,9 @@ voi cos_vns_shy_05
 cos (Guh... If only I had the Havoc, then I wouldn't be in this ridiculous situation...)
 #% hid cos
 hid cos
-# cva cos0
+#% cva cos0
 cva cos0
-# cre chap4_crewcullen
+#% cre chap4_crewcullen
 cre chap4_crewcullen
 #% 
 
@@ -1956,17 +1956,17 @@ tag chap4_crewcullen_kay
 cha kay_neu_focus_closed_slight
 # kay (What should I do?)
 kay (What should I do?)
-# cc0 chap4_crewcullen_end
+#% cc0 chap4_crewcullen_end
 cc0 chap4_crewcullen_end
-# cc1 Use the ancient secret passageway
+#% cc1 Use the ancient secret passageway
 cc1 Use the ancient secret passageway
-# cc2 Chigara will sneak in and let us in
+#% cc2 Chigara will sneak in and let us in
 cc2 Chigara will sneak in and let us in
 #% 
 
 #% tag chap4_crewcullen_end_cc1
 tag chap4_crewcullen_end_cc1
-# xcr 0
+#% xcr 0
 xcr 0
 #% obj MAIN: Infiltrate the Star Palace A
 obj MAIN: Infiltrate the Star Palace A
@@ -2012,13 +2012,13 @@ voi ava_vns_sad_02
 ava I have no clue where you get your boundless optimism. 
 #% var secretpassage
 var secretpassage
-# jum chap4_crewcullen_par
+#% jum chap4_crewcullen_par
 jum chap4_crewcullen_par
 #% 
 
 #% tag chap4_crewcullen_end_cc2
 tag chap4_crewcullen_end_cc2
-# xcr 1
+#% xcr 1
 xcr 1
 #% obj MAIN: Infiltrate the Star Palace B
 obj MAIN: Infiltrate the Star Palace B
@@ -2056,7 +2056,7 @@ kay Don't worry. I'm sure Chigara won't let us down.
 cha chi_holdinghands_focus_neutral_bigtalk
 # chi Yes!
 chi Yes!
-# jum chap4_crewcullen_par
+#% jum chap4_crewcullen_par
 jum chap4_crewcullen_par
 #% 
 
@@ -2064,7 +2064,7 @@ jum chap4_crewcullen_par
 tag chap4_crewcullen_par
 #% var done_chap4_avatalka
 var done_chap4_avatalka
-# sav rpgbattle
+#% sav rpgbattle
 sav rpgbattle
 #% cha ava_armup_focus_neutral_smalltalk
 cha ava_armup_focus_neutral_smalltalk
@@ -2076,7 +2076,7 @@ ava Now that's been decided, we best pick the strike team who will lead the resc
 cha kay_neu_focus_closed_smallsmil
 # kay (This could be our toughest battle yet. I better decide carefully...)
 kay (This could be our toughest battle yet. I better decide carefully...)
-# par roo_chap4_story2
+#% par roo_chap4_story2
 par roo_chap4_story2
 #% stop
 stop
@@ -2602,7 +2602,7 @@ cha kay_neu_focus_closed_neutral
 kay (We need to rescue Asaga as soon as possible...)
 # kay (It'd be wise to ignore side quests for now unless they're absolutely necessary. Until we have a full crew again, we're going to be at a disadvantage.)
 kay (It'd be wise to ignore side quests for now unless they're absolutely necessary. Until we have a full crew again, we're going to be at a disadvantage.)
-# map 
+#% map 
 map 
 #% 
 
@@ -2726,13 +2726,13 @@ kay ...Don't you have to do the secret handshake before the password?
 hid kay
 # pac Sigh. Lucky guess...
 pac Sigh. Lucky guess...
-# por ava_armup_focus_narrow_clench
+#% por ava_armup_focus_narrow_clench
 por ava_armup_focus_narrow_clench
 #% voi ava_vns_ang_05
 voi ava_vns_ang_05
 # ava Where could she be?! Something must have happened to her...
 ava Where could she be?! Something must have happened to her...
-# por ica_back_focus_narrow_neutral
+#% por ica_back_focus_narrow_neutral
 por ica_back_focus_narrow_neutral
 #% voi ica_vns_neu_09
 voi ica_vns_neu_09
@@ -2742,7 +2742,7 @@ ica Or maybe we shouldn't have trusted her in the first place.
 cha kay_neu_neutral_wide_smalltalk
 # kay Wait-
 kay Wait-
-# por chi_handonchest_sad_closedeye_smalltalk
+#% por chi_handonchest_sad_closedeye_smalltalk
 por chi_handonchest_sad_closedeye_smalltalk
 #% voi chi_vns_sad_01
 voi chi_vns_sad_01
@@ -2752,7 +2752,7 @@ chi ...Whew...
 cha kay_neu_focus_closed_smallopen
 # kay There she is now!
 kay There she is now!
-# por chi_shocked_focus_wide1_bigtalk
+#% por chi_shocked_focus_wide1_bigtalk
 por chi_shocked_focus_wide1_bigtalk
 #% voi chi_vns_ang_03
 voi chi_vns_ang_03
@@ -2770,7 +2770,7 @@ pac I don't envy you. Let them in! Next!
 cha kay_neu_focus_neutral_smirk
 # kay (All right! We're in!)
 kay (All right! We're in!)
-# por chi_shocked_angry_wide1_yell
+#% por chi_shocked_angry_wide1_yell
 por chi_shocked_angry_wide1_yell
 # chi This way! Into the air ducts!
 chi This way! Into the air ducts!
@@ -2778,13 +2778,13 @@ chi This way! Into the air ducts!
 hid chi
 # nar ... ... ...
 nar ... ... ...
-# por ava_armup_raised_surprise_smalltalk
+#% por ava_armup_raised_surprise_smalltalk
 por ava_armup_raised_surprise_smalltalk
 #% voi ava_vns_neu_04
 voi ava_vns_neu_04
 # ava To think that the ancient Ryuvians built all this...
 ava To think that the ancient Ryuvians built all this...
-# por kry_fistup_focus_neutral_bigopensm
+#% por kry_fistup_focus_neutral_bigopensm
 por kry_fistup_focus_neutral_bigopensm
 #% voi kry_vns_hap_01
 voi kry_vns_hap_01
@@ -2796,7 +2796,7 @@ kry Just another example of our superior Elvish knowledge!
 cha kay_neu_focus_closed_smalltalk
 # kay Just how much longer must we stay here?! We've been here forever...!
 kay Just how much longer must we stay here?! We've been here forever...!
-# por chi_shocked_focus_wide1_bigtalk
+#% por chi_shocked_focus_wide1_bigtalk
 por chi_shocked_focus_wide1_bigtalk
 #% voi chi_vns_ang_03
 voi chi_vns_ang_03
@@ -2804,7 +2804,7 @@ voi chi_vns_ang_03
 chi Just a little bit further!
 #% xob MAIN: Infiltrate the Star Palace B
 xob MAIN: Infiltrate the Star Palace B
-# jum chap4_wedding
+#% jum chap4_wedding
 jum chap4_wedding
 #% 
 
@@ -3028,15 +3028,15 @@ dbg hide
 cha kay_neu_focus_wide_clench
 # kay ...How much further?!
 kay ...How much further?!
-# por ava_facepalm_focus_narrow_bigtalk
+#% por ava_facepalm_focus_narrow_bigtalk
 por ava_facepalm_focus_narrow_bigtalk
 # ava Please captain, we are going as fast as we can!
 ava Please captain, we are going as fast as we can!
-# por sol_front_angry_wide_yell
+#% por sol_front_angry_wide_yell
 por sol_front_angry_wide_yell
 # sol The Throne Room is ahead!
 sol The Throne Room is ahead!
-# por cla_pout_focus_wide_catopensm
+#% por cla_pout_focus_wide_catopensm
 por cla_pout_focus_wide_catopensm
 # cla Claude's gonna cast her ludicrous speed spell!
 cla Claude's gonna cast her ludicrous speed spell!
@@ -3066,7 +3066,7 @@ cul Our bride weeps tears of happiness! Then, I declare you-
 cha kay_neu_focus_big_yell
 # kay We're here! I'm busting through!
 kay We're here! I'm busting through!
-# por ava_armup_surprised_widesmall_smalltalk
+#% por ava_armup_surprised_widesmall_smalltalk
 por ava_armup_surprised_widesmall_smalltalk
 # ava Captain?!
 ava Captain?!
@@ -3228,7 +3228,7 @@ cha arc_fistup
 arc Then I grant you your wish!
 #% mus mus_epicbravery_sadcut_cut
 mus mus_epicbravery_sadcut_cut
-# hsh 10
+#% hsh 10
 hsh 10
 #% cha jay_neu
 cha jay_neu
@@ -3276,7 +3276,7 @@ asa No!
 asa Unhand me, swine!
 #% sou sou_punch
 sou sou_punch
-# hsh 10
+#% hsh 10
 hsh 10
 #% cha cul_neu_angry2_closed2_shout_shadow
 cha cul_neu_angry2_closed2_shout_shadow
@@ -3406,7 +3406,7 @@ cha kay_neu_focus_closed_slight
 kay Figured they weren't going to make it easy.
 #% hid ava
 hid ava
-# por cul_neu_sad_narrow_grin
+#% por cul_neu_sad_narrow_grin
 por cul_neu_sad_narrow_grin
 #% voi cul_vns_hap_01
 voi cul_vns_hap_01
@@ -3414,7 +3414,7 @@ voi cul_vns_hap_01
 cul Buhehehe! Though the attempt on my life has left me scarred, sinking that accursed ship will no doubt win Arcadius' favor!
 # cul I'm sorry Princess... but you should have accepted Cullen's offer when you had the chance!
 cul I'm sorry Princess... but you should have accepted Cullen's offer when you had the chance!
-# por cul_neu_angry2_neutral_shout
+#% por cul_neu_angry2_neutral_shout
 por cul_neu_angry2_neutral_shout
 # cul All hands: Burn them all!
 cul All hands: Burn them all!
@@ -3626,11 +3626,11 @@ ifj chap4_sol_check,lostfleetescaped
 tag chap4_sol_check_true
 #% var unlock_chap4_soltalk2
 var unlock_chap4_soltalk2
-# map 
+#% map 
 map 
 #% tag chap4_sol_check_false
 tag chap4_sol_check_false
-# map
+#% map
 map
 #% 
 
@@ -3800,11 +3800,11 @@ ifj chap4_sol_check,lostfleetescaped
 tag chap4_sol_check_true
 #% var unlock_chap4_soltalk2
 var unlock_chap4_soltalk2
-# map 
+#% map 
 map 
 #% tag chap4_sol_check_false
 tag chap4_sol_check_false
-# map
+#% map
 map
 #% 
 
@@ -3856,7 +3856,7 @@ asa Look at what happened to him.
 cha asa_fist_focus_neutral_smalltalk
 # asa Now, I am to inherit his legacy. But my first royal act was to flee. I find myself a ruler in exile, my people conquered, our eternal history to be rewritten by Maan to serve their ends. That weighs on me far heavier than my father's murder.
 asa Now, I am to inherit his legacy. But my first royal act was to flee. I find myself a ruler in exile, my people conquered, our eternal history to be rewritten by Maan to serve their ends. That weighs on me far heavier than my father's murder.
-# jum chap4_asatalk_merge
+#% jum chap4_asatalk_merge
 jum chap4_asatalk_merge
 #% 
 
@@ -3880,7 +3880,7 @@ cha kay_neu_focus_neutral_smalltalk
 kay Had you stayed, you would now be a hostage of Pact.
 # kay I have no doubt that Arcadius' plan was to use you as a bargaining chip against the Song Alliance. Merely by being here, you have thwarted his worst designs.
 kay I have no doubt that Arcadius' plan was to use you as a bargaining chip against the Song Alliance. Merely by being here, you have thwarted his worst designs.
-# jum chap4_asatalk_merge
+#% jum chap4_asatalk_merge
 jum chap4_asatalk_merge
 #% 
 
@@ -3976,7 +3976,7 @@ kay Thank you... for being rescued?
 cha asa_shrug_sad_closedeye_smallopen_blush
 # asa Sigh... Dummy.
 asa Sigh... Dummy.
-# map 
+#% map 
 map 
 #% 
 
@@ -4046,7 +4046,7 @@ sol You have my thanks, Captain Shields.
 cha kay_neu_focus_thinking_smirk
 # kay Yeah, no worries. I figured we'd see that guy's mug again as soon as we left, honestly.
 kay Yeah, no worries. I figured we'd see that guy's mug again as soon as we left, honestly.
-# map 
+#% map 
 map 
 #% 
 
@@ -4400,7 +4400,7 @@ kay Take us out, commander.
 cha ava_shout_shout_shout_shout
 # ava Aye aye. All hands: Raise sails!
 ava Aye aye. All hands: Raise sails!
-# map 
+#% map 
 map 
 #% 
 
@@ -4968,7 +4968,7 @@ cha kay_neu_focus_neutral_smalltalk
 kay Resume course to Far Port. Now we wait and see what we can learn from our new friend.
 #% var unlock_chap4_lyntalk1
 var unlock_chap4_lyntalk1
-# map 
+#% map 
 map 
 #% 
 
@@ -5178,15 +5178,15 @@ kay The Strait of Far Port will funnel the Crimson Fleet as they traverse the pa
 kay So long as we hold the Dragon Foot Sea, it does not matter if their fleet outnumbers us!
 # kay You are all heroes, gathered across the land, to defend it against Veniczar Arcadius!
 kay You are all heroes, gathered across the land, to defend it against Veniczar Arcadius!
-# cc0 chap4_farport_speech
+#% cc0 chap4_farport_speech
 cc0 chap4_farport_speech
-# cc1 The Sharr is on our side!
+#% cc1 The Sharr is on our side!
 cc1 The Sharr is on our side!
-# cc2 Believe in our bonds of friendship!
+#% cc2 Believe in our bonds of friendship!
 cc2 Believe in our bonds of friendship!
-# cc3 We are stronger than the enemy!
+#% cc3 We are stronger than the enemy!
 cc3 We are stronger than the enemy!
-# cc4 I expect all of you to do your duty!
+#% cc4 I expect all of you to do your duty!
 cc4 I expect all of you to do your duty!
 #% 
 
@@ -5222,7 +5222,7 @@ var aff_kry
 voi kry_vns_hap_05
 # kry We shall be victorious, in the name of the Sharr!
 kry We shall be victorious, in the name of the Sharr!
-# jum chap4_farport_speechend
+#% jum chap4_farport_speechend
 jum chap4_farport_speechend
 #% 
 
@@ -5252,7 +5252,7 @@ var aff_cla
 voi cla_vns_shy_01
 # cla My, what a man...
 cla My, what a man...
-# jum chap4_farport_speechend
+#% jum chap4_farport_speechend
 jum chap4_farport_speechend
 #% 
 
@@ -5324,7 +5324,7 @@ mar They're gonna eat dirt! Hahaha!
 
 #% tag chap4_maraycapture_false
 tag chap4_maraycapture_false
-# jum chap4_farport_speechend
+#% jum chap4_farport_speechend
 jum chap4_farport_speechend
 #% 
 
@@ -5346,7 +5346,7 @@ ava And I shall stand behind the captain to enforce that!
 cha ava_shout_shout_shout_shout
 # ava Come on now! Remember your training, and you will make it out alive!
 ava Come on now! Remember your training, and you will make it out alive!
-# jum chap4_farport_speechend
+#% jum chap4_farport_speechend
 jum chap4_farport_speechend
 #% 
 
@@ -5360,7 +5360,7 @@ var lyncapturedone
 cha kay_neu_focus_big_yell
 # kay Man your stations! We face the Crimson Fleet!
 kay Man your stations! We face the Crimson Fleet!
-# map 
+#% map 
 map 
 #% 
 
@@ -5422,13 +5422,13 @@ ava I have prepared a small raft. Shall I authorize her release?
 cha kay_neu_focus_neutral_smalltalk
 # kay Do it.
 kay Do it.
-# por lyn_armup_angry_narrow_pout
+#% por lyn_armup_angry_narrow_pout
 por lyn_armup_angry_narrow_pout
 #% voi lyn_vns_ang_04
 voi lyn_vns_ang_04
 # lyn Pah! Good riddance! Ugh, I'm getting outta here...
 lyn Pah! Good riddance! Ugh, I'm getting outta here...
-# por lyn_armup_angry_wideeyes_shout
+#% por lyn_armup_angry_wideeyes_shout
 por lyn_armup_angry_wideeyes_shout
 # lyn You guys are all dead, you hear! Deaadd!!!
 lyn You guys are all dead, you hear! Deaadd!!!
@@ -5436,13 +5436,13 @@ lyn You guys are all dead, you hear! Deaadd!!!
 cha kay_neu_confuse_thinking_smalltalk
 # kay Actually, perhaps we should sink her instead...
 kay Actually, perhaps we should sink her instead...
-# por lyn_armup_sad_closedeye_grin
+#% por lyn_armup_sad_closedeye_grin
 por lyn_armup_sad_closedeye_grin
 #% voi lyn_vns_shy_01
 voi lyn_vns_shy_01
 # lyn Erm, I mean... Y-Yeah, good luck.
 lyn Erm, I mean... Y-Yeah, good luck.
-# por lyn_armdown_sad_narrowloo_pout_shadow
+#% por lyn_armdown_sad_narrowloo_pout_shadow
 por lyn_armdown_sad_narrowloo_pout_shadow
 # lyn Ugh, the Veniczar better give me hazard pay for this... Achoo!
 lyn Ugh, the Veniczar better give me hazard pay for this... Achoo!
@@ -5742,7 +5742,7 @@ ava Ugh, we are taking fire! We are being encircled!
 hid ava
 #% var asagaawaken
 var asagaawaken
-# sav autosave
+#% sav autosave
 sav autosave
 #% cha ica_surprised_annoyed_surprise_cry_shadow
 cha ica_surprised_annoyed_surprise_cry_shadow
@@ -5914,7 +5914,7 @@ hid cul
 dcg spr_cg_firebird
 # asa You will pay for my father!
 asa You will pay for my father!
-# por cul_neu_sad_widesmall_shout_shadow
+#% por cul_neu_sad_widesmall_shout_shadow
 por cul_neu_sad_widesmall_shout_shadow
 # cul Hiiiii!!! N-No, I'm sorry! I-I'll do anything, just please don't-!
 cul Hiiiii!!! N-No, I'm sorry! I-I'll do anything, just please don't-!
@@ -6384,3 +6384,4 @@ cha kay_neu_focus_neutral_slight
 kay (Yet... Our war has only just begun.)
 #% roo roo_chap5_story1
 roo roo_chap5_story1
+#%

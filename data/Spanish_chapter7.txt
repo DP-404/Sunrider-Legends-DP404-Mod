@@ -298,7 +298,7 @@ ifj chap7_cosettedead,goto_ryuvia
 tag chap7_cosettedead_true
 #% obj MAIN: The Liberation of Ryuvia
 obj MAIN: The Liberation of Ryuvia
-# jum chap7_cosjump1
+#% jum chap7_cosjump1
 jum chap7_cosjump1
 #% tag chap7_cosettedead_false
 tag chap7_cosettedead_false
@@ -322,7 +322,7 @@ kay There, we will find answers.
 cha ava_armup_sad_narrow_slight
 # ava Understood, captain.
 ava Understood, captain.
-# map 
+#% map 
 map 
 #% 
 
@@ -424,7 +424,7 @@ mus stop
 hid ava
 #% sou sou_shipexplode
 sou sou_shipexplode
-# hsh 10
+#% hsh 10
 hsh 10
 #% cha kay_neu_angry_closed2_clench
 cha kay_neu_angry_closed2_clench
@@ -474,7 +474,7 @@ ifj chap7_cosette2,goto_ryuvia
 tag chap7_cosette2_true
 #% obj BATTLE: The Madness of Petite Cosette A
 obj BATTLE: The Madness of Petite Cosette A
-# jum chap7_battle2_obj
+#% jum chap7_battle2_obj
 jum chap7_battle2_obj
 #% tag chap7_cosette2_false
 tag chap7_cosette2_false
@@ -740,7 +740,7 @@ cha kay_neu_focus_wide_talk
 kay Claude!!
 #% hid cla
 hid cla
-# por cla_pout_sad_trianglee_cry_shadow
+#% por cla_pout_sad_trianglee_cry_shadow
 por cla_pout_sad_trianglee_cry_shadow
 # cla Find a way... to use the mana...
 cla Find a way... to use the mana...
@@ -962,11 +962,11 @@ god DO YOU DEFY DESTINY?
 nar (A deadly battle is upon you. Here, all captured ships must be scuttled!)
 # nar (Do you dare challenge fate?)
 nar (Do you dare challenge fate?)
-# cc0 chap7_coschoice
+#% cc0 chap7_coschoice
 cc0 chap7_coschoice
-# cc1 Yes
+#% cc1 Yes
 cc1 Yes
-# cc2 No
+#% cc2 No
 cc2 No
 #% 
 
@@ -978,7 +978,7 @@ ifj chap7_cosette3,goto_ryuvia
 tag chap7_cosette3_true
 #% obj BATTLE: Her Destiny A
 obj BATTLE: Her Destiny A
-# jum chap7_battle3_obj
+#% jum chap7_battle3_obj
 jum chap7_battle3_obj
 #% tag chap7_cosette3_false
 tag chap7_cosette3_false
@@ -1016,11 +1016,11 @@ god YOU HAVE FAILED...
 god TIME RUNS SHORT...
 # god DO YOU DEFY DESTINY?
 god DO YOU DEFY DESTINY?
-# cc0 chap7_cosbadend
+#% cc0 chap7_cosbadend
 cc0 chap7_cosbadend
-# cc1 Yes
+#% cc1 Yes
 cc1 Yes
-# cc2 No
+#% cc2 No
 cc2 No
 #% 
 
@@ -1064,7 +1064,7 @@ ifj chap7_recruitcos,goto_ryuvia
 tag chap7_recruitcos_true
 #% obj MAIN: The Liberation of Ryuvia
 obj MAIN: The Liberation of Ryuvia
-# jum chap7_recjump
+#% jum chap7_recjump
 jum chap7_recjump
 #% tag chap7_recruitcos_false
 tag chap7_recruitcos_false
@@ -1126,7 +1126,7 @@ cha kay_neu_focus_closed_clench
 kay (Cosette... It was not possible to save you...)
 # kay (But maybe, it just wasn't meant to be...)
 kay (But maybe, it just wasn't meant to be...)
-# map 
+#% map 
 map 
 #% 
 
@@ -1146,7 +1146,7 @@ ifj chap7_recruitcos2,goto_ryuvia
 tag chap7_recruitcos2_true
 #% obj MAIN: The Liberation of Ryuvia
 obj MAIN: The Liberation of Ryuvia
-# jum chap7_rec2jump
+#% jum chap7_rec2jump
 jum chap7_rec2jump
 #% tag chap7_recruitcos2_false
 tag chap7_recruitcos2_false
@@ -1162,7 +1162,7 @@ xob BATTLE: Her Destiny B
 dbg spr_bg_sunriderbridge
 #% sou sou_hit3
 sou sou_hit3
-# hsh 10
+#% hsh 10
 hsh 10
 #% cha cos_facepalm_flat_closedeye_clench
 cha cos_facepalm_flat_closedeye_clench
@@ -1548,7 +1548,7 @@ kay That is so. Let us proceed to our destination...
 cha kay_neu_focus_neutral_smalltalk
 # kay We shall face it together...
 kay We shall face it together...
-# map 
+#% map 
 map 
 #% 
 
@@ -2058,7 +2058,7 @@ kry We shall see with our own eyes whether Fontana can be trusted.
 cha kay_neu_focus_closed_slight
 # kay Indeed, we shall...
 kay Indeed, we shall...
-# map 
+#% map 
 map 
 #% 
 
@@ -2132,7 +2132,7 @@ cha lyn_armup_confuse_neutral_smirk
 voi lyn_vns_hap_01
 # lyn Of course, just sinking them to the bottom of the sea by blowing up their ships works just as well.
 lyn Of course, just sinking them to the bottom of the sea by blowing up their ships works just as well.
-# jum chap7_fortbegin
+#% jum chap7_fortbegin
 jum chap7_fortbegin
 #% tag chap7_fortchi_false
 tag chap7_fortchi_false
@@ -2280,7 +2280,7 @@ xob BATTLE: The Homunculi
 nar ... ...
 # nar ...
 nar ...
-# hsh 15
+#% hsh 15
 hsh 15
 #% sou sou_shipexplode
 sou sou_shipexplode
@@ -2554,7 +2554,7 @@ fon Inform me once the situation at Ryuvia is known.
 cha kay_neu_focus_thinking_smirk
 # kay I shall, Fontana. Let us keep in touch.
 kay I shall, Fontana. Let us keep in touch.
-# map 
+#% map 
 map 
 #% 
 
@@ -3640,3 +3640,4 @@ ccc kay_uni
 nar ... ... ...
 #% roo roo_chap8_story1
 roo roo_chap8_story1
+#%

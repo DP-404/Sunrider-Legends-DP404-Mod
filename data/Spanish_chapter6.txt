@@ -1302,7 +1302,7 @@ cha asa_wedding_focus_wide2_bigtalk
 cha gre_neu_focus_widesmall_bigtalk
 #% sou sou_shipexplode
 sou sou_shipexplode
-# hsh 15
+#% hsh 15
 hsh 15
 # nar (Explosion)
 nar (Explosion)
@@ -1728,7 +1728,7 @@ kay (Yet, I feel an ominous weight on my shoulders...)
 kay (If Pact truly seeks to use the Monolith to unleash a cataclysmic explosion to sink Ryuvia into the sea, then we are truly doomed.)
 # kay (This is a monumental decision... I must consult the crew.)
 kay (This is a monumental decision... I must consult the crew.)
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -1768,9 +1768,9 @@ cha kay_neu_focus_closed_slight
 kay I do see your point. I will take your counsel into advisement. Thank you, commander...
 #% hid ava
 hid ava
-# cva ava0
+#% cva ava0
 cva ava0
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -1802,9 +1802,9 @@ asa Not just that, but it will be the extinction of all Elves.
 asa I just can't bring myself to risk that, no matter what.
 #% hid asa
 hid asa
-# cva asa1
+#% cva asa1
 cva asa1
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -1844,9 +1844,9 @@ chi I'm sorry captain, but Chigara believes that we should head to Ryuvia and tr
 chi We just can't risk giving Pact such a powerful magical artifact. If they really do use it, then everything will truly be lost.
 #% hid chi
 hid chi
-# cva chi1
+#% cva chi1
 cva chi1
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -1866,9 +1866,9 @@ cha ica_armscrossed_annoyed_closedeye_smalltalk
 ica It's time to call his bluff and defeat the Crimson Fleet at Far Port. Again.
 #% hid ica
 hid ica
-# cva ica0
+#% cva ica0
 cva ica0
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -1912,9 +1912,9 @@ cha kay_neu_sad_closed_smalltalk
 kay (Somehow, that only inclines me to pursue the opposite path...)
 #% hid cla
 hid cla
-# cva cla1
+#% cva cla1
 cva cla1
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -1964,9 +1964,9 @@ kry Then life as we know it would end. Not merely for us High Elves, but for eve
 kry You asked me for counsel, captain. I see no other alternative but to pursue Pact to Ryuvia and recover the Monolith of Truth.
 #% hid kry
 hid kry
-# cva kry1
+#% cva kry1
 cva kry1
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -2006,9 +2006,9 @@ cha kay_neu_sad_closed_slight
 kay (Come on Sola, you don't have to put it like that...)
 #% hid sol
 hid sol
-# cva sol1
+#% cva sol1
 cva sol1
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -2056,9 +2056,9 @@ kay (Even though Maray's not thinking of the political and military consequences
 kay (The societal impact of our decision here cannot be forgotten either...)
 #% hid mar
 hid mar
-# cva mar1
+#% cva mar1
 cva mar1
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -2090,9 +2090,9 @@ qis The Strait of Far Port controls the fate of Halla. Not some Elvish Monolith!
 qis It is to Far Port we must sail!
 #% hid qis
 hid qis
-# cva qis0
+#% cva qis0
 cva qis0
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -2118,9 +2118,9 @@ voi lyn_vns_ang_01
 lyn Tch, those bastards made me walk the plank for losing that battle! I'm totally gonna give them a piece of my mind when we throw a wrench into their plans for the second time!
 #% hid lyn
 hid lyn
-# cva lyn0
+#% cva lyn0
 cva lyn0
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -2140,9 +2140,9 @@ cha mii_neu_focus_neutral_smalltalk
 mii Let us face whatever may come together.
 #% hid mii
 hid mii
-# cva mii2
+#% cva mii2
 cva mii2
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -2174,9 +2174,9 @@ cha kuu_neu_focus_lookup_bigtalk
 kuu If we go to Ryuvia, all that awaits us is folly.
 #% hid kuu
 hid kuu
-# cva kuu0
+#% cva kuu0
 cva kuu0
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -2198,9 +2198,9 @@ jem Had you not overcome her in the Coliseum, I would have long overthrown your 
 jem But no other commander, certainly not young Fontana, has ever bested her. You would be wise to listen.
 #% hid jem
 hid jem
-# cva jem0
+#% cva jem0
 cva jem0
-# cre chap6_splitter
+#% cre chap6_splitter
 cre chap6_splitter
 #% 
 
@@ -2216,11 +2216,11 @@ kay (Either we call Fontana's bluff and sail to Far Port...)
 kay (Or we respect our alliance with Song and sail with them to Ryuvia.)
 # nar (WARNING: A decisive moment is upon you. It is recommended that you save in a new slot at this juncture.)
 nar (WARNING: A decisive moment is upon you. It is recommended that you save in a new slot at this juncture.)
-# cc0 chap6_decision
+#% cc0 chap6_decision
 cc0 chap6_decision
-# cc1 We sail to Far Port.
+#% cc1 We sail to Far Port.
 cc1 We sail to Far Port.
-# cc2 We Sail to Ryuvia.
+#% cc2 We Sail to Ryuvia.
 cc2 We Sail to Ryuvia.
 #% 
 
@@ -2228,7 +2228,7 @@ cc2 We Sail to Ryuvia.
 tag chap6_decision_cc1
 #% mus mus_missionbriefing
 mus mus_missionbriefing
-# xcr 0
+#% xcr 0
 xcr 0
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
@@ -2314,7 +2314,7 @@ ava Well then, what are we waiting for? All hands! Raise anchor! Prepare for imm
 var goto_farport
 #% obj MAIN: Return to Far Port
 obj MAIN: Return to Far Port
-# map 
+#% map 
 map 
 #% 
 
@@ -2322,7 +2322,7 @@ map
 tag chap6_decision_cc2
 #% mus mus_missionbriefing
 mus mus_missionbriefing
-# xcr 1
+#% xcr 1
 xcr 1
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
@@ -2364,5 +2364,6 @@ ava Well then, what are we waiting for? All hands! Raise anchor! Prepare for imm
 var goto_ryuvia
 #% obj MAIN: Return to Ryuvia
 obj MAIN: Return to Ryuvia
-# map 
+#% map 
 map 
+#%
