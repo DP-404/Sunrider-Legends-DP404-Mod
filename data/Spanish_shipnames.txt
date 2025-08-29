@@ -1,1218 +1,1218 @@
-# ﻿Genos
-﻿Genos
-# Payback
+#% Genos
+Genos
+#% Payback
 Payback
-# Merlin
+#% Merlin
 Merlin
-# Nomad
+#% Nomad
 Nomad
-# Woodstock
+#% Woodstock
 Woodstock
-# Gremlin
+#% Gremlin
 Gremlin
-# Popeye
+#% Popeye
 Popeye
-# Magic
+#% Magic
 Magic
-# Riptide
+#% Riptide
 Riptide
-# Witch Doctor
+#% Witch Doctor
 Witch Doctor
-# Lockjaw
+#% Lockjaw
 Lockjaw
-# Payne
+#% Payne
 Payne
-# Bob
+#% Bob
 Bob
-# Minotaur
+#% Minotaur
 Minotaur
-# Destroyer
+#% Destroyer
 Destroyer
-# Fearless
+#% Fearless
 Fearless
-# Mafia
+#% Mafia
 Mafia
-# Slasher
+#% Slasher
 Slasher
-# Killjoy
+#% Killjoy
 Killjoy
-# Undertaker
+#% Undertaker
 Undertaker
-# Kira
+#% Kira
 Kira
-# Lightbringer
+#% Lightbringer
 Lightbringer
-# Showtime
+#% Showtime
 Showtime
-# Gadget
+#% Gadget
 Gadget
-# Speedy
+#% Speedy
 Speedy
-# Road Runner
+#% Road Runner
 Road Runner
-# Coyote
+#% Coyote
 Coyote
-# Manchild
+#% Manchild
 Manchild
-# Ramen
+#% Ramen
 Ramen
-# Roach
+#% Roach
 Roach
-# Vulture
+#% Vulture
 Vulture
-# Change
+#% Change
 Change
-# Cypher
+#% Cypher
 Cypher
-# Angel
+#% Angel
 Angel
-# Hulk
+#% Hulk
 Hulk
-# Single
+#% Single
 Single
-# Bingo
+#% Bingo
 Bingo
-# Monkey
+#% Monkey
 Monkey
-# Badger
+#% Badger
 Badger
-# Digger
+#% Digger
 Digger
-# Pitch
+#% Pitch
 Pitch
-# Blaze
+#% Blaze
 Blaze
-# Magnet
+#% Magnet
 Magnet
-# Tiger
+#% Tiger
 Tiger
-# Hawk
+#% Hawk
 Hawk
-# Lucky
+#% Lucky
 Lucky
-# Alligator
+#% Alligator
 Alligator
-# Lizard
+#% Lizard
 Lizard
-# Iron
+#% Iron
 Iron
-# Snake
+#% Snake
 Snake
-# Flex
+#% Flex
 Flex
-# Minute
+#% Minute
 Minute
-# Fox
+#% Fox
 Fox
-# Barracuda
+#% Barracuda
 Barracuda
-# Valensol
+#% Valensol
 Valensol
-# Kyaria
+#% Kyaria
 Kyaria
-# Alcyone
+#% Alcyone
 Alcyone
-# Celestic Stardust
+#% Celestic Stardust
 Celestic Stardust
-# Visenda
+#% Visenda
 Visenda
-# Revenge
+#% Revenge
 Revenge
-# Celestyra
+#% Celestyra
 Celestyra
-# Coriolanus
+#% Coriolanus
 Coriolanus
-# Hokma
+#% Hokma
 Hokma
-# Nordesico
+#% Nordesico
 Nordesico
-# Starnova
+#% Starnova
 Starnova
-# Darini
+#% Darini
 Darini
-# Galatia
+#% Galatia
 Galatia
-# Aeolian
+#% Aeolian
 Aeolian
-# Azumi
+#% Azumi
 Azumi
-# Etruscan
+#% Etruscan
 Etruscan
-# Iazyges
+#% Iazyges
 Iazyges
-# Papiria
+#% Papiria
 Papiria
-# Phoenician
+#% Phoenician
 Phoenician
-# Romilia
+#% Romilia
 Romilia
-# Parthia
+#% Parthia
 Parthia
-# Myrmidon
+#% Myrmidon
 Myrmidon
-# Alcmene
+#% Alcmene
 Alcmene
-# Daybreak
+#% Daybreak
 Daybreak
-# Voyevoda
+#% Voyevoda
 Voyevoda
-# Lao Hu
+#% Lao Hu
 Lao Hu
-# Galatea
+#% Galatea
 Galatea
-# Barong
+#% Barong
 Barong
-# Pamola
+#% Pamola
 Pamola
-# Azeban
+#% Azeban
 Azeban
-# Kaibyo
+#% Kaibyo
 Kaibyo
-# Sasquatch
+#% Sasquatch
 Sasquatch
-# Chrysomallos
+#% Chrysomallos
 Chrysomallos
-# Kelpie
+#% Kelpie
 Kelpie
-# Penghou
+#% Penghou
 Penghou
-# Vrykolaka
+#% Vrykolaka
 Vrykolaka
-# Gytrash
+#% Gytrash
 Gytrash
-# Wolpertinger
+#% Wolpertinger
 Wolpertinger
-# Inmyeonjo
+#% Inmyeonjo
 Inmyeonjo
-# Cipactli
+#% Cipactli
 Cipactli
-# Ratatoskr
+#% Ratatoskr
 Ratatoskr
-# Callisto
+#% Callisto
 Callisto
-# Agropelter
+#% Agropelter
 Agropelter
-# Liberator
+#% Liberator
 Liberator
-# Evaiosos
+#% Evaiosos
 Evaiosos
-# Shimo
+#% Shimo
 Shimo
-# Light Brigade
+#% Light Brigade
 Light Brigade
-# Longewala
+#% Longewala
 Longewala
-# Gate Pa
+#% Gate Pa
 Gate Pa
-# Challenger
+#% Challenger
 Challenger
-# Fortune
+#% Fortune
 Fortune
-# Barbara
+#% Barbara
 Barbara
-# Devastator
+#% Devastator
 Devastator
-# Covenant
+#% Covenant
 Covenant
-# Vision
+#% Vision
 Vision
-# Eternity
+#% Eternity
 Eternity
-# Hope
+#% Hope
 Hope
-# Defiance
+#% Defiance
 Defiance
-# Dragonstar
+#% Dragonstar
 Dragonstar
-# Hawk
+#% Hawk
 Hawk
-# Lifebringer
+#% Lifebringer
 Lifebringer
-# Leo
+#% Leo
 Leo
-# Kryptoria
+#% Kryptoria
 Kryptoria
-# Lavanda
+#% Lavanda
 Lavanda
-# Independence
+#% Independence
 Independence
-# Priestess
+#% Priestess
 Priestess
-# Merkava
+#% Merkava
 Merkava
-# Majestic
+#% Majestic
 Majestic
-# Messenger
+#% Messenger
 Messenger
-# Blue Whale
+#% Blue Whale
 Blue Whale
-# Trenxal
+#% Trenxal
 Trenxal
-# Serpent
+#% Serpent
 Serpent
-# Destroyer
+#% Destroyer
 Destroyer
-# Actium
+#% Actium
 Actium
-# Falling Star
+#% Falling Star
 Falling Star
-# Samurai
+#% Samurai
 Samurai
-# Bayonet
+#% Bayonet
 Bayonet
-# Ravager
+#% Ravager
 Ravager
-# Watcher
+#% Watcher
 Watcher
-# Argon
+#% Argon
 Argon
-# Intruder
+#% Intruder
 Intruder
-# Chekov
+#% Chekov
 Chekov
-# Semeonis
+#% Semeonis
 Semeonis
-# Intrepid
+#% Intrepid
 Intrepid
-# Herodotus
+#% Herodotus
 Herodotus
-# Nobel
+#% Nobel
 Nobel
-# Courage
+#% Courage
 Courage
-# Cousteau
+#% Cousteau
 Cousteau
-# Almagro
+#% Almagro
 Almagro
-# Logan
+#% Logan
 Logan
-# Ahwahnee
+#% Ahwahnee
 Ahwahnee
-# Iron
+#% Iron
 Iron
-# Swordfish
+#% Swordfish
 Swordfish
-# Heart
+#% Heart
 Heart
-# Booming Voyager
+#% Booming Voyager
 Booming Voyager
-# White Erskine
+#% White Erskine
 White Erskine
-# Flying Pulsar
+#% Flying Pulsar
 Flying Pulsar
-# Razor
+#% Razor
 Razor
-# Popov
+#% Popov
 Popov
-# Yukon
+#% Yukon
 Yukon
-# Gonzalo
+#% Gonzalo
 Gonzalo
-# Blackstone
+#% Blackstone
 Blackstone
-# Greyhound
+#% Greyhound
 Greyhound
-# Jupiter
+#% Jupiter
 Jupiter
-# Janeway
+#% Janeway
 Janeway
-# Warmaker
+#% Warmaker
 Warmaker
-# Magellan
+#% Magellan
 Magellan
-# Bellerophon
+#% Bellerophon
 Bellerophon
-# Hellhound
+#% Hellhound
 Hellhound
-# Angryshark
+#% Angryshark
 Angryshark
-# Stalker
+#% Stalker
 Stalker
-# Yeager
+#% Yeager
 Yeager
-# Galaxy
+#% Galaxy
 Galaxy
-# Velocity
+#% Velocity
 Velocity
-# Pendragon
+#% Pendragon
 Pendragon
-# Demeter
+#% Demeter
 Demeter
-# Pasteur
+#% Pasteur
 Pasteur
-# Gallimimus
+#% Gallimimus
 Gallimimus
-# Arminus
+#% Arminus
 Arminus
-# Oberth
+#% Oberth
 Oberth
-# Olympia
+#% Olympia
 Olympia
-# Essex
+#% Essex
 Essex
-# Oberth
+#% Oberth
 Oberth
-# Neptune
+#% Neptune
 Neptune
-# Swift Dodo
+#% Swift Dodo
 Swift Dodo
-# Nemesis
+#% Nemesis
 Nemesis
-# Nebula
+#% Nebula
 Nebula
-# Saint
+#% Saint
 Saint
-# Slavik
+#% Slavik
 Slavik
-# Chase
+#% Chase
 Chase
-# Orbit
+#% Orbit
 Orbit
-# Brute
+#% Brute
 Brute
-# Jingo
+#% Jingo
 Jingo
-# Hush
+#% Hush
 Hush
-# Blade
+#% Blade
 Blade
-# Silver
+#% Silver
 Silver
-# Lurch
+#% Lurch
 Lurch
-# Rust
+#% Rust
 Rust
-# Necro
+#% Necro
 Necro
-# Snake
+#% Snake
 Snake
-# Veil
+#% Veil
 Veil
-# Crisis
+#% Crisis
 Crisis
-# Penumbra
+#% Penumbra
 Penumbra
-# Blitz
+#% Blitz
 Blitz
-# Falcon
+#% Falcon
 Falcon
-# Rascal
+#% Rascal
 Rascal
-# Shepherd
+#% Shepherd
 Shepherd
-# Totem
+#% Totem
 Totem
-# Twitch
+#% Twitch
 Twitch
-# Jewel
+#% Jewel
 Jewel
-# Celeste
+#% Celeste
 Celeste
-# Ditch
+#% Ditch
 Ditch
-# Umbra
+#% Umbra
 Umbra
-# Envy
+#% Envy
 Envy
-# Lotus
+#% Lotus
 Lotus
-# Paradox
+#% Paradox
 Paradox
-# Dove
+#% Dove
 Dove
-# Blesse
+#% Blesse
 Blesse
-# Peach
+#% Peach
 Peach
-# Gin
+#% Gin
 Gin
-# Feline
+#% Feline
 Feline
-# Coyote
+#% Coyote
 Coyote
-# Misery
+#% Misery
 Misery
-# Grim
+#% Grim
 Grim
-# Ivory
+#% Ivory
 Ivory
-# Curse
+#% Curse
 Curse
-# Brook
+#% Brook
 Brook
-# Tare
+#% Tare
 Tare
-# Haze
+#% Haze
 Haze
-# Blink
+#% Blink
 Blink
-# Ghost
+#% Ghost
 Ghost
-# Fetch
+#% Fetch
 Fetch
-# Starlight
+#% Starlight
 Starlight
-# Foxy
+#% Foxy
 Foxy
-# Jinx
+#% Jinx
 Jinx
-# Rustle
+#% Rustle
 Rustle
-# Slingshot
+#% Slingshot
 Slingshot
-# Road Runner
+#% Road Runner
 Road Runner
-# Smiley
+#% Smiley
 Smiley
-# Rubber
+#% Rubber
 Rubber
-# Swifty
+#% Swifty
 Swifty
-# Shade
+#% Shade
 Shade
-# Swirl
+#% Swirl
 Swirl
-# Jolt
+#% Jolt
 Jolt
-# Wings
+#% Wings
 Wings
-# Speedstar
+#% Speedstar
 Speedstar
-# Dodge
+#% Dodge
 Dodge
-# Doughnut
+#% Doughnut
 Doughnut
-# Scooter
+#% Scooter
 Scooter
-# Slugs
+#% Slugs
 Slugs
-# Blowover
+#% Blowover
 Blowover
-# Essence
+#% Essence
 Essence
-# Elastic
+#% Elastic
 Elastic
-# Fortuna
+#% Fortuna
 Fortuna
-# Succubus
+#% Succubus
 Succubus
-# Electric
+#% Electric
 Electric
-# Scarlet
+#% Scarlet
 Scarlet
-# Mantis
+#% Mantis
 Mantis
-# Destiny
+#% Destiny
 Destiny
-# Virus
+#% Virus
 Virus
-# Tazz
+#% Tazz
 Tazz
-# Eternity
+#% Eternity
 Eternity
-# Lights
+#% Lights
 Lights
-# Karma
+#% Karma
 Karma
-# Twinkle
+#% Twinkle
 Twinkle
-# Maneater
+#% Maneater
 Maneater
-# Velvet
+#% Velvet
 Velvet
-# Remedy
+#% Remedy
 Remedy
-# Caramel
+#% Caramel
 Caramel
-# Gemini
+#% Gemini
 Gemini
-# Gloria
+#% Gloria
 Gloria
-# Hope
+#% Hope
 Hope
-# Moxie
+#% Moxie
 Moxie
-# Mantra
+#% Mantra
 Mantra
-# Raven
+#% Raven
 Raven
-# Serpent
+#% Serpent
 Serpent
-# Mime
+#% Mime
 Mime
-# Bucks
+#% Bucks
 Bucks
-# Nocturne
+#% Nocturne
 Nocturne
-# Saber
+#% Saber
 Saber
-# Lance
+#% Lance
 Lance
-# Bugs
+#% Bugs
 Bugs
-# Viper
+#% Viper
 Viper
-# Nightowl
+#% Nightowl
 Nightowl
-# Dancer
+#% Dancer
 Dancer
-# Joy
+#% Joy
 Joy
-# Silence
+#% Silence
 Silence
-# Faith
+#% Faith
 Faith
-# Patches
+#% Patches
 Patches
-# Heat
+#% Heat
 Heat
-# Daydream
+#% Daydream
 Daydream
-# Dust
+#% Dust
 Dust
-# Slime
+#% Slime
 Slime
-# Face
+#% Face
 Face
-# Zero
+#% Zero
 Zero
-# Tinder
+#% Tinder
 Tinder
-# Nightmare
+#% Nightmare
 Nightmare
-# Puzzle
+#% Puzzle
 Puzzle
-# Snout
+#% Snout
 Snout
-# Imp
+#% Imp
 Imp
-# Prodigy
+#% Prodigy
 Prodigy
-# Woe
+#% Woe
 Woe
-# Parley
+#% Parley
 Parley
-# Ching Shih
+#% Ching Shih
 Ching Shih
-# The Marble Tassel
+#% The Marble Tassel
 The Marble Tassel
-# Vendetta
+#% Vendetta
 Vendetta
-# Wyvern
+#% Wyvern
 Wyvern
-# Hail Cargoni
+#% Hail Cargoni
 Hail Cargoni
-# Draco's Scyth
+#% Draco's Scyth
 Draco's Scyth
-# Ludicrous Enterprise
+#% Ludicrous Enterprise
 Ludicrous Enterprise
-# Perros Chapulines
+#% Perros Chapulines
 Perros Chapulines
-# Arroganz
+#% Arroganz
 Arroganz
-# Millennium Flagon
+#% Millennium Flagon
 Millennium Flagon
-# Tezara
+#% Tezara
 Tezara
-# Disgrace
+#% Disgrace
 Disgrace
-# Snap Manta
+#% Snap Manta
 Snap Manta
-# Anger
+#% Anger
 Anger
-# Greedy Wolf
+#% Greedy Wolf
 Greedy Wolf
-# Mad Dog
+#% Mad Dog
 Mad Dog
-# Festering Rift
+#% Festering Rift
 Festering Rift
-# Revenge
+#% Revenge
 Revenge
-# Mad North
+#% Mad North
 Mad North
-# Broken Plunder
+#% Broken Plunder
 Broken Plunder
-# Silent Trinity
+#% Silent Trinity
 Silent Trinity
-# Evil
+#% Evil
 Evil
-# Grand Fall
+#% Grand Fall
 Grand Fall
-# Disrespectful
+#% Disrespectful
 Disrespectful
-# Hades Dragon
+#% Hades Dragon
 Hades Dragon
-# Night Rift
+#% Night Rift
 Night Rift
-# Victory Storm
+#% Victory Storm
 Victory Storm
-# Golden Atlantis
+#% Golden Atlantis
 Golden Atlantis
-# Buccaneer
+#% Buccaneer
 Buccaneer
-# Sudden Privateer
+#% Sudden Privateer
 Sudden Privateer
-# Terror
+#% Terror
 Terror
-# Curse
+#% Curse
 Curse
-# Shark
+#% Shark
 Shark
-# Squid
+#% Squid
 Squid
-# Filthy
+#% Filthy
 Filthy
-# Poison Raider
+#% Poison Raider
 Poison Raider
-# Horror
+#% Horror
 Horror
-# Night Rover
+#% Night Rover
 Night Rover
-# Tide
+#% Tide
 Tide
-# Night
+#% Night
 Night
-# Doubloon
+#% Doubloon
 Doubloon
-# Elusive
+#% Elusive
 Elusive
-# Broken
+#% Broken
 Broken
-# Fearful
+#% Fearful
 Fearful
-# Speedy Ranger
+#% Speedy Ranger
 Speedy Ranger
-# Hateful Fortune
+#% Hateful Fortune
 Hateful Fortune
-# Greed
+#% Greed
 Greed
-# Cyim
+#% Cyim
 Cyim
-# Krabqe
+#% Krabqe
 Krabqe
-# Crilbas
+#% Crilbas
 Crilbas
-# Szex
+#% Szex
 Szex
-# Kogfo
+#% Kogfo
 Kogfo
-# Piarjum
+#% Piarjum
 Piarjum
-# Chix
+#% Chix
 Chix
-# Bukba
+#% Bukba
 Bukba
-# Cribjep
+#% Cribjep
 Cribjep
-# Qrap
+#% Qrap
 Qrap
-# Achrun
+#% Achrun
 Achrun
-# Baryar
+#% Baryar
 Baryar
-# Kubran
+#% Kubran
 Kubran
-# Khimdaud
+#% Khimdaud
 Khimdaud
-# Stradrug
+#% Stradrug
 Stradrug
-# Dizazz
+#% Dizazz
 Dizazz
-# Kabakezz
+#% Kabakezz
 Kabakezz
-# Stunakom
+#% Stunakom
 Stunakom
-# Baugeborr
+#% Baugeborr
 Baugeborr
-# Ungejag
+#% Ungejag
 Ungejag
-# Female Ancestor
+#% Female Ancestor
 Female Ancestor
-# Redgon
+#% Redgon
 Redgon
-# Krakenlord
+#% Krakenlord
 Krakenlord
-# Pippa
+#% Pippa
 Pippa
-# Lunar Rain
+#% Lunar Rain
 Lunar Rain
-# Range
+#% Range
 Range
-# Maths
+#% Maths
 Maths
-# Bell
+#% Bell
 Bell
-# Blunder
+#% Blunder
 Blunder
-# Cycle
+#% Cycle
 Cycle
-# Hollow
+#% Hollow
 Hollow
-# Books
+#% Books
 Books
-# Glove
+#% Glove
 Glove
-# Owl
+#% Owl
 Owl
-# Slide
+#% Slide
 Slide
-# Sapphire
+#% Sapphire
 Sapphire
-# Jade
+#% Jade
 Jade
-# Stillborn
+#% Stillborn
 Stillborn
-# Spider
+#% Spider
 Spider
-# Rock
+#% Rock
 Rock
-# Rabidstrike
+#% Rabidstrike
 Rabidstrike
-# Scarletshade
+#% Scarletshade
 Scarletshade
-# Ghostbang
+#% Ghostbang
 Ghostbang
-# Red Moon
+#% Red Moon
 Red Moon
-# Still Blade
+#% Still Blade
 Still Blade
-# Switch
+#% Switch
 Switch
-# Codex
+#% Codex
 Codex
-# Witness
+#% Witness
 Witness
-# Feature
+#% Feature
 Feature
-# Blossom
+#% Blossom
 Blossom
-# Nemo
+#% Nemo
 Nemo
-# Master
+#% Master
 Master
-# Dimension
+#% Dimension
 Dimension
-# Angel
+#% Angel
 Angel
-# Harpy
+#% Harpy
 Harpy
-# Silver Teeth
+#% Silver Teeth
 Silver Teeth
-# Twitching
+#% Twitching
 Twitching
-# Lazy Eye
+#% Lazy Eye
 Lazy Eye
-# Confident
+#% Confident
 Confident
-# Two Toes
+#% Two Toes
 Two Toes
-# Deceit
+#% Deceit
 Deceit
-# Tricky
+#% Tricky
 Tricky
-# Cranky
+#% Cranky
 Cranky
-# Cold
+#% Cold
 Cold
-# Mud
+#% Mud
 Mud
-# Halfwit
+#% Halfwit
 Halfwit
-# Fool
+#% Fool
 Fool
-# Plague
+#% Plague
 Plague
-# Defect
+#% Defect
 Defect
-# Curse
+#% Curse
 Curse
-# Trash
+#% Trash
 Trash
-# Boor
+#% Boor
 Boor
-# Snake
+#% Snake
 Snake
-# Brute
+#% Brute
 Brute
-# Skunk
+#% Skunk
 Skunk
-# Simpleton
+#% Simpleton
 Simpleton
-# Mite
+#% Mite
 Mite
-# Kobold
+#% Kobold
 Kobold
-# Gunk
+#% Gunk
 Gunk
-# Buffoon
+#% Buffoon
 Buffoon
-# Mistake
+#% Mistake
 Mistake
-# Corruption
+#% Corruption
 Corruption
-# Maggot
+#% Maggot
 Maggot
-# Lowlife
+#% Lowlife
 Lowlife
-# Tick
+#% Tick
 Tick
-# Slop
+#% Slop
 Slop
-# Flea
+#% Flea
 Flea
-# Rascal
+#% Rascal
 Rascal
-# Black Bum
+#% Black Bum
 Black Bum
-# Lowly
+#% Lowly
 Lowly
-# Crawler
+#% Crawler
 Crawler
-# Grime
+#% Grime
 Grime
-# Vermin
+#% Vermin
 Vermin
-# Twerp
+#% Twerp
 Twerp
-# Rodent
+#% Rodent
 Rodent
-# Wriggler
+#% Wriggler
 Wriggler
-# Unformed
+#% Unformed
 Unformed
-# Whelp
+#% Whelp
 Whelp
-# Muck
+#% Muck
 Muck
-# Crude
+#% Crude
 Crude
-# Dreck
+#% Dreck
 Dreck
-# Deviant
+#% Deviant
 Deviant
-# Smear
+#% Smear
 Smear
-# Weevil
+#% Weevil
 Weevil
-# Primitive
+#% Primitive
 Primitive
-# Stain
+#% Stain
 Stain
-# Prawn
+#% Prawn
 Prawn
-# Slime
+#% Slime
 Slime
-# Leech
+#% Leech
 Leech
-# Hybrid
+#% Hybrid
 Hybrid
-# Mug
+#% Mug
 Mug
-# Viola
+#% Viola
 Viola
-# Trojan
+#% Trojan
 Trojan
-# Vergil
+#% Vergil
 Vergil
-# Elisey
+#% Elisey
 Elisey
-# Teresita
+#% Teresita
 Teresita
-# Littorio
+#% Littorio
 Littorio
-# Heatsoaked
+#% Heatsoaked
 Heatsoaked
-# Dojima
+#% Dojima
 Dojima
-# Amatsukaze
+#% Amatsukaze
 Amatsukaze
-# Samidare
+#% Samidare
 Samidare
-# Conqueror
+#% Conqueror
 Conqueror
-# Resolute
+#% Resolute
 Resolute
-# Perseverance
+#% Perseverance
 Perseverance
-# Diligence
+#% Diligence
 Diligence
-# Triumph
+#% Triumph
 Triumph
-# Vengeance
+#% Vengeance
 Vengeance
-# Retribution
+#% Retribution
 Retribution
-# Reprisal
+#% Reprisal
 Reprisal
-# Retaliation
+#% Retaliation
 Retaliation
-# Raptor Rain
+#% Raptor Rain
 Raptor Rain
-# Cosmic
+#% Cosmic
 Cosmic
-# Suit
+#% Suit
 Suit
-# Valkyrie
+#% Valkyrie
 Valkyrie
-# Comet
+#% Comet
 Comet
-# Caelestis
+#% Caelestis
 Caelestis
-# Hurricane
+#% Hurricane
 Hurricane
-# Nightingale
+#% Nightingale
 Nightingale
-# Hunter
+#% Hunter
 Hunter
-# Aetheron
+#% Aetheron
 Aetheron
-# Danubius
+#% Danubius
 Danubius
-# Lau
+#% Lau
 Lau
-# Asturias
+#% Asturias
 Asturias
-# Xelyan
+#% Xelyan
 Xelyan
-# Husky
+#% Husky
 Husky
-# Sixty One
+#% Sixty One
 Sixty One
-# Snickett
+#% Snickett
 Snickett
-# Sierra
+#% Sierra
 Sierra
-# Juan
+#% Juan
 Juan
-# Zalhadra
+#% Zalhadra
 Zalhadra
-# Regaled Copernicus
+#% Regaled Copernicus
 Regaled Copernicus
-# Thunderous Locomotion
+#% Thunderous Locomotion
 Thunderous Locomotion
-# Righteous Atlas
+#% Righteous Atlas
 Righteous Atlas
-# Tranqui Vitruvius
+#% Tranqui Vitruvius
 Tranqui Vitruvius
-# Spirituous Newton
+#% Spirituous Newton
 Spirituous Newton
-# Undeterred Babbage
+#% Undeterred Babbage
 Undeterred Babbage
-# Amicable Gutenberg
+#% Amicable Gutenberg
 Amicable Gutenberg
-# Rhapsodic Galileo
+#% Rhapsodic Galileo
 Rhapsodic Galileo
-# Doleful Voyager
+#% Doleful Voyager
 Doleful Voyager
-# Beguiled Alyattes
+#% Beguiled Alyattes
 Beguiled Alyattes
-# Harmonious Monogenesis
+#% Harmonious Monogenesis
 Harmonious Monogenesis
-# Dawn
+#% Dawn
 Dawn
-# Dusk
+#% Dusk
 Dusk
-# Choccy
+#% Choccy
 Choccy
-# Herald of Judgment
+#% Herald of Judgment
 Herald of Judgment
-# Will of Conviction
+#% Will of Conviction
 Will of Conviction
-# Shield of Mercy
+#% Shield of Mercy
 Shield of Mercy
-# Aegis of Courage
+#% Aegis of Courage
 Aegis of Courage
-# Iron Ranger
+#% Iron Ranger
 Iron Ranger
-# Hammer of Redemption
+#% Hammer of Redemption
 Hammer of Redemption
-# Lord of Mourning
+#% Lord of Mourning
 Lord of Mourning
-# The Dauntless
+#% The Dauntless
 The Dauntless
-# Esperance
+#% Esperance
 Esperance
-# Lex
+#% Lex
 Lex
-# GuineaFowl
+#% GuineaFowl
 GuineaFowl
-# Sun Orchid
+#% Sun Orchid
 Sun Orchid
-# Reckless
+#% Reckless
 Reckless
-# Impetuous
+#% Impetuous
 Impetuous
-# MadCap
+#% MadCap
 MadCap
-# Spirit of Virtue
+#% Spirit of Virtue
 Spirit of Virtue
-# Ice Eagle
+#% Ice Eagle
 Ice Eagle
-# Fire Hawk
+#% Fire Hawk
 Fire Hawk
-# Spike Talon
+#% Spike Talon
 Spike Talon
-# Fair Resolve
+#% Fair Resolve
 Fair Resolve
-# Aegis Rising
+#% Aegis Rising
 Aegis Rising
-# Shae's Gambit
+#% Shae's Gambit
 Shae's Gambit
-# Yoren's Shard
+#% Yoren's Shard
 Yoren's Shard
-# Luna's Resolve
+#% Luna's Resolve
 Luna's Resolve
-# Sweet Winter
+#% Sweet Winter
 Sweet Winter
-# Luna's Embrace
+#% Luna's Embrace
 Luna's Embrace
-# Luna's Absolution
+#% Luna's Absolution
 Luna's Absolution
-# Parisa
+#% Parisa
 Parisa
-# Hell Razor
+#% Hell Razor
 Hell Razor
-# Azure Dawn
+#% Azure Dawn
 Azure Dawn
-# Seven Truths
+#% Seven Truths
 Seven Truths
-# High 5
+#% High 5
 High 5
-# UGG Valkyrie 
+#% UGG Valkyrie 
 UGG Valkyrie 
-# Space Whale 
+#% Space Whale 
 Space Whale 
-# Armageddon 
+#% Armageddon 
 Armageddon 
-# Shadow of Mir
+#% Shadow of Mir
 Shadow of Mir
-# Star Lady
+#% Star Lady
 Star Lady
-# Pillar of Justice 
+#% Pillar of Justice 
 Pillar of Justice 
-# Knuckle Shipwich
+#% Knuckle Shipwich
 Knuckle Shipwich
-# Star of Eridia 
+#% Star of Eridia 
 Star of Eridia 
-# Aurora 
+#% Aurora 
 Aurora 
-# Judith's Razor
+#% Judith's Razor
 Judith's Razor
-# Shattered Resolve
+#% Shattered Resolve
 Shattered Resolve
-# Blade of the Night
+#% Blade of the Night
 Blade of the Night
-# Dawn
+#% Dawn
 Dawn
-# Rainmaker
+#% Rainmaker
 Rainmaker
-# Parfait
+#% Parfait
 Parfait
-# Phazer
+#% Phazer
 Phazer
-# Severed Star
+#% Severed Star
 Severed Star
-# Voidmiser
+#% Voidmiser
 Voidmiser
-# Severe Conviction
+#% Severe Conviction
 Severe Conviction
-# Front Runner
+#% Front Runner
 Front Runner
-# Casanova
+#% Casanova
 Casanova
-# Athena's Blade
+#% Athena's Blade
 Athena's Blade
-# Athena's Delight 
+#% Athena's Delight 
 Athena's Delight 
-# Peace Broker
+#% Peace Broker
 Peace Broker
-# Lance of Fate
+#% Lance of Fate
 Lance of Fate
-# Rose
+#% Rose
 Rose
-# Pitiless Defector
+#% Pitiless Defector
 Pitiless Defector
-# Empress 
+#% Empress 
 Empress 
-# Pious Truth
+#% Pious Truth
 Pious Truth
-# Crown Jewel
+#% Crown Jewel
 Crown Jewel
-# Phoenix Ascendant 
+#% Phoenix Ascendant 
 Phoenix Ascendant 
-# Siren's Call
+#% Siren's Call
 Siren's Call
-# Bromeo 
+#% Bromeo 
 Bromeo 
-# Pious Fate
+#% Pious Fate
 Pious Fate
-# Intercessor 
+#% Intercessor 
 Intercessor 
-# Divine Intervention
+#% Divine Intervention
 Divine Intervention
-# Dawn's Approach
+#% Dawn's Approach
 Dawn's Approach
-# Dawn of Fate
+#% Dawn of Fate
 Dawn of Fate
-# Hail of Fire
+#% Hail of Fire
 Hail of Fire
-# Signetta
+#% Signetta
 Signetta
-# Scytheon
+#% Scytheon
 Scytheon
-# Praise of Joy
+#% Praise of Joy
 Praise of Joy
-# Glorious Retribution 
+#% Glorious Retribution 
 Glorious Retribution 
-# Star Ranger 
+#% Star Ranger 
 Star Ranger 
-# Vendetta
+#% Vendetta
 Vendetta
-# Melody 
+#% Melody 
 Melody 
-# Vaunted Sentinel
+#% Vaunted Sentinel
 Vaunted Sentinel
-# Siesta of Fate
+#% Siesta of Fate
 Siesta of Fate
-# Rough Rider
+#% Rough Rider
 Rough Rider
-# Sierra
+#% Sierra
 Sierra
-# Soundless Fury
+#% Soundless Fury
 Soundless Fury
-# Wrath of Neptune
+#% Wrath of Neptune
 Wrath of Neptune
-# Wave Reaver
+#% Wave Reaver
 Wave Reaver
-# Scourge of the Salt
+#% Scourge of the Salt
 Scourge of the Salt
-# White Dreg
+#% White Dreg
 White Dreg
-# Moondriver
+#% Moondriver
 Moondriver
-# Water Devil
+#% Water Devil
 Water Devil
-# Another Thousand Gold
+#% Another Thousand Gold
 Another Thousand Gold
-# Leaking Bucket
+#% Leaking Bucket
 Leaking Bucket
-# She Left Johnny
+#% She Left Johnny
 She Left Johnny
-# Three Sheets To The Wind
+#% Three Sheets To The Wind
 Three Sheets To The Wind
-# Serf's Misguided Adventure
+#% Serf's Misguided Adventure
 Serf's Misguided Adventure
-# Snickett the Second
+#% Snickett the Second
 Snickett the Second
-# Denali
+#% Denali
 Denali
-# Prometheus
+#% Prometheus
 Prometheus
-# Gray Wolf
+#% Gray Wolf
 Gray Wolf
-# Tsunami
+#% Tsunami
 Tsunami
-# Soja
+#% Soja
 Soja
-# Imperieuse
+#% Imperieuse
 Imperieuse
