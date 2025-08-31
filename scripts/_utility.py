@@ -27,6 +27,7 @@ SOURCE_DATA_FILES = [
 
 TEMPLATE_MARK = '#'
 PROGRESS_MARK = '%'
+DEBUG_CMD = '&debug'
 COMMANDS = [
     '//', '-1000',
     'bat',
@@ -44,7 +45,14 @@ COMMANDS = [
     'tag',
     'var', 'voi',
     'xcr', 'xob',
+    DEBUG_CMD
 ]
+
+def assert_path(path:str):
+    if not os.path.isdir(path):
+        path = os.path.dirname(path)
+    if not os.path.exists(path):
+        os.makedirs(path, exist_ok=True)
 
 def b64pad(string:str):
     return string + "=" * ((4 - len(string) % 4) % 4)
@@ -70,6 +78,7 @@ def save_text(path:str, text:str, b64encode:bool=False):
             for ln in lns
         ]
         text = '\n'.join(lns)
+    assert_path(path)
     with open(path, 'w', encoding=ENCODING) as file:
         saved = file.write(text)
     return saved
@@ -89,13 +98,25 @@ def mark_line_as_progressed(ln:str):
 def get_plain_line(ln:str):
     return ln.lstrip(TEMPLATE_MARK + PROGRESS_MARK)[1:]
 
-def split_text_lines(text:str):
+def split_text_lines(text:str, debug:bool=False):
     templates:list[str] = []
     worklines:list[str] = []
     lns = text.split('\n')
     i = 0
+    skip_debug = False
     while i < len(lns):
+        if skip_debug:
+            skip_debug = False
+            i += 1
+            continue
+
         ln = lns[i]
+
+        if get_plain_line(ln) == DEBUG_CMD:
+            if debug == False:
+                skip_debug = True
+                i += 1
+                continue
         if i % 2 == 0:
             templates.append(ln)
         else:
