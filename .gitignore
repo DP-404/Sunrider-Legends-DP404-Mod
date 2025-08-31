@@ -1,2 +1,4 @@
-/*.txt
+exported_data/**/*.txt
+source_data/**/*.txt
+errors.txt
 __pycache__
