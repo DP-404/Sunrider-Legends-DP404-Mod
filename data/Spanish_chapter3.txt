@@ -2177,7 +2177,7 @@ voi ava_vns_ang_01
 #% ava As expected. All hands! Prepare for combat!
 ava Como esperaba. ¡A toda la tripulación! ¡Prepárense para el combate!
 #% obj BATTLE: Rescue Claude
-obj BATTLE: Rescue Claude
+obj BATALLA: Rescatar a Claude
 #% roo roo_chap3_battle1
 roo roo_chap3_battle1
 #% 
