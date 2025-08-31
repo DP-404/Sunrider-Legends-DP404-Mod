@@ -3,6 +3,5 @@
         "**/.git": true,
         "**/.mypy_cache": true,
         "**/__pycache__": true,
-        "*.txt": true,
     },
 }
