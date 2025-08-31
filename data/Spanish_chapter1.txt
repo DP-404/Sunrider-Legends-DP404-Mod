@@ -1597,7 +1597,7 @@ flag
 #% xob MAIN: Invasion!
 xob PRINCIPAL: ¡Invasión!
 #% obj MAIN: Invasion! Escape
-obj PRINCIPAL: ¡Invasión! Huída
+obj PRINCIPAL: ¡Invasión! Huida
 #% stop
 stop
 #% 
@@ -1663,7 +1663,7 @@ flag
 #% xob MAIN: Invasion!
 xob PRINCIPAL: ¡Invasión!
 #% obj MAIN: Invasion! Escape
-obj PRINCIPAL: ¡Invasión! Huída
+obj PRINCIPAL: ¡Invasión! Huida
 #% stop
 stop
 #% 
@@ -1771,7 +1771,7 @@ mus stop
 #% var maraydead
 var maraydead
 #% xob MAIN: Invasion! Escape
-xob PRINCIPAL: ¡Invasión! Huída
+xob PRINCIPAL: ¡Invasión! Huida
 #% obj MAIN: Too late...
 obj PRINCIPAL: Demasiado tarde...
 #% stop
