@@ -8,8 +8,14 @@ ENCODING = 'utf8'
 
 BASE_PATH = os.path.dirname(os.path.dirname(__file__))
 SOURCE_PATH = os.path.join(BASE_PATH, 'source_data')
-if not os.path.exists(SOURCE_PATH):
-    SOURCE_PATH = 'C:/Program Files (x86)/Steam/steamapps/common/Sunrider Legends Tactics'
+if not os.path.exists(SOURCE_PATH) or len(os.listdir(SOURCE_PATH)) <= 1:
+    disk_unit = os.environ.get('ProgramFiles(x86)')
+    if disk_unit is None:
+        disk_unit = 'C:'
+    SOURCE_PATH = os.path.join(
+        disk_unit,
+        'Steam/steamapps/common/Sunrider Legends Tactics'
+    )
     if not os.path.exists(SOURCE_PATH):
         SOURCE_PATH = ''
 

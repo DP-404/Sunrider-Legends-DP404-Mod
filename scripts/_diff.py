@@ -66,7 +66,7 @@ def check_diff(filename:str, path:str):
     return diff
 
 def check_diff_all():
-    if utility.SOURCE_PATH == '':
+    if utility.SOURCE_PATH == '' or len(os.listdir(utility.SOURCE_PATH)) <= 1:
         while True:
             path = input(TEXT_SELECT_GAME_PATH)
             if (
