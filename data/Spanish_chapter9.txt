@@ -190,8 +190,8 @@ cha kay_neu_neutral_neutral_smallopen
 kay What news do the tides bring?
 #% cha ava_armscrossed_focus_neutral_smalltalk
 cha ava_armscrossed_focus_neutral_smalltalk
-# ava Though Veniczar Fontana has ordered the Crimson Fleet to fall back to New Eden, some Pact captains have chosen to defect and traded their red sails for black ones.
-ava Though Veniczar Fontana has ordered the Crimson Fleet to fall back to New Eden, some Pact captains have chosen to defect and traded their red sails for black ones.
+# ava Though Veniczar Fontana has ordered the Crimson Fleet to fall back to New Edar, some Pact captains have chosen to defect and traded their red sails for black ones.
+ava Though Veniczar Fontana has ordered the Crimson Fleet to fall back to New Edar, some Pact captains have chosen to defect and traded their red sails for black ones.
 # ava Worse, the Emerald Fleet appears to be mobilizing for something big. With their blockade of Far Port, unrest is spreading throughout the realm. It is only a matter of time until a spark ignites a civil war...
 ava Worse, the Emerald Fleet appears to be mobilizing for something big. With their blockade of Far Port, unrest is spreading throughout the realm. It is only a matter of time until a spark ignites a civil war...
 #% cha kay_neu_focus_closed_smallopen
@@ -1792,12 +1792,12 @@ kuu Once we sign the peace treaty at Ryuvia, how about you visit Asahi with me, 
 kuu Though the war may be over, there will be countless diplomatic talks on the horizon to fully normalize relations between our nations. As the hero of the Neutral Banners, your voice will be indispensable in creating a new era of peace.
 #% cha kuu_shout_shouttral_lookup_bigopensm
 cha kuu_shout_shouttral_lookup_bigopensm
-# kuu And I shall even offer you a personal tour of New Eden, as an added bonus.
-kuu And I shall even offer you a personal tour of New Eden, as an added bonus.
+# kuu And I shall even offer you a personal tour of New Edar, as an added bonus.
+kuu And I shall even offer you a personal tour of New Edar, as an added bonus.
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
-# kay Well, who am I to refuse an admiral! Of course, I shall join you in New Eden!
-kay Well, who am I to refuse an admiral! Of course, I shall join you in New Eden!
+# kay Well, who am I to refuse an admiral! Of course, I shall join you in New Edar!
+kay Well, who am I to refuse an admiral! Of course, I shall join you in New Edar!
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 # kay I look forward to fully hashing out the terms of the peace treaty with you.
@@ -1806,8 +1806,8 @@ kay I look forward to fully hashing out the terms of the peace treaty with you.
 cha kuu_shout_focus_wide_smallopen
 # kuu Then it is done!
 kuu Then it is done!
-# kuu I have no doubt you will find the splendors of New Eden more than accommodating. Let the Pact of Maan come to be known for our fineries and hospitality, not war!
-kuu I have no doubt you will find the splendors of New Eden more than accommodating. Let the Pact of Maan come to be known for our fineries and hospitality, not war!
+# kuu I have no doubt you will find the splendors of New Edar more than accommodating. Let the Pact of Maan come to be known for our fineries and hospitality, not war!
+kuu I have no doubt you will find the splendors of New Edar more than accommodating. Let the Pact of Maan come to be known for our fineries and hospitality, not war!
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 # kay I look forward to working with you, admiral...

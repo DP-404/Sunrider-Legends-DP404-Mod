@@ -5012,8 +5012,8 @@ cha fon_neu_worry_closedeye_smalltalk
 fon Indeed we do, Admiral...
 #% cha kuu_shout_focus_wide_yell
 cha kuu_shout_focus_wide_yell
-# kuu Signal the fleet. All ships are ordered to set sail for New Eden at once! I shall deal with any dissenters personally.
-kuu Signal the fleet. All ships are ordered to set sail for New Eden at once! I shall deal with any dissenters personally.
+# kuu Signal the fleet. All ships are ordered to set sail for New Edar at once! I shall deal with any dissenters personally.
+kuu Signal the fleet. All ships are ordered to set sail for New Edar at once! I shall deal with any dissenters personally.
 #% hid kuu
 hid kuu
 #% hid fon

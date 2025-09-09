@@ -2304,8 +2304,8 @@ cha lyn_armup_angry_neutral_talk
 lyn She wishes an audience.
 #% cha fon_neu_focus_neutral_smalltalk
 cha fon_neu_focus_neutral_smalltalk
-# fon That may prove somewhat difficult, as the fleet is bound for Ryuvia and the Lady Alice is still castled at New Eden. But you are welcome to rely whatever message she has.
-fon That may prove somewhat difficult, as the fleet is bound for Ryuvia and the Lady Alice is still castled at New Eden. But you are welcome to rely whatever message she has.
+# fon That may prove somewhat difficult, as the fleet is bound for Ryuvia and the Lady Alice is still castled at New Edar. But you are welcome to rely whatever message she has.
+fon That may prove somewhat difficult, as the fleet is bound for Ryuvia and the Lady Alice is still castled at New Edar. But you are welcome to rely whatever message she has.
 #% cha lyn_armup_angry_neutral_talk
 cha lyn_armup_angry_neutral_talk
 # lyn Kukuku. Not physically, you fool. She wishes to speak to you now.

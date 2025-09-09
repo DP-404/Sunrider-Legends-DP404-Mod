@@ -606,8 +606,8 @@ RACIONES BENDECIDAS
 Comer un panecillo aumenta el Combo ESP del grupo si Maray está en el grupo
 #% GET THEM!
 ¡A ELLOS!
-#% Increases party's DMG for 3 turns
-Aumenta el DAÑO del grupo durante 3 turnos
+#% Temporarily increase party's DMG
+Aumenta temporalmente el DAÑO del grupo
 #% BOMBARD I
 BOMBARDEAR I
 #% Deal damage to target
@@ -1408,8 +1408,8 @@ Cambia la dirección del viento
 ¡El viento ha cambiado!
 #% Full Forward is cast!
 ¡Avance Completo lanzado!
-#% All bounties increased 5x!
-¡Todas las recompensas aumentadas x5!
+#% All bounties increased 2.5x!
+¡Todas las recompensas aumentadas x2.5!
 #% All ships have full EN!
 ¡Todas las naves tienen toda la EN!
 #% All party members regain all HP!

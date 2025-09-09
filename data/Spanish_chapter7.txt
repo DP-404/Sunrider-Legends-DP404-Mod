@@ -3234,6 +3234,8 @@ cha arc_neu
 arc Impossible...!
 #% hid arc
 hid arc
+#% var defeatedallarcadius
+var defeatedallarcadius
 #% cha chi_armsbehind_raised_closedeye_bigopensm
 cha chi_armsbehind_raised_closedeye_bigopensm
 #% voi chi_vns_hap_01
@@ -3264,8 +3266,6 @@ ica Yeah... This isn't over yet. The Witch of Asahi still lives.
 cha ica_back_focus_smuglooka_smalltalk
 # ica In the end, it was her who was responsible for everything...
 ica In the end, it was her who was responsible for everything...
-#% var defeatedallarcadius
-var defeatedallarcadius
 #% stop
 stop
 #% 
