@@ -2,20 +2,24 @@ import base64
 import os
 from traceback import format_exc
 
+GAME_NAME = 'Sunrider Legends Tactics'
 SOURCE_LANGUAGE = 'English'
 LANGUAGE = 'Spanish'
 ENCODING = 'utf8'
 
 BASE_PATH = os.path.dirname(os.path.dirname(__file__))
 SOURCE_PATH = os.path.join(BASE_PATH, 'source_data')
+'''Stores `"{workspaceFolder}/source_data"` if folder exists and there is any file therein.
+Otherwise, uses Steam path to the game.'''
+disk_unit = os.environ.get('ProgramFiles(x86)')
+if disk_unit is None:
+    disk_unit = 'C:'
+STEAM_PATH = os.path.join(
+    disk_unit,
+    f'Steam/steamapps/common/{GAME_NAME}'
+)
 if not os.path.exists(SOURCE_PATH) or len(os.listdir(SOURCE_PATH)) <= 1:
-    disk_unit = os.environ.get('ProgramFiles(x86)')
-    if disk_unit is None:
-        disk_unit = 'C:'
-    SOURCE_PATH = os.path.join(
-        disk_unit,
-        'Steam/steamapps/common/Sunrider Legends Tactics'
-    )
+    SOURCE_PATH = STEAM_PATH
     if not os.path.exists(SOURCE_PATH):
         SOURCE_PATH = ''
 
@@ -30,6 +34,8 @@ SOURCE_DATA_FILES = [
     for f in os.listdir(SOURCE_PATH)
     if f.startswith(SOURCE_LANGUAGE) and f.endswith('.txt')
 ]
+
+LOCALIZATION_PATH = os.path.join(BASE_PATH, "Localization")
 
 TEMPLATE_MARK = '#'
 PROGRESS_MARK = '%'
