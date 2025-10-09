@@ -99,7 +99,7 @@ nar ...
 #% cha fon_neu_focus_neutral_smalltalk
 cha fon_neu_focus_neutral_smalltalk
 #% fon The turncoat has left, my lady Alice...
-fon El renegado se ha marchado, mi señorita Alice...
+fon El renegado se ha marchado, mi señora Alice...
 #% cha ali_neu_focus_closedeye_talk
 cha ali_neu_focus_closedeye_talk
 #% ali So he has. I noticed that the air had freshened.
@@ -771,7 +771,7 @@ ava ¡Diablos! ¡Piratas!
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
 #% kay Sound the horn! All hands: To battle!
-kay ¡Suenen el cuerno! ¡A toda la tripulación: A la batalla!
+kay ¡Suenen el cuerno! A toda la tripulación: ¡A la batalla!
 #% cha ava_shout_shout_shout_shout
 cha ava_shout_shout_shout_shout
 #% ava Understood captain! To arms!
@@ -981,7 +981,7 @@ kay Hazlo. Consultaré el mapa. Quizás podamos encontrar terrenos de caza fért
 #% cha ava_shout_shout_shout_shout
 cha ava_shout_shout_shout_shout
 #% ava Very well, captain. All hands: Stand down!
-ava Muy bien capitán. ¡A toda la tripulación: Descansen!
+ava Muy bien capitán. A toda la tripulación: ¡Descansen!
 #% flag
 flag
 #% stop
@@ -2101,7 +2101,7 @@ cha ava_armup_angry_widesmall_shout
 #% voi ava_vns_sur_01
 voi ava_vns_sur_01
 #% ava Arcana most twisted! What have you done to them?!
-ava ¡Arcano completamente corrompido! ¡¿Qué les has hecho?!
+ava ¡Arcana del peor tipo! ¡¿Qué les has hecho?!
 #% cha ica_armscrossed_annoyed_smuglooka_clench
 cha ica_armscrossed_annoyed_smuglooka_clench
 #% voi ica_vns_ang_02
@@ -2749,7 +2749,7 @@ ava ¡Está intentando huir! ¡Debemos capturarla antes de que escape!
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay Let's get to work. All hands: Capture that supply ship at all costs!
-kay Pongámonos a trabajar. ¡A toda la tripulación: Capturen esa nave de suministros a toda costa!
+kay Pongámonos a trabajar. A toda la tripulación: ¡Capturen esa nave de suministros a toda costa!
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay (Tip: When capturing weak vessels, it's better to just scuttle it after capture. The crew will strip the captured ship of all its equipment and loot before setting it ablaze, so I will retain all its spoils without having to divide my crew.)
@@ -2897,7 +2897,7 @@ cha ava_facepalm_focus_closedeye_sigh
 #% voi ava_vns_ang_02
 voi ava_vns_ang_02
 #% ava Well captain, it appears negotiations have concluded. All hands: Battle stations!
-ava Bueno capitán, parece que las negociaciones han concluido. ¡A toda la tripulación: Estaciones de batalla!
+ava Bueno capitán, parece que las negociaciones han concluido. A toda la tripulación: ¡Estaciones de batalla!
 #% stop
 stop
 #% 
