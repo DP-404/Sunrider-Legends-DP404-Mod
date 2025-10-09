@@ -6,6 +6,7 @@ MAX_DIFF_COUNT = 5
 
 TEXT_SELECT_GAME_PATH = "Enter game path: "
 TEXT_TRY_AGAIN = "Path or source files do not exist. Try again."
+TEXT_CHECKING_AGAINST = "Checking against: {Path}"
 TEXT_NEW_DATA = "New data file: {Filename}"
 TEXT_MORE = '...'
 TEXT_DIFF_DETECTED = 'Diff Detected: {Filename}\n{Diff}\n'
@@ -77,6 +78,7 @@ def check_diff_all():
             print(TEXT_TRY_AGAIN)
     else:
         path = utility.SOURCE_PATH
+    print(TEXT_CHECKING_AGAINST.format(Path=path))
 
     diff_detected = False
     for filename in utility.SOURCE_DATA_FILES:
