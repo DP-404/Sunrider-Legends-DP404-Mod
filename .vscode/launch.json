@@ -27,6 +27,22 @@
             "module": "_diff",
             "cwd": "${workspaceFolder}/scripts",
             "justMyCode": true
+        },
+        {
+            "name": "Python: Pack",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "_pack",
+            "cwd": "${workspaceFolder}/scripts",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Generate",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "_generate",
+            "cwd": "${workspaceFolder}/scripts",
+            "justMyCode": true
         }
     ]
 }
