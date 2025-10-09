@@ -355,13 +355,13 @@ tag chap1_battle1_tut6
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
 #% kay (The number of cannons available on each side of the ship are indicated the red dots surrounding a selected ship. Solid red dots indicate cannons which are loaded. Empty dots with red outlines indicate cannons which are empty. Black dots indicate cannons which have been destroyed by enemy fire.)
-kay (El número de cañones disponibles en cada lado de la nave está indicado por los puntos rojos que rodean una nave seleccionada. Puntos rojos rellenos indican cañones que están cargados. Puntos rojos vacíos con bordes rojos indican cañones que están vacíos. Puntos negros indican cañones que han sido destruidos por el fuego enemigo.)
+kay (El número de cañones disponibles en cada lado de la nave está indicado por los puntos rojos que rodean una nave seleccionada. Puntos rojos rellenos indican cañones que están cargados. Puntos vacíos con bordes rojos indican cañones que están vacíos. Puntos negros indican cañones que han sido destruidos por el fuego enemigo.)
 #% kay (The cannons on the attacking side of the ship become empty after firing. Ordering a second broadside from empty cannons requires additional EN for the crew to reload before firing.)
 kay (Los cañones del lado atacante de la nave se vacían tras disparar. Ordenar un segundo ataque de cañones vacíos requiere EN adicional para que la tripulación recargue antes de disparar.)
 #% kay (The cannons on other sides of the ship will still be loaded, so it's possible to fire twice without reloading when two enemies are on opposite sides of the ship.)
 kay (Los cañones en otros lados de la nave seguirán cargados, por lo que es posible disparar dos veces sin recargar cuando los enemigos están a lados opuestos de la nave.)
 #% kay (As the ship takes damage, its cannons will get destroyed on the side it is hit. However, if the enemy lands an attack on an unarmored side of the ship, cannons on both sides may be destroyed.)
-kay (A medida que la nave toma daño, sus cañones se destruirán en el lado en que es golpeada. Sin embargo, si el enemigo acierta un ataque en un lado no reforzado de la nave, los cañones a ambos lados podrían ser destruidos.)
+kay (A medida que la nave recibe daño, sus cañones se destruirán en el lado por el que es golpeada. Sin embargo, si el enemigo acierta un ataque en un lado no reforzado de la nave, los cañones a ambos lados podrían ser destruidos.)
 #% kay (That's why it's essential that I deliver broadsides to the enemy's unarmored sides while receiving enemy attacks on my armored sides.)
 kay (Es por eso que es esencial que aseste las balas a los lados no reforzados del enemigo mientras recibo los ataques enemigos en mis lados reforzados.)
 #% kay (These pirate scum are more nimble than the Sunrider, but lack armor and weaponry. Let's take them out!)
@@ -425,7 +425,7 @@ asa Eeehh... Nada tan siniestro como ser encadenadas en contra de nuestra volunt
 #% cha asa_armup_sad_closedeye_smirk
 cha asa_armup_sad_closedeye_smirk
 #% asa Let's just say, I had a wee bit of a disagreement with mah old man... so I got my pal Chigara here to bust me out! We made our escape on that old raft, but got caught out here in this gale, with pirates on our tail to boot!
-asa Solo digamos, que tuve un pequeñísimo desacuerdo con mi viejo... ¡así que hice que mi compañera Chigara me ayudara! Nos escapamos en esa vieja balsa, pero fuimos atrapadas aquí fuera en esta tormenta, ¡con piratas pisándonos los pies para empezar!
+asa Solo digamos, que tuve un pequeñísimo desacuerdo con mi viejo... ¡así que hice que mi compañera Chigara me ayudara! Nos escapamos en esa vieja balsa, pero nos quedamos atrapadas aquí fuera en esta tormenta, ¡con piratas pisándonos los talones para empezar!
 #% cha asa_armup_sad_closedeye_smirk
 cha asa_armup_sad_closedeye_smirk
 #% asa I suppose we woulda been goners if you hadn't shown up! Or at least a whole lot more soaked to the bone, eh?
@@ -487,7 +487,7 @@ kay ¿Huh? ¿Qué te hace pensar eso, Ava?
 #% cha ava_facepalm_focus_closedeye_slight
 cha ava_facepalm_focus_closedeye_slight
 #% ava Hmph! You are far too trusting! But a moment's glance at a fair face and your backbone has turned straight to jelly! Unbelievable... 
-ava ¡Hmph! ¡Es usted demasiado confiado! ¡Pero un momento mirando una cara bonita y tu carácter se ha vuelto una gelatina! Increíble...
+ava ¡Hmph! ¡Es usted demasiado confiado! ¡Pero un momento mirando una cara bonita y su carácter se ha vuelto directamente una gelatina! Increíble...
 #% cha ava_facepalm_focus_narrow_smalltalk
 cha ava_facepalm_focus_narrow_smalltalk
 #% ava Ugh, I tire of the ship's constant swaying - reminds me too much of our captain's mettle. Thankfully, I sense that the gale will clear up soon. Looks like you will have your way in the end. The rest of the voyage to Cera should be smooth sailings.
@@ -717,11 +717,11 @@ chi Encantada de conocerla.
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
 #% kay They'll be staying with us until they figure out their next destination. Let's get along well, okay?
-kay Se quedarán con nosotros hasta que averigüen su próximo destino. Llevémonos bien, ¿okey?
+kay Se quedarán con nosotros hasta que decidan su próximo destino. Llevémonos bien, ¿okey?
 #% cha mar_lean_sad_smug_smirk_blush
 cha mar_lean_sad_smug_smirk_blush
 #% mar So ya already invited two girls over, without even asking for your little sister's permission, eh... Big Bro's hand works fast...
-mar Así que ya invitaste a dos chicas, sin siquiera pedir el permiso de tu hermanita, eh... La mente de mi Hermano mayor funciona rápido...
+mar Así que ya invitaste a dos chicas, sin siquiera pedir el permiso de tu hermanita, eh... Mi Hermano toma decisiones rápido...
 #% cha kay_neu_sad_neutral_smile
 cha kay_neu_sad_neutral_smile
 #% kay Well, you know... You weren't onboard the ship when that happened...
@@ -737,7 +737,7 @@ kay Dónde sino. Tuvo que reportarse a su padre.
 #% cha mar_neu_sad_neutral_smalltalk_blush
 cha mar_neu_sad_neutral_smalltalk_blush
 #% mar Being the daughter of the Elder sure must be a pain, huh...
-mar Ser la hija deñ Anciano sí que debe ser una molestia, huh...
+mar Ser la hija del Anciano sí que debe ser una molestia, huh...
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay I'm sure she's got everything under control. But first, there's an important matter to discuss. I heard ill tidings while I was in the Song Alliance...
@@ -849,7 +849,7 @@ cha asa_armscrossed_neutral_neutral_smirk
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay ...So when we heard about the Veniczar's plans, I got my hands on this thing off a Demonfolk arms dealer. He called it the Vanguard Cannon. Apparently, this thing can blast a hole straight through a castle wall. Well, that is if we ever figure out how the hell to fire it.
-kay ...Así que cuando escuchamos sobre los planes del Veniczar, puse mis manos en esta cosa de un traficante de armas Demonio. Lo llamaba el Cañón Vanguard. Aparentemente, esta cosa puede abrir un agujero a lo través del muro de un castillo. Bueno, eso sería, si pudiéramos averiguar cómo demonios dispararlo.
+kay ...Así que cuando escuchamos sobre los planes del Veniczar, puse mis manos en esta cosa de un traficante de armas Demonio. Lo llamaba el Cañón Vanguard. Aparentemente, esta cosa puede abrir un agujero a través del muro de un castillo. Bueno, eso sería, si pudiéramos averiguar cómo demonios dispararlo.
 #% cha mar_neu_confuse_neutrallo_smalltalk
 cha mar_neu_confuse_neutrallo_smalltalk
 #% mar Eh? What do you mean?
@@ -867,11 +867,11 @@ mar Así que básicamente, mi hermano fue engañado en grande por un estafador, 
 #% cha kay_neu_focus_wide_talk
 cha kay_neu_focus_wide_talk
 #% kay Hey...! I wouldn't say that! O-Once we figure out how to lift the lock, this thing will be punching holes through any Pact ship which dares get near our town. You'll see.
-kay ¡Oye...! ¡Yo no diría eso! U-Una vez que averigüemos cómo levantar el sello, esta cosa provocará agujeros a través de cualquier nave del Pacto que se atreva a acercarse a nuestro pueblo. Ya verás.
+kay ¡Oye...! ¡Yo no diría eso! U-Una vez descubramos cómo levantar el sello, esta cosa provocará agujeros a través de cualquier nave del Pacto que se atreva a acercarse a nuestro pueblo. Ya verás.
 #% cha mar_lean_sad_closedeye_smirk
 cha mar_lean_sad_closedeye_smirk
 #% mar Siiggghh... What are we gonna do with you, bro...
-mar Suuspiiroo... Qué vamos a hacer contigo, hermano...
+mar Haaaaah... Qué vamos a hacer contigo, hermano...
 #% cha asa_armup_confuse_narrow2_awkwardsm
 cha asa_armup_confuse_narrow2_awkwardsm
 #% asa Ancient magic, huh... Hey, why don't I try undoing the seal...
@@ -891,7 +891,7 @@ kay ... ... ...
 #% cha mar_neu_confuse_neutral_neutral
 cha mar_neu_confuse_neutral_neutral
 #% mar Cough...
-mar Tos...
+mar Cof...
 #% cha asa_armup_concern_funnyclos_cry
 cha asa_armup_concern_funnyclos_cry
 #% asa Nothing, eh... Shucks!
@@ -957,7 +957,7 @@ kay No sé... Ella leyó en un libro que consiguió de un mercader Maan que en A
 #% mar But we're not man or woman! We're Elves!
 mar ¡Pero no somos hombres o mujeres! ¡Somos Elfos!
 #% kay Lately, she's been really into reading books written by Maan. They're filled with knowledge. Maan can't use magic, but instead, they have the power of science. I heard that the Veniczar wants to create a world where the Monolithic Truth doesn't matter and instead, those who accomplish great deeds rule instead.
-kay Últimamente, se ha estado metiendo bastante en leer libros escrito por Maan. Están repletos de conocimientos. Los Maan no pueden usar magia, pero en cambio, tienen el poder de la ciencia. Escuché que el Veniczar quiere crear un mundo donde la Verdad Monolítica no importe y en cambio, aquellos que logren grandes hazañas gobiernen en su lugar.
+kay Últimamente, se ha estado metiendo bastante en leer libros escrito por Maan. Están repletos de conocimiento. Los Maan no pueden usar magia, pero en cambio, tienen el poder de la ciencia. Escuché que el Veniczar quiere crear un mundo donde la Verdad Monolítica no importe y en cambio, aquellos que logren grandes hazañas gobiernen en su lugar.
 #% mar Eehh... But the Elder's always going on about how it's "unholy to question" wisdom of the High Elves. The Elves of the Song Alliance can live to be thousands of years old, right? So it's only natural that we have to listen to them - I bet they must know practically everything after having lived that long!
 mar Eehh... Pero el Anciano siempre está hablando de cómo es "impío cuestionar" la sabiduría de los Altos Elfos. Los Elfos de la Alianza Song pueden vivir hasta llegar a tener miles de años, ¿cierto? Así que es simplemente natural que tengamos que escucharlos - ¡apuesto a que deben conocer prácticamente todo después de vivir tanto!
 #% kay I guess since Maan live for a few decades at most, they've got to make their lives matter. Who knows. Pretty soon, we might become more like Maan than Elf...
@@ -1509,7 +1509,7 @@ kay ¡¿Maray?!
 #% cha mar_excited_angry_wide2_yell
 cha mar_excited_angry_wide2_yell
 #% mar I'm right here, Kayto! Don't worry about me - just focus on kicking Pact's butt!
-mar ¡Estoy justo aquí, Kayto! ¡No te preocupes por mí -  solo concéntrate en patearle el trasero al Pacto!
+mar ¡Estoy justo aquí, Kayto! ¡No te preocupes por mí - solo concéntrate en patearle el trasero al Pacto!
 #% cha kay_neu_neutral_wide_bigopensm
 cha kay_neu_neutral_wide_bigopensm
 #% kay You've got it. Don't worry - leave this to big brother!
@@ -1525,7 +1525,7 @@ ava Nos superan por mucho en número. ¿Alguna idea de cómo nos vamos a salir d
 #% cha kay_neu_focus_neutral_talk
 cha kay_neu_focus_neutral_talk
 #% kay Then we will even our odds. The Sunrider managed to sneak up behind that Pact brig - we'll close in and take it in hand-to-hand combat.
-kay Entonces igualaremos nuestras posibilidades. El Sunrider logró escabullirse detrás de ese bote del Pacto - nos acercaremos y lo tomaremos en un combate mano-a-mano.
+kay Entonces igualaremos nuestras posibilidades. El Sunrider logró escabullirse detrás de ese bote del Pacto - nos acercaremos y lo tomaremos en un combate cuerpo a cuerpo.
 #% kay We will add it to our ranks and use Pact's own ship against them.
 kay Lo añadiremos a nuestras filas y usaremos la propia nave del Pacto contra ellos.
 #% hid ava
