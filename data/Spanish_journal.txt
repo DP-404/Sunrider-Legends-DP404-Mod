@@ -3,7 +3,7 @@ PRINCIPAL: En un Mar Tormentoso...
 #% Ava and I were on our way back to Cera from a trade mission when we spotted a stricken raft in rough seas. We've got to rescue those poor souls from the storm!
 Ava y yo estábamos en camino de vuelta a Cera de una misión de comercio cuando avistamos una balsa en los fuertes mares. ¡Tenemos que rescatar a esas pobres almas de la tormenta!
 #% Reach the distressed raft.
-Alcanza la balsa en apuros.
+Alcanzar la balsa en apuros.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% -1000
@@ -17,7 +17,7 @@ PRINCIPAL: En un Mar Tormentoso... ¡Piratas!
 #% Ava and I were on our way back to Cera from a trade mission when we spotted a stricken raft in rough seas. After rescuing its crew, we were beset by a small band of pirates. They should be no match for the Sunrider. Let's take them out! 
 Ava y yo estábamos en camino de vuelta a Cera de una misión de comercio cuando avistamos una balsa en los fuertes mares. Tras rescatar a su tripulación, nos volvimos el objetivo de una pequeña banda de piratas. No deberían ser rivales para el Sunrider. ¡Acabemos con ellos!
 #% Defeat the pirates.
-Derrota a los piratas.
+Derrotar a los piratas.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% -1000
@@ -31,7 +31,7 @@ PRINCIPAL: Ir a Cera
 #% Now that we've rescued Asaga and Chigara from the raft, we should resume our course back to Cera. Rumors swirl in Volaris that war with Pact is imminent - I need to get back home as soon as possible.
 Ahora que hemos rescatado a Asaga y Chigara de la balsa, deberíamos reanudar nuestro curso de vuelta a Cera. Cuentan los rumores en Volaris que la guerra con el Pacto es inminente - Necesito volver a casa lo antes posible.
 #% Use the world map to sail to Cera.
-Usa el mapa del mundo para navegar a Cera.
+Usar el mapa del mundo para navegar a Cera.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Cera
@@ -59,7 +59,7 @@ PRINCIPAL: ¡Invasión! Huida
 #% War has come to Halla! I've got to escort Maray and the rest of the villagers safely out of town!
 ¡La guerra ha llegado a Halla! ¡Tengo que escoltar a Maray y al resto de los aldeanos a salvo fuera del pueblo!
 #% Move Maray's fishing boat to the escape zone. It cannot be sunk!
-Mueve al bote pesquero de Maray a la zona de escape. ¡No puede ser hundido!
+Mover el bote pesquero de Maray a la zona de escape. ¡No puede ser hundido!
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% -1000
@@ -73,7 +73,7 @@ PRINCIPAL: Demasiado tarde...
 #% I was too late... Now our only hope to make it out of Cera alive.
 No lo logré a tiempo... Nuestra única esperanza ahora es salir de Cera vivos.
 #% Move the Sunrider to the second escape zone.
-Mueve al Sunrider a la segunda zona de escape.
+Mover al Sunrider a la segunda zona de escape.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% -1000
@@ -87,7 +87,7 @@ PRINCIPAL: ¡Oh no!
 #% The Legion is cutting off our escape route. 
 El Legion está cortando nuestra ruta de escape.
 #% Move the Sunrider to the second escape zone.
-Mueve al Sunrider a la segunda zona de escape.
+Mover al Sunrider a la segunda zona de escape.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% -1000
@@ -101,7 +101,7 @@ PRINCIPAL: El Vanguard Despierta
 #% The Vanguard Cannon is fully charged. It's our only hope at escape!
 El Cañón Vanguard está completamente cargado. ¡Es nuestra única esperanza de escapar!
 #% Destroy the enemy fleet with the Vanguard Cannon and move the Sunrider to the indicated escape zone.
-Destruye la flota enemiga con el Cañón Vanguard y mueve al Sunrider a la zona de escape indicada.
+Destruir la flota enemiga con el Cañón Vanguard y mover al Sunrider a la zona de escape indicada.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% -1000
@@ -129,7 +129,7 @@ BATALLA: ¿Quién es Esta Niña Perdida y Descarada?
 #% After arriving at Tydaria, we found it ransacked by pirates. After a good faith attempt at negotiations, their leader, a child by the name of Cosette Cosmos, ordered her ships to open fire upon us without any provocative action on our part. 
 Tras llegar a Tydaria, nos la encontramos saqueada por piratas. Después de un intento de negociaciones de buena fe, su líder, una niña por el nombre de Cosette Cosmos, le ordenó a sus naves abrir fuego sobre nosotros sin ninguna acción provocativa de nuestra parte.
 #% Defeat the pirate fleet.
-Derrota la flota pirata.
+Derrotar la flota pirata.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Tydaria
@@ -143,7 +143,7 @@ PRINCIPAL: La Luz de Versta
 #% While foraging for food in the woods, we happened upon Icari, a sell sword from the Asahi Isle, who claims to be on a quest for vengeance against Veniczar Arcadius. After realizing that our paths converge at Versta, she has requested to come onboard in exchange for her services.
 Mientras recolectábamos comida en los bosques, nos encontramos con Icari, una mercenaria de la Isla Asahi, que afirma estar en una búsqueda de venganza contra Veniczar Arcadius. Después de darnos cuenta de que nuestros caminos convergían hacia Versta, nos ha pedido subir a bordo a cambio de sus servicios.
 #% Reach Versta
-Llega a Versta
+Llegar a Versta
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Versta
@@ -157,7 +157,7 @@ BATALLA: Al Auxilio de los Verstanos
 #% In a twist of fate, it turned out the mercenary Icari was sent to Versta by the High Elves of the Song Alliance to unleash the dreadstone upon the Pact fleet. Fortunately, we managed to thwart her mission, but at the cost of missing our chance to loot Pact's supplies. As luck would have it, we have spotted a Verstan frigate attempting to escape just as we were taking flight ourselves. Our only hope now is to join forces with the Verstans and attempt to reach the Song Alliance together.
 En un giro del destino, resultó que la mercenaria Icari fue enviada a Versta por los Altos Elfos de la Alianza Song para desatar la piedra del terror sobre la flota del Pacto. Afortunadamente, logramos frustrar su misión, pero al costo de perder nuestra oportunidad de saquear los suministros del Pacto. Por suerte, hemos avistado una fragata Verstana intentando escapar mientras nos dábamos a la fuga nosotros mismos. Nuestra única esperanza ahora es unir fuerzas con los Verstanos e intentar llegar a la Alianza Song juntos.
 #% Take command of the Verstan frigate by boarding it, then defeat the Pact fleet. Both the Sunrider and the Verstan frigate must survive.
-Toma el control de la fragata Verstana abordándola, y luego derrota a la flota del Pacto. Tanto el Sunrider como la fragata Verstana deben sobrevivir.
+Tomar el control de la fragata Verstana abordándola, y luego derrotar a la flota del Pacto. Tanto el Sunrider como la fragata Verstana deben sobrevivir.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Versta
@@ -171,7 +171,7 @@ BATALLA: Aplastar y Tomar
 #% In a twist of fate, it turned out the mercenary Icari was sent to Versta by the High Elves of the Song Alliance to unleash the dreadstone upon the Pact fleet. Fortunately, we managed to thwart her mission, but at the cost of missing our chance to loot Pact's supplies. As luck would have it, we spotted a Pact supply ship among the enemy fleet as we were taking flight. Our only hope now is to capture the supply ship and loot its cargo before we make our escape.
 En un giro del destino, resultó que la mercenaria Icari fue enviada a Versta por los Altos Elfos de la Alianza Song para desatar la piedra del terror sobre la flota del Pacto. Afortunadamente, logramos frustrar su misión, pero al costo de perder nuestra oportunidad de saquear los suministros del Pacto. Por suerte, hemos avistado una nave de suministros del Pacto entre la flota enemiga mientras nos dábamos a la fuga. Nuestra única esperanza ahora es capturar la nave de suministros y saquear su carga antes de escapar.
 #% Loot the supply ship by capturing it, then defeat the Pact fleet. The Sunrider cannot be sunk.
-Saquea la nave de suministros capturándola, luego derrota a la flota del Pacto. El Sunrider no puede ser hundido.
+Saquear la nave de suministros capturándola, luego derrotar a la flota del Pacto. El Sunrider no puede ser hundido.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Versta
@@ -185,7 +185,7 @@ PRINCIPAL: Hacia la Alianza Song...
 #% After our escape from Versta, we decided to set aside our differences and team up with Icari. At the end of the day, we have to accept that the Song Alliance is the only power in Halla capable of stopping Pact, despite their questionable methods. If we are to stop the Veniczar, we must get to Volaris, the great city of the High Elves, and plead our case to Admiral Haros Grey of the Emerald Fleet. Let us pray that the High Elves will be receptive to our cause...
 Tras escapar de Versta, decidimos dejar de lado nuestras diferencias y aliarnos con Icari. Al final del día, hemos aceptado que la Alianza Song es el único poder en Halla capaz de detener al Pacto, a pesar de sus métodos cuestionables. Si pretendemos detener al Veniczar, debemos llegar a Volaris, la gran ciudad de los Altos Elfos, e implorar nuestro caso al Almirante Haros Grey de la Flota Esmeralda. Recemos porque los Altos Elfos sean receptivos a nuestra causa...
 #% Go through the Strait of Far Port, into the Dragon's Foot Sea, and dock at Volaris.
-Atraviesa el Estrecho de Far Port, hacia el Mar Dragon's Foot, y atraca en Volaris.
+Atravesar el Estrecho de Far Port, hacia el Mar Dragon's Foot, y atracar en Volaris.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Volaris
@@ -199,7 +199,7 @@ ASALTO: Expulsar a la Flota del Pacto de Tydaria
 #% The Pact supply line is particularly vulnerable off the coast of Tydaria. What say we strike and liberate some of their goods for better use?
 La línea de suministros del Pacto es particularmente vulnerable en la costa de Tydaria. ¿Qué dice si atacamos y les arrebatamos algunos de sus bienes para un mejor uso?
 #% Sink the Pact fleet off the coast of Tydaria.
-Hunde la flota del Pacto en la costa de Tydaria.
+Hundir la flota del Pacto en la costa de Tydaria.
 #% spr_ui_talkicon_ava
 spr_ui_talkicon_ava
 #% Tydaria
@@ -213,7 +213,7 @@ PRINCIPAL: Investigar el Abismo Olvidado
 #% Our mission is now clear: We must find the legendary Sharr who will save us from Veniczar Arcadius. According to the High Elves of Song, an ancient talisman called the Talbur will reveal the path to the Sharr. It was last seen in the ship graveyard of the Forgotten Abyss - a damned place of eternal fog and shadows. We must brave its dangers if we are to gain the trust of the High Elves.
 Nuestra misión es ahora clara: Debemos hallar a la legendaria Sharr que nos salvará de Veniczar Arcadius. De acuerdo a los Altos Elfos de Song, un antiguo talismán llamado el Talbur revelará el camino a la Sharr. Fue visto por última vez en el cementerio de barcos del Abismo Olvidado - un lugar maldito de eterna niebla y sombras. Debemos afrontar sus peligros si pretendemos ganarnos la confianza de los Altos Elfos.
 #% Leave the Dragon's Foot Sea and enter the Forgotten Abyss.
-Deja el Mar Dragon's Foot y entra al Abismo Olvidado.
+Dejar el Mar Dragon's Foot y entrar al Abismo Olvidado.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% ForgottenAbyss
@@ -227,7 +227,7 @@ BATALLA: Rescatar a Claude
 #% Upon entering the Forgotten Abyss, we discovered a beautiful woman beset upon by dastardly pirates led by Cosette Cosmos. Honor bound to defend her, I ordered the ship to engage. Our main mission is to either sink or capture the enemy flagship, the Havoc, a whaler which has been haphazardly upgraded into a Ship of the Line.
 Tras entrar al Abismo Olvidado, descubrimos a una hermosa mujer acosada por los cobardes piratas liderados por Cosette Cosmos. Obligado por el honor a defenderla, le ordené a la nave entrar en combate. Nuestra misión principal es hundir o capturar la nave insignia enemiga, el Havoc, un ballenero que ha sido convertido sin querer en un Navío de Línea.
 #% Sink or capture the Havoc.
-Hunde o captura al Havoc.
+Hundir o capturar al Havoc.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% ForgottenAbyss
@@ -241,7 +241,7 @@ PRINCIPAL: Dirígete al Sharr'Lac
 #% After rescuing Claude from the dastardly pirates, I used my honed intuition and captaining experience to deduce that this woman was more than what she appeared. As fortune would have it, she knew the location of the Sharr'Lac, the ancient flagship of the Ryuvian Empire. According to a tome of ancient history belonging to Claude, that will be where we will find Sharr Sola's resting place and our target: The Talbur.
 Tras rescatar a Claude de los ruines piratas, use mi perfeccionada intuición y experiencia de capitán para deducir que esta mujer era más de lo que aparentaba. Por fortuna, conocía la ubicación del Sharr'Lac, la antigua nave insignia del Imperio Ryuviano. De acuerdo a un tomo de historia antigua perteneciente a Claude, sería ahí donde encontraremos el lugar de descanso de la Sharr Sola y nuestro objetivo: El Talbur.
 #% Head to the location of the Sharr'Lac.
-Dirígete a la ubicación del Sharr'Lac.
+Dirigirse a la ubicación del Sharr'Lac.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% ForgottenAbyss
@@ -264,26 +264,26 @@ ForgottenAbyss
 roo_chap3_battle2
 #% 1
 1
-# MAIN: Infiltrate the Star Palace A
-MAIN: Infiltrate the Star Palace A
-# Princess Asaga has been kidnapped by the dastardly Cullen of Pact. They are presently on route to Ryuvia, where Asaga is to be wedded to Veniczar Arcadius. Our best hope of rescuing her is to infiltrate the Star Palace through an ancient hidden passageway known to Sola. Let us pray that the passageway still exists, even after all these centuries.
-Princess Asaga has been kidnapped by the dastardly Cullen of Pact. They are presently on route to Ryuvia, where Asaga is to be wedded to Veniczar Arcadius. Our best hope of rescuing her is to infiltrate the Star Palace through an ancient hidden passageway known to Sola. Let us pray that the passageway still exists, even after all these centuries.
-# Go to Ryuvia and enter the secret passageway.
-Go to Ryuvia and enter the secret passageway.
+#% MAIN: Infiltrate the Star Palace A
+PRINCIPAL: Infiltrarse en el Palacio Estelar A
+#% Princess Asaga has been kidnapped by the dastardly Cullen of Pact. They are presently on route to Ryuvia, where Asaga is to be wedded to Veniczar Arcadius. Our best hope of rescuing her is to infiltrate the Star Palace through an ancient hidden passageway known to Sola. Let us pray that the passageway still exists, even after all these centuries.
+La Princesa Asaga ha sido secuestrada por el vil Cullen del Pacto. Están ahora en ruta a Ryuvia, donde Asaga se casará con Veniczar Arcadius. Nuestra mejor opción para rescatarla es infiltrarnos en el Palacio Estelar a través de un antiguo pasadizo oculto conocido por Sola. Recemos por que el pasadizo todavía exista, incluso después de todos estos siglos.
+#% Go to Ryuvia and enter the secret passageway.
+Ir a Ryuvia y entrar al pasadizo secreto.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap4_story3
 roo_chap4_story3
 #% 1
 1
-# MAIN: Infiltrate the Star Palace B
-MAIN: Infiltrate the Star Palace B
-# Princess Asaga has been kidnapped by the dastardly Cullen of Pact. They are presently on route to Ryuvia, where Asaga is to be wedded to Veniczar Arcadius. Our best hope of rescuing her is for Chigara to disguise herself as a handmaiden and sneak into the palace. She will then meet us at the gate and let us in.
-Princess Asaga has been kidnapped by the dastardly Cullen of Pact. They are presently on route to Ryuvia, where Asaga is to be wedded to Veniczar Arcadius. Our best hope of rescuing her is for Chigara to disguise herself as a handmaiden and sneak into the palace. She will then meet us at the gate and let us in.
-# Go to Ryuvia and wait until Chigara lets us in.
-Go to Ryuvia and wait until Chigara lets us in.
+#% MAIN: Infiltrate the Star Palace B
+PRINCIPAL: Infiltrarse en el Palacio Estelar B
+#% Princess Asaga has been kidnapped by the dastardly Cullen of Pact. They are presently on route to Ryuvia, where Asaga is to be wedded to Veniczar Arcadius. Our best hope of rescuing her is for Chigara to disguise herself as a handmaiden and sneak into the palace. She will then meet us at the gate and let us in.
+La Princesa Asaga ha sido secuestrada por el vil Cullen del Pacto. Están ahora en ruta a Ryuvia, donde Asaga se casará con Veniczar Arcadius. Nuestra mejor opción para rescatarla es que Chigara se disfrace como criada y se infiltre en el palacio. Se reunirá con nosotros en la puerta y nos permitirá entrar.
+#% Go to Ryuvia and wait until Chigara lets us in.
+Ir a Ryuvia y esperar a que Chigara nos deje entrar.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 # Ryuvia
@@ -293,98 +293,98 @@ roo_chap4_story3
 #% 1
 1
 # BATTLE: Escape Ryuvia
-BATTLE: Escape Ryuvia
+BATALLA: Escapar de Ryuvia
 # After we rescued Asaga, we managed to injure what we believed was Veniczar Arcadius, only to realize that we had been fighting an enchanted suit of armor instead. Thankfully, that gave us the opening to beat a hasty retreat back to the ship. Now we must escape Ryuvia with our lives intact.
-After we rescued Asaga, we managed to injure what we believed was Veniczar Arcadius, only to realize that we had been fighting an enchanted suit of armor instead. Thankfully, that gave us the opening to beat a hasty retreat back to the ship. Now we must escape Ryuvia with our lives intact.
+Tras rescatar a Asaga, logramos herir a lo que creíamos que era Veniczar Arcadius, solo para darnos cuenta de que habíamos estado luchando contra una armadura encantada en su lugar. Por suerte, eso nos dio la apertura para realizar una retirada apresurada de vuelta a la nave. Ahora debemos escapar de Ryuvia con nuestras vidas intactas.
 # Sink the enemy fleet or move the Sunrider to the marked escape zone.
-Sink the enemy fleet or move the Sunrider to the marked escape zone.
+Hundir la flota enemiga o mover al Sunrider a la zona de escape marcada.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap4_battle1a
 roo_chap4_battle1a
 #% 1
 1
-# MAIN: Pirate of the Shattered Rocks A
-MAIN: Pirate of the Shattered Rocks A
-# With the Crimson Fleet not far behind both our tails, our best move would be to declare a truce with Cosette and face the enemy together. One thing is clear from all this: That little pirate is no mere child!
-With the Crimson Fleet not far behind both our tails, our best move would be to declare a truce with Cosette and face the enemy together. One thing is clear from all this: That little pirate is no mere child!
-# Go to Sargasso and form a truce with Cosette.
-Go to Sargasso and form a truce with Cosette.
+#% MAIN: Pirate of the Shattered Rocks A
+PRINCIPAL: Pirata de las Rocas Destrozadas A
+#% With the Crimson Fleet not far behind both our tails, our best move would be to declare a truce with Cosette and face the enemy together. One thing is clear from all this: That little pirate is no mere child!
+Con la Flota Carmesí pisándonos los talones, nuestro mejor movimiento sería declarar una tregua con Cosette y enfrentar al enemigo juntos. Hay algo claro en todo esto: ¡Esa pequeña pirata no es una simple niña!
+#% Go to Sargasso and form a truce with Cosette.
+Ir a Sargasso y formar una tregua con Cosette.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Sargasso
+#% Sargasso
 Sargasso
 #% roo_chap4_story5
 roo_chap4_story5
 #% 1
 1
-# MAIN: Pirate of the Shattered Rocks B
-MAIN: Pirate of the Shattered Rocks B
-# It doesn't get tougher than this: We must enter the deadly Sargasso Bay and rescue Asaga from the pirates, all while a hostile Pact fleet pursues us with the same goal in mind. We better move quickly - any hesitation could derail this mission.
-It doesn't get tougher than this: We must enter the deadly Sargasso Bay and rescue Asaga from the pirates, all while a hostile Pact fleet pursues us with the same goal in mind. We better move quickly - any hesitation could derail this mission.
-# Go to Sargasso and rescue Asaga.
-Go to Sargasso and rescue Asaga.
+#% MAIN: Pirate of the Shattered Rocks B
+PRINCIPAL: Pirata de las Rocas Destrozadas B
+#% It doesn't get tougher than this: We must enter the deadly Sargasso Bay and rescue Asaga from the pirates, all while a hostile Pact fleet pursues us with the same goal in mind. We better move quickly - any hesitation could derail this mission.
+No hay nada más difícil que esto: Debemos entrar en la mortal Bahía de Sargasso y rescatar a Asaga de los piratas, todo mientras una hostil flota del Pacto nos persigue con el mismo objetivo en mente. Más nos vale movernos rápido - cualquier duda pudiera arruinar esta misión. 
+#% Go to Sargasso and rescue Asaga.
+Ir a Sargasso y rescatar a Asaga.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Sargasso
+#% Sargasso
 Sargasso
 #% roo_chap4_story5
 roo_chap4_story5
 #% 1
 1
-# BATTLE: Sargasso Rescue A
-BATTLE: Sargasso Rescue A
-# Negotiations were successfully conducted with the pirate, Cosette Cosmos. Though I am certain she has no intention of honoring our deal in the end, it does not change the fact that the Pact fleet is the greater threat. Let's take the enemy out first, then figure out a way to deal with her.
-Negotiations were successfully conducted with the pirate, Cosette Cosmos. Though I am certain she has no intention of honoring our deal in the end, it does not change the fact that the Pact fleet is the greater threat. Let's take the enemy out first, then figure out a way to deal with her.
-# Defeat the Pact fleet. The Havoc cannot be sunk.
-Defeat the Pact fleet. The Havoc cannot be sunk.
+#% BATTLE: Sargasso Rescue A
+BATALLA: Rescate en Sargasso A
+#% Negotiations were successfully conducted with the pirate, Cosette Cosmos. Though I am certain she has no intention of honoring our deal in the end, it does not change the fact that the Pact fleet is the greater threat. Let's take the enemy out first, then figure out a way to deal with her.
+Las negociaciones se llevaron a cabo con éxito con la pirata, Cosette Cosmos. Aunque estoy seguro de que no tiene intención de honrar nuestro acuerdo hasta el final, no cambia el hecho de que la flota del Pacto es la mayor amenaza. Acabemos con el enemigo primero, luego encontraremos una forma de lidiar con ella.
+#% Defeat the Pact fleet. The Havoc cannot be sunk.
+Derrotar a la flota del Pacto. El Havoc no puede ser hundido.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Sargasso
+#% Sargasso
 Sargasso
 #% roo_chap4_battle1b
 roo_chap4_battle1b
 #% 1
 1
-# BATTLE: Sargasso Rescue B
-BATTLE: Sargasso Rescue B
-# Sandwiched between pirates and Pact with nothing but Sargasso's rocky shoals by our side, it's times like these when I have to step up as the captain. Our first order of business is to board and capture the Havoc. Once Asaga has been freed from Cosette, we must then escape the bay before the Pact fleet seals it off.
-Sandwiched between pirates and Pact with nothing but Sargasso's rocky shoals by our side, it's times like these when I have to step up as the captain. Our first order of business is to board and capture the Havoc. Once Asaga has been freed from Cosette, we must then escape the bay before the Pact fleet seals it off.
-# Board and capture the Havoc, then move her to the marked escape zone.
-Board and capture the Havoc, then move her to the marked escape zone.
+#% BATTLE: Sargasso Rescue B
+BATALLA: Rescate en Sargasso B
+#% Sandwiched between pirates and Pact with nothing but Sargasso's rocky shoals by our side, it's times like these when I have to step up as the captain. Our first order of business is to board and capture the Havoc. Once Asaga has been freed from Cosette, we must then escape the bay before the Pact fleet seals it off.
+Atrapados entre los piratas y el Pacto con nada más que los rocosos bajíos de Sargasso a nuestro lado, es en momentos como estos cuando tengo que asumir el papel de capitán. Nuestra primera tarea es abordar y capturar el Havoc. Una vez Asaga haya sido liberada de Cosette, deberemos entonces escapar de la bahía antes de que la flota del Pacto la selle.
+#% Board and capture the Havoc, then move her to the marked escape zone.
+Abordar y capturar el Havoc, luego moverlo a la zona de escape marcada.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Sargasso
+#% Sargasso
 Sargasso
 #% roo_chap4_battle1c
 roo_chap4_battle1c
 #% 1
 1
-# MAIN: Return to Volaris
-MAIN: Return to Volaris
-# Now that we've rescued Asaga and uncovered her true identity as the Talbur's chosen one, our quest for the Song Alliance is complete. We should return to Volaris and report our findings to to Admiral Grey.
-Now that we've rescued Asaga and uncovered her true identity as the Talbur's chosen one, our quest for the Song Alliance is complete. We should return to Volaris and report our findings to to Admiral Grey.
-# Go to Volaris.
-Go to Volaris.
+#% MAIN: Return to Volaris
+PRINCIPAL: Regresar a Volaris
+#% Now that we've rescued Asaga and uncovered her true identity as the Talbur's chosen one, our quest for the Song Alliance is complete. We should return to Volaris and report our findings to to Admiral Grey.
+Ahora que hemos rescatado a Asaga y descubierto su verdadera identidad como la elegida del Talbur, nuestra misión para la Alianza Song está completada. Deberíamos regresar a Volaris y reportar nuestros hallazgos al Almirante Grey.
+#% Go to Volaris.
+Ir a Volaris.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Volaris
+#% Volaris
 Volaris
 #% roo_chap4_story9
 roo_chap4_story9
 #% 1
 1
 # MAIN: The Decisive Moment
-MAIN: The Decisive Moment
+PRINCIPAL: El Momento Decisivo
 # Rallied by Asaga, the High Elves will engage the Crimson Fleet at the strategic Strait of Far Port. Denying Pact access to the Dragon's Foot Sea will be pivotal to stopping Arcadius' juggernaut.
-Rallied by Asaga, the High Elves will engage the Crimson Fleet at the strategic Strait of Far Port. Denying Pact access to the Dragon's Foot Sea will be pivotal to stopping Arcadius' juggernaut.
+Vueltos a aliar por Asaga, los Altos Elfos se enfrentarán a la Flota Carmesí en el estratégico Estrecho de Far Port. Negar el acceso del Pacto al Mar Dragon's Foot será crucial para detener el ataque de Arcadius.
 # Go to Far Port.
-Go to Far Port.
+Ir a Far Port.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap4_story10
 roo_chap4_story10
@@ -405,67 +405,67 @@ roo_chap5_battle3
 #% 1
 1
 # BATTLE: Premonition
-BATTLE: Premonition
+BATALLA: Premonición
 # While on route to Far Port, we became separated from the Emerald Fleet in heavy fog. With the crew already rattled by this development, we further encountered a Pact scouting party upon arrival. If we act fast and capture the enemy commander, we might be able to gain intel as to the Crimson Fleet's plans.
-While on route to Far Port, we became separated from the Emerald Fleet in heavy fog. With the crew already rattled by this development, we further encountered a Pact scouting party upon arrival. If we act fast and capture the enemy commander, we might be able to gain intel as to the Crimson Fleet's plans.
+Mientras estábamos en ruta hacia Far Port, nos separamos de la Flota Esmeralda en una densa niebla. Con la tripulación ya asustada por esta nueva situación, encontramos además un grupo de reconocimiento del Pacto tras llegar. Si actuamos rápido y capturamos a la comandante enemiga, podríamos ser capaces de obtener información respecto a los planes de la Flota Carmesí.
 # Board and capture the enemy commander. Sink all other enemies.
-Board and capture the enemy commander. Sink all other enemies.
+Abordar y capturar a la comandante enemiga. Hundir a todas las otras naves.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap4_battle2
 roo_chap4_battle2
 #% 1
 1
 # MAIN: The Battle of Far Port
-MAIN: The Battle of Far Port
+PRINCIPAL: La Batalla de Far Port
 # It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
-It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
+Todo se reduce a esto: O defendemos Far Port o de lo contrario la Flota Carmesí obtendrá acceso al Mar Dragon's Foot e iniciará una invasión por tierra a Halla. El destino del reino depende de esta batalla. Sin importar el resultado, la historia será escrita hoy.
 # Face the Crimson Fleet.
-Face the Crimson Fleet.
+Enfrentar a la Flota Carmesí.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap4_story12
 roo_chap4_story12
 #% 1
 1
 # BATTLE: The Battle of Far Port
-BATTLE: The Battle of Far Port
+BATALLA: La Batalla de Far Port.
 # It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
-It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
+Todo se reduce a esto: O defendemos Far Port o de lo contrario la Flota Carmesí obtendrá acceso al Mar Dragon's Foot e iniciará una invasión por tierra a Halla. El destino del reino depende de esta batalla. Sin importar el resultado, la historia será escrita hoy.
 # Hold out until the Emerald Fleet arrives.
-Hold out until the Emerald Fleet arrives.
+Resistir hasta que la Flota Esmeralda llegue.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap4_battle3
 roo_chap4_battle3
 #% 1
 1
 # BATTLE: Cullen Appears
-BATTLE: Cullen Appears
+BATALLA: Cullen Aparece
 # It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
-It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
+Todo se reduce a esto: O defendemos Far Port o de lo contrario la Flota Carmesí obtendrá acceso al Mar Dragon's Foot e iniciará una invasión por tierra a Halla. El destino del reino depende de esta batalla. Sin importar el resultado, la historia será escrita hoy.
 # Sink or capture the Vaendryl.
-Sink or capture the Vaendryl.
+Hundir o capturar al Vaendryl.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap4_battle3
 roo_chap4_battle3
 #% 1
 1
-# RAID: Pact Fleet off Versta
-RAID: Pact Fleet off Versta
-# Pact has set up a supply line here to feed their ground forces. A hit-and-run attack on their ships here will hamper their army and hurt their troop morale.
-Pact has set up a supply line here to feed their ground forces. A hit-and-run attack on their ships here will hamper their army and hurt their troop morale.
-# Sink the Pact fleet off the coast of Versta.
-Sink the Pact fleet off the coast of Versta.
+#% RAID: Pact Fleet off Versta
+ASALTO: Expulsar a la Flota del Pacto de Versta
+#% Pact has set up a supply line here to feed their ground forces. A hit-and-run attack on their ships here will hamper their army and hurt their troop morale.
+El Pacto ha montado una línea de suministros aquí para sustentar sus fuerzas terrestres. Un ataque de golpe y fuga a sus naves aquí obstaculizará a su armada y herirá la moral de sus tropas.
+#% Sink the Pact fleet off the coast of Versta.
+Hundir la flota del Pacto en la costa de Versta.
 #% spr_ui_talkicon_ava
 spr_ui_talkicon_ava
 # Versta
@@ -740,29 +740,29 @@ ForgottenAbyss
 roo_chap3_rpgbattle1
 #% 1
 1
-# RPG BATTLE: Ninja Intruder
-RPG BATTLE: Ninja Intruder
-# We narrowly escaped Sargasso, but then only found ourselves attacked by Pact agents. Now we must defeat them before they slit our throats...
-We narrowly escaped Sargasso, but then only found ourselves attacked by Pact agents. Now we must defeat them before they slit our throats...
-# Defeat all Pact soldiers.
-Defeat all Pact soldiers.
+#% RPG BATTLE: Ninja Intruder
+BATALLA RPG: Ninja Intrusa
+#% We narrowly escaped Sargasso, but then only found ourselves attacked by Pact agents. Now we must defeat them before they slit our throats...
+Escapamos a duras penas de Sargasso, pero luego fuimos atacados por agentes del Pacto. Ahora debemos derrotarlos antes de que nos corten la garganta...
+#% Defeat all Pact soldiers.
+Derrota a todos los soldados del Pacto.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Sargasso
+#% Sargasso
 Sargasso
 #% roo_chap4_rpgbattle1b
 roo_chap4_rpgbattle1b
 #% 1
 1
-# RPG BATTLE: Arcadius at the Wedding
-RPG BATTLE: Arcadius at the Wedding
-# Could the war be decided here? Taking the Veniczar out at his own wedding might seem somewhat unscrupulous, but would bring the war to a quick and unexpected end. He certainly does deserve it, after everything he's done.
-Could the war be decided here? Taking the Veniczar out at his own wedding might seem somewhat unscrupulous, but would bring the war to a quick and unexpected end. He certainly does deserve it, after everything he's done.
-# Defeat Veniczar Arcadius and his soldiers.
-Defeat Veniczar Arcadius and his soldiers.
+#% RPG BATTLE: Arcadius at the Wedding
+BATALLA RPG: Arcadius en la Boda
+#% Could the war be decided here? Taking the Veniczar out at his own wedding might seem somewhat unscrupulous, but would bring the war to a quick and unexpected end. He certainly does deserve it, after everything he's done.
+¿Pudiera decidirse aquí la guerra? Acabar con el Veniczar en su propia boda podría parecer algo inescrupuloso, pero llevaría la guerra a un rápido e inesperado fin. Él ciertamente se lo merece, después de todo lo que ha hecho.
+#% Defeat Veniczar Arcadius and his soldiers.
+Derrota a Veniczar Arcadius y sus soldados.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap4_rpgbattle1a
 roo_chap4_rpgbattle1a
