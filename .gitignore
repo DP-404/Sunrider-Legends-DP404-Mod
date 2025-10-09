@@ -1,4 +1,5 @@
 exported_data/**/*.txt
+generated_data/**/*.txt
 source_data/**/*.txt
 errors.txt
 __pycache__
