@@ -16,9 +16,14 @@ Este es un mod de traducción para la novela visual [Sunrider Legends Tactics](h
 - Ejecuta Sunrider Legends Tactics. Ve a Options > Language y expande la lista desblegable. Si el texto `"Spanish"` aparece, entonces vas bien.
 - Selecciona `"Spanish"` en la lista desplegable en Options > Language, y luego haz cualquiera de las siguientes acciones para que el idioma se cambie:
   - Reinicia el juego.
-  - Comienza/Carga y regresa al menú principal. 
+  - Comienza/Carga y regresa al menú principal.
+- **ADVERTENCIA**: Se recomienda que una vez se comience el juego con un idioma, no lo cambies a mitad de camino. Podrían ocurrir comportamientos inesperados y/o errores fatales. Si bien no es realmente imposible, se desaconseja.
 
 # Historial de Cambios
+
+## v0.2 (updated to [v.1.2.1.0](https://store.steampowered.com/news/app/3854880/view/787688820859470749?l=spanish))
+- Translated chapter4, journal (partial)
+- Enhanced chapter1, chapter2, chapter3, journal
 
 ## v0.1 (basada en [v1.2.08](https://store.steampowered.com/news/app/3854880/view/516344858807370198))
 - Traducido chapter1, chapter2, chapter3, journal (partial), lore, names, newui, shipnames, systext y ui

@@ -16,9 +16,14 @@ This is a localization mod for the visual novel [Sunrider Legends Tactics](https
 - Run Sunrider Legends Tactics. Go to Options > Language and expand the combo box. If `"Spanish"` text appears, then you're good to go.
 - Select `"Spanish"` in the combo box in Options > Language, and then do any of the following for the language to be changed:
   - Restart the game.
-  - Start/Load and return to the main menu. 
+  - Start/Load and return to the main menu.
+- **WARNING**: It is recommended that once started a game with a language, you don't change it halfway through. Unexpected behaviors and/or chrashes may occur. While it is not actually impossible, it's advised against it.
 
 # Changelog
 
-## v0.1 (based on [v1.2.08](https://store.steampowered.com/news/app/3854880/view/516344858807370198))
+## v0.2 (updated to [v.1.2.1.0](https://store.steampowered.com/news/app/3854880/view/787688820859470749))
+- Translated chapter4, journal (partial)
+- Enhanced chapter1, chapter2, chapter3, journal
+
+## v0.1 (based on [v1.2.0.6](https://store.steampowered.com/news/app/3854880/view/516344858807370198))
 - Translated chapter1, chapter2, chapter3, journal (partial), lore, names, newui, shipnames, systext and ui
