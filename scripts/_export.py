@@ -3,13 +3,16 @@ import os
 import _utility as utility
 
 TEXT_EXPORTED = 'Exported: {Filename}'
-EXPORT_PATH = os.path.join(os.path.dirname(utility.DATA_PATH), "exported_data")
+PATH_EXPORT = os.path.join(os.path.dirname(utility.DATA_PATH), "exported_data")
+PATH_DEFAULT = os.path.join(PATH_EXPORT, "default")
+PATH_DECODED = os.path.join(PATH_EXPORT, "decoded")
+PATH_DEBUG = os.path.join(PATH_EXPORT, "debug")
 
 def export(filename:str):
     path = os.path.join(utility.DATA_PATH, filename)
-    export_path = os.path.join(EXPORT_PATH, "default", filename)
-    export_path_decoded = os.path.join(EXPORT_PATH, "decoded", filename)
-    export_path_debug = os.path.join(EXPORT_PATH, "debug", filename)
+    export_path_default = os.path.join(PATH_DEFAULT, filename)
+    export_path_decoded = os.path.join(PATH_DECODED, filename)
+    export_path_debug = os.path.join(PATH_DEBUG, filename)
 
     text = utility.load_text(path)
     _,worklines = utility.split_text_lines(text)
@@ -17,7 +20,7 @@ def export(filename:str):
     export_text = '\n'.join(worklines)
     export_text_debug = '\n'.join(worklines_debug)
 
-    utility.save_text(export_path, export_text, b64encode=True)
+    utility.save_text(export_path_default, export_text, b64encode=True)
     utility.save_text(export_path_decoded, export_text)
     utility.save_text(export_path_debug, export_text_debug, b64encode=True)
 
