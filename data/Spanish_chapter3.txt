@@ -217,7 +217,7 @@ ava ¡Hmph!
 #% cha ica_handsonhips_focus_neutral_smalltalk
 cha ica_handsonhips_focus_neutral_smalltalk
 #% ica Sigh... In any matter, this war has taken its toll on everyone. Our only path is to head to Volaris and parley with the High Elves. Only they wield the might to face the Veniczar's forces.
-ica Haah... En cualquier caso, esta guerra le ha pasado factura a todos. Nuestra única ruta es dirigirnos a Versta y conversar con los Altos Elfos. Solo ellos tienen el poder para enfrentarse a las fuerzas del Veniczar.
+ica Haah... En cualquier caso, esta guerra le ha pasado factura a todos. Nuestra única ruta es dirigirnos a Versta y parlamentar con los Altos Elfos. Solo ellos tienen el poder para enfrentarse a las fuerzas del Veniczar.
 #% cha kay_neu_neutral_neutral_smalltalk
 cha kay_neu_neutral_neutral_smalltalk
 #% kay On that we are agreed. The independent city states of the Neutral Marches will be easy picking for the Pact of Maan and the Ryuvian Empire is on its deathbed. Our last hope lies with the Song Alliance.
@@ -371,7 +371,7 @@ kay Mantengámosla sana y salva por ahora - y preocupémonos por ella luego. Qui
 #% cha ica_armscrossed_focus_neutral_smalltalk
 cha ica_armscrossed_focus_neutral_smalltalk
 #% ica You may be onto something. I can't say the thing's very useful by itself - hardly a boon to turn our enemies into equally deadly zombies.
-ica Puede que tengas razón. No puedo decir que esa cosa sea muy útil por sí sola - difícilmente sea una ventaja convertir a nuestros enemigos en zombis igualmente letales.
+ica Puede que tengas razón. No puedo decir que esa cosa sea muy útil por sí sola - difícilmente sea una ventaja convertir a nuestros enemigos en zombis igualmente mortíferos.
 #% ica There must be something about the Light Tower of Versta which amplifies the Dreadstone's power. In fact, I've witnessed countless sorcerers of the Dark Prince's army turn living Maan to undead with a flick of their staff. Without the Light Tower, maybe the Dreadstone is but a talisman of ordinary necromancy.
 ica Debe de haber algo sobre el Faro de Versta que amplifique el poder de la Piedra del Terror. De hecho, he presenciado a incontables hechiceros del ejército del Príncipe Oscuro convertir a Maan en no muertos con un movimiento de sus bastones. Sin el Faro, tal vez la Piedra del Terror no sea más que un talismán de nigromancia ordinaria.
 #% cha kay_neu_confuse_big_slight
@@ -401,7 +401,7 @@ ica Los Altos Elfos afirmaban que los Nuevos Imperiales fueron una vez Elfos... 
 #% ica They enslaved all the Maan of the Asahi Isle and used us to fuel their industries. Those were the dark times - before the coming of Veniczar Arcadius.
 ica Ellos esclavizaron a todos los Maan de la Isla Asahi y nos usaron para 
 #% ica I was just a child when Arcadius formed the Pact of Maan with the goal of unifying all the tribes of Maan against the New Empire. My father was but one of many who joined the Veniczar in the name of freedom.
-ica Yo era solo una niña cuando Arcadius formó  el Pacto de Maan con el objetivo de unir a todas las tribus de Maan contra el Nuevo Imperio. Mi padre no fue más que uno de los muchos que se unió al Veniczar en nombre de la libertad.
+ica Yo era solo una niña cuando Arcadius formó el Pacto de Maan con el objetivo de unir a todas las tribus de Maan contra el Nuevo Imperio. Mi padre no fue más que uno de los muchos que se unió al Veniczar en nombre de la libertad.
 #% ica He was there, at the Battle of New Edar, when the fate of the Asahi Isle was decided. The Ork, Cullen, betrayed the Dark Prince and allowed the Veniczar's army through New Edar's gate, blindsiding the Orks as they drank and reveled. In the ensuing bloodbath, Prince Erizlo was defeated in combat by the Veniczar and the old Emperor barely fled the capital alive.
 ica Él estuvo ahí, en la Batalla de New Edar, cuando el destino de la Isla Asahi fue decidido. El Orko, Cullen, traicionó al Príncipe Oscuro y permitió que el ejército del Veniczar atravesara la puerta de New Edar, atacando por sorpresa a los Orkos mientras bebían y festejaban. En la masacre que siguió, el Príncipe Erizlo fue derrotado en combate por el Veniczar y el viejo Emperador escapó por poco de la capital con vida.
 #% cha ica_armscrossed_focus_smug_slight
@@ -563,7 +563,7 @@ chi En realidad, soy yo quien debería disculparse... Accidentalmente lancé un 
 #% cha kay_neu_sad_closed_slight
 cha kay_neu_sad_closed_slight
 #% kay Better that such a terrifying artifact be lost to the sea, than wielded by our imperfect hands. I had always believed that I'd be able to resist evil's temptation, but when actually given that horrible power, my mettle cracked.
-kay Mejor que un artefacto tan aterrador se perdiera en el mar, a que fuera usado por nuestras manos imperfectas. Siempre había creído que sería capaz de resistir la tentación del mal, pero cuando  me fue otorgado ese poder tan horrible, mi mente se quebró.
+kay Mejor que un artefacto tan aterrador se perdiera en el mar, a que fuera usado por nuestras manos imperfectas. Siempre había creído que sería capaz de resistir la tentación del mal, pero cuando me fue otorgado ese poder tan horrible, mi mente se quebró.
 #% cha kay_neu_sad_neutral_neutral
 cha kay_neu_sad_neutral_neutral
 #% kay I should have been better. But I was not.
@@ -671,7 +671,7 @@ asa Entonces, ¿cuál es nuestro próximo movimiento?
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay With Versta now under Pact's control, we have no other choice but to make our way to Volaris and parley with the Song Alliance. Only the High Elves have the forces necessary to thwart the Veniczar's invasion.
-kay Con Versta ahora bajo el control del Pacto, no tenemos más opción que dirigirnos a Volaris y platicar con la Alianza Song. Solo los Altos Elfos tienen las fuerzas necesarias para frustrar la invasión del Veniczar.
+kay Con Versta ahora bajo el control del Pacto, no tenemos más opción que dirigirnos a Volaris y parlamentar con la Alianza Song. Solo los Altos Elfos tienen las fuerzas necesarias para frustrar la invasión del Veniczar.
 #% cha asa_armscrossed_raised_neutral_smalltalk
 cha asa_armscrossed_raised_neutral_smalltalk
 #% voi asa_vns_neu_07
@@ -937,7 +937,7 @@ ccc kay_nude
 #% cha kay_neu_neutral_closed2_smirk
 cha kay_neu_neutral_closed2_smirk
 #% kay (Whew... It's high time I finally got in here.)
-kay (Whew... Ya es hora de que finalmente entrar aquí.)
+kay (Uf... Ya es hora de que finalmente entrar aquí.)
 #% kay (The waters of Volaris are legendary for their restorative powers. There is deep magic here.)
 kay (Las aguas de Volaris son legendarias por sus poderes restaurativos. Hay magia profunda aquí.)
 #% kay (Truly, the beauty of the Song Alliance cannot be matched by anything in all of Halla.)
@@ -1265,7 +1265,7 @@ asa Bueno, espero descubrir uno y no el otro.
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 #% kay The hour is late and the Elves wish to parley tomorrow. Let us rest tonight on firm ground and face tomorrow.
-kay Ya es tarde y los Elfos desean hablar mañana. Descansemos por esta noche en tierra firme y afrontemos el mañana.
+kay Ya es tarde y los Elfos desean parlamentar mañana. Descansemos por esta noche en tierra firme y afrontemos el mañana.
 #% cha asa_armscrossed_neutral_neutral_smirk
 cha asa_armscrossed_neutral_neutral_smirk
 #% asa All right, I suppose so...
@@ -1811,7 +1811,7 @@ cha ica_back_confuse_smuglooka_smallsmil
 #% voi ica_vns_sad_03
 voi ica_vns_sad_03
 #% ica Sigh... Well, I suppose if you put it like that, there's no way I'm gonna discriminate against you just 'cause you're a Kitsune. Not when you've accepted a Maan like myself as a comrade in arms.
-ica Haah... Bueno, supongo que si lo pones así, no hay forma de que vaya a discriminarte solo porque eres una Kitsune. No cuando  has aceptado a una Maan como yo como compañera en armas.
+ica Haah... Bueno, supongo que si lo pones así, no hay forma de que vaya a discriminarte solo porque eres una Kitsune. No cuando has aceptado a una Maan como yo como compañera en armas.
 #% cha asa_fist_focus_neutral_bigopensm
 cha asa_fist_focus_neutral_bigopensm
 #% voi asa_vns_hap_02
@@ -1955,7 +1955,7 @@ cha ava_armup_focus_closedeye_bigtalk
 #% voi ava_vns_ang_02
 voi ava_vns_ang_02
 #% ava Ahem, I believe their exact words were, "No doubt you will be in dire need of our charity if your mission is ever to succeed."
-ava Ejem, creo que sus palabras exactas fueron, "Sin duda necesitarán urgentemente nuestra caridad si quieren que su misión tenga éxito."
+ava Ejem, creo que sus palabras exactas fueron, "Sin duda necesitarán urgentemente nuestra caridad si quieren que su misión tenga éxito".
 #% cha ava_armscrossed_focus_closedeye_frown
 cha ava_armscrossed_focus_closedeye_frown
 #% ava I am glad to bid my leave of Volaris. The arrogance of the High Elves rubs me the wrong way.
@@ -2379,7 +2379,7 @@ cos ¡Caapiitáán! ¡Así que nos encontramos finalmente, cara a cara!
 #% cha kay_neu_focus_wide_talk
 cha kay_neu_focus_wide_talk
 #% kay How about we parley, little one? It is not too late. You need not go down this path!
-kay ¿Qué te parece si conversamos, pequeña? No es demasiado tarde. ¡No tienes que seguir este camino!
+kay ¿Qué te parece si parlamentamos, pequeña? No es demasiado tarde. ¡No tienes que seguir este camino!
 #% cha cos_facepalm_crazyangr_widebigpu_wideclenc_shadow
 cha cos_facepalm_crazyangr_widebigpu_wideclenc_shadow
 #% voi cos_vns_ang_03
@@ -3243,7 +3243,7 @@ ava ¡Increíble! ¿Permitiría que esta pervertida sexual quedarse como un miem
 #% cha kay_neu_sad_closed_smirk
 cha kay_neu_sad_closed_smirk
 #% kay Well, I guess we do need the location of the Talbur... And her magical abilities certainly are not fraudulent. However, I shall keep my belt buckled and my pants safely secured at all times, lest we encounter another unfortunate "whoopsie."
-kay Bueno, supongo que necesitamos la ubicación del Talbur... Y sus habilidades mágicas ciertamente no son fraudulentas. Sin embargo, mantendré mi cinturón abrochado y mis calzones asegurados en todo momento, no sea que nos encontremos con otro desafortunado "desliz."
+kay Bueno, supongo que necesitamos la ubicación del Talbur... Y sus habilidades mágicas ciertamente no son fraudulentas. Sin embargo, mantendré mi cinturón abrochado y mis calzones asegurados en todo momento, no sea que nos encontremos con otro desafortunado "desliz".
 #% cha cla_armscrossed_sad_funnyclos_3mouth
 cha cla_armscrossed_sad_funnyclos_3mouth
 #% cla Eh-heh... O-Of course, captain... No more pulling funnies from now on... Pinky swear...
@@ -4597,7 +4597,7 @@ var cosettetakesasaga
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 #% kay Indeed, Cosette may just help defeat the Veniczar for us...
-    kay Sin duda, Cosette podría ayudar a derrotar al Veniczar por nosotros...
+kay Sin duda, Cosette podría ayudar a derrotar al Veniczar por nosotros...
 #% stop
 stop
 #%
