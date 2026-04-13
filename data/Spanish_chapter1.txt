@@ -5,7 +5,7 @@ Hace mucho tiempo, en una tierra semejante a la nuestra...
 #% The High Elves believe that history began when they fell to Halla on a fragment of the moon...
 Los Altos Elfos creen que la historia comenzó cuando cayeron a Halla en un fragmento de la luna...
 #% From the peak of Mount Destiny where they fell, the great Elf elders brought down the Monolith of Truth to the other races of the realm...
-Desde la cima del Monte Destino donde cayeron, los grandes ancianos Elfos llevaron el Monolito de la Verdad a las otras razas de la tierra...
+Desde la cima del Monte Destiny donde cayeron, los grandes ancianos Elfos llevaron el Monolito de la Verdad a las otras razas de la tierra...
 #% According to the Monolith, the elder would rule the younger. The High Elves founded the Holy Ryuvian Empire and subjugated all the other races under their gospel.
 Según el Monolito, los ancianos gobernarían a los jóvenes. Los Altos Elfos fundaron el Sacro Imperio Ryuviano y subyugaron a todas las demás razas bajo su credo.
 #% For over ten thousand years, the Elves ruled all of Halla, their grace unmatched.
@@ -137,7 +137,7 @@ kay (Una vez una nave está seleccionada, hacer clic en el botón de acción MOV
 #% kay (After moving a ship, I must decide the ship's facing direction. This is important, as most ships can only fire broadsides on their sides.)
 kay (Tras mover una nave, debo decidir la dirección en la que mira la nave. Esto es importante, ya que la mayoría de las naves solo pueden disparar balas por sus lados.)
 #% kay (Currently, the wind is blowing northeast, allowing the ship to move in that direction much further. The wind direction and strength are displayed in the Wind Compass at the bottom right side of the screen.)
-kay (Actualmente, el viento está soplando al nordeste, permitiéndole a la nave moverse en esa dirección aún más. La dirección y la fuerza del viento son mostradas en la Brújula de Vientos en la esquina inferior derecha de la pantalla.)
+kay (Actualmente, el viento está soplando al nordeste, permitiéndole a la nave moverse en esa dirección todavía más. La dirección y la fuerza del viento son mostradas en la Brújula de Vientos en la esquina inferior derecha de la pantalla.)
 #% kay (Since the stricken raft is northeast of us, I can use the wind to quickly get the ship to the raft.)
 kay (Ya que la balsa está al nordeste de nosotros, puedo usar el viento para llevar la nave rápidamente a la balsa.)
 #% cha kay_neu_focus_neutral_smalltalk
@@ -171,7 +171,7 @@ kay (Puedo moverme por las acciones de la nave actualmente seleccionada con arri
 #% kay (After moving a ship, I must decide the ship's facing direction. This is important, as most ships can only fire broadsides on their sides.)
 kay (Tras mover una nave, debo decidir la dirección en la que mira la nave. Esto es importante, ya que la mayoría de las naves solo pueden disparar balas por sus lados.)
 #% kay (Currently, the wind is blowing northeast, allowing the ship to move in that direction much further. The wind direction and strength are displayed in the Wind Compass at the bottom right side of the screen.)
-kay (Actualmente, el viento está soplando al nordeste, permitiéndole a la nave moverse en esa dirección aún más. La dirección y la fuerza del viento son mostradas en la Brújula de Vientos en la esquina inferior derecha de la pantalla.)
+kay (Actualmente, el viento está soplando al nordeste, permitiéndole a la nave moverse en esa dirección todavía más. La dirección y la fuerza del viento son mostradas en la Brújula de Vientos en la esquina inferior derecha de la pantalla.)
 #% kay (Since the stricken raft is northeast of us, I can use the wind to quickly get the ship to the raft.)
 kay (Ya que la balsa está al nordeste de nosotros, puedo usar el viento para llevar la nave rápidamente a la balsa.)
 #% cha kay_neu_focus_neutral_smalltalk
@@ -409,23 +409,23 @@ kay No te preocupes. Esos piratas eran solo basura marina. ¡Para nada un proble
 #% cha ava_armscrossed_focus_closedeye_smalltalk
 cha ava_armscrossed_focus_closedeye_smalltalk
 #% ava Sigh... Sailing on the open seas on a raft during the middle of a storm. Surely, you two must have a death wish?
-ava Haah... Navegando en mar abierto en una balsa en medio de una tormenta. En serio, ¿ustedes dos tenían un deseo de muerte?
+ava Haah... Navegando en mar abierto en una balsa en medio de una tormenta. En serio, ¿ustedes dos tenían deseos de morir?
 #% cha asa_bendover_angry_neutral_bigtalk
 cha asa_bendover_angry_neutral_bigtalk
 #% asa No, no, no! It wasn't a death wish that made me get on that raft! Rather the opposite, in fact. You could say it was a matter of life and death that I escaped!
-asa ¡No, no, no! ¡No fue un deseo de muerte lo que me llevó a esa balsa! Todo lo contrario, de hecho. ¡Pudiera decirse que fue una cuestión de vida o muerte por lo que escapé!
+asa ¡No, no, no! ¡No fue un deseo de morir lo que me llevó a esa balsa! Todo lo contrario, de hecho. ¡Pudiera decirse que fue una cuestión de vida o muerte por lo que escapé!
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay A matter of life and death, you say? You were being held captive by someone?
-kay ¿Una cuestión de vida o muerte, dices? ¿Habían sido capturadas por alguien?
+kay ¿Una cuestión de vida o muerte, dices? ¿Alguien las tenía prisioneras?
 #% cha asa_shrug_sad_narrow2_awkwardsm
 cha asa_shrug_sad_narrow2_awkwardsm
 #% asa Eeehh... Nothing as grim as being chained up against our wills by a gang of pirates, mind you.
-asa Eeehh... Nada tan siniestro como ser encadenadas en contra de nuestra voluntad por una banda de piratas, en realidad.
+asa Eeehh... Nada tan siniestro como estar encadenadas en contra de nuestra voluntad por una banda de piratas, en realidad.
 #% cha asa_armup_sad_closedeye_smirk
 cha asa_armup_sad_closedeye_smirk
 #% asa Let's just say, I had a wee bit of a disagreement with mah old man... so I got my pal Chigara here to bust me out! We made our escape on that old raft, but got caught out here in this gale, with pirates on our tail to boot!
-asa Solo digamos, que tuve un pequeñísimo desacuerdo con mi viejo... ¡así que hice que mi compañera Chigara me ayudara! Nos escapamos en esa vieja balsa, pero nos quedamos atrapadas aquí fuera en esta tormenta, ¡con piratas pisándonos los talones para empezar!
+asa Solo digamos, que tuve un pequeñísimo desacuerdo con mi viejo... ¡así que hice que mi compañera Chigara me ayudara a huir! ¡Nos escapamos en esa vieja balsa, pero nos quedamos atrapadas aquí fuera en esta tormenta, con piratas pisándonos los talones para empezar!
 #% cha asa_armup_sad_closedeye_smirk
 cha asa_armup_sad_closedeye_smirk
 #% asa I suppose we woulda been goners if you hadn't shown up! Or at least a whole lot more soaked to the bone, eh?
@@ -453,7 +453,7 @@ kay ¿Comandante?
 #% cha ava_armscrossed_focus_neutral_smalltalk
 cha ava_armscrossed_focus_neutral_smalltalk
 #% ava Clearly, these vagabonds are a pair of runaways - most likely some nobleman's daughter and her attendant. Whatever dispute this "Asaga" has with her father, we best not get involved. Who knows what secrets they may be hiding.
-ava Claramente, estas vagabundas son un par que ha huido - probablemente la hija de algún noble y su criada. Cualquiera sea la disputa que esta "Asaga" tenga con su padre, es mejor no involucrarnos. Quién sabe qué secretos pudieran estar escondiendo.
+ava Claramente, estas vagabundas son un par que ha huido - probablemente la hija de algún noble y su criada. Cualquiera sea la disputa que esta "Asaga" tenga con su padre, mejor no involucrarnos. Quién sabe qué secretos pudieran estar escondiendo.
 #% ava The port of Versta's but a day away. We should drop our guests off there and clean our hands of this affair.
 ava El puerto de Versta no está más que a un día. Deberíamos dejar a nuestras invitadas ahí y limpiarnos las manos de este asunto.
 #% cha kay_neu_focus_thinking_smirk
@@ -471,7 +471,7 @@ ava Sin embargo, ¿es realmente sabio llevar a nuestras dos invitadas todo el ca
 #% cha kay_neu_neutral_neutral_smalltalk
 cha kay_neu_neutral_neutral_smalltalk
 #% kay Then we can tell them the truth: That we are a merchant vessel that happened to rescue a pair of girls from the rough seas, then proceeded as scheduled back to our home port. Hardly a crime.
-kay Entonces podemos contarles la verdad: Que somos un navío mercante que casualmente rescató a un par de chicas de los duros mares, y luego procedimos como lo planeado a regresar al puerto de nuestro hogar. No lo llamaría un crimen.
+kay Entonces podemos contarles la verdad: Que somos un navío mercantil que por casualidad rescató a un par de chicas de los duros mares, y luego procedimos como lo planeado a regresar al puerto de nuestro hogar. No lo llamaría crimen.
 #% cha ava_armscrossed_focus_closedeye_smalltalk
 cha ava_armscrossed_focus_closedeye_smalltalk
 #% ava I suppose so, captain. Still...
@@ -497,7 +497,7 @@ cha kay_neu_neutral_neutral_smallopen
 #% kay We can count our blessings then.
 kay Podemos considerarnos bendecidos entonces.
 #% kay All right, you two. We've decided that we've got to get on our way to Cera. We can drop you off there, then we'll go our separate ways. We're still three days out from our destination, so why don't you get settled in?
-kay Muy bien, ustedes dos. Hemos decidido que tenemos que ponernos en marcha hacia Cera. Podemos dejarlas allí, y luego iremos por nuestros caminos separados. Todavía estamos a tres días de nuestro destino, ¿así que por qué no se acomodan?
+kay Muy bien, ustedes dos. Hemos decidido que tenemos que ponernos en marcha hacia Cera. Podemos dejarlas allí, y luego iremos por nuestros caminos separados. Todavía estamos a tres días de nuestro destino, ¿por lo tanto por qué no se acomodan?
 #% cha asa_excited_neutral_closedeye_laugh
 cha asa_excited_neutral_closedeye_laugh
 #% cha chi_armsbehind_neutral_closedeye_smile
@@ -547,7 +547,7 @@ kay (Este es el Mapa del Mundo. Puedo mover la nave por el mapa haciendo clic iz
 #% kay (The ship will automatically navigate to its target, but cannot go on land.)
 kay (La nave navegará automáticamente a su objetivo, pero no puede ir por tierra.)
 #% kay (Cera is northeast of our current position. Once I get near a settlement, a list of available missions will appear on the left side of the screen.)
-kay (Cera está al nordeste de nuestra posición actual. Una vez me acerque al asentamiento, una lista de misiones disponibles aparecerá en el lado izquierdo de la pantalla.)
+kay (Cera está al nordeste de nuestra posición actual. Cuando me acerque a un asentamiento, una lista de misiones disponibles aparecerá en el lado izquierdo de la pantalla.)
 #% kay (Right now, there's only one available mission. I should click that to continue our journey.)
 kay (Ahora mismo, solo hay una misión disponible. Debería hacer clic en ella para continuar nuestro viaje.)
 #% var chap1_maptut
@@ -563,7 +563,7 @@ cha kay_neu_neutral_closed_smallsmil
 #% kay (This is the World Map. I can move the ship on the map directly with the controller's left stick.)
 kay (Este es el Mapa del Mundo. Puedo mover la nave por el mapa directamente con la palanca izquierda del controlador.)
 #% kay (Cera is northeast of our current position. Once I move next to a settlement, a list of available missions will appear on the left side of the screen.)
-kay (Cera está al nordeste de nuestra posición actual. Una vez me acerque al asentamiento, una lista de misiones disponibles aparecerá en el lado izquierdo de la pantalla.)
+kay (Cera está al nordeste de nuestra posición actual. Cuando me acerque a un asentamiento, una lista de misiones disponibles aparecerá en el lado izquierdo de la pantalla.)
 #% kay (I can use the Dpad to scroll between the various missions.)
 kay (Puedo usar el Dpad para moverme entre las varias misiones.)
 #% kay (Right now, there's only one available mission. I should press the face1 button on that to continue our journey.)
@@ -689,7 +689,7 @@ mar Glup... glup... glup...
 #% cha kay_neu_confuse_thinking_smile
 cha kay_neu_confuse_thinking_smile
 #% kay That's not true, Maray. I heard from the village elder that your restoration magic's gotten better. You know magicka goes over my head.
-kay Eso no es cierto, Maray. Escuché del anciano de la aldea que tu magia de restauración se ha vuelto mejor. Tú sabes que la magicka se me escapa.
+kay Eso no es cierto, Maray. Oí del anciano de la aldea que tu magia de restauración se ha vuelto mejor. Tú sabes que la magicka se me escapa.
 #% cha mar_neu_focus_smug_smallopen_blush
 cha mar_neu_focus_smug_smallopen_blush
 #% mar Heh, heh, heh! Once I can control your very life with my magic, you'll have no choice but to take me along on your voyages. After all, we've been a team ever since we were kids!
@@ -775,7 +775,7 @@ cha ava_armscrossed_focus_neutral_neutral
 #% cha eld_neu
 cha eld_neu
 #% eld The Pact of Maan has fought for centuries against the New Empire on land... but there are no sailors to be found among them. Now that the Veniczar rules the Asahi Isle, perhaps he is merely collecting lumber for reconstruction efforts. But an invasion of Halla? What folly that would be.
-eld El Pacto de Maan ha luchado por siglos contra el Nuevo Imperio en tierra... pero no hay ningún marinero entre ellos. Ahora que el Veniczar gobierna la Isla Asahi, quizás solamente esté recolectando leña para los esfuerzos de reconstrucción. ¿Pero una invasión de Halla? Qué locura sería. 
+eld El Pacto de Maan ha luchado por siglos contra el Nuevo Imperio en tierra... pero no hay ningún marinero entre ellos. Ahora que el Veniczar gobierna la Isla Asahi, quizás simplemente esté recolectando leña para los esfuerzos de reconstrucción. ¿Pero una invasión de Halla? Qué locura sería. 
 #% eld The New Empire was corrupt and full of fools. But the Song Alliance still wields the mandate of Heaven. The Pact of Maan will be destroyed at sea as well as on land if they were so bold as to attack. Mere mortal Maan are no match against us Elves.
 eld El Nuevo Imperio estaba corrupto y lleno de tontos. Pero la Alianza Song aún ostenta el mandato del Cielo. El Pacto de Maan será destruido tanto en el mar como en la tierra si fueran tan imprudentes como para atacar. Simples Maan mortales no son rivales contra nosotros los Elfos.
 #% cha ava_armscrossed_focus_neutral_smalltalk
@@ -803,7 +803,7 @@ cha ava_armscrossed_worry_narrowloo_neutral
 #% cha eld_neu
 cha eld_neu
 #% eld That is what we are now. Lessor. Weakened. Now, some of us cannot weave arcana at all. The High Elves of Song, they stayed true to the teachings of the Church, and the great Sharr awarded them by keeping their bloodlines pure, and their arcana strong...
-eld Eso es lo que somos ahora. Inferiores. Debilitados. Ahora, algunos de nosotros no pueden ejercer arcana en absoluto. Los Altos Elfos de Song, ellos se mantuvieron fieles a las enseñanzas de la Iglesia, y la gran Sharr los recompensó manteniendo sus linajes puros, y sus arcanas fuertes...
+eld Eso es lo que somos ahora. Inferiores. Debilitados. Ahora, algunos de nosotros no pueden ejercer arcana para nada. Los Altos Elfos de Song, ellos se mantuvieron fieles a las enseñanzas de la Iglesia, y la gran Sharr los premió manteniendo sus linajes puros, y sus arcanas fuertes...
 #% eld But we, the Elves of Ryuvia... we strayed from the Monolithic Truth. We committed the sin of intermingling with Maan. By defying the Truth and living side by side with mortals, we became diseased, just like them.
 eld Pero nosotros, los Elfos de Ryuvia... nos desviamos de la Verdad Monolítica. Cometimos el pecado de mezclarnos con los Maan. Al desafiar a la verdad y vivir lado a lado con mortales, nos enfermamos, al igual que ellos.
 #% eld My flesh... it is... rotting. I am... becoming old. What a disease to be wrought upon an Elf!
@@ -819,7 +819,7 @@ cha eld_neu
 #% eld It is unholy to question, child. I do not wish this disease upon you, daughter. Although, I imagine it is already too late...
 eld Es impío cuestionar, hija. No te deseo esta enfermedad, hija. Aunque, imagino que ya es demasiado tarde...
 #% eld I hear the King of Ryuvia himself is bedridden with the sickness of old age. Hah! If his ancestors could see him now. They would have torched their own Star Palace in shame if they knew the fate that awaited the Holy Empire - Now a mere backwater kingdom, with hardly the power to keep the peace within their city walls.
-eld Escuché que el mismísimo Rey de Ryuvia está en cama con la enfermedad de la vejez. ¡Hah! Si sus ancestros pudiesen verlo ahora. Habrían incendiado su propio Palacio Estelar de la vergüenza si supieran el destino que le esperaba al Sacro Imperio - Ahora un mero reino olvidado, con apenas el poder para mantener la paz dentro de los muros de su ciudad.
+eld Escuché que el mismísimo Rey de Ryuvia está en cama con la enfermedad de la vejez. ¡Hah! Si sus ancestros pudiesen verlo ahora. Habrían incendiado su propio Palacio Estelar de la vergüenza si supieran el destino que le esperaba al Sacro Imperio - Ahora un simple reino olvidado, con apenas el poder para mantener la paz dentro de los muros de su ciudad.
 #% eld Let the Veniczar rule his race of mortals on his isle... We Lessor Elves have enough problems to contend with as is...
 eld Que el Veniczar gobierne su raza de mortales en su isla... Nosotros los Elfos Inferiores tenemos suficientes problemas con los que lidiar...
 #% cha ava_armup_sad_neutral_smalltalk
@@ -849,7 +849,7 @@ cha asa_armscrossed_neutral_neutral_smirk
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay ...So when we heard about the Veniczar's plans, I got my hands on this thing off a Demonfolk arms dealer. He called it the Vanguard Cannon. Apparently, this thing can blast a hole straight through a castle wall. Well, that is if we ever figure out how the hell to fire it.
-kay ...Así que cuando escuchamos sobre los planes del Veniczar, puse mis manos en esta cosa de un traficante de armas Demonio. Lo llamaba el Cañón Vanguard. Aparentemente, esta cosa puede abrir un agujero a través del muro de un castillo. Bueno, eso sería, si pudiéramos averiguar cómo demonios dispararlo.
+kay ...Así que cuando escuchamos sobre los planes del Veniczar, puse mis manos en esta cosa de un traficante de armas Demonio. Lo llamaba el Cañón Vanguard. Aparentemente, esta cosa puede abrir un agujero directamente a través del muro de un castillo. Bueno, eso sería, si pudiéramos averiguar cómo diablos dispararlo.
 #% cha mar_neu_confuse_neutrallo_smalltalk
 cha mar_neu_confuse_neutrallo_smalltalk
 #% mar Eh? What do you mean?
@@ -957,9 +957,9 @@ kay No sé... Ella leyó en un libro que consiguió de un mercader Maan que en A
 #% mar But we're not man or woman! We're Elves!
 mar ¡Pero no somos hombres o mujeres! ¡Somos Elfos!
 #% kay Lately, she's been really into reading books written by Maan. They're filled with knowledge. Maan can't use magic, but instead, they have the power of science. I heard that the Veniczar wants to create a world where the Monolithic Truth doesn't matter and instead, those who accomplish great deeds rule instead.
-kay Últimamente, se ha estado metiendo bastante en leer libros escrito por Maan. Están repletos de conocimiento. Los Maan no pueden usar magia, pero en cambio, tienen el poder de la ciencia. Escuché que el Veniczar quiere crear un mundo donde la Verdad Monolítica no importe y en cambio, aquellos que logren grandes hazañas gobiernen en su lugar.
+kay Últimamente, se ha estado metiendo bastante en leer libros escrito por Maan. Están repletos de conocimiento. Los Maan no pueden usar magia, pero en cambio, tienen el poder de la ciencia. Escuché que el Veniczar quiere crear un mundo en donde la Verdad Monolítica no importe y en cambio, aquellos que logren grandes hazañas gobiernen en su lugar.
 #% mar Eehh... But the Elder's always going on about how it's "unholy to question" wisdom of the High Elves. The Elves of the Song Alliance can live to be thousands of years old, right? So it's only natural that we have to listen to them - I bet they must know practically everything after having lived that long!
-mar Eehh... Pero el Anciano siempre está hablando de cómo es "impío cuestionar" la sabiduría de los Altos Elfos. Los Elfos de la Alianza Song pueden vivir hasta llegar a tener miles de años, ¿cierto? Así que es simplemente natural que tengamos que escucharlos - ¡apuesto a que deben conocer prácticamente todo después de vivir tanto!
+mar Eehh... Pero el Anciano siempre está hablando de cómo es "impío cuestionar" la sabiduría de los Altos Elfos. Los Elfos de la Alianza Song pueden vivir hasta llegar a tener miles de años, ¿verdad? Por lo tanto es simplemente natural que tengamos que escucharles - ¡apuesto a que deben conocer prácticamente todo después de vivir tanto!
 #% kay I guess since Maan live for a few decades at most, they've got to make their lives matter. Who knows. Pretty soon, we might become more like Maan than Elf...
 kay Supongo que ya que los Maan viven unas cuantas décadas a lo mucho, tienen que hacer que sus vidas tengan importancia. Quién sabe. Muy pronto, podríamos volvernos más como los Maan que como los Elfos...
 #% mar You think so? But that'd be sad...
@@ -1339,7 +1339,7 @@ voi ava_vns_ang_05
 #% cha ava_facepalm_focus_narrow_smalltalk
 cha ava_facepalm_focus_narrow_smalltalk
 #% ava No good. The stubborn fool won't leave.
-ava No hubo éxito. ¡El terco tonto no se marchará!
+ava Es inútil. ¡El terco tonto no se marchará!
 #% flag
 flag
 #% stop
@@ -1357,7 +1357,7 @@ cha ava_facepalm_angry_narrowloo_yell
 #% voi ava_vns_ang_06
 voi ava_vns_ang_06
 #% ava Go! Run! Find Maray! Leave the Elder to me!
-ava ¡Vete! ¡Corre! ¡Encuentra a Maray! ¡Déjame al Anciano!
+ava ¡Váyanse! ¡Corran! ¡Encuentren a Maray! ¡Déjenme al Anciano!
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay All right...
@@ -1491,7 +1491,7 @@ kay Oh no...
 #% cha ava_armscrossed_focus_wide_clench
 cha ava_armscrossed_focus_wide_clench
 #% ava This is only the advance force. I see... thousands of more sails on the horizon. It's the Crimson Fleet!
-ava Esta es la única fuerza de avanzada. Veo... miles de velas más en el horizonte. ¡Es la Flota Escarlata!
+ava Esta es la única fuerza de avanzada. Veo... miles de velas más en el horizonte. ¡Es la Flota Carmesí!
 #% ava War has come to Halla!
 ava ¡La guerra ha llegado a Halla!
 #% flag
@@ -1535,7 +1535,7 @@ cha kay_neu_focus_closed_slight
 #% kay (BOARDING actions are essential to naval combat.)
 kay (Las acciones de ABORDAJE son esenciales para el combate naval.)
 #% kay (When two ships are within boarding range of each other, I can initiate hand-to-hand combat by selecting the BOARD action.)
-kay (Cuando dos naves están dentro del rango de abordaje de la otra, puedo iniciar un combate mano-a-mano seleccionando la acción ABORDAR.)
+kay (Cuando dos naves están dentro del rango de abordaje de la otra, puedo iniciar un combate cuerpo a cuerpo seleccionando la acción ABORDAR.)
 #% kay (If I am victorious in the boarding action, then I gain control of the enemy ship. That ship is permanently added to my fleet and can be used in all future battles.)
 kay (Si salgo victorioso de la acción de abordaje, entonces gano el control de la nave enemiga. La nave es añadida permanentemente a mi flota y puede ser usada en todas las futuras batallas.)
 #% kay (Ship MORALE is pivotal to boarding actions. It is indicated next to the crossed swords icon to the top right side of all ships.)
@@ -1615,7 +1615,7 @@ kay (Para intercambiar tripulantes entre las naves, clic en la chica que quieres
 #% kay (Note: The girl at the head of the crew lineup will act as that ship's foreperson and will voice that unit.)
 kay (Nota: La chica a la cabeza de la línea de tripulación actuará como la líder de esa nave y le dará voz a esa unidad.)
 #% kay (If I'm running low on crew, I can instead choose to scuttle the captured enemy ship by pressing and holding the SCUTTLE button. My crew will strip the captured vessel of all usable loot and equipment before setting it ablaze.)
-kay (Si me estoy quedando corto en tripulación, puedo escoger en cambio hundir la nave enemiga capturada manteniendo presionado el botón HUNDIR. Mi tripulación saqueará el buque capturado en busca de cualquier botín y equipamiento útil antes de incendiarlo.)
+kay (Si me estoy quedando corto en tripulación, puedo escoger en su lugar hundir a la nave enemiga capturada manteniendo presionado el botón HUNDIR. Mi tripulación despojará al buque capturado de cualquier botín y equipamiento útil antes de incendiarlo.)
 #% kay (For now, let's transfer someone to the new ship and add it to our fleet.)
 kay (Por ahora, vamos a transferir a alguien a la nueva nave y añadirla a nuestra flota.)
 #% kay (Once I'm done, I can press and hold the done button to return to the naval battle.)
@@ -1735,7 +1735,7 @@ kay ¡¡¡¡No.....!!!! ¡¡¡¡¡MARAAYYY!!!!!
 #% cha ava_armup_focus_widesmall_yell
 cha ava_armup_focus_widesmall_yell
 #% ava And we will be too, unless we get to the ship!
-ava ¡Y nosotros también lo estaremos, a menos de que nos vayamos!
+ava ¡Y nosotros también lo estaremos, a menos que nos vayamos!
 #% ava CAPTAIN! We need you!
 ava ¡CAPITÁN! ¡Lo necesitamos!
 #% cha kay_neu_sad_wide_clench
@@ -1829,7 +1829,7 @@ kay (La barra de comando también puede usarse para emitir otras Órdenes que pu
 #% kay (All I have to do right now is select the Sunrider and pick the Vanguard action to unleash her ultimate weapon - a devastating attack which deals heavy damage to all enemy ships within the area of effect.)
 kay (Todo lo que tengo que hacer es seleccionar al Sunrider y escoger la acción Vanguard para desatar su arma definitiva - un ataque devastador que provoca daño pesado a todas las naves enemigas dentro del área de efecto.)
 #% kay (Do not get confused between the Charge Vanguard Order and the action to fire the Vanguard. The Charge Vanguard Order grants you a Vanguard Charge while you must select the Sunrider and pick the actual Vanguard attack to fire.)
-kay (No te confundas entre la Orden Carga del Vanguard y la acción de disparar el Vanguard. La Orden Carga del Vanguard te otorga una Carga del Vanguard mientras que debes seleccionar al Sunrider y escoger al verdadero ataque Vanguard para disparar.)
+kay (No te confundas entre la Orden Carga del Vanguard y la acción de disparar el Vanguard. La Orden Carga del Vanguard te otorga una Carga del Vanguard mientras que debes seleccionar al Sunrider y escoger al verdadero ataque del Vanguard para disparar.)
 #% kay (The Vanguard Cannon has a very narrow attack radius, so I will have to turn the ship in the direction I want to fire.)
 kay (El Cañón Vanguard tiene un radio de ataque muy estrecho, así que tendré que girar la nave en la dirección en la que quiero disparar.)
 #% obj MAIN: The Vanguard Awakens
