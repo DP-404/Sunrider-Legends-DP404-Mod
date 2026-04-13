@@ -19,7 +19,7 @@ ava Increíble. Le dije que la mercenaria nos estaba ocultando la verdad. ¿Simp
 #% cha kay_neu_sad_closed_groan
 cha kay_neu_sad_closed_groan
 #% kay The Dreadstone. A gift she received from her masters - the High Elves of Song. Her true mission was to unleash its power and turn the Veniczar's army into an undead horde.
-kay La Piedra del Terror. Un regalo que recibió de sus maestros - los Altos Elfos de Song. Su verdadera misión era desatar su poder y convertir al ejército del Veniczar en una horda de no muertos.
+kay La Dreadstone. Un regalo que recibió de sus maestros - los Altos Elfos de Song. Su verdadera misión era desatar su poder y convertir al ejército del Veniczar en una horda de no muertos.
 #% cha ava_armup_focus_closedeye_bigtalk
 cha ava_armup_focus_closedeye_bigtalk
 #% voi ava_vns_shy_02
@@ -41,7 +41,7 @@ cha ava_armscrossed_neutral_narrow_slight
 #% voi ava_vns_sad_02
 voi ava_vns_sad_02
 #% ava Truly, captain? Then, where is this sordid artifact now, pray tell?
-ava ¿En serio, capitán? ¿Entonces, dónde está este sórdido artefacto ahora, si se puede saber?
+ava ¿En serio, capitán? Entonces, ¿dónde está este sórdido artefacto ahora, si se puede saber?
 #% cha ica_handsonhips_confuse_smuglooka_smalltalk
 cha ica_handsonhips_confuse_smuglooka_smalltalk
 #% voi ica_vns_neu_13
@@ -89,7 +89,7 @@ kay Quién sabe, pudiera ser de utilidad luego.
 #% cha ava_facepalm_sad_closedeye_smalltalk
 cha ava_facepalm_sad_closedeye_smalltalk
 #% ava I pray the stone stays forgotten at the bottom of the ship's hold, alongside all the *other* useless knickknacks our glorious captain has hoarded over the course of these years.
-ava Rezo porque la piedra se quede olvidada en el fondo de la carga de la nave, junto a todas las *otras* baratijas inútiles que nuestro glorioso capitán ha acumulado por el paso de estos años.
+ava Rezo porque la piedra se quede olvidada en el fondo del cargamento de la nave, junto a todas las *otras* baratijas inservibles que nuestro glorioso capitán ha acaparado con el paso de estos años.
 #% cha kay_neu_sad_closed_groan
 cha kay_neu_sad_closed_groan
 #% kay C'mon, Ava... It's not like all my items turn out useless in the end...
@@ -179,7 +179,7 @@ ica Pero hay una cosa clara en todo esto: Estamos todos en el mismo bando. Habie
 #% cha ica_handsonhips_focus_neutral_smalltalk
 cha ica_handsonhips_focus_neutral_smalltalk
 #% ica You will need my skills if you are to stop the Veniczar's war machine. From now on, I shall be in your employ.
-ica Necesitarán mis habilidades si pretenden detener la máquina de guerra del Veniczar. De ahora en adelante, estaré a su servicio.
+ica Ustedes necesitarán mis habilidades si pretenden detener la máquina de guerra del Veniczar. De ahora en adelante, estaré a su servicio.
 #% cha kay_neu_focus_neutral_smallopen
 cha kay_neu_focus_neutral_smallopen
 #% kay Then, let us be united in both ends and means from now.
@@ -199,7 +199,7 @@ cha ava_armscrossed_focus_neutral_bigtalk
 #% voi ava_vns_ang_02
 voi ava_vns_ang_02
 #% ava Sigh. Do not think I will take my eyes off of you, mercenary. Any treachery - and I will have you walk the plank!
-ava Haah. No creas que quitaré mis ojos de encima tuyo, mercenaria. Cualquier traición - ¡y haré que camines por la tabla!
+ava Haah. No creas que quitaré mis ojos de encima de ti, mercenaria. Cualquier traición - ¡y haré que camines por la tabla!
 #% cha ica_armscrossed_worry_closedeye_slight
 cha ica_armscrossed_worry_closedeye_slight
 #% voi ica_vns_sad_01
@@ -217,7 +217,7 @@ ava ¡Hmph!
 #% cha ica_handsonhips_focus_neutral_smalltalk
 cha ica_handsonhips_focus_neutral_smalltalk
 #% ica Sigh... In any matter, this war has taken its toll on everyone. Our only path is to head to Volaris and parley with the High Elves. Only they wield the might to face the Veniczar's forces.
-ica Haah... En cualquier caso, esta guerra le ha pasado factura a todos. Nuestra única ruta es dirigirnos a Versta y parlamentar con los Altos Elfos. Solo ellos tienen el poder para enfrentarse a las fuerzas del Veniczar.
+ica Haah... En cualquier caso, esta guerra les ha pasado factura a todos. Nuestra única ruta es dirigirnos a Volaris y parlamentar con los Altos Elfos. Solo ellos tienen el poder para enfrentarse a las fuerzas del Veniczar.
 #% cha kay_neu_neutral_neutral_smalltalk
 cha kay_neu_neutral_neutral_smalltalk
 #% kay On that we are agreed. The independent city states of the Neutral Marches will be easy picking for the Pact of Maan and the Ryuvian Empire is on its deathbed. Our last hope lies with the Song Alliance.
@@ -227,7 +227,7 @@ hid ava
 #% voi ica_vns_neu_05
 voi ica_vns_neu_05
 #% ica I could help. I still have the ear of Admiral Haros Grey of the Emerald Fleet. Take me to Song and I will make our case to him, for what it is worth.
-ica Yo pudiera ayudar. Todavía tengo la atención del Almirante Haros Grey de la Flota Esmeralda. Llévenme a Song y le haré explicaré nuestro caso, por lo que valga.
+ica Yo pudiera ayudar. Todavía tengo la atención del Almirante Haros Grey de la Flota Esmeralda. Llévenme a Song y le haré llegar nuestro caso, por lo que valga.
 #% cha kay_neu_neutral_wide_smalltalk
 cha kay_neu_neutral_wide_smalltalk
 #% kay The Admiral Grey of legend? Sounds like hiring you was not for naught.
@@ -277,13 +277,13 @@ kay Lo adivinaste. Todavía hay un montón que deseo saber.
 #% cha ica_handsonhips_neutral_neutral_smallsmil
 cha ica_handsonhips_neutral_neutral_smallsmil
 #% ica Oh yeah? Tell me.
-ica ¿Oh sí? Dime.
+ica ¿Oh sí? Cuéntame.
 #% 
 
 #% cc0 chap3_icachoi0
 cc0 chap3_icachoi0
 #% cc1 Tell me about the Dreadstone.
-cc1 Cuéntame sobre la Piedra del Terror.
+cc1 Cuéntame sobre la Dreadstone.
 #% cc2 Tell me about your history with Pact.
 cc2 Cuéntame sobre tu historia con el Pacto.
 #% cc3 You know, I should get going.
@@ -313,7 +313,7 @@ ica No es como si importara. No ahora, cuando esa maldita cosa descansa en el fo
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay And yet, I can't help but worry that the Dreadstone may yet wash up on our shores and wreck untold havoc...
-kay Y sin embargo, no puedo evitar preocuparme de que la Piedra del Terror aun así termine llegando a nuestras costas y cause estragos incalculables...
+kay Y sin embargo, no puedo evitar preocuparme de que la Dreadstone aun así termine llegando a nuestras costas y cause estragos incalculables...
 #% cha ica_armscrossed_focus_closedeye_slight
 cha ica_armscrossed_focus_closedeye_slight
 #% ica Most likely, it'll remain lost deep in the abyss, where it will now be as powerless as any other stone.
@@ -321,17 +321,17 @@ ica Lo más probable, es que permanezca perdida en lo profundo del abismo, donde
 #% cha ica_handsonhips_confuse_smuglooka_smalltalk
 cha ica_handsonhips_confuse_smuglooka_smalltalk
 #% ica That's pretty foul luck for me though. The High Elves are not going to be happy when they hear I've lost it...
-ica Aunque eso es muy mala suerte para mí. Los Altos Elfos no se alegrarán cuando escuchen que lo he perdido...
+ica Aunque eso es muy mala suerte para mí. Los Altos Elfos no se alegrarán cuando escuchen que la he perdido...
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay Lost Treasure of such malignant nature should remain lost. We have done Halla a service in dropping it into the ocean.
-kay Un Tesoro Perdido de una naturaleza tan maligna debería permanecer perdido. Le hemos hecho a Halla un sabor al lanzarlo al océano.
+kay Un Tesoro Perdido de una naturaleza tan maligna debería permanecer perdido. Le hemos hecho a Halla un favor al lanzarlo al océano.
 #% kay Who knows what chaos could transpire if it is used by the wrong person...
 kay Quién sabe qué caos pudiera producirse si fuera utilizado por la persona equivocada...
 #% cha ica_handsonhips_annoyed_neutral_smalltalk
 cha ica_handsonhips_annoyed_neutral_smalltalk
 #% ica A sellsword like me doesn't deal in what-ifs. I'll just deal with it if it ever happens. For now, it is gone, and that is all that matters.
-ica Un mercenario como yo no se preocupa por lo que pudiera pasar. Me ocuparé si alguna vez pasa. Por ahora, se ha ido, y eso es todo lo que importa.
+ica Una mercenaria como yo no se preocupa por lo que pudiera pasar. Me ocuparé si alguna vez pasa. Por ahora, se ha ido, y eso es todo lo que importa.
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay True enough... Let us pray that it is never discovered by Pact or any other villain.
@@ -373,7 +373,7 @@ cha ica_armscrossed_focus_neutral_smalltalk
 #% ica You may be onto something. I can't say the thing's very useful by itself - hardly a boon to turn our enemies into equally deadly zombies.
 ica Puede que tengas razón. No puedo decir que esa cosa sea muy útil por sí sola - difícilmente sea una ventaja convertir a nuestros enemigos en zombis igualmente mortíferos.
 #% ica There must be something about the Light Tower of Versta which amplifies the Dreadstone's power. In fact, I've witnessed countless sorcerers of the Dark Prince's army turn living Maan to undead with a flick of their staff. Without the Light Tower, maybe the Dreadstone is but a talisman of ordinary necromancy.
-ica Debe de haber algo sobre el Faro de Versta que amplifique el poder de la Piedra del Terror. De hecho, he presenciado a incontables hechiceros del ejército del Príncipe Oscuro convertir a Maan en no muertos con un movimiento de sus bastones. Sin el Faro, tal vez la Piedra del Terror no sea más que un talismán de nigromancia ordinaria.
+ica Debe de haber algo sobre el Faro de Versta que amplifique el poder de la Dreadstone. De hecho, he presenciado a incontables hechiceros del ejército del Príncipe Oscuro convertir a Maan en no muertos con un movimiento de sus bastones. Sin el Faro, tal vez la Dreadstone no sea más que un talismán de nigromancia ordinaria.
 #% cha kay_neu_confuse_big_slight
 cha kay_neu_confuse_big_slight
 #% kay Hmm... Perhaps our fears are overplayed then. Let us hope that is the case.
@@ -399,11 +399,11 @@ ica Hace muchos años, mi padre sirvió en el ejército de Veniczar Arcadius dur
 #% ica The High Elves claim that the New Imperials were once Elves... but they became Orks when they abandoned the teachings of the Church. It's pretty hard to believe those beasts were once your kind, to be honest though.
 ica Los Altos Elfos afirmaban que los Nuevos Imperiales fueron una vez Elfos... pero se volvieron Orkos cuando abandonaron las enseñanzas de la Iglesia. Aun así es bastante difícil de creer que esas bestias fueron una vez de tu raza, para ser honesta.
 #% ica They enslaved all the Maan of the Asahi Isle and used us to fuel their industries. Those were the dark times - before the coming of Veniczar Arcadius.
-ica Ellos esclavizaron a todos los Maan de la Isla Asahi y nos usaron para 
+ica Ellos esclavizaron a todos los Maan de la Isla Asahi y nos usaron para alimentar sus industrias. Esos fueron los tiempos oscuros - antes de la llegada de Veniczar Arcadius.
 #% ica I was just a child when Arcadius formed the Pact of Maan with the goal of unifying all the tribes of Maan against the New Empire. My father was but one of many who joined the Veniczar in the name of freedom.
 ica Yo era solo una niña cuando Arcadius formó el Pacto de Maan con el objetivo de unir a todas las tribus de Maan contra el Nuevo Imperio. Mi padre no fue más que uno de los muchos que se unió al Veniczar en nombre de la libertad.
 #% ica He was there, at the Battle of New Edar, when the fate of the Asahi Isle was decided. The Ork, Cullen, betrayed the Dark Prince and allowed the Veniczar's army through New Edar's gate, blindsiding the Orks as they drank and reveled. In the ensuing bloodbath, Prince Erizlo was defeated in combat by the Veniczar and the old Emperor barely fled the capital alive.
-ica Él estuvo ahí, en la Batalla de New Edar, cuando el destino de la Isla Asahi fue decidido. El Orko, Cullen, traicionó al Príncipe Oscuro y permitió que el ejército del Veniczar atravesara la puerta de New Edar, atacando por sorpresa a los Orkos mientras bebían y festejaban. En la masacre que siguió, el Príncipe Erizlo fue derrotado en combate por el Veniczar y el viejo Emperador escapó por poco de la capital con vida.
+ica Él estuvo ahí, en la Batalla de New Edar, cuando el destino de la Isla Asahi se decidió. El Orko, Cullen, traicionó al Príncipe Oscuro y permitió que el ejército del Veniczar atravesara la puerta de New Edar, tomando por sorpresa a los Orkos que bebían y festejaban. En la masacre, el Príncipe Erizlo fue derrotado en combate por el Veniczar y el viejo Emperador escapó de la capital vivo.
 #% cha ica_armscrossed_focus_smug_slight
 cha ica_armscrossed_focus_smug_slight
 #% ica In but a year, he was dead. Veniczar Arcadius was hailed the new king of the Asahi Isle. But then the Witch of Asahi dug her claws into him...
@@ -415,13 +415,13 @@ kay ¿La Bruja de Asahi?
 #% cha ica_armscrossed_focus_closedeye_clench
 cha ica_armscrossed_focus_closedeye_clench
 #% ica I saw her once, when my father was summoned before Arcadius, accused of treason. It was there she leaned in and whispered her venom into his ears.
-ica La vi una vez, cuando mi padre fue invocado ante Arcadius, acusado de traición. Fue ahí donde se inclinó y susurró veneno en sus oídos.
+ica La vi una vez, cuando mi padre fue convocado ante Arcadius, acusado de traición. Fue ahí donde se inclinó y susurró veneno en sus oídos.
 #% ica No matter how much my father pleaded to the Veniczar that the war was finished and Maan had no quarrel with the Elves, his words fell on deaf ears.
 ica Por más que mi padre le suplicara al Veniczar que la guerra había terminado y los Maan no tenían ningún problema con los Elfos, sus palabras cayeron en oídos sordos.
 #% cha ica_handsonhips_angry_closedeye_clench
 cha ica_handsonhips_angry_closedeye_clench
 #% ica The Witch had cast a spell upon Arcadius... and he was never again the same freedom fighter of the past. He had became her mindless puppet. In the end, we had merely traded one tyrant for another. My father was imprisoned... and executed. I fled the Asahi Isle and came to Halla, where I became an agent of the Song Alliance in search of vengeance.
-ica La Bruja había lanzado un hechizo sobre Arcadius... y nunca jamás fue el mismo luchador por la libertad del pasado. Se había vuelto su marioneta sin mente. Al final, simplemente habíamos cambiado a un tirano por otro. Mi padre fue apresado... y ejecutado. Yo huí de la Isla Asahi y vine a Halla, donde me convertí en una agente de la Alianza Song en busca de venganza.
+ica La Bruja había lanzado un hechizo sobre Arcadius... y nunca jamás fue el mismo luchador por la libertad del pasado. Se había vuelto su marioneta sin mente. Al final, simplemente habíamos cambiado a un tirano por otro. Mi padre fue apresado... y ejecutado. Yo huí de la Isla Asahi y vine a Halla, en donde me convertí en una agente de la Alianza Song en busca de venganza.
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay I see... It seems you have had a difficult past.
@@ -435,7 +435,7 @@ ica Estos son tiempos oscuros. Miles más tendrán finales sin sentido si esta l
 #% cha ica_back_worry_closedeye_smalltalk
 cha ica_back_worry_closedeye_smalltalk
 #% ica That was why I was willing to use the Dreadstone to stop the Crimson Fleet. 
-ica Es por eso que estaba dispuesta a usar la Piedra del Terror para detener a la Flota Carmesí.
+ica Es por eso que estaba dispuesta a usar la Dreadstone para detener a la Flota Carmesí.
 #% cha ica_armscrossed_focus_neutral_smalltalk
 cha ica_armscrossed_focus_neutral_smalltalk
 #% ica But now, all our hopes rest on the Song Alliance's backing. They alone possess the power to sink the Crimson Fleet and thwart the invasion.
@@ -451,7 +451,7 @@ ica Me alegro de oír que estoy cumpliendo las expectativas. Esperemos que el re
 #% cc0 chap3_icachoi2
 cc0 chap3_icachoi2
 #% cc1 Tell me about the Dreadstone.
-cc1 Cuéntame sobre la Piedra del Terror.
+cc1 Cuéntame sobre la Dreadstone.
 #% cc2 You know, I should get going.
 cc2 Sabes, debería marcharme.
 #% 
@@ -529,7 +529,7 @@ cha chi_handonchest_neutral_closedeye_smallopen
 #% voi chi_vns_neu_09
 voi chi_vns_neu_09
 #% chi Good day, captain.
-chi Buenos días, capitán
+chi Buenos días, capitán.
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 #% kay Hey everyone.
@@ -539,7 +539,7 @@ cha asa_shrug_sad_narrow2_awkwardsm
 #% voi asa_vns_neu_02
 voi asa_vns_neu_02
 #% asa Is something the matter?
-asa ¿Está todo bien?
+asa ¿Hay algún problema?
 #% ifj chap3_chidreadstone,chi_dreadstone
 ifj chap3_chidreadstone,chi_dreadstone
 #% 
@@ -559,7 +559,7 @@ chi Ah... Por favor no se preocupe. D-De hecho... Chigara como que... actuó sin
 #% cha chi_handonchest_sad_closedeye_neutral
 cha chi_handonchest_sad_closedeye_neutral
 #% chi Truly, I'm the one who's sorry... I accidentally dropped such a precious Lost Treasure into the sea... I should have been more careful...
-chi En realidad, soy yo quien debería disculparse... Accidentalmente lancé un Tesoro Perdido tan preciado al mar... Debería haber tenido más cuidad...
+chi En realidad, soy yo quien debería disculparse... Accidentalmente lancé un Tesoro Perdido tan preciado al mar... Debería haber tenido más cuidado...
 #% cha kay_neu_sad_closed_slight
 cha kay_neu_sad_closed_slight
 #% kay Better that such a terrifying artifact be lost to the sea, than wielded by our imperfect hands. I had always believed that I'd be able to resist evil's temptation, but when actually given that horrible power, my mettle cracked.
@@ -567,7 +567,7 @@ kay Mejor que un artefacto tan aterrador se perdiera en el mar, a que fuera usad
 #% cha kay_neu_sad_neutral_neutral
 cha kay_neu_sad_neutral_neutral
 #% kay I should have been better. But I was not.
-kay Debería haber actuado mejor. Peor no lo hice.
+kay Debería haber actuado mejor. Pero no lo hice.
 #% cha asa_armup_sad_closedeye_smirk
 cha asa_armup_sad_closedeye_smirk
 #% voi asa_vns_sad_01
@@ -593,7 +593,7 @@ tag chap3_chidreadstone_false
 #% cha kay_neu_sad_neutral_smile
 cha kay_neu_sad_neutral_smile
 #% kay As well as I can be, given the circumstances.
-kay Lo mejor que puedo, dadas las circunstancias.
+kay Estoy lo mejor que puedo, dadas las circunstancias.
 #% cha kay_neu_confuse_thinking_smile
 cha kay_neu_confuse_thinking_smile
 #% kay Despite everything, we managed to leave Versta with both a new companion and our supplies restocked. Mostly thanks to you all, as a matter of fact.
@@ -625,13 +625,13 @@ mar Hey Kayto, ¿así que realmente vas a dejar suelta a la mercenaria? Casi hiz
 #% cha kay_neu_confuse_neutral_smalltalk
 cha kay_neu_confuse_neutral_smalltalk
 #% kay Given what the circumstances were, there was no other alternative. If she had not used the Dreadstone at that moment, we would have been massacred by Pact instead.
-kay Dadas cuáles eran las circunstancias, no había otra alternativa. Si no hubiera usado la Piedra del Terror en ese momento, habríamos sido masacrados por el Pacto en cambio.
+kay Dadas cuáles eran las circunstancias, no había otra alternativa. Si no hubiera usado la Dreadstone en ese momento, habríamos sido masacrados por el Pacto en cambio.
 #% cha mar_excited_angry_neutral_bigtalk
 cha mar_excited_angry_neutral_bigtalk
 #% voi mar_vns_sad_01
 voi mar_vns_sad_01
 #% mar Still, she was gonna use the Dreadstone to turn us all into undead in the end! Are you REALLY sure we can trust her?
-mar ¡Aun así, ella iba a usar la Piedra del Terror para volvernos a todos no muertos al final! ¿Estás REALMENTE seguro de que podemos confiar en ella?
+mar ¡Aun así, ella iba a usar la Dreadstone para volvernos a todos no muertos al final! ¿Estás REALMENTE seguro de que podemos confiar en ella?
 #% cha kay_neu_sad_neutral_smalltalk
 cha kay_neu_sad_neutral_smalltalk
 #% kay It's not so simple, Maray. Veniczar Arcadius murdered Icari's father.
@@ -711,7 +711,7 @@ chi Pero ustedes son Elfos también, ¿o no?
 #% cha kay_neu_neutral_big_smallsmil
 cha kay_neu_neutral_big_smallsmil
 #% kay An elf of mixed blood, or Lessor Elf, as those of the Song Alliance call us. While we live nearly twice as long as Maan, our time on this realm is limited just like yours. True High Elves live forever - unless they meet an unfortunate violent death, of course.
-kay Un elfo de sangre mixta, o Elfo Inferior, como nos llaman aquellos de la Alianza Song. Aunque vivimos casi el doble de un Maan, nuestro tiempo en este reino es tan limitado como el tuyo. Los verdaderos Altos Elfos viven para siempre - a menos que se encuentren con una violenta muerte desafortunada, por supuesto.
+kay Un elfo de sangre mixta, o Elfo Inferior, como nos llaman aquellos de la Alianza Song. Aunque vivimos casi el doble de un Maan, nuestro tiempo en este reino es tan limitado como el tuyo. Los verdaderos Altos Elfos viven para siempre - a menos que se encuentren con una desafortunada muerte violenta, claro está.
 #% cha asa_shrug_focus_closedeye_cry
 cha asa_shrug_focus_closedeye_cry
 #% voi asa_vns_sad_04
@@ -721,13 +721,13 @@ asa Y ahí está la fuente de la famosa arrogancia Élfica, ¿eh? Siempre tratan
 #% cha kay_neu_confuse_neutral_slight
 cha kay_neu_confuse_neutral_slight
 #% kay But... you are High Elf, are you not?
-kay Pero... tú eres un Alto Elfo, ¿no?
+kay Pero... tú eres una Alta Elfa, ¿no?
 #% cha asa_armup_focus_trianglee_awkwardsm
 cha asa_armup_focus_trianglee_awkwardsm
 #% voi asa_vns_hap_04
 voi asa_vns_hap_04
 #% asa Eh, I might look the part, but I'm just a Lessor Elf like you! Really, nothing all that special about me at all.
-asa ¡Eh, podría parecerme, pero en realidad soy simplemente una Elfo Inferior como tú! Realmente, no hay nada tan especial sobre mí en absoluto.
+asa ¡Eh, podría parecerme, pero en realidad soy simplemente una Elfa Inferior como tú! Realmente, no hay nada tan especial sobre mí en absoluto.
 #% cha chi_handonchest_concern_closedeye_smile
 cha chi_handonchest_concern_closedeye_smile
 #% voi chi_vns_neu_08
@@ -781,7 +781,7 @@ cha asa_shrug_sad_funnyclos_catmouth
 #% voi asa_vns_shy_01
 voi asa_vns_shy_01
 #% asa Whaddahell, just one save by her, and this ship's already turning into a loveboat, eh... Well, I suppose it's only natural - our captain is surrounded by a crew of nothing but maidens. Only a matter of time until an "accident" happens, I reckon.
-asa Qué demonios, lo salva solo una vez, y esta nave ya se está convirtiendo en un barco del amor, eh... Bueno, supongo que es natural - nuestro capitán está rodeado por una tripulación de nada más que doncellas. Es solo cuestión de tiempo para que un "accidente" ocurra, supongo.
+asa Qué diablos, ella lo salva solo una vez, y esta nave ya se está convirtiendo en un barco del amor, eh... Bueno, supongo que es natural - nuestro capitán está rodeado por una tripulación de nada más que doncellas. Es solo cuestión de tiempo para que un "accidente" ocurra, supongo.
 #% cha kay_neu_confuse_wide_smalltalk
 cha kay_neu_confuse_wide_smalltalk
 #% kay I-I don't know what you're talking about. There's plenty of other men on board the ship aside from me. Besides, I was only offering to teach Chigara the ropes, that's all. Ahem. Nothing strange about that at all.
@@ -805,7 +805,7 @@ map
 #% tag chap3_arrivalvolaris
 tag chap3_arrivalvolaris
 #% xob MAIN: To the Song Alliance...
-xob MAIN: To the Song Alliance...
+xob PRINCIPAL: Hacia la Alianza Song...
 #% mus mus_summoning_part1
 mus mus_summoning_part1
 #% dbg spr_bg_volarisdock
@@ -849,7 +849,7 @@ kry ¡Su petición ha sido escuchada! ¡Permítanme presentarles al estimado gra
 #% cha gre_neu_focus_surprise_neutral
 cha gre_neu_focus_surprise_neutral
 #% gre Sharr's blessing upon you, Captain Shields. I see that our emissary has returned. I wish I could say you are well met, but unfortunately, I hear you bring ill news to our shores: Her mission was a failure.
-gre Que la Sharr te bendiga, Capitán Shields. Veo que nuestra emisaria ha regresado. Desearía poder decir que son bienvenidos, pero desafortunadamente, escuché que traen malas noticias a nuestras cosas: Que su misión fue un fracaso.
+gre Que la Sharr te bendiga, Capitán Shields. Veo que nuestra emisaria ha regresado. Desearía poder decir que son bienvenidos, pero desafortunadamente, escuché que traen malas noticias a nuestras costas: Que su misión fue un fracaso.
 #% cha ica_armscrossed_focus_smuglooka_smalltalk
 cha ica_armscrossed_focus_smuglooka_smalltalk
 #% ica Or perhaps-
@@ -867,7 +867,7 @@ gre Todavía eres un niño, capitán. Y un niño es todo lo que siempre serás. 
 #% cha kay_neu_neutral_neutral_smalltalk
 cha kay_neu_neutral_neutral_smalltalk
 #% kay So that is the way of the Song Alliance. Therefore, we wish to hear your insight further. Though the Crimson Fleet's advance remains unchecked, we may come to a plan to stop them yet.
-kay Así que así es la Alianza Song. Por lo tanto, deseo escuchar más de su perspectiva. Aunque el avance de la Flota Carmesí sigue sin control, todavía pudiéramos llegar a un plan para detenerlos.
+kay Conque así es la Alianza Song. Por tanto, deseamos escuchar más de su perspectiva. Aunque el avance de la Flota Carmesí sigue sin control, todavía pudiéramos llegar a un plan para detenerlos.
 #% cha gre_neu_focus_neutral_smile
 cha gre_neu_focus_neutral_smile
 #% gre Very well. We shall discuss this matter further. But first, doubtlessly, you and your crew are exhausted from your journey.
@@ -917,7 +917,7 @@ kay Esas son sus costumbres. Pero el estrés de nuestro viaje sin duda juega un 
 #% cha kay_neu_confuse_thinking_smile
 cha kay_neu_confuse_thinking_smile
 #% kay The Admiral is right about one thing: The splendor of the hot springs of Volaris are unmatched. We should rest first... Then strategize our next move.
-kay El Almirante tiene razón en una cosa: El esplendor de las aguas termales de Volaris no tienen igual. Deberíamos descansar primero... Luego planear nuestro siguiente movimiento.
+kay El Almirante tiene razón en una cosa: El esplendor de las aguas termales de Volaris no tiene igual. Deberíamos descansar primero... Luego planear nuestro siguiente movimiento.
 #% cha ava_facepalm_worry_closedeye_smallsmil
 cha ava_facepalm_worry_closedeye_smallsmil
 #% ava Your love of the bath knows no bounds. But... I suppose it would be best to rest after our long voyage.
@@ -1003,7 +1003,7 @@ chi ¿Le confiaría a un demonio así su vida? ¿Cómo sabe que no le traicionar
 #% cha kay_neu_confuse_thinking_smalltalk
 cha kay_neu_confuse_thinking_smalltalk
 #% kay Surely, we cannot presume anything about one's character based on racist presumptions. Icari is Maan, but she harbors none of the Veniczar's thirst for conquest.
-kay En serio, no podemos presumir nada de la personalidad de alguien basándonos en presunciones racistas. Icari es Maan, pero no posee nada de la sed de conquista del Veniczar.
+kay Ciertamente, no podemos asumir nada de la personalidad de alguien basándonos en presunciones racistas. Icari es Maan, pero no posee nada de la sed de conquista del Veniczar.
 #% hid kay
 hid kay
 #% chi But how can you be sure, captain...
@@ -1015,7 +1015,7 @@ ifj chap3_chionsen,chi_dreadstone
 #% tag chap3_chionsen_true
 tag chap3_chionsen_true
 #% chi Did I not toss the Dreadstone into the sea and save the Crimson Fleet? What if that was merely one of my tricks... and in truth, I have been on the enemy's side all along...
-chi ¿No arrojé la Piedra del Terror al mar y salvé a la Flota Carmesí? Y si ese fue simplemente uno de mis trucos... y en realidad, he estado del lado del enemigo todo el tiempo...
+chi ¿No arrojé la Dreadstone al mar y salvé a la Flota Carmesí? Y si ese fue simplemente uno de mis trucos... y en realidad, he estado del lado del enemigo todo el tiempo...
 #% jum chap3_chibetray
 jum chap3_chibetray
 #% tag chap3_chionsen_false
@@ -1069,7 +1069,7 @@ hid kay
 #% chi Eh-heh... I don't mind it, captain.
 chi Eh-heh... No me importa, capitán.
 #% chi I do not know the truth of my purpose here, and a part of me still fears it is to deceive you, as my lineage foretells. Yet, I will put my faith in you, just as you have.
-chi No conozco la verdad de mi propósito aquí, y una parte de mí todavía teme que sea engañarle, como mi linaje presagia. Aun así, pondré mi confianza en usted, tal y como usted ha hecho.
+chi No conozco la verdad de mi propósito aquí, y una parte de mí todavía teme que sea engañarle, como mi linaje presagia. Aun así, depositaré mi confianza en usted, tal y como usted ha hecho.
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 #% kay We will discover the truth together, Chigara.
@@ -1129,7 +1129,7 @@ kay (Pensar que hubo una Kitsune entre nosotros todo este tiempo...)
 #% cha kay_neu_confuse_thinking_neutral
 cha kay_neu_confuse_thinking_neutral
 #% kay (I have heard the legends: They are ancient vixens who take the form of maidens to deceive the hearts of men and commit treachery most foul. Alas, if all legends were true, then Halla would truly be a place of wonders.)
-kay (He escuchado las leyendas: Son antiguas zorras que toman la forma de doncellas para engañar los corazones de los hombres y cometer las más viles traiciones. Por desgracia, si todas las leyendas fueran ciertas, entonces Halla sería verdaderamente un lugar de maravillas.)
+kay (He escuchado las leyendas: Son antiguas zorras que toman la forma de doncellas para engañar los corazones de los hombres y cometer las más viles traiciones. Por desgracia, si todas las leyendas fuesen ciertas, entonces Halla sería en verdad un lugar de maravillas.)
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay (Legends are one thing; Reality is another matter entirely. But Chigara no longer hiding her true form is a step in the right direction. Now we can all face the truth together.)
@@ -1169,7 +1169,7 @@ cha asa_armscrossed_raised_neutral_smalltalk
 #% voi asa_vns_neu_07
 voi asa_vns_neu_07
 #% asa I was just looking at the murals.
-asa Solo estaba mirando a los murales.
+asa Solo estaba mirando los murales.
 #% cha kay_neu_neutral_neutral_smalltalk
 cha kay_neu_neutral_neutral_smalltalk
 #% kay This must be artwork from the ancient age, chronicling the history of the High Elves from the time of the Holy Ryuvian Empire...
@@ -1231,7 +1231,7 @@ asa Mi padre ha intentado volverme una creyente toda su vida, sin mucho éxito. 
 #% cha asa_armup_sad_narrow_smalltalk
 cha asa_armup_sad_narrow_smalltalk
 #% asa You see, I could have simply submitted to my father's teachings like a good daughter. That is what most do, no? But I just couldn't. You could tell me the Sharr will come down from the Heavens on a silver bird a thousand times, but I know all those who called themselves the Sharr were fallible girls granted the title by the crown.
-asa Verás, pude simplemente haberme sometido a las enseñanzas de mi padre como una buena hija. Eso es lo que hace la mayoría, ¿no? Pero yo simplemente no pude. Pudieras decirme que la Sharr bajará de los cielos en un ave plateada miles de veces, pero sé que todas aquellas que se hicieron llamar Sharr fueron muchachas falibles a quienes la corona le había entregado el título.
+asa Verás, pude simplemente haberme sometido a las enseñanzas de mi padre como una buena hija. Eso es lo que hace la mayoría, ¿no? Pero yo simplemente no pude. Pudieras decirme que la Sharr bajará de los cielos en un ave plateada miles de veces, pero sé que todas aquellas que se hicieron llamar Sharr eran muchachas falibles a quienes la corona les había entregado el título.
 #% cha asa_armscrossed_focus_closedeye_frown
 cha asa_armscrossed_focus_closedeye_frown
 #% asa No hokey religion shall save me. Only the blade and guns on my belt will.
@@ -1377,7 +1377,7 @@ hid asa
 #% cha ava_facepalm_focus_narrow_smalltalk
 cha ava_facepalm_focus_narrow_smalltalk
 #% ava Actually, perhaps this is for the best. Who knows what tomfoolery she would have wrought had she been present for this meeting...
-ava En realidad, quizás esto sea lo mejor. Quién sabe qué tonterías podría hacer si de haber estado presente para esta reunión...
+ava En realidad, quizás esto sea lo mejor. Quién sabe qué tonterías podría hacer de haber estado presente para esta reunión...
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 #% kay I'm just glad to have you by my side, Ava. Treating with the High Elves will not be easy. But surely, the two of us will be able to think of something...
@@ -1397,7 +1397,7 @@ mus mus_summoning_ambient
 #% cha gre_neu_focus_surprise_neutral
 cha gre_neu_focus_surprise_neutral
 #% gre I bid thee welcome once again to Volaris, captain. I trust you found our accommodations more than adequate?
-gre Le doy la bienvenida una vez más a Volaris, capitán. ¿Confío en que halló nuestras comodidades más que adecuadas?
+gre Te doy la bienvenida una vez más a Volaris, capitán. ¿Confío en que hallaron nuestras comodidades más que adecuadas?
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 #% kay Indeed, so much so that I could not rouse half of my crew from their bedsides this morning.
@@ -1405,11 +1405,11 @@ kay Sin duda, tanto que no pude despertar a la mitad de mi tripulación de sus c
 #% cha gre_neu_focus_neutral_neutral
 cha gre_neu_focus_neutral_neutral
 #% gre Were the news you bring as jovial. You bring grim tidings, captain. The Crimson Fleet is reportedly over one thousand vessels strong, including the formidable Legion. Already, they have made gains as far as Versta and are heading north, towards our borders. And our plan to unleash the Dreadstone against them has failed - in large part due to your meddling.
-gre Si fueran las noticias que traes tan alegres. Traes noticias siniestras, capitán. La Flota Carmesí es reportada con más de mil navíos fuertes, incluyendo al formidable Legion. Ya han avanzado hasta Versta y se están dirigiendo al norte, hacia nuestras fronteras. Y nuestro plan de desatar la Piedra del Terror sobre ellos ha fallado - en gran parte debido a su intromisión.
+gre Si fueran las noticias que traes tan alegres. Traes noticias siniestras, capitán. La Flota Carmesí es reportada con más de mil navíos fuertes, incluyendo al formidable Legion. Ya han avanzado hasta Versta y se están dirigiendo al norte, hacia nuestras fronteras. Y nuestro plan de desatar la Dreadstone sobre ellos ha fallado - en gran parte debido a su intromisión.
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay The Dreadstone was no solution. An undead army would have scourged the Neutral Marches and threatened your woodlands just the same.
-kay La Piedra del Terror no era una solución. Un ejército de no muertos habría azotado los Territorios Neutrales y amenazado sus bosques igualmente.
+kay La Dreadstone no era una solución. Un ejército de no muertos habría azotado los Territorios Neutrales y amenazado sus bosques igualmente.
 #% cha gre_neu_raised_closed_smile
 cha gre_neu_raised_closed_smile
 #% gre No matter. There is only one way to save the Song Alliance and keep the light of the Church aflame in Halla now: The return of the Sharr.
@@ -1425,7 +1425,7 @@ gre Con el Imperio Ryuviano en su lecho de muerte y la existencia misma de la Ig
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
 #% kay Yet we have no clue as to her whereabouts nor any guarantee that she will be the genuine material. Here is a more reasonable plan: The Strait of Far Port forms a natural defensive bottleneck into the lands of Song. If the Emerald Fleet amasses there, then it would be in a prime tactical position to repeal the Crimson Fleet.
-kay Sin embargo no tenemos idea de su paradero ni ninguna garantía de que sea genuina. Aquí hay un plan más razonable: El Estrecho de Far Port forma un cuello de botella natural defensivo hacia las tierras de Song. Si la Flota Esmeralda se concentra ahí, entonces estará en una posición táctica privilegiada para repeler a la Flota Carmesí.
+kay Sin embargo no tenemos idea de su paradero ni ninguna garantía de que sea genuina. Aquí hay un plan más razonable: El Estrecho de Far Port forma un cuello de botella natural defensivo a las tierras de Song. Si la Flota Esmeralda se concentra ahí, entonces estará en una posición táctica privilegiada para repeler a la Flota Carmesí.
 #% cha gre_neu_focus_surprise_smalltalk
 cha gre_neu_focus_surprise_smalltalk
 #% gre You are young, Captain Shields. There is no more reliable plan than belief in the scripture. Only the Sharr shall save us!
@@ -1441,7 +1441,7 @@ gre ¡No toleraré blasfemia aquí! ¡Escucha mis palabras, Inferior! ¡Aunque e
 #% cha gre_neu_angry_closed_bigtalk
 cha gre_neu_angry_closed_bigtalk
 #% gre I have seen Sharrs both true and false, and the powers they wrought, both great and terrible. I have attended the coronations of your greatest kings, then in a heart beat, they were buried in the ground, their bones turned to dust, and all that I had experienced had become words in your history books, already forgotten by your kind. Lessor ones, what do you know of this world?
-gre He visto Sharrs tanto verdaderas como falsas, y los poderes que poseen, tanto grandes como terribles. He asistido a las coronaciones de sus más grandes reyes, luego en un latido, estaban enterrados en la tierra, con sus huesos vueltos polvo, y todo lo que he experimentado se ha vuelto palabras en sus libros, ya olvidados por sus razas. Inferiores, ¿qué conocen de este mundo?
+gre He visto Sharrs tanto verdaderas como falsas, y los poderes que poseen, tanto grandes como terribles. He asistido a las coronaciones de sus más grandes reyes, luego en un latido, estaban enterrados en la tierra, sus huesos vueltos polvo, y todo lo que he experimentado se ha vuelto palabras en sus libros, ya olvidados por sus razas. Inferiores, ¿qué conocen de este mundo?
 #% cha gre_neu_angry_neutral_yell
 cha gre_neu_angry_neutral_yell
 #% gre The destiny of the Sharr may be either that of glory or black tragedy - But I have witnessed it all. The Sharr is real. I was there when my grandmother was declared Sharr and led us from the decay of Ryuvia, to the great Elfwoods of Volaris. She set down the first stone of the very great temple that you stand in.
@@ -1463,7 +1463,7 @@ ava Otra vez, este Talbur. ¿Qué uso podría tener la antigua joya de la corona
 #% cha gre_neu_focus_surprise_smalltalk
 cha gre_neu_focus_surprise_smalltalk
 #% gre The Talbur is no simple jewel, but an artifact possessing the souls of the founding Elven kings of old. Long ago, before Ryuvia split into the three Elvish kingdoms, all those who would sit upon the throne needed the approval of the founders residing within the Talbur. The reigns of those who ruled without their approval were filled with hardships indeed...
-gre El Talbur no es una simple joya, sino un artefacto que posee las almas de los reyes Elfos fundadores de antaño. Hace mucho, antes de que Ryuvia se dividiera en los tres reinos Élficos, todos aquellos que se sentaran en el trono necesitaban la aprobación de los fundadores que residían dentro del Talbur. Los reinados de aquellos que gobernaron sin su aprobación estuvieron llenos de dificultades sin duda...
+gre El Talbur no es una simple joya, sino un artefacto que posee las almas de los reyes Elfos fundadores de antaño. Hace mucho, antes de que Ryuvia se separara en los tres reinos Élficos, todos los que se sentaran en el trono necesitaban la aprobación de los fundadores residentes en el Talbur. Los reinados de los que gobernaron sin su aprobación estaban llenos de dificultades sin duda...
 #% cha gre_neu_angry_wide_yell
 cha gre_neu_angry_wide_yell
 #% gre Acquire the Talbur... and it shall reveal the true heir of Old Ryuvia - the one most likely to be the Sharr!
@@ -1475,7 +1475,7 @@ ava He oído rumores de que este Talbur está siendo buscado por el mismísimo R
 #% cha gre_neu_angry_closed_neutral
 cha gre_neu_angry_closed_neutral
 #% gre Your suspicions are unfounded, Lessor one. Song need not engage in your political power games. We already possess all that you could dream of and more. Cleanse your mind of the poison of Maan's politics and seek the purity of scripture.
-gre Tus sospechas son infundadas, Inferior. Song no necesita participar en sus juegos de poder político. Ya poseemos todo con lo que ustedes pudieran soñar y más. Limpien su mente del veneno de las políticas de Maan y busquen la pureza de la escritura.
+gre Tus sospechas son infundadas, Inferior. Song no necesita participar en sus juegos de poder político. Ya poseemos todo con lo que ustedes pudieran soñar y más. Limpia tu mente del veneno de las políticas de Maan y busca la pureza de la escritura.
 #% cha ava_armup_focus_closedeye_smalltalk
 cha ava_armup_focus_closedeye_smalltalk
 #% ava And yet, it was only yesterday when Song was willing to unleash the undead upon us all if it meant the preservation of the Elvish woodlands...
@@ -1539,7 +1539,7 @@ chi Por supuesto que yo le ayudaré, capitán. ¡Haré todo lo que pueda para ga
 #% cha ica_handsonhips_annoyed_neutral_smirk
 cha ica_handsonhips_annoyed_neutral_smirk
 #% ica Well, I suppose I already swore you my sword. And I'm not one to back down from a challenge. All right, let's do this!
-ica Bueno, supongo que ya te he jurado mi espada. Y no soy de los que se retiran de un desafía. ¡Muy bien, hagamos esto.!
+ica Bueno, supongo que ya te he jurado mi espada. Y no soy de los que se retiran de un desafío. ¡Muy bien, hagamos esto!
 #% cha kry_fistup_focus_neutral_bigtalk
 cha kry_fistup_focus_neutral_bigtalk
 #% kry Hold! I have heard all that I need.
@@ -1561,11 +1561,11 @@ kay Muy bien, nos pudiera ser útil toda la ayuda que podamos conseguir. Acepto,
 #% cha gre_neu_angry_closed_neutral
 cha gre_neu_angry_closed_neutral
 #% gre Then it is decided. The Sunrider shall make for the Forgotten Abyss and recover the Talbur. Once it is in hand, it shall lead us to the true heir of Old Ryuvia; the one destined to become the Sharr and save us all.
-gre Entonces está decidido. El Sunrider irá al Abismo Olvidado y recuperará el Talbur. Una vez esté en la mano, nos guiará a la verdadera heredera de la Antigua Ryuvia; aquella destinada a convertirse en la Sharr y salvarnos a todos.
+gre Entonces está decidido. El Sunrider irá al Abismo Olvidado y recuperará el Talbur. Una vez esté en mano, nos guiará a la verdadera heredera de la Antigua Ryuvia; aquella destinada a convertirse en la Sharr y salvarnos a todos.
 #% cha gre_neu_focus_surprise_yell
 cha gre_neu_focus_surprise_yell
 #% gre As the Admiral of the Emerald Fleet, I hereby give you this quest, Captain Shields. May the Sharr return to Halla and save us all!
-gre Como el Almirante de la Flota Esmeralda, le entrego esta misión, Capitán Shields. ¡Que la Sharr regrese a Halla y nos salve a todos!
+gre Como el Almirante de la Flota Esmeralda, te entrego esta misión, Capitán Shields. ¡Que la Sharr regrese a Halla y nos salve a todos!
 #% cha kry_fistup_focus_neutral_yell
 cha kry_fistup_focus_neutral_yell
 #% kry May the Sharr save us!
@@ -1655,7 +1655,7 @@ asa ¡¿Pero eso es como - realmente malo, no?! ¡Nadie nunca ha salido del Abis
 #% cha asa_bendover_focus_funnyclos_shout
 cha asa_bendover_focus_funnyclos_shout
 #% asa Are ya sure the Elves aren't just sending us there to die 'cause they're bent up over the Dreadstone?
-asa ¿Estás seguro de que los Elfos no nos están simplemente enviando allí a morir porque están enojados por la Piedra del Terror?
+asa ¿Estás seguro de que los Elfos no nos están simplemente enviando allí a morir porque están enojados por la Dreadstone?
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
 #% kay No. I can feel their desperation is true, at least.
@@ -1687,7 +1687,7 @@ asa ¡No, no, no! El Reino Ryuviano está condenado y la princesa ha huido de Ha
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay As much as you may dislike her for absconding in the kingdom's darkest hour, there is still the possibility that she has not yet realized the magnitude of her destiny. In any case, if this Talbur is half as amazing as the Admiral thinks it is, it'll be our best lead.
-kay Sin importar lo mucho que no te disguste ella por abandonar el reino en su hora más oscuras, todavía existe la posibilidad de que no se haya dado cuenta de la magnitud de su destino. En cualquier caso, si este Talbur es tan sorprendente como el Almirante cree que es, será nuestra mejor pista.
+kay Sin importar lo mucho que te disguste ella por abandonar el reino en su hora más oscura, todavía existe la posibilidad de que no se haya dado cuenta de la magnitud de su destino. En cualquier caso, si este Talbur es tan sorprendente como el Almirante cree que es, será nuestra mejor pista.
 #% cha asa_armup_concern_narrow_smalltalk
 cha asa_armup_concern_narrow_smalltalk
 #% voi asa_vns_sad_01
@@ -1765,7 +1765,7 @@ ica ¡Como si ese fuera el problema aquí, tonta! Oye capitán, ¿cómo te enter
 #% cha kay_neu_sad_narrow_smile
 cha kay_neu_sad_narrow_smile
 #% kay I, uhh.... found out about it when we were at Volaris. After talking about it, Chigara and I decided that it'd be wise to share the truth with you all.
-kay Yo, uhh... lo descubría cuando estábamos en Volaris. Tras conversarlo, Chigara y yo decidimos que sería lo mejor compartir la verdad con todos ustedes.
+kay Yo, uhh... lo descubrí cuando estábamos en Volaris. Tras conversarlo, Chigara y yo decidimos que sería lo mejor compartir la verdad con todos ustedes.
 #% cha ica_point_angry_surprise_yell
 cha ica_point_angry_surprise_yell
 #% voi ica_vns_ang_04
@@ -1775,7 +1775,7 @@ ica Esto no es una broma. No hay una historia que involucre a una Kitsune que te
 #% cha kay_neu_focus_closed_smallsmil
 cha kay_neu_focus_closed_smallsmil
 #% kay So I've heard. But I've decided to allow Chigara to remain a member of our team.
-kay Eso he escuchado. Pero he decidido permitir que Chigara siga siendo un miembro de nuestro grupo.
+kay Eso he escuchado. Pero he decidido permitir que Chigara siga siendo una miembro de nuestro grupo.
 #% cha ica_armscrossed_confuse_smug_smalltalk
 cha ica_armscrossed_confuse_smug_smalltalk
 #% ica You sure about this, cap? I mean, you're the only guy here, so if there's gonna be a victim, you're basically our only candidate...
@@ -1811,7 +1811,7 @@ cha ica_back_confuse_smuglooka_smallsmil
 #% voi ica_vns_sad_03
 voi ica_vns_sad_03
 #% ica Sigh... Well, I suppose if you put it like that, there's no way I'm gonna discriminate against you just 'cause you're a Kitsune. Not when you've accepted a Maan like myself as a comrade in arms.
-ica Haah... Bueno, supongo que si lo pones así, no hay forma de que vaya a discriminarte solo porque eres una Kitsune. No cuando has aceptado a una Maan como yo como compañera en armas.
+ica Haah... Bueno, supongo que si lo pones de esa forma, no hay forma de que vaya a discriminarte solo porque eres una Kitsune. No cuando has aceptado a una Maan como yo como compañera en armas.
 #% cha asa_fist_focus_neutral_bigopensm
 cha asa_fist_focus_neutral_bigopensm
 #% voi asa_vns_hap_02
@@ -1921,17 +1921,17 @@ cha kay_neu_confuse_thinking_smirk
 #% kay Good call. It would be a shame if our adventure ended prematurely due to my impatience.
 kay Buena decisión. Sería una lástima si nuestra aventura termina prematuramente debido a mi impaciencia.
 #% obj RAID: Pact Fleet off Tydaria
-obj ASALTO: Expulsar a la Flota del Pacto de Tydaria
+obj ASALTO: Fuera de Tydaria Flota del Pacto
 #% cha ava_armup_focus_neutral_smirk
 cha ava_armup_focus_neutral_smirk
 #% ava I have already marked on the world map all currently available targets. Further side quests may also be unlocked by speaking with the other members of the crew. Who knows what additional secrets we will be able to uncover by undertaking these missions...
-ava Ya he marcado en el mapa del mundo todos los objetivos actualmente disponibles. Más misiones laterales podrían ser desbloqueadas hablando con los demás miembros de la tripulación. Quién sabe qué secretos adicionales seremos capaces de descubrir tomando estas misiones...
+ava Ya he marcado en el mapa del mundo todos los objetivos actualmente disponibles. Más misiones laterales también podrían ser desbloqueadas hablando con los demás miembros de la tripulación. Quién sabe qué secretos adicionales seremos capaces de descubrir tomando estas misiones...
 #% cha kay_neu_confuse_thinking_smile
 cha kay_neu_confuse_thinking_smile
 #% kay I'm all for taking the main quest slow. I'm sure the High Elves can afford to wait - in fact, waiting seems to be their most favored activity.
 kay Estoy totalmente a favor de tomar la misión principal con calma. Estoy seguro de que los Altos Elfos se pueden dar el lujo de esperar - de hecho, parece ser su actividad favorita.
 #% ava On that note, the Elves have topped off our food and water supplies, at least. Further, they have gifted us with some coin to shore up our defenses.
-ava En ese sentido, los Elfos han completado nuestras reservas de comida y agua. Además, nos han regalado algunas monedas para reforzar nuestras defensas.
+ava En ese sentido, los Elfos han rellenado nuestras reservas de comida y agua. Además, nos han regalado algunas monedas para reforzar nuestras defensas.
 #% flag
 flag
 #% sou sou_boop
@@ -2025,13 +2025,13 @@ cha kay_neu_focus_closed_smallopen
 #% kay Right... Under the laws of the Neutral Banners, I have been elected captain by the crew. Until a vote of no confidence is passed, I will continue to occupy my office to the best of my ability.
 kay Cierto... Bajo las leyes de los Territorios Neutrales, yo he sido elegido capitán por la tripulación. Hasta que no se apruebe una moción de censura, continuaré ocupando mi oficio en la medida de mis capacidades.
 #% kay As our guest, we are honored by your presence, sister Paladin, but I must ask you to respect our laws.
-kay Como nuestra invitada, estamos honrados por tu presencia, hermana Paladín, pero debo pedirle que respete nuestras leyes.
+kay Como nuestra invitada, estamos honrados por tu presencia, hermana Paladín, pero debo pedirte que respetes nuestras leyes.
 #% cha kry_armdown_focus_neutral_smalltalk
 cha kry_armdown_focus_neutral_smalltalk
 #% voi kry_vns_ang_04
 voi kry_vns_ang_04
 #% kry How courageous of this crew, to entrust their lives to the fickle hand of mob rule. The trainees of the Emerald Fleet must serve as stewards for longer than you have lived before they are even considered rank-and-file sailors. What competence can I expect from a ship manned by children?
-kry Qué valiente de esta tripulación, confiarle sus vidas a la mano voluble de una regla regla. Los reclutas de la Flota Esmeralda deben servir como administradores durante más tiempo del que ustedes han vivido para ser considerados siquiera marineros rasos. ¿Qué competencia puedo esperar de una nave manejada por niños?
+kry Qué valiente de esta tripulación, al confiarle sus vidas a la mano voluble del dominio de las masas. Los reclutas de la Flota Esmeralda deben de servir como administradores durante más tiempo del que ustedes han vivido antes de que sean considerados siquiera marineros rasos. ¿Qué competencia puedo esperar de una nave manejada por niños?
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 #% kay How can you be so certain of our lack of skill when you have only just arrived? The tenacity of the younger races of Halla will surprise you.
@@ -2073,7 +2073,7 @@ kry Entonces, provisionalmente te aceptaré como capitán. No debes temer. ¡Com
 #% cha kry_armout_focus_neutral_bigtalk
 cha kry_armout_focus_neutral_bigtalk
 #% kry Just know that if you conduct yourself dishonorably, I am sworn by the code of the Holy Order to render judgment according to our laws... not yours.
-kry Solo debes saber que si te comportas de manera deshonrosa, he jurado por el código de la Santa Orden dictar sentencia de acuerdo a nuestras leyes... no las tuyas.
+kry Solo debes saber que si te comportas de manera deshonrosa, he jurado por el código de la Orden Sagrada dictar sentencia de acuerdo a nuestras leyes... no las tuyas.
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
 #% kay Very well, I shall conduct myself most honorably then. Not even as much as a midnight snack after hours.
@@ -2111,7 +2111,7 @@ cha ava_armscrossed_focus_neutral_smalltalk
 #% voi ava_vns_neu_13
 voi ava_vns_neu_13
 #% ava We are entering the Forgotten Abyss, captain. Needless to say, we best be on our guard. The waters here are beyond treacherous, with reefs to be found at every turn. Worse, visibility is limited to the nose of the ship thanks to the constant mist that permeates this cove. And we haven't even gotten to the army of the undead yet.
-ava Estamos entrando al Abismo Olvidado, capitán. No hace falta decirlo, más nos vale estar en guardia. Las aguas aquí son más que traicioneras, con arrecifes en cada esquina. Peor, la visibilidad está limitada a la proa del barco gracias a la niebla constante que impregna esta ensenada. Y ni siquiera hemos llegado al ejército de no muertos todavía.
+ava Estamos entrando al Abismo Olvidado, capitán. No hace falta decirlo, más nos vale estar en guardia. Las aguas aquí son más que traicioneras, con arrecifes en cada esquina. Peor, la visibilidad está limitada a la proa del barco gracias a la niebla constante que impregna esta ensenada. Y aún no hemos llegado siquiera al ejército de no muertos.
 #% ava There's little question as to why this whole area is referred to as the Great Ship Graveyard.
 ava No hay duda de por qué a toda esta zona se la conoce como el Gran Cementerio de Barcos.
 #% cha kay_neu_focus_closed_smallopen
@@ -2653,7 +2653,7 @@ cha cla_armscrossed_concern_funnyclos_cry
 #% voi cla_vns_neu_09
 voi cla_vns_neu_09
 #% cla ...Or at least have suffered a catastrophic wardrobe malfunction. Iyaa, perhaps the captain took his time to rescue little old me just to see some clothing damage?
-cla ...O al menos hubiera sufrido un fallo catastrófico de vestuario. Iyaa, ¿quizás el capitán se tomó su tiempo para rescatar a esta humilde servidora solo pare ver algo de ropa dañada?
+cla ...O al menos hubiera sufrido un fallo catastrófico de vestuario. Iyaa, ¿quizás el capitán se tomó su tiempo para rescatar a esta humilde servidora solo para ver algo de ropa dañada?
 #% jum chap3_afterbattle2
 jum chap3_afterbattle2
 #% 
@@ -2667,7 +2667,7 @@ nar (¡Claude se ha unido al grupo!)
 #% xob BATTLE: Rescue Claude
 xob BATALLA: Rescatar a Claude
 #% xob MAIN: Investigate the Forgotten Abyss
-xob MAIN: Investigate the Forgotten Abyss
+xob PRINCIPAL: Investigar el Abismo Olvidado
 #% cha cla_handsonhips_neutral_neutral_smile
 cha cla_handsonhips_neutral_neutral_smile
 #% voi cla_vns_neu_02
@@ -2687,7 +2687,7 @@ cla No, capitán. ¡Soy yo quien ha encontrado un milagro! ¡Ah, ser rescatada d
 #% cha kay_neu_neutral_closed2_smirk
 cha kay_neu_neutral_closed2_smirk
 #% kay Things are looking up, aren't they, Ava? Maybe this Forgotten Abyss isn't so accursed after all. Err... Ava?
-kay Las cosas se ven bien, ¿no es así, Ava? Tal vez este Abismo Olvidado no es tan maldito después de todo. Err... ¿Ava?
+kay Las cosas se ven bien, ¿no es así, Ava? Tal vez este Abismo Olvidado no está tan maldito después de todo. Err... ¿Ava?
 #% cha ava_facepalm_angry_narrow_tch_shadow
 cha ava_facepalm_angry_narrow_tch_shadow
 #% voi ava_vns_ang_03
@@ -2735,7 +2735,7 @@ cha cla_handsonhips_angry_closedeye_laugh
 #% voi cla_vns_ang_06
 voi cla_vns_ang_06
 #% cla Indeed. Feast your eyes on this little slice of Heaven on earth! Iya, a form truly worthy of the gods, would you not agree?
-cla En efecto. ¡Dale un banquete a tus ojos con esta pequeña rebanada del Cielo en la tierra! Iya, una forma realmente privilegiada de los dioses, ¿no estarías de acuerdo?
+cla En efecto. ¡Denles un banquete a sus ojos con esta pequeña rebanada del Cielo en la tierra! Iya, una forma realmente privilegiada de los dioses, ¿no estarían de acuerdo?
 #% hid ica
 hid ica
 #% hid mar
@@ -2779,7 +2779,7 @@ cla ¿Pero sabían que más de mil otros dioses y diosas son adorados por los se
 #% cha cla_handsonhips_focus_neutral_laugh
 cha cla_handsonhips_focus_neutral_laugh
 #% cla Little old me is one such goddess! And much like the woodsman who dropped his hatchet into the pool and was visited by the goddess of wisdom, you are the captain who has been visited by the goddess of the beached merchant ship!
-cla ¡Esta humilde servidora es una de esas diosas! ¡Y al igual que el hombre de madera que dejó caer su sombrero en la fuente y fue visitado por la diosa de la sabiduría, tú eres el capitán que ha sido visitado por la diosa de la nave mercante encallada!
+cla ¡Esta humilde servidora es una de esas diosas! ¡Y al igual que el hombre de madera que dejó caer su sombrero en la fuente y fue visitado por la diosa de la sabiduría, tú eres el capitán que ha sido visitado por la diosa de la encallada nave mercante!
 #% cha ica_handsonhips_neutral_neutral_smirk
 cha ica_handsonhips_neutral_neutral_smirk
 #% voi ica_vns_neu_11
@@ -2951,7 +2951,7 @@ kay ¿T-Templo secreto...?
 #% cha cla_armscrossed_sad_closedeye_3mouth
 cha cla_armscrossed_sad_closedeye_3mouth
 #% cla Ahem. Heed no attention to the barrels of food and water surrounding us. Yes, any place can be a shrine to this goddess. Despite its drab appearance, this very storeroom is now a holy church of Claude's undying love!
-cla Ejem. No prestes atención a los barriles de comida y agua que nos rodean. Sí, cualquier lugar puede ser un templo a esta diosa. A pesar de su triste apariencia, 
+cla Ejem. No prestes atención a los barriles de comida y agua que nos rodean. Sí, cualquier lugar puede ser un templo para esta diosa. ¡A pesar de su lamentable apariencia, este mismo almacén ahora es una santa iglesia del amor inmortal de Claude!
 #% cha kay_neu_confuse_thinking_smalltalk
 cha kay_neu_confuse_thinking_smalltalk
 #% kay Uh... huh... Say... what did you say you were a goddess of...?
@@ -2959,7 +2959,7 @@ kay Uh... huh... Dime... ¿de qué dijiste que eras una diosa...?
 #% cha cla_handsonhips_raised_closedeye_smallopen
 cha cla_handsonhips_raised_closedeye_smallopen
 #% cla The seas and the winds, and all other stuff important to sailors. With a side helping of healing magic.
-cla Los mares y los vientos, y todas las demás cosas importantes de los marineros. Con una ayuda lateral de magia sanadora.
+cla Los mares y los vientos, y todas las demás cosas importantes para los marineros. Con una ayuda lateral de magia sanadora.
 #% cha kay_neu_confuse_neutral_slight
 cha kay_neu_confuse_neutral_slight
 #% kay Right. Quite an eclectic toolkit of skills you have there...
@@ -2969,7 +2969,7 @@ cha cla_handsonhips_focus_neutral_laugh
 #% cla But that's not all the skills little old me has at her disposal! It is now time for your... blessing!
 cla ¡Pero esas no son todas las habilidades que esta humilde servidora tiene a su disposición! ¡Ya es la hora de tu... bendición!
 #% cla Step right up. There is no reason for any concern at all - just one blessing and you'll be slaying undead left and right! Ohoh, what an undead slaying machine you will be... the very bonebane himself!
-cla Párate derecho. No hay razón para ninguna preocupación en absoluto - ¡solo una bendición y estarás derrotando no muertos a diestra y siniestra! ¡Ohoh, vaya máquina de derrotar no muertos serás... el mismísimo quebrantahuesos!
+cla Párate derecho. No hay razón para ninguna preocupación en absoluto - ¡solo una bendición y estarás derrotando no muertos a diestro y siniestro! ¡Ohoh, vaya máquina de derrotar no muertos serás... el mismísimo quebrantahuesos!
 #% cha kay_neu_neutral_wide_smalltalk
 cha kay_neu_neutral_wide_smalltalk
 #% kay Huh... If you say so...
@@ -3059,7 +3059,7 @@ cha ava_armup_angry_widesmall_shout_shadow
 #% ava I remember now where I saw this skeever! It was back at Volaris! I saw her face plastered on wanted posters all over the city!
 ava ¡Recuerdo ahora dónde vi a esta alimaña! ¡Fue allá en Volaris! ¡Vi su rostro plasmado en carteles de se busca por toda la ciudad!
 #% ava Claude Trilleo! Apostate of the Church of Ryuvia! Wanted for the crimes of heresy, public indecency, sexual misconduct, and... Sharr protect us... bestiality!
-ava ¡Claude Trilleo! ¡Apóstata de la Iglesia de Ryuvia! ¡Buscada por crímenes de herejía, indecencia pública, acoso sexual, y... que la Sharr nos proteja... bestialidad!
+ava ¡Claude Trilleo! ¡Apóstata de la Iglesia de Ryuvia! ¡Buscada por los crímenes de herejía, indecencia pública, acoso sexual, y... que la Sharr nos proteja... bestialidad!
 #% cha cla_pout_raised_widesmall_shout_shadow
 cha cla_pout_raised_widesmall_shout_shadow
 #% cla Hoyoyoyoyoyoyo!! The druid of the Fenrir Order was just a little whoopsie, I swear! There was no way poor Claude could have known that he would take a huff and a puff, and... transform into a big bad wolf!
@@ -3141,13 +3141,13 @@ cha cla_pout_sad_narrow_shout
 #% voi cla_vns_sad_03
 voi cla_vns_sad_03
 #% cla You must believe me, captain...! Claude really is a goddess... albeit a minor one. Ahem... Rather than the wind and sea, you could say I'm more like the goddess of a light breeze and a local pond...
-cla ¡Debes creer en mí, capitán...! Claude realmente es una diosa... aunque una menor. Ejem... Más que el viento y el mar, pudieras decir que soy más como una diosa de una brisa ligera y un charco pequeño...
+cla ¡Debes creer en mí, capitán...! Claude realmente es una diosa... aunque una menor. Ejem... En lugar del viento y el mar, pudieras decir que soy más como una diosa de una brisa ligera y un charco pequeño...
 #% cha ava_facepalm_focus_closedeye_tch_shadow
 cha ava_facepalm_focus_closedeye_tch_shadow
 #% voi ava_vns_shy_03
 voi ava_vns_shy_03
 #% ava Unbelievable. And to think our dear captain was so eager to receive this charlatan's "blessing." How droll your end would have been if you were cut down the instant you waltzed up to an undead, deluded by her sophistry.
-ava Increíble. Y pensar que nuestro querido capitán estaba tan dispuesto a recibir la "bendición" de esta charlatana.
+ava Increíble. Y pensar que nuestro querido capitán estaba tan dispuesto a recibir la "bendición" de esta charlatana. Qué gracioso habría sido su final si le hubieran abatido en el instante en que se aproximó a un no muerto, engañado por su sofisma.
 #% cha kay_neu_sad_closed_groan
 cha kay_neu_sad_closed_groan
 #% kay Let us not dwell on such grim what-if's, Ava...
@@ -3155,7 +3155,7 @@ kay No nos fijemos en esos oscuros "y si", Ava...
 #% cha ava_armscrossed_angry_surprise_yell
 cha ava_armscrossed_angry_surprise_yell
 #% ava In light of this deviant's crimes, I say that the only reasonable course of action is to cast a spell of binding on her until we can turn her over to the authorities.
-ava A la luz de los crímenes de esta pervertida, yo digo que el único curso de acción razonable es lanzarle un hechizo de ataduras hasta que podamos entregarla a las autoridades.
+ava A la luz de los crímenes de esta pervertida, yo digo que el único curso de acción razonable es lanzarle un hechizo de atadura hasta que podamos entregarla a las autoridades.
 #% cha cla_pout_sad_trianglee_shout_shadow
 cha cla_pout_sad_trianglee_shout_shadow
 #% voi cla_vns_sur_04
@@ -3221,11 +3221,11 @@ ava En efecto, yo también noté el mural de la Sharr Myren junto a la entrada d
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 #% kay So in the end, you're saying that if we find the ruins of the Sharr'Lac, then we've practically found the Talbur as well?
-kay Así que al final, ¿dices que si hallamos las ruinas del Sharr'Lac, entonces prácticamente hemos encontrado al Talbur también?
+kay Entonces al final, ¿estás diciendo que si hallamos las ruinas del Sharr'Lac, luego prácticamente habremos encontrado el Talbur también?
 #% cha cla_handsonhips_angry_closedeye_laugh
 cha cla_handsonhips_angry_closedeye_laugh
 #% obj MAIN: Head to the Sharr'Lac
-obj PRINCIPAL: Dirígete al Sharr'Lac
+obj PRINCIPAL: Dirigirse al Sharr'Lac
 #% cla On the mark, captain. And can you guess who's seen the Sharr'Lac with her very own eyes?! Your lovely goddess, right here! Here, I can even mark it on your map for you, captain.
 cla En el blanco, capitán. ¡¿Y puedes adivinar quién ha visto al Sharr'Lac con sus propios ojos?! ¡Tu encantadora diosa, justo aquí! Ten, incluso lo puedo marcar en tu mapa por ti, capitán.
 #% cha cla_armscrossed_sad_closedeye_catmouth
@@ -3233,17 +3233,17 @@ cha cla_armscrossed_sad_closedeye_catmouth
 #% voi cla_vns_neu_04
 voi cla_vns_neu_04
 #% cla In exchange, let's allow bygones to be bygones... and we can put that little whoopsie down in the cargo hold behind us, no?
-cla A cambio, dejemos que lo pasado se quede en el pasado... y podemos dejar ese pequeño desliz allá abajo en la bodega detrás, ¿no?
+cla A cambio, dejemos que lo pasado se quede en el pasado... y podemos dejar atrás ese pequeño desliz allá abajo en la bodega, ¿no?
 #% cha ava_facepalm_focus_narrowloo_tch
 cha ava_facepalm_focus_narrowloo_tch
 #% voi ava_vns_ang_02
 voi ava_vns_ang_02
 #% ava Unbelievable! You would allow this sexual deviant to remain a member of the crew?
-ava ¡Increíble! ¿Permitiría que esta pervertida sexual quedarse como un miembro de la tripulación?
+ava ¡Increíble! ¿Permitiría a esta pervertida sexual quedarse como una miembro de la tripulación?
 #% cha kay_neu_sad_closed_smirk
 cha kay_neu_sad_closed_smirk
 #% kay Well, I guess we do need the location of the Talbur... And her magical abilities certainly are not fraudulent. However, I shall keep my belt buckled and my pants safely secured at all times, lest we encounter another unfortunate "whoopsie."
-kay Bueno, supongo que necesitamos la ubicación del Talbur... Y sus habilidades mágicas ciertamente no son fraudulentas. Sin embargo, mantendré mi cinturón abrochado y mis calzones asegurados en todo momento, no sea que nos encontremos con otro desafortunado "desliz".
+kay Bueno, supongo que necesitamos la ubicación del Talbur... Y sus habilidades mágicas ciertamente no son fraudulentas. Sin embargo, mantendré mi cinturón abrochado y mis calzones bien asegurados en todo momento, no sea que nos encontremos con otro desafortunado "desliz".
 #% cha cla_armscrossed_sad_funnyclos_3mouth
 cha cla_armscrossed_sad_funnyclos_3mouth
 #% cla Eh-heh... O-Of course, captain... No more pulling funnies from now on... Pinky swear...
@@ -3257,13 +3257,13 @@ ava Haah... Es demasiado confiado cuando se trata del sexo opuesto, capitán.
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
 #% kay You know what I always say: Always better to trust and find out than be abandoned with nothing but your paranoia. Our next destination is now marked on the map. That's what matters.
-kay Tú sabes lo que siempre digo: Siempre es mejor confiar y descubrir que estar abandonado con nada más que tu paranoia. Nuestro próximo destino esta ahora marcado en el mapa. Eso es todo lo que importa.
+kay Tú sabes lo que siempre digo: Siempre es mejor confiar y descubrir que estar abandonado con nada más que tu paranoia. Nuestro próximo destino está ahora marcado en el mapa. Eso es todo lo que importa.
 #% cha ava_armup_sad_closedeye_smalltalk
 cha ava_armup_sad_closedeye_smalltalk
 #% voi ava_vns_ang_02
 voi ava_vns_ang_02
 #% ava Sigh, very well, captain. I suppose given the circumstances, surviving the Forgotten Abyss comes before dealing with this fraudster's outstanding warrants.
-ava Haah, muy bien, capitán. Supongo que dadas las circunstancias, sobrevivir al Abismo Olvidado viene antes de hacernos cargo de las órdenes de arresto pendientes de esta estafadora.
+ava Haah, muy bien, capitán. Supongo que dadas las circunstancias, sobrevivir al Abismo Olvidado viene antes que hacernos cargo de las órdenes de arresto pendientes de esta estafadora.
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 #% kay Thank you, commander. Now, let's go see whether the Sharr'Lac lives up to its promise...
@@ -3285,7 +3285,7 @@ voi ava_vns_neu_04
 #% ava We can hardly see a thing in this fog... Ugh, are you sure our "goddess" has not led us astray?
 ava Apenas podemos ver algo en esta niebla... Ugh, ¿está seguro de que nuestra "diosa" no nos ha llevado por mal camino?
 #% xob MAIN: Head to the Sharr'Lac
-xob MAIN: Head to the Sharr'Lac
+xob PRINCIPAL: Dirigirse al Sharr'Lac
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay Steady as she goes, commander. I see no reason to doubt her - all our fates are on the same boat.
@@ -3413,13 +3413,13 @@ cla Según mi investigación histórica, fue aquí donde Sola di Ryuvia y Crow H
 #% cla Well, given that Prince Rayvin himself was born from the Farari Queen and only part Ryuvian, while Crow Harbor was of pure Ryuvian descent, the royalists backed Harbor's claim despite his illegitimacy. Prince Rayvin summoned his illegitimate daughter, Sola, and baptized her Sharr, to defend the realm against Crow's forces.
 cla Bueno, dado que el propio Príncipe Rayvin es hijo de la Reina Farari y solo parte Ryuviano, mientras que Crow Harbor era de pura descendencia Ryuviana, los monárquicos respaldaron la demanda de Harbor a pesar de su ilegitimidad. El Príncipe Rayvin convocó a su hija ilegítima, Sola, y la bautizó como Sharr, para defender el reino contra las fuerzas de Crow. 
 #% cla The Sharr'Lac met Crow Harbor's own flagship, the Imperium, in the climatic battle of the war. The Sharr's victory seemed assured when the Sharr'Lac scored a broadside against the Imperium, taking out most of her port. But the young Sharr's tale would not end so happily.
-cla El Sharr'Lac se enfrentó con la propia nave insignia de Crow Harbor, el Imperium, en la batalla climática de la guerra. La victoria de la Sharr parecía asegurada cuando el Sharr'Lac asestó un disparo contra el Imperium, destruyendo la mayor parte de su puerto. Pero la historia de la joven Sharr no terminaría tan felizmente.
+cla El Sharr'Lac se enfrentó con la propia nave insignia de Crow Harbor, el Imperium, en la batalla climática de la guerra. La victoria de la Sharr parecía asegurada cuando el Sharr'Lac asestó un disparo contra el Imperium, acabando con la mayor parte de su babor. Pero la historia de la joven Sharr no terminaría tan felizmente.
 #% cha cla_armscrossed_neutral_narrowloo_smalltalk
 cha cla_armscrossed_neutral_narrowloo_smalltalk
 #% cla Crow Harbor had a secret weapon at his sleeve: A mythical artifact which would grant his forces unsurpassed might at their most desperate hour. And might it did provide - at the cost of their souls.
 cla Crow Harbor tenía un arma secreta bajo su manga: Un artefacto mítico que le concedería a sus fuerzas un poder insuperable en su momento más desesperado. Y poder les concedió - a costa de sus almas.
 #% cla Alas, as soon as he unleashed his secret weapon, his army transformed into an undead horde. Even the mighty Sharr'Lac proved helpless against the living dead and was quickly overrun. The poor Sharr was torn limb from limb, her screams to echo through the Forgotten Abyss forever.
-cla Por desgracia, tan pronto desató su arma secreta, su ejército se transformó en una horda de no muertos. Incluso el poderoso Sharr'Lac terminó indefenso contra los muertos vivientes y fue rápidamente abordado. La pobre Sharr fue desgarrada miembro a miembro, con sus gritos haciendo eco a través del Abismo Olvidado para siempre.
+cla Por desgracia, tan pronto desató su arma secreta, su ejército se transformó en una horda de no muertos. Incluso el poderoso Sharr'Lac terminó indefenso contra los muertos vivientes y fue rápidamente abordado. La pobre Sharr fue desgarrada miembro a miembro, con sus gritos haciendo eco por del Abismo Olvidado para siempre.
 #% cha cla_pout_focus_neutral_catopensm_shadow
 cha cla_pout_focus_neutral_catopensm_shadow
 #% cla To this very day, the wandering dead of the Lost Fleet wander the Forgotten Abyss, cursed to haunt it for eternity...
@@ -3457,7 +3457,7 @@ asa Una historia realmente deprimente, eh... Pero mirando a este desastre, me in
 #% cha asa_shrug_angry_narrow2_laugh_shadow
 cha asa_shrug_angry_narrow2_laugh_shadow
 #% asa You suppose the ghost of the Sharr still haunts this place? Come to think of it, I have been hearing something resembling the screaming of a young girl ever since we came here...
-asa ¿Crees que el fantasma de la Sharr todavía ronda este lugar? Ahora que lo pienso, he estado escuchando algo semejante al grito de una chica joven desde que llegamos aquí...
+asa ¿Creen que el fantasma de la Sharr todavía ronda este lugar? Ahora que lo pienso, he estado escuchando algo semejante al grito de una chica joven desde que llegamos aquí...
 #% cha chi_handtoface_concern_widesmall_cry_shadow
 cha chi_handtoface_concern_widesmall_cry_shadow
 #% voi chi_vns_sad_02
@@ -3619,7 +3619,7 @@ tag chap3_afterrpgbattle2
 #% mus stop
 mus stop
 #% xob RPG BATTLE: Undead of the Lost Fleet
-xob BATALLA RPG: No muertos de la Flota Perdida
+xob BATALLA RPG: No Muertos de la Flota Perdida
 #% cha ica_back_surprised_surprise_smalltalk
 cha ica_back_surprised_surprise_smalltalk
 #% ica Well... I guess the big titted woman actually did it. The crystal's been shattered. And the woman inside...
@@ -3763,7 +3763,7 @@ hid sol
 #% cha crowharbor
 cha crowharbor
 #% cro SPAWN OF A FISH MONGER!!! AT LAST YOU SHOW YOURSELF!!!!
-cro ¡¡¡ENGENDRO DE UNA PESCADORA!!! ¡¡¡¡POR FIN TE MUESTRAS!!!!
+cro ¡¡¡ENGENDRO DE PESCADERA!!! ¡¡¡¡POR FIN TE MUESTRAS!!!!
 #% cha kay_neu_raised_wide_yell
 cha kay_neu_raised_wide_yell
 #% kay Crow Harbor?!
@@ -4047,11 +4047,11 @@ cro ¡¡¡¡Haaahahahahahahaha!!!!
 #% cro At last I am free of this miserable existence!
 cro ¡Al fin soy libre de esta miserable existencia!
 #% cro Rejoice, fish spawn. You have bested me. But it matters not.
-cro Regocíjate, engendro. Me has derrotado. Pero no importa.
+cro Regocíjate, engendro de peces. Me has derrotado. Pero no importa.
 #% cro Go. Go see what remains of your precious Ryuvian Empire.
 cro Ve. Ve y observa lo que queda de tu preciado Imperio Ryuviano.
 #% cro A sham of a Sharr... A sham of a savior...
-cro Una vergüenza de Sharr... Una vergüenza de salvadora...
+cro Una falsa Sharr... Una falsa salvadora...
 #% cro Your battle was already lost, from the moment you failed to cast the Final Tear...
 cro Tu batalla ya estaba perdida, desde el momento en que fallaste en lanzar la Final Tear...
 #% cha sol_side_angry_narrow_yell
@@ -4259,7 +4259,7 @@ sol Ya... veo.
 #% cha ava_armscrossed_focus_neutral_smalltalk
 cha ava_armscrossed_focus_neutral_smalltalk
 #% ava We came to the Forgotten Abyss on a quest to recover the Talbur for the High Elves of the Song Alliance. The Holy Ryuvian Empire is now but a small kingdom and Song has become the center of Elfdom. It is imperative we use the Talbur to find the next Sharr - the fate of Halla depends on it.
-ava Vinimos al Abismo Olvidado en una búsqueda para recuperar el Talbur para los Altos Elfos de la Alianza Song. El Sacro Imperio Ryuviano ahora no es más que un pequeño reino y Song se ha vuelto el centro de la raza Élfica. Es urgente que usemos el Talbur para hallar a la próxima Sharr - el destino de Halla depende de ello.
+ava Vinimos al Abismo Olvidado en una búsqueda para recuperar el Talbur para los Altos Elfos de la Alianza Song. El Sacro Imperio Ryuviano ahora no es más que un pequeño reino y Song se ha vuelto el centro de la raza Élfica. Es urgente que usemos el Talbur para encontrar a la próxima Sharr - el destino de Halla depende de ello.
 #% sou sou_awaken
 sou sou_awaken
 #% cha sol_front_neutral_neutral_talk2
@@ -4567,7 +4567,7 @@ cul ¡Peh! ¡Qué resultado tan ridículo has creado, babuino!
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 #% kay Then what say the pig and the baboon call a temporary truce, so that we may recover our charge from our interloping pirate?
-kay ¿Entonces qué dices si el cerdo y el babuino tienen una tregua temporal, de modo que podamos recuperar nuestro cargamento de nuestra pirata entrometida?
+kay Entonces ¿qué dices si el cerdo y el babuino tienen una tregua temporal, de modo que podamos recuperar nuestro cargamento de nuestra pirata entrometida?
 #% cha cul_neu_sad_closed_slight
 cha cul_neu_sad_closed_slight
 #% cul Buuuuheee... Very well...
