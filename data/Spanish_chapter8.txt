@@ -1723,7 +1723,7 @@ cha shi_neu_angry_neutral_yell
 #% shi Now it's our turn to help!
 shi ¡Ahora es nuestro turno de ayudar!
 #% shi We'll distract the Emerald Fleet long enough for you to run away! You just make sure to keep the Princess safe!
-shi ¡Distraeremos a la Flota Esmeralda lo suficiente para que ustedes huyan! ¡Tú solo asegúrante de mantener a la Princesa a salvo!
+shi ¡Distraeremos a la Flota Esmeralda lo suficiente para que ustedes huyan! ¡Tú solo asegúrate de mantener a la Princesa a salvo!
 #% ifj chap8_battle5_mar,marayalive
 ifj chap8_battle5_mar,marayalive
 #% tag chap8_battle5_mar_true
@@ -4037,7 +4037,7 @@ cha ava_armup_angry_surprise_yell
 #% ava No... Wait! Warning! Enemy sails spotted!
 ava No... ¡Esperen! ¡Alerta! ¡Velas enemigas avistadas!
 #% obj BATTLE: End the Monolithic Truth
-obj BATALLA: Fin de la Verdad Monolítica
+obj BATALLA: Terminar la Verdad Monolítica
 #% ava It's the Emerald Fleet! We have been completely surrounded, captain!
 ava ¡Es la Flota Esmeralda! ¡Hemos sido rodeados completamente, capitán!
 #% cha kay_neu_focus_closed_clench
@@ -4111,7 +4111,7 @@ cha gre_neu_angry_widesmall_yell
 #% gre Ah, woe be upon this age! Maan and Demonfolk walk the streets of Ryuvia, spreading their filth and decay to our sacred lands! And now, you, the very Sharr, question the will of the Talbur!
 gre ¡Ah, qué era de desgracia! ¡Los Maan y Demonios caminan por las calles de Ryuvia, propagando su inmundicia y decaimiento a nuestras tierras sagradas! ¡Y ahora, usted, la mismísima Sharr, cuestionando la voluntad del Talbur!
 #% gre You are all in need of education! Witness the might of the Emerald Fleet and reflect on your ways!
-gre ¡Todos ustedes necesitan educación! ¡Observen el poder de la Flota Esmeralda y refleccionen sobre sus costumbres!
+gre ¡Todos ustedes necesitan educación! ¡Observen el poder de la Flota Esmeralda y reflexionen sobre sus costumbres!
 #% cha ava_facepalm_focus_closedeye_tch_shadow
 cha ava_facepalm_focus_closedeye_tch_shadow
 #% ava It's useless. He's gone completely insane.
@@ -4139,7 +4139,7 @@ dbg spr_bg_sunriderbridge
 #% mus mus_battleagainsttime
 mus mus_battleagainsttime
 #% xob BATTLE: End the Monolithic Truth
-xob BATALLA: Fin de la Verdad Monolítica
+xob BATALLA: Terminar la Verdad Monolítica
 #% cha gre_neu_angry_widesmall_clench
 cha gre_neu_angry_widesmall_clench
 #% gre Persistent insect spawn! But your resistance is futile! A thousand more ships of the Emerald Fleet yet remain to end your pathetic tantrum!

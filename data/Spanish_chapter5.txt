@@ -309,7 +309,7 @@ shi ¿Entonces aquello en Far Port fue obra tuya? ¡Bueno, no puedo decir que es
 #% cha shi_neu_raised_closed2_grin
 cha shi_neu_raised_closed2_grin
 #% shi You know, when I was your age, I defeated the Lord of the Shattered Rocks in the Sargasso Bay-
-shi Sabes, cuando tenía tu edad, derroté al Señor de los Riscos en la Bahía de Sargasso-
+shi Sabes, cuando tenía tu edad, derroté al Señor de las Rocas Astilladas en la Bahía de Sargasso-
 #% cha kay_neu_focus_closed_smalltalk
 cha kay_neu_focus_closed_smalltalk
 #% kay Yes, I know. You've told this story quite a few times before, dad.
@@ -1769,7 +1769,7 @@ tag chap5_battle2_start
 #% cha kuu_neu_focus_neutral_bigopensm
 cha kuu_neu_focus_neutral_bigopensm
 #% kuu Captain Shields! What a surprise it is to see you again! Word has it that you have been a bad boy of late...
-kuu ¡Capitán Shields! ¡Qué sorpressa es verlo nuevamente! Cuentan los rumores que ha sido un niño malo últimamente...
+kuu ¡Capitán Shields! ¡Qué sorpresa es verlo nuevamente! Cuentan los rumores que ha sido un niño malo últimamente...
 #% cha kay_neu_confuse_neutral_slight
 cha kay_neu_confuse_neutral_slight
 #% kay A-Ahem... I'm sorry, but I don't think we've ever met...
@@ -2195,7 +2195,7 @@ cha kay_neu_confuse_wide_smalltalk
 #% kay So the Denari do not think of mixed bathing as being shameful like the Maan of the Asahi Isle do?
 kay ¿Entonces los Denari no creen que los baños mixtos sean vergonzosos como los Maan de la Isla Asahi?
 #% qis Generally, we do, yes. But not when it is between a man and a woman in the midst of a courtship!
-qis Generalmente, lo creemos, sí. ¡Pero no cuando es entre un hombre y una mujer enmedio de un cortejo!
+qis Generalmente, lo creemos, sí. ¡Pero no cuando es entre un hombre y una mujer en medio de un cortejo!
 #% qis Indeed, when a match is to be made with a Pre'ator, most methods are considered fair game!
 qis ¡Así es, cuando se debe hacer un enfrentamiento con una Pre'ator, la mayoría de los métodos son considerados un juego justo!
 #% cha kay_neu_raised_wide_talk
@@ -3985,7 +3985,7 @@ kay Parece que tendremos que encargarnos de sus marionetas primero...
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
 #% kay All hands! Action stations!
-kay ¡A toda la tripulación! ¡Estaciones de batallla!
+kay ¡A toda la tripulación! ¡Estaciones de batalla!
 #% sou sou_partyleave
 sou sou_partyleave
 #% nar (Claude has left the party.)
@@ -7537,7 +7537,7 @@ cha kay_neu_focus_neutral_smalltalk
 #% kay No, this is in fact my favorite place in the city. I was merely surprised that you would invite me here.
 kay No, este es de hecho mi lugar favorito en la ciudad. Solamente estaba sorprendido de que me invitaras aquí.
 #% jem Why the surprise? What better way is there to unwind after a battle than to soak in the legendary baths of Ferros!
-jem ¿Por qué la sorpresa? ¡Qué mejor forma hay de relajarse tras una batalla que remojándose en los lejendarios baños de Ferros!
+jem ¿Por qué la sorpresa? ¡Qué mejor forma hay de relajarse tras una batalla que remojándose en los legendarios baños de Ferros!
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
 #% kay I agree wholeheartedly.

@@ -233,7 +233,7 @@ cha ava_armup_surprised_surprise_smalltalk
 #% voi ava_vns_sad_04
 voi ava_vns_sad_04
 #% ava Captain? Why...?
-ava ¿Capián? ¿Por qué...?
+ava ¿Capitán? ¿Por qué...?
 #% cha ava_armscrossed_surprised_wide_slight
 cha ava_armscrossed_surprised_wide_slight
 #% ava She was a pirate. What sorrow is there in an outlaw receiving her due?
@@ -467,7 +467,7 @@ kay ¡Eso se agradecería mucho, diosa!
 #% cha cla_handsonhips_focus_neutral_laugh
 cha cla_handsonhips_focus_neutral_laugh
 #% cla I believe I may be able to wield some control over the Dreadstone's powers. If we were to launch a boarding attack on Cosette directly, we might be able to disrupt her powers.
-cla Creo que sería capaz de tomar algo de control sobre los poderes de la Dreadstone. Si lanzácemos un ataque de abordaje a Cosette directamente, podríamos ser capaces de interrumpir sus poderes.
+cla Creo que sería capaz de tomar algo de control sobre los poderes de la Dreadstone. Si lanzásemos un ataque de abordaje a Cosette directamente, podríamos ser capaces de interrumpir sus poderes.
 #% ifj chap7_cosette2,goto_ryuvia
 ifj chap7_cosette2,goto_ryuvia
 #% tag chap7_cosette2_true
@@ -1357,7 +1357,7 @@ cha kay_neu_focus_neutral_smalltalk
 #% kay But that sentence has already been carried out. Cosette Cosmos died when I gave the order to open fire upon her ship.
 kay Pero esa sentencia ya ha sido llevada a cabo. Cosette Cosmos murió cuando di la orden de abrir fuego sobre su nave.
 #% kay The person before you is another version of her, who I met in the Spirit Realm while the Dreadstone's power was going wild. This Cosette Cosmos never became a pirate. She is simply an orphan, who was fostered by a charitable High Elf priestess. Thus, to execute her would be without justification.
-kay La persona ante ustedes es otra versión de ella, a quien conocí en el Reino Espiritual mientras el poder de la Dreadstone estaba descontrolado. Esta Cosette Cosmos nunca se volvió una pirata. Ella es simplemente una huérfana, que fue acogida por una caritativa sacerdotiza Alta Elfa. Por tanto, ejecutarla no tendría justificación.
+kay La persona ante ustedes es otra versión de ella, a quien conocí en el Reino Espiritual mientras el poder de la Dreadstone estaba descontrolado. Esta Cosette Cosmos nunca se volvió una pirata. Ella es simplemente una huérfana, que fue acogida por una caritativa sacerdotisa Alta Elfa. Por tanto, ejecutarla no tendría justificación.
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay This is our law, just as it is Elvish law.
@@ -1943,7 +1943,7 @@ fon Un homúnculo creado a imagen de Arcadius, por nuestra verdadera líder, Ali
 #% cha fon_neu_worry_closedeye_slight
 cha fon_neu_worry_closedeye_slight
 #% fon Long ago, she was rescued by Arcadius from the Doom of Diode. Alas, she took his death the hardest among us...
-fon Hace mucho tiempo, ella fue rescatada por Arcadius de la Trajedia de Diode. Por desgracia, ella de entre nosotros fue quien peor se tomó su muerte ...
+fon Hace mucho tiempo, ella fue rescatada por Arcadius de la Tragedia de Diode. Por desgracia, ella de entre nosotros fue quien peor se tomó su muerte ...
 #% cha fon_neu_angry_neutral_slight
 cha fon_neu_angry_neutral_slight
 #% fon Yet, her madness cannot go on any further.
@@ -1995,7 +1995,7 @@ cha fon_neu_lowfocus_neutral_bigtalk
 #% voi fon_vns_neu_05
 voi fon_vns_neu_05
 #% fon Very well. Then, know this. There is a secret facility, hidden near the Shattered Rocks of Sargasso, where the homunculi are created.
-fon Muy bien. Entonces, escucha esto. Hay una instalación secreta, olculta cerca de las Rocas Destrozadas de Sargasso, donde se crea a los homúnculos.
+fon Muy bien. Entonces, escucha esto. Hay una instalación secreta, oculta cerca de las Rocas Astilladas de Sargasso, donde se crea a los homúnculos.
 #% fon I will take my forces and create a diversion, while you strike the facility and destroy those foul automatons once and for all.
 fon Yo llevaré a mis fuerzas y crearé una distracción, mientras tú atacas la instalación y destruyes a esos tontos autómatas de una vez por todas.
 #% cha ava_armscrossed_focus_neutral_smalltalk
@@ -3603,7 +3603,7 @@ ica Por favor, no digas cosas tan fáciles de malinterpretar...
 #% cha kay_neu_confuse_thinking_smirk
 cha kay_neu_confuse_thinking_smirk
 #% kay There is no need to rush, Sister Paladin. Surely you could afford to relax a bit further?
-kay No hay necesidad de apurarse, Hermana Paladí. ¿No pudieras permitirte relajarte un poco más?
+kay No hay necesidad de apurarse, Hermana Paladín. ¿No pudieras permitirte relajarte un poco más?
 #% kry I appreciate the offer captain, but I have been tasked by Admiral Grey to a task of the highest importance!
 kry ¡Aprecio la oferta capitán, pero he sido asignada por el Almirante Grey a una tarea de suma importancia!
 #% kry I am to secure the Monolith of Truth personally and load it upon our flagship for transit back to the great temple at Ongess!

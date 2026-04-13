@@ -37,7 +37,7 @@ chi Con todo lo que ha estado sucediendo, simplemente no pudimos encontrar el mo
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay True enough. Still, that does not pardon you of your crime.
-kay Ciertamente. Aun así, eso no perdona tu crímen.
+kay Ciertamente. Aun así, eso no perdona tu crimen.
 #% cha chi_shocked_focus_closedeye_yell
 cha chi_shocked_focus_closedeye_yell
 #% chi C-Chigara will accept any punishment the captain imposes...!
@@ -653,7 +653,7 @@ ava Deberíamos ir a la bahía mientras tenemos la oportunidad e intentar rescat
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay I did tell you of the Sargasso Bay's many tricks, no? If we are bogged down in a battle when Pact catches up, that could prove to be a challenge.
-kay Te conté de los numerosos trucos de la Bahía de Sargasso, ¿no? Si nos vemos atrapados en una batalla cuando el Pact nos alcance, eso pudiera terminar siendo un desafío.
+kay Te conté de los numerosos trucos de la Bahía de Sargasso, ¿no? Si nos vemos atrapados en una batalla cuando el Pacto nos alcance, eso pudiera terminar siendo un desafío.
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
 #% kay (Two paths with co-equal boons and dooms are upon us. A decision must be made...)
@@ -817,7 +817,7 @@ tag chap4_sargasso_cc1
 #% xcr 0
 xcr 0
 #% obj MAIN: Pirate of the Shattered Rocks A
-obj PRINCIPAL: Pirata de las Rocas Destrozadas A
+obj PRINCIPAL: Pirata de las Rocas Astilladas A
 #% var cosettetruce
 var cosettetruce
 #% cha kay_neu_focus_closed_slight
@@ -841,7 +841,7 @@ tag chap4_sargasso_cc2
 #% xcr 1
 xcr 1
 #% obj MAIN: Pirate of the Shattered Rocks B
-obj PRINCIPAL: Pirata de las Rocas Destrozadas B
+obj PRINCIPAL: Pirata de las Rocas Astilladas B
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
 #% kay (The die is cast. Now fate will decide.)
@@ -1013,9 +1013,9 @@ cos ¡Cambien la dirección!
 #% cos All hands: Attack!
 cos A toda la tripulación: ¡Ataquen!
 #% xob MAIN: Pirate of the Shattered Rocks B
-xob PRINCIPAL: Pirata de las Rocas Destrozadas B
+xob PRINCIPAL: Pirata de las Rocas Astilladas B
 #% xob MAIN: Pirate of the Shattered Rocks A
-xob PRINCIPAL: Pirata de las Rocas Destrozadas A
+xob PRINCIPAL: Pirata de las Rocas Astilladas A
 #% ifj chap4_sargassobattle,cosettetruce
 ifj chap4_sargassobattle,cosettetruce
 #% 
@@ -2947,7 +2947,7 @@ cha ava_facepalm_sad_closedeye_smalltalk
 #% voi ava_vns_shy_02
 voi ava_vns_shy_02
 #% ava I have no idea how such boons always fall into our captain's lap so casually...
-ava No tengo idea dce cómo tales bendiciones siempre caen en el regazo de nuestro capitán tan casualmente...
+ava No tengo idea de cómo tales bendiciones siempre caen en el regazo de nuestro capitán tan casualmente...
 #% cha sol_back_sad_wide_talk2
 cha sol_back_sad_wide_talk2
 #% voi sol_vns_neu_10

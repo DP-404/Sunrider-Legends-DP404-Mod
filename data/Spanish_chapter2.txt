@@ -271,7 +271,7 @@ kay Ahora mismo, esta tripulación me necesita. Maray... ella era todo para mí.
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay I've got to be the captain. Or else everyone that was saved will be lost. And all would have been for nothing.
-kay Tengo que ser el capitán. O de lo contrario todos los que se salvaron se perderan. Y todo habría sido en vano.
+kay Tengo que ser el capitán. O de lo contrario todos los que se salvaron se perderán. Y todo habría sido en vano.
 #% cha chi_holdinghands_concern_narrow_neutral
 cha chi_holdinghands_concern_narrow_neutral
 #% chi ... ... ...
@@ -2279,7 +2279,7 @@ ica Palabras vacías, capitán. Todos aquellos cercanos a mí han sido asesinado
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
 #% kay That couldn't be further from the truth. You have everyone on the ship. And you have me! I shall be your closest friend!
-kay Eso no pudiera estár más lejos de la verdad. Tienes a todos en la nave. ¡Y me tienes a mí! ¡Yo seré tu amigo más cercano!
+kay Eso no pudiera estar más lejos de la verdad. Tienes a todos en la nave. ¡Y me tienes a mí! ¡Yo seré tu amigo más cercano!
 #% cha ica_armscrossed_angry_surprise_smalltalk
 cha ica_armscrossed_angry_surprise_smalltalk
 #% ica ...Huh?
@@ -2933,7 +2933,7 @@ ver ¡Ahoy! ¡Tienen nuestros agradecimientos por ayudarnos a escapar en una pie
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
 #% kay Well met! We are short on supplies to make the journey to Song alone! Might we join together so that we can make the journey?
-kay ¡Bienhallados! ¡Nos estamos quedando cortos de suministros para viajar a Song solos! ¿Pudiéramos unirnos para poder lograr la travesía?
+kay ¡De nada! ¡Nos estamos quedando cortos de suministros para viajar a Song solos! ¿Pudiéramos unirnos para poder lograr la travesía?
 #% ver Of course! We managed to steal the Veniczar's entire larder! There's more food here than we could possibly eat!
 ver ¡Por supuesto! ¡Logramos robar toda la despensa del Veniczar! ¡Hay más comida aquí de la que pudiésemos comer!
 #% cha kay_neu_neutral_closed2_smirk

@@ -127,7 +127,7 @@ roo_chap2_story2
 #% BATTLE: Who is This Lost, Sassy Child?
 BATALLA: ¿Quién es Esta Niña Perdida y Descarada?
 #% After arriving at Tydaria, we found it ransacked by pirates. After a good faith attempt at negotiations, their leader, a child by the name of Cosette Cosmos, ordered her ships to open fire upon us without any provocative action on our part. 
-Tras llegar a Tydaria, nos la encontramos saqueada por piratas. Después de un intento de negociaciones de buena fe, su líder, una niña por el nombre de Cosette Cosmos, le ordenó a sus naves abrir fuego sobre nosotros sin ninguna acción provocativa de nuestra parte.
+Tras llegar a Tydaria, nos la encontramos saqueada por piratas. Después de un intento de negociaciones de buena fe, su líder, una niña por el nombre de Cosette Cosmos, les ordenó a sus naves abrir fuego sobre nosotros sin ninguna acción provocativa de nuestra parte.
 #% Defeat the pirate fleet.
 Derrotar a la flota pirata.
 #% spr_ui_talkicon_kay
@@ -155,7 +155,7 @@ roo_chap2_story4
 #% BATTLE: To the Verstans' Aid
 BATALLA: Al Auxilio de los Verstanos
 #% In a twist of fate, it turned out the mercenary Icari was sent to Versta by the High Elves of the Song Alliance to unleash the dreadstone upon the Pact fleet. Fortunately, we managed to thwart her mission, but at the cost of missing our chance to loot Pact's supplies. As luck would have it, we have spotted a Verstan frigate attempting to escape just as we were taking flight ourselves. Our only hope now is to join forces with the Verstans and attempt to reach the Song Alliance together.
-En un giro del destino, resultó que la mercenaria Icari fue enviada a Versta por los Altos Elfos de la Alianza Song para desatar la Dreadstone sobre la flota del Pacto. Afortunadamente, logramos frustrar su misión, pero al costo de perder nuestra oportunidad de saquear los suministros del Pacto. Por suerte, hemos avistado una fragata Verstana intentando escapar mientras nos dábamos a la fuga nosotros mismos. Nuestra única esperanza ahora es unir fuerzas con los Verstanos e intentar llegar a la Alianza Song juntos.
+En un giro del destino, resultó que la mercenaria Icari fue enviada a Versta por los Altos Elfos de la Alianza Song para desatar la Dreadstone sobre la flota del Pacto. Afortunadamente, logramos frustrar su misión, pero a costa de perder nuestra oportunidad de saquear los suministros del Pacto. Por suerte, hemos avistado una fragata Verstana intentando escapar mientras nos dábamos a la fuga nosotros mismos. Nuestra única esperanza ahora es unir fuerzas con los Verstanos e intentar llegar a la Alianza Song juntos.
 #% Take command of the Verstan frigate by boarding it, then defeat the Pact fleet. Both the Sunrider and the Verstan frigate must survive.
 Tomar el control de la fragata Verstana abordándola, y luego derrotar a la flota del Pacto. Tanto el Sunrider como la fragata Verstana deben sobrevivir.
 #% spr_ui_talkicon_kay
@@ -169,7 +169,7 @@ roo_chap2_battle2a
 #% BATTLE: Smash and Grab
 BATALLA: Aplastar y Tomar
 #% In a twist of fate, it turned out the mercenary Icari was sent to Versta by the High Elves of the Song Alliance to unleash the dreadstone upon the Pact fleet. Fortunately, we managed to thwart her mission, but at the cost of missing our chance to loot Pact's supplies. As luck would have it, we spotted a Pact supply ship among the enemy fleet as we were taking flight. Our only hope now is to capture the supply ship and loot its cargo before we make our escape.
-En un giro del destino, resultó que la mercenaria Icari fue enviada a Versta por los Altos Elfos de la Alianza Song para desatar la Dreadstone sobre la flota del Pacto. Afortunadamente, logramos frustrar su misión, pero al costo de perder nuestra oportunidad de saquear los suministros del Pacto. Por suerte, hemos avistado una nave de suministros del Pacto entre la flota enemiga mientras nos dábamos a la fuga. Nuestra única esperanza ahora es capturar la nave de suministros y saquear su carga antes de escapar.
+En un giro del destino, resultó que la mercenaria Icari fue enviada a Versta por los Altos Elfos de la Alianza Song para desatar la Dreadstone sobre la flota del Pacto. Afortunadamente, logramos frustrar su misión, pero a costa de perder nuestra oportunidad de saquear los suministros del Pacto. Por suerte, hemos avistado una nave de suministros del Pacto entre la flota enemiga mientras nos dábamos a la fuga. Nuestra única esperanza ahora es capturar la nave de suministros y saquear su carga antes de escapar.
 #% Loot the supply ship by capturing it, then defeat the Pact fleet. The Sunrider cannot be sunk.
 Saquear la nave de suministros capturándola, luego derrotar a la flota del Pacto. El Sunrider no puede ser hundido.
 #% spr_ui_talkicon_kay
@@ -253,7 +253,7 @@ roo_chap3_story5
 #% BATTLE: The Lost Fleet Attacks!
 BATALLA: ¡La Flota Perdida Ataca!
 #% We definitely got more than we bargained for on this mission. We went inside the Sharr'Lac and not only found the Talbur, but Sharr Sola herself. Upon our arrival, she awoke, along with a hoard of undead. Long ago, Crow Harbor unleashed a familiar sounding artifact to turn his crew into undead in a last, desperate attempt to defeat Sola. Unfortunately, his gambit backfired and damned his forces to an eternity of shambling over the shoals of the Forgotten Abyss.
-Definitivamente obtuvimos más de lo esperado en esta misión. Entramos al Sharr'Lac y no solo encontramos el Talbur, sino a la mismísima Sharr Sola. Tras nuestra llegada, se despertó, junto con una horda de no muertos. Hace mucho, Crow Harbor desató un artefacto que suena familiar para convertir a su tripulación en no muertos en un último intento desesperado de derrotar a Sola. desafortunadamente, su apuesta falló y condenó a sus fuerzas a una eternidad de arrastrarse por los bajíos del Abismo Olvidado.
+Definitivamente obtuvimos más de lo esperado en esta misión. Entramos al Sharr'Lac y no solo encontramos el Talbur, sino a la mismísima Sharr Sola. Tras nuestra llegada, se despertó, junto con una horda de no muertos. Hace mucho, Crow Harbor desató un artefacto que suena familiar para convertir a su tripulación en no muertos en un último intento desesperado de derrotar a Sola. Desafortunadamente, su apuesta falló y condenó a sus fuerzas a una eternidad de arrastrarse por los bajíos del Abismo Olvidado.
 #% The Sunrider reaches the marked location.
 El Sunrider alcanza la ubicación marcada.
 #% spr_ui_talkicon_kay
@@ -307,7 +307,7 @@ roo_chap4_battle1a
 #% 1
 1
 #% MAIN: Pirate of the Shattered Rocks A
-PRINCIPAL: Pirata de las Rocas Destrozadas A
+PRINCIPAL: Pirata de las Rocas Astilladas A
 #% With the Crimson Fleet not far behind both our tails, our best move would be to declare a truce with Cosette and face the enemy together. One thing is clear from all this: That little pirate is no mere child!
 Con la Flota Carmesí pisándonos los talones, nuestro mejor movimiento sería declarar una tregua con Cosette y enfrentar al enemigo juntos. Hay algo claro en todo esto: ¡Esa pequeña pirata no es una simple niña!
 #% Go to Sargasso and form a truce with Cosette.
@@ -321,7 +321,7 @@ roo_chap4_story5
 #% 1
 1
 #% MAIN: Pirate of the Shattered Rocks B
-PRINCIPAL: Pirata de las Rocas Destrozadas B
+PRINCIPAL: Pirata de las Rocas Astilladas B
 #% It doesn't get tougher than this: We must enter the deadly Sargasso Bay and rescue Asaga from the pirates, all while a hostile Pact fleet pursues us with the same goal in mind. We better move quickly - any hesitation could derail this mission.
 No hay nada más difícil que esto: Debemos entrar en la mortal Bahía de Sargasso y rescatar a Asaga de los piratas, todo mientras una hostil flota del Pacto nos persigue con el mismo objetivo en mente. Más nos vale movernos rápido - cualquier duda pudiera arruinar esta misión. 
 #% Go to Sargasso and rescue Asaga.
@@ -393,7 +393,7 @@ roo_chap4_story10
 #% SIDE: Defeat Crow Harbor
 LATERAL: Derrotar a Crow Harbor
 #% When you rescued me from the Forgotten Abyss, we escaped Crow Harbor with nary our lives. When the time is right, I wish to return to that damned place and destroy what remains of that man, once and for all.
-Cuando me rescató del Abismo Olvidado, escapamos de Crow Harbor con nuestras vidas. Cuando el momento sea el indicado, deseo regresar a ese lugar maldito y destruir lo que queda de ese hombre, de una vez por todas.
+Cuando me rescataste del Abismo Olvidado, escapamos de Crow Harbor con nuestras vidas. Cuando el momento sea el indicado, deseo regresar a ese lugar maldito y destruir lo que queda de ese hombre, de una vez por todas.
 #% Go to the Forgotten Abyss and defeat Crow Harbor once and for all.
 Ir al Abismo Olvidado y derrotar a Crow Harbor de una vez por todas.
 #% spr_ui_talkicon_sol
@@ -491,7 +491,7 @@ roo_chap5_story2_mar1
 #% SIDE: The Silver Shrew
 LATERAL: La Musaraña Plateada
 #% Hey cap, I got a letter from an old associate of mine that she and the Silver Shrew managed to steal a chest of 50 000 gil from Pact. Unfortunately, the heist went south and now they need our help. I'm sure if we were to extricate them from their situation, we could get half the take.
-Hey capitán, recibí una carta de una antigua socia mía de que ella y la Musaraña Plateada lograron robar un cofre de 50 000 guiles del Pacto. Desafortunadamente, el atraco salió mal y ahora necesitan nuestra ayuda. Estoy segura de que si las sacásemos de su situación, pudiéramos obtener la mitad del botín.
+Hey capitán, recibí una carta de una antigua socia mía de que ella y la Musaraña Plateada lograron robar un cofre de 50 000 guiles del Pacto. Desafortunadamente, el atraco salió mal y ahora necesitan nuestra ayuda. Estoy segura de que si les sacásemos de su situación, pudiéramos obtener la mitad del botín.
 #% Go to Cera
 Ir a Cera
 #% spr_ui_talkicon_ica
@@ -507,7 +507,7 @@ LATERAL: Petición de Papá
 #% Dad and his friend need our help delivering their chest of gold to Ferros. We've got to do this, Kayto. Who knows what kind of trouble that much gil will attract...
 Papá y su amiga necesitan nuestra ayuda para enviar su cofre de oro a Ferros. Tenemos que hacer esto., Kayto. Quién sabe qué tipo de problemas atraerán tantos guiles...
 #% Get to Cera and rendezvous with dad's friend.
-Ir a Cera y reunirse con el amigo de papá.
+Ir a Cera y reunirse con la amiga de papá.
 #% spr_ui_talkicon_mar
 spr_ui_talkicon_mar
 #% Cera
@@ -533,7 +533,7 @@ roo_chap5_battle1a
 #% BATTLE: The Taming of the Shrew
 BATALLA: Domesticando a la Musaraña
 #% Sigh... Just what kind of a man is your father, cap? He seems to have swindled even his partner and left her for dead. We need to make sure everyone plus the gil make it out of this mess safe and sound.
-Haah... ¿Simplemente qué tipo de hombre es tu padre, capitán? Parece haber estafado incluso a su propia compañera y dejarla a su suerte. Necesitamos asegurarnos de que todos más los guiles salgan de este apuro sanos y salvos.
+Haah... ¿Simplemente qué tipo de hombre es tu padre, capitán? Parece haber estafado incluso a su propia compañera y dejado a su suerte. Necesitamos asegurarnos de que todos más los guiles salgan de este apuro sanos y salvos.
 #% Sink the Pact Fleet. Qisah cannot be sunk.
 Hundir la Flota del Pacto. Qisah no puede ser hundida.
 #% spr_ui_talkicon_ica
@@ -561,9 +561,9 @@ roo_chap5_story2_mar4
 #% BATTLE: The Crimson Wolf
 BATALLA: La Loba Carmesí
 #% My worst fears are confirmed! The Crimson Wolf herself awaited us at Ferros' gate. We will have to defeat her flagship, the Huntress, to make it into the harbor. Steel yourself - Emil Kuushana is a mighty foe, worthy of our greatest respect!
-¡Mis peores miedos están confirmados! La mismísima Loba Carmesí nos esperaba a las puertas de Ferros. Tendremos que derrotar su nave insignia, el Huntress, para llegar al puerto. ¡Prepárate - Emil Kuushana es una poderosa enemiga, digna de nuestro mayor respeto!
+¡Mis peores miedos están confirmados! La mismísima Loba Carmesí nos esperaba a las puertas de Ferros. Tendremos que derrotar a su nave insignia, el Huntress, para llegar al puerto. ¡Prepárate - Emil Kuushana es una poderosa enemiga, digna de nuestro mayor respeto!
 #% Defeat the Huntress.
-Derrota al Huntress.
+Derrotar al Huntress.
 #% spr_ui_talkicon_qis
 spr_ui_talkicon_qis
 #% Ferros
@@ -703,7 +703,7 @@ BATALLA: Campeonato
 #% It all comes down to this. Can you really defeat the Crimson Wolf and claim the title of the champion of the coliseum?
 Todo se resuelve a esto. ¿Podrás realmente derrotar a la Loba Carmesí y reclamar el título de el campeón del coliseo?
 #% Defeat the enemy fleet.
-Derrota a la flota enemiga.
+Derrotar a la flota enemiga.
 #% spr_ui_talkicon_jem
 spr_ui_talkicon_jem
 #% Ferros
@@ -717,7 +717,7 @@ BATALLA RPG: Guardias del Pacto
 #% We managed to infiltrate the Light Tower of Versta with Icari. Now, we just have to take care of the guards...
 Logramos infiltrarnos en el Faro de Versta con Icari. Ahora, solo tenemos que encargarnos de los guardias...
 #% Defeat the Pact soldiers.
-Derrota a los soldados del Pacto.
+Derrotar a los soldados del Pacto.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Versta
@@ -941,7 +941,7 @@ BATALLA: Su Destino A
 #% The impossible must be done: God herself must be defeated if Cosette's life is to be saved. Perhaps the quest is impossible...
 Se debe hacer lo imposible: Dios en persona debe de ser derrotada si se pretende salvar la vida de Cosette. Quizá la misión sea imposible...
 #% Rewrite her fate.
-Reescribe su destino.
+Reescribir su destino.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Ryuvia
@@ -955,7 +955,7 @@ BATALLA: Su Destino B
 #% The impossible must be done: God herself must be defeated if Cosette's life is to be saved. Perhaps the quest is impossible...
 Se debe hacer lo imposible: Dios en persona debe de ser derrotada si se pretende salvar la vida de Cosette. Quizá la misión sea imposible...
 #% Rewrite her fate.
-Reescribe su destino.
+Reescribir su destino.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% FarPort
@@ -1011,7 +1011,7 @@ BATALLA RPG: Traición
 #% An unthinkable tragedy has befallen us. Just as Asaga was on the cusp of ascending to the throne, the masked homunculi attacked and struck down Admiral Grey before our eyes. We must defeat them at all costs - yet, why does one of them seem familiar?
 Una tragedia impensable ha sucedido ante nosotros. Justo cuando Asaga estaba a punto de ascender al trono, el homúnculo enmascarado atacó y abatió al Almirante Grey ante nuestros ojos. Debemos derrotarlos a toda costa - sin embargo, ¿por qué uno de ellos parece familiar?
 #% Defeat the strange homunculus.
-Derrotar a los extraños homúnculos.
+Derrotar al homúnculo extraño.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Ryuvia
@@ -1093,7 +1093,7 @@ roo_chap8_battle2
 #% RPG BATTLE: The Monolithic Truth
 BATALLA RPG: La Verdad Monolítica
 #% Asaga's coronation revealed a horrific truth: The High Elves were mortal all along and need to ritualistically sacrifice Asaga, or else they will all turn to Orks. Admiral Grey has ordered his guards to detain us. We have no other choice than to fight our way out!
-La coronación de Asaga reveló una verdad horrenda: Los Altos Elfos fueron mortales todo el tiempo y necesitaban sacrificar ritualmente a Asaga, o de lo contrario todos se convertirían en Orkos. El Almirante Grey le ha ordenado a sus guardias detenernos. ¡No tenemos más opción que salir luchando!
+La coronación de Asaga reveló una verdad horrenda: Los Altos Elfos fueron mortales todo el tiempo y necesitaban sacrificar ritualmente a Asaga, o de lo contrario todos se convertirían en Orkos. El Almirante Grey les ha ordenado a sus guardias detenernos. ¡No tenemos más opción que salir luchando!
 #% Defeat the High Elves.
 Derrotar a los Altos Elfos.
 #% spr_ui_talkicon_kay
@@ -1107,7 +1107,7 @@ roo_chap8_rpgbattle2
 #% RPG BATTLE: Inside the Volcano
 BATALLA RPG: Dentro del Volcán
 #% This is our final battle: Defeat the Witch of Asahi once and for all!
-Esta es nuestra batalla final: ¡Derrotemos a la Bruja Asahi de una vez por todas!
+Esta es nuestra batalla final: ¡Derrotemos a la Bruja de Asahi de una vez por todas!
 #% Defeat Alice.
 Derrotar a Alice.
 #% spr_ui_talkicon_kay
@@ -1301,7 +1301,7 @@ roo_chap8_battle7
 #% 1
 1
 #% BATTLE: End the Monolithic Truth
-BATALLA: Fin de la Verdad Monolítica
+BATALLA: Terminar la Verdad Monolítica
 #% This is it. The entire Emerald Fleet has arrived to stop us. We must win this battle if we are to free the world from the Monolithic Truth.
 Este es el fin. Toda la Flota Esmeralda ha llegado para detenernos. Debemos ganar esta batalla si queremos liberar al mundo de la Verdad Monolítica.
 #% Sink the enemy fleet.
