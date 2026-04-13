@@ -89,4 +89,6 @@ def check_diff_all():
         print(TEXT_NO_DIFF)
 
 if __name__ == '__main__':
+    if not utility.VALID_SOURCE:
+        print("A valid game source path could not be resolved. Make sure you either have the script files in the 'source_data' folder or you have the game installed via Steam.")
     check_diff_all()
