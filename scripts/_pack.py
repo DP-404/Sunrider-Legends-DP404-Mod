@@ -27,7 +27,7 @@ def pack_localization(zf:zipfile.ZipFile):
 
 def pack():
     now = datetime.datetime.now()
-    fn = now.strftime("%Y-%m-%d-%H-%M-%S.zip")
+    fn = now.strftime("%Y-%m-%d-%H-%M-%S") + ".zip"
     zf = zipfile.ZipFile(
         os.path.join(utility.BASE_PATH, fn),
         'w',
