@@ -21,7 +21,7 @@ voi chi_vns_sad_04
 #% chi When we ran away from Ryuvia after the King betrothed Asaga to Veniczar Arcadius, she made me swear to keep her identity hidden, no matter what!
 chi ¡Cuando escapamos de Ryuvia después de que el Rey comprometiera a Asaga con Veniczar Arcadius, me hizo jurar que mantendría su identidad en secreto, sin importar qué!
 #% chi I owed Asaga a great debt for taking me in as a handmaiden despite being a refugee, so I kept quiet about it all this time...
-chi Le debía a Asaga una gran deuda por acogerme como sirvienta a pesar de ser una refugiada, así que lo guardé en silencio todo este tiempo...
+chi Le debía a Asaga una gran deuda por acogerme como sirvienta a pesar de ser una refugiada, así que me quedé callada todo este tiempo...
 #% cha chi_handonchest_sad_narrow_smalltalk
 cha chi_handonchest_sad_narrow_smalltalk
 #% chi But we had no intention of ever putting the ship in danger. On behalf of Asaga and myself, we're truly sorry for what has happened!
@@ -33,7 +33,7 @@ kay Lo hecho, hecho está. Para ser franco, lo que más me duele es que no me cr
 #% cha chi_handtoface_sad_closedeye_slight
 cha chi_handtoface_sad_closedeye_slight
 #% chi With all that has been happening, we just couldn't find a moment...
-chi Con todo lo que ha estado pasando, simplemente no pudimos encontrar el momento...
+chi Con todo lo que ha estado sucediendo, simplemente no pudimos encontrar el momento...
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay True enough. Still, that does not pardon you of your crime.
@@ -157,7 +157,7 @@ sol Estoy perdida, como un tablón de madera a la deriva en un vasto mar negro.
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
 #% kay I apologize, my lady. A sad display that was, to be deceived by my own crew and outmaneuvered by the enemy, so soon after I claimed to be your rescuer. I am humiliated.
-kay Le pido disculpas, mi señora. Fue una triste demostración, ser engañado por mi propia tripulación y superado por el enemigo, tan pronto después de afirmar ser su salvador. Me siento humillado.
+kay Le pido disculpas, mi señora. Fue una triste demostración, ser engañado por mi propia tripulación y superado por el enemigo, tan pronto luego de afirmar ser su salvador. Me siento humillado.
 #% cha sol_side_sad_closedeye_talk
 cha sol_side_sad_closedeye_talk
 #% sol You need not give such deference to one such as I.
@@ -195,7 +195,7 @@ cha sol_side_concern_closedeye_bigtalk
 #% voi sol_vns_sad_01
 voi sol_vns_sad_01
 #% sol But this was Rayvin's greatest lie: The Talbur never shone for I. The great Emperors of the past saw through the deception. I was never the true heir to Ryuvia, nor the Sharr.
-sol Pero esta fue la mayor mentira de Rayvin: El Talbur nunca brilló por mí. Los grandes Emperadores del pasado vieron a través del engaño. Nunca fui la verdadera heredera de Ryuvia, ni la Sharr.
+sol Pero esta fue la mayor mentira de Rayvin: El Talbur nunca brilló por mí. Los grandes Emperadores del pasado vieron a través del engaño. Yo nunca fui la verdadera heredera de Ryuvia, ni la Sharr.
 #% cha sol_front_concern_narrow_talk2
 cha sol_front_concern_narrow_talk2
 #% sol And now, I am free of Rayvin, the past; everything.
@@ -219,7 +219,7 @@ cha kay_neu_focus_closed_smallopen
 #% kay Not at all!
 kay ¡Para nada!
 #% kay In fact, I am relieved! Now, I don't need to be so formal with you! Formality was never my strong suit. I'm pleased to have you aboard, Sola. Let us become fast friends.
-kay ¡De hecho, estoy aliviado! ¡Ahora, no necesito ser tan formal contigo! Las formalidades nunca fueron mi fuerte. Me alegro de tenerte a bordo, Sola. Volvámonos buenos amigos.
+kay ¡De hecho, estoy aliviado! ¡Ahora, no tengo que ser tan formal contigo! Las formalidades nunca fueron mi punto fuerte. Me alegro de tenerte a bordo, Sola. Volvámonos buenos amigos.
 #% cha sol_surprise_confused_wide_frown
 cha sol_surprise_confused_wide_frown
 #% voi sol_vns_neu_07
@@ -291,7 +291,7 @@ cha sol_back_angry_closedeye_talk
 #% voi sol_vns_sad_01
 voi sol_vns_sad_01
 #% sol Such things happened during the Age of Holy Ryuvia. Not much of a holy age, no?
-sol Tales cosas ocurrían durante la Era de la Sacra Ryuvia. No parece una era sagrada, ¿no?
+sol Tales cosas ocurrían durante la Era de la Santa Ryuvia. No parece una era sagrada, ¿no?
 #% cha sol_back_angry_closedeye_neutral
 cha sol_back_angry_closedeye_neutral
 #% sol ... ... ...
@@ -303,7 +303,7 @@ sol Lo siento. Tengo pocos deseos de hablar de este tema.
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay Right, I beg your pardon, my lady. I should have been more sensitive.
-kay Cierto, le ruego su perdón, mi señora. Debería haber sido más sensible.
+kay Cierto, ruego tu perdón, mi señora. Debería haber sido más sensible.
 #% cc0 chap4_soltalk2
 cc0 chap4_soltalk2
 #% cc1 What happened before you were encased in that crystal?
@@ -325,7 +325,7 @@ cha sol_front_angry_neutral_talk2
 #% voi sol_vns_neu_05
 voi sol_vns_neu_05
 #% sol The din of battle. It seemed Crow Harbor was on the verge of defeat. We had landed a direct hit to the Imperium with our purifier and nearly split her a twine. Our two ships met with the clamor of a collapsing forest and our two crews collided in hand-to-hand combat...
-sol El fragor de la batalla. Parecía que Crow Harbor estaba al borde de la derrota. Habíamos asestado un golpe directo al Imperium con nuestro purificador y casi lo partimos en dos. Nuestras dos naves se encontraron con el clamor de un bosque que se derrumbaba y nuestras dos tripulaciones chocaron en un combate cuerpo a cuerpo...
+sol El fragor de la batalla. Parecía que Crow Harbor estaba al borde de la derrota. Habíamos asestado un golpe directo al Imperium con nuestro purificador y casi lo partimos en dos. Nuestras dos naves se encontraron con el clamor de un bosque derrumbándose y nuestras dos tripulaciones chocaron en un combate cuerpo a cuerpo...
 #% sol At that moment, that foul man pulled out an accursed magical artifact.
 sol En ese momento, ese malvado hombre sacó un artefacto mágico maldito.
 #% sol His body twisted and he roared as if his soul was ejected from his maw. His army followed suit and soon, their howls echoed through the battle. They all fell to the ground and for a moment, I believed he and his ilk had chosen to take their own lives to avoid the humiliation of defeat.
@@ -525,7 +525,7 @@ voi sol_vns_neu_06
 #% sol I see.
 sol Ya veo.
 #% sol From what the crew has told me, Veniczar Arcadius is a blackguard of the lowest caliber. I will throw my lot with you in saving our Princess from such a vile suitor.
-sol Por lo que la tripulación me ha contado, Veniczar Arcadius es un canalla del más bajo calibre. Uniré mi suerte a ti para salvar a nuestra Princesa de un pretendiente tan vil.
+sol Por lo que la tripulación me ha contado, Veniczar Arcadius es un canalla del más bajo calibre. Me uniré a ustedes para rescatar a nuestra Princesa de un pretendiente tan vil.
 #% var aff_sol
 var aff_sol
 #% cha sol_side_angry_neutral_talk
@@ -553,7 +553,7 @@ voi sol_vns_neu_09
 #% sol It regards how to rescue the Princess. Alas, it was some time ago ago, but I lived in the Star Palace.
 sol Respecto a cómo rescatar a la Princesa. Por desgracia, fue hace un tiempo
 #% sol There is a secret passageway in and out of the palace which you should be aware of...
-sol Hay un pasadizo secreto al palacio del que debería saber...
+sol Hay un pasadizo secreto al palacio del que deberías saber...
 #% cha kay_neu_raised_wide_talk
 cha kay_neu_raised_wide_talk
 #% kay A secret passageway? Well, that certainly sounds like a boon.
@@ -629,7 +629,7 @@ ava Con el inesperado secuestro de la Princesa Asaga por parte de la pirata, est
 #% cha ava_armscrossed_focus_neutral_smalltalk
 cha ava_armscrossed_focus_neutral_smalltalk
 #% ava The Pact fleet is in hot pursuit as well. Due to their larger numbers however, they have fallen behind, giving us a brief window of opportunity to rescue the Princess before they reach Sargasso.
-ava La flota del Pacto también está emprendiendo persecución. Sin embargo debido a su mayor número, se han quedado atrás, dándonos un breve margen de oportunidad para rescatar a la Princesa antes de que lleguen a Sargasso.
+ava La flota del Pacto también está emprendiendo persecución. Sin embargo debido a su mayor número, se han quedado atrás, otorgándonos un breve margen de oportunidad para rescatar a la Princesa antes de que lleguen a Sargasso.
 #% cha ava_armscrossed_focus_closedeye_smalltalk
 cha ava_armscrossed_focus_closedeye_smalltalk
 #% ava Well captain, I presume you already have a plan to get us out of this fine mess.
@@ -653,7 +653,7 @@ ava Deberíamos ir a la bahía mientras tenemos la oportunidad e intentar rescat
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay I did tell you of the Sargasso Bay's many tricks, no? If we are bogged down in a battle when Pact catches up, that could prove to be a challenge.
-kay Te conté de los numerosos trucos de la Bahía de Sargasso, ¿no? Si nos vemos atrapados en una batalla cuando el Pact nos alcance, eso pudiera resultar siendo un desafío.
+kay Te conté de los numerosos trucos de la Bahía de Sargasso, ¿no? Si nos vemos atrapados en una batalla cuando el Pact nos alcance, eso pudiera terminar siendo un desafío.
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
 #% kay (Two paths with co-equal boons and dooms are upon us. A decision must be made...)
@@ -691,7 +691,7 @@ ica Hey capitán, yo digo que vayamos a por una tregua con Cosette.
 #% cha ica_handsonhips_focus_neutral_smalltalk
 cha ica_handsonhips_focus_neutral_smalltalk
 #% ica Look, people like Cosette and I are basically just businessmen. We both see the massive Pact fleet behind us. For a price, I don't see why we can't agree to put aside our differences and face the bigger threat together.
-ica Mira, personas como Cosette y yo somos básicamente solo gente de negocios Ambos vemos a la enorme flota del Pacto detrás de nosotros. Por un precio, no veo por qué no pudiéramos acordar dejar de lado nuestras diferencias y enfrentar a la mayor amenaza juntos.
+ica Mira, personas como Cosette y yo somos básicamente solo gente de negocios. Ambos vemos a la enorme flota del Pacto detrás de nosotros. Por un precio, no veo por qué no pudiéramos acordar dejar de lado nuestras diferencias y enfrentar a la amenaza mayor juntos.
 #% hid ica
 hid ica
 #% cva ica0
@@ -925,7 +925,7 @@ cha cos_fists_crazyangr_widebigpu_grin
 #% voi cos_vns_neu_01
 voi cos_vns_neu_01
 #% cos Hoohoo? Resistance, is it?
-cos ¿Hoohoo? ¿Resistencia, eh?
+cos ¿Hoohoo? Resistencia, ¿eh?
 #% cos While then, why don't I loosen up your ropes for you...
 cos Mientras tanto, por qué no te aflojo las cuerdas por ti...
 #% cha cos_laugh_confused_crazy_widesmile_shadow
@@ -1141,7 +1141,7 @@ cha cul_neu_concern_closed2_bigopensm
 #% voi cul_vns_sad_01
 voi cul_vns_sad_01
 #% cul Aaah! Fontana! Come to save me, have you?
-cul ¡Aaah! ¡Fontana! ¿Vienes a rescatarme, no?
+cul ¡Aaah! ¡Fontana! Vienes a rescatarme, ¿no?
 #% cha cul_neu_angry2_closed_neutral
 cha cul_neu_angry2_closed_neutral
 #% voi cul_vns_sur_01
@@ -1159,7 +1159,7 @@ cha fon_neu_lowfocus_neutral_bigtalk
 #% voi fon_vns_ang_02
 voi fon_vns_ang_02
 #% fon The Lady Alice has ordered me personally to ensure the Princess is delivered safely to Ryuvia!
-fon ¡La Señora Alice me ha ordenado personalmente asegurarme de que la Princesa sea enviada a Ryuvia a salvo!
+fon ¡La Lady Alice me ha ordenado personalmente asegurarme de que la Princesa sea enviada a Ryuvia a salvo!
 #% fon All ships! Move in! And do not dare allow these outlaws to harm the Princess!
 fon ¡A todas las naves! ¡Adelante! ¡No se atrevan a permitir que estos forajidos le hagan daño a la Princesa!
 #% cha ava_armup_focus_surprise_bigtalk
@@ -1563,7 +1563,7 @@ cha cos_fists_angry_narrow_clench
 #% voi cos_vns_sad_02
 voi cos_vns_sad_02
 #% cos But it matters none. We be at the mercy of the Crimson Fleet now!
-cos Pero no tienen ninguna importancia. ¡Ahora estamos a merced de la Flota Carmesí!
+cos Pero no tiene ninguna importancia. ¡Ahora estamos a merced de la Flota Carmesí!
 #% cha kay_neu_focus_closed_clench
 cha kay_neu_focus_closed_clench
 #% kay (She does have a point...)
@@ -1663,7 +1663,7 @@ cha kay_neu_angry_big_smalltalk
 #% kay (Looks like he's lost his temper!)
 kay (¡Parece que ha perdido su temperamento!)
 #% kay (But the bay is no longer sealed off. Now I'll be able to get the Havoc out of here.)
-kay (Pero la bahía ya no más está sellada. Ahora seré capaz de sacar al Havoc de aquí.)
+kay (Pero la bahía ya no está sellada más. Ahora seré capaz de sacar al Havoc de aquí.)
 #% stop
 stop
 #% 
@@ -1725,7 +1725,7 @@ ava ¡Capitán, somos superados en número por mucho! ¡Nuestra única opción e
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
 #% kay Let's get the hell out of here while they're too busy arguing with each other.
-kay Larguémonos de aquí mientras estén demasiado ocupado discutiendo entre ellos.
+kay Larguémonos de aquí mientras estén demasiado ocupados discutiendo entre ellos.
 #% flag
 flag
 #% stop
@@ -1851,7 +1851,7 @@ voi cla_vns_neu_04
 #% cla Attempting to bamboozle our way in through the palace gates seems our best option.
 cla Intentar engañar a los guardias para entrar por las puertas del palacio parece nuestra mejor opción.
 #% cla My... Give a signal if you need Claude's help in "distracting" some of the guards...
-cla Vaya... Dé una señal si necesita la ayuda de Claude para "distraer" a algunos de los guardias...
+cla Vaya... Da una señal si necesita la ayuda de Claude para "distraer" a algunos de los guardias...
 #% hid cla
 hid cla
 #% cva cla1
@@ -1883,7 +1883,7 @@ cha ica_handsonhips_focus_neutral_smalltalk
 #% voi ica_vns_sad_03
 voi ica_vns_sad_03
 #% ica Trying to get through the front gate, versus a thousand year old secret passageway? You sure know how to pick 'em cap.
-ica ¿Intentar entrar por la puerta frontal, contra un pasadizo de mil años de antigüedad? Sí que sabes cómo escogerlos capitán.
+ica ¿Intentar entrar por la puerta frontal, contra un pasadizo secreto de mil años de antigüedad? Sí que sabes cómo escogerlos capitán.
 #% ica Honestly, both options sound equally suicidal. I'm leaving this one to you.
 ica Honestamente, ambas opciones suenan igualmente suicidas, te dejaré esta a ti.
 #% hid ica
@@ -1977,7 +1977,7 @@ kay (La suerte está echada. Ahora el destino decidirá.)
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay We go through the secret passageway. Let us pray that it still stands, even after all these eons.
-kay Iremos por el pasadizo secreto. Recemos por que todavía siga en pie, incluso tras todos estos eones.
+kay Iremos por el pasadizo secreto. Recemos porque todavía siga en pie, incluso tras todos estos eones.
 #% cha ava_facepalm_sad_closedeye_smalltalk
 cha ava_facepalm_sad_closedeye_smalltalk
 #% voi ava_vns_ang_02
@@ -2021,7 +2021,7 @@ tag chap4_crewcullen_end_cc2
 #% xcr 1
 xcr 1
 #% obj MAIN: Infiltrate the Star Palace B
-obj PRINCIPAL: Inflitrarse en el Palacio Estelar B
+obj PRINCIPAL: Infiltrarse en el Palacio Estelar B
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
 #% kay (The die is cast. Now fate will decide.)
@@ -2031,7 +2031,7 @@ cha kay_neu_focus_neutral_smalltalk
 #% kay Chigara will infiltrate the Star Palace, disguised as a handmaiden.
 kay Chigara se infiltrará en el Palacio Estelar, disfrazada como sirvienta.
 #% kay Let us pray that she can get us through the palace gates...
-kay Recemos por que nos pueda pasar por las puertas del palacio...
+kay Recemos porque nos pueda pasar por las puertas del palacio...
 #% cha ica_back_worry_closedeye_smalltalk
 cha ica_back_worry_closedeye_smalltalk
 #% voi ica_vns_neu_13
@@ -2054,8 +2054,8 @@ cha kay_neu_focus_thinking_smirk
 kay No te preocupes. Estoy seguro de que Chigara no nos decepcionará.
 #% cha chi_holdinghands_focus_neutral_bigtalk
 cha chi_holdinghands_focus_neutral_bigtalk
-# chi Yes!
-chi Yes!
+#% chi Yes!
+chi ¡Sí!
 #% jum chap4_crewcullen_par
 jum chap4_crewcullen_par
 #% 
@@ -2139,15 +2139,15 @@ cul Y cuando eso suceda, todos los Tesoros Perdidos de Ryuvia serán suyos... y 
 #% cha cul_neu_angry2_closed_neutral
 cha cul_neu_angry2_closed_neutral
 #% cul Aaah, did you truly think the Veniczar would keep you as his wife? You are a means to an end, nothing more. And once a tool has served its use... well, the thing I have come to appreciate about Maan is that they dispose of what is no longer needed without any concern for tradition.
-cul Aaah, ¿en serio pensaste que el Veniczar te mantendría como su esposa? Eres un medio al final, nada más. Y cuando una herramienta ha servido su propósito... bueno, lo que he llegado a apreciar de los Maan es que se deshacen de lo que ya no necesitan sin ninguna preocupación por tradiciones.
+cul Aaah, ¿en serio pensaste que el Veniczar te mantendría como su esposa? Eres un medio a un fin, nada más. Y cuando una herramienta ha servido su propósito... bueno, lo que he llegado a apreciar de los Maan es que se deshacen de lo que ya no necesitan sin ninguna preocupación por tradiciones.
 #% cha asa_wedding_angry_wide_bigtalk
 cha asa_wedding_angry_wide_bigtalk
 #% asa Then the Veniczar is a fool! Ryuvia's Lost Treasures are exactly that: Lost. We have no treasures - they were plundered eons past.
-asa ¡Entonces el Veniczar es un tonto! Los Tesoros Perdidos de Ryuvia están exactamente así: Perdidos. No tenemos ningún tesoro - todos fueron saqueados hace eones.
+asa ¡Entonces el Veniczar es un tonto! Los Tesoros Perdidos de Ryuvia están así exactamente: Perdidos. No tenemos ningún tesoro - todos fueron saqueados hace eones.
 #% cha cul_neu_sad_narrow_bigopensm
 cha cul_neu_sad_narrow_bigopensm
 #% cul Shhh. Shh... my little one. Oh, you will need Cullen's favor in the days ahead if you are to survive. You know how the royal court is. I could be your highness' big friend, working from the shadows to ensure that she is not so easily deposed.
-cul Shhh. Shh... chiquilla. Oh, necesitarás el favor de Cullen en los días que están por venir si pretendes sobrevivir. Conoces cómo es la corte real. Yo pudiera el gran amigo de su alteza, trabajando desde las sombras para asegurar que no sea tan fácil destronarla.
+cul Shhh. Shh... chiquilla. Oh, necesitarás el favor de Cullen en los días que están por venir si pretendes sobrevivir. Conoces cómo es la corte real. Yo pudiera ser el gran amigo de su alteza, trabajando desde las sombras para asegurar que no sea tan fácil destronarla.
 #% cul Just a little bit of favor now could go a long way in the days ahead, if you catch this Ork's meaning...
 cul Solo un pequeño favor ahora pudiera ser muy útil en los próximos días, si entiendes lo que este Orko quiere decir...
 #% mus mus_fallen_angel_pt3
@@ -2187,7 +2187,7 @@ cul Por supuesto, por supuesto. Cullen es simplemente un humilde servidor del Pa
 #% cha cul_neu_angry2_neutral_bigtalk
 cha cul_neu_angry2_neutral_bigtalk
 #% cul Bah! How I tire of this ship's constant swaying, back and forth. The sea is no place for an Ork. I shall await you at the mess hall, Fontana!
-cul ¡Bah! Cómo me canso de el constante balanceo de esta nave, atrás y adelante. El mar no es lugar para un Orko. ¡Te esperaré en el comedor, Fontana!
+cul ¡Bah! Cómo me canso del constante balanceo de esta nave, atrás y adelante. El mar no es lugar para un Orko. ¡Te esperaré en el comedor, Fontana!
 #% hid cul
 hid cul
 #% cha fon_neu_angry_closedeye_slight
@@ -2241,7 +2241,7 @@ asa Adelante con eso, digo yo.
 #% cha fon_neu_lowfocus_neutral_smalltalk
 cha fon_neu_lowfocus_neutral_smalltalk
 #% fon You will find that we Maan are not so different from you Ryuvians, your highness. You were always going to be part of the game, from the moment of your birth.
-fon Descubrirás que nosotros los Maan no somos tan diferentes de ustedes los Ryuvianos, su alteza. Usted siempre iba a formar parte del juego, desde el momento de su nacimiento.
+fon Descubrirás que nosotros los Maan no somos tan diferentes de ustedes los Ryuvianos, su alteza. Usted siempre iba a ser parte del juego, desde el momento de su nacimiento.
 #% fon Consider your allies carefully from now. And know who the true ruler of Pact is, behind the smoke.
 fon Considere sus aliados cuidadosamente a partir de ahora. Y sepa quién es el verdadero gobernante del Pacto, más allá de las apariencias.
 #% cha asa_wedding_confuse_neutral_slight
@@ -2371,7 +2371,7 @@ fon Por supuesto, mi señora.
 #% cha lyn_armdown_angry_narrow_slight
 cha lyn_armdown_angry_narrow_slight
 #% ali You toy with powers beyond your understanding, boy. Heed my warning.
-ali Juegas con poderes más allá de tu entendimiento, chico. Escucha mi advertencia.
+ali Juegas con poderes por encima de tu comprensión, chico. Escucha mi advertencia.
 #% ali Do not threaten the Princess in any way - or else you may awaken something which will be the doom of us all.
 ali No amenaces a la Princesa de ninguna manera - o de lo contrario podrías despertar a algo que nos condenará a todos.
 #% cha fon_neu_lowfocus_neutral_smalltalk
@@ -2387,7 +2387,7 @@ lyn Uuggh...
 #% cha lyn_armup_angry2_wideeyes_shout
 cha lyn_armup_angry2_wideeyes_shout
 #% lyn Ugh...! Geeez, Fontana, what did you say?!
-lyn ¡Ugh...! Geeez, Fontana, ¡¿qué dijiste?!
+lyn ¡Ugh...! ¡¿Geeez, Fontana, qué dijiste?!
 #% voi lyn_vns_ang_04
 voi lyn_vns_ang_04
 #% lyn You know I get horrible headaches whenever you anger Lady Alice like that! Can't you two have a civil discussion for once? Ugh!
@@ -2449,7 +2449,7 @@ cha lyn_armup_angry_wideeyes_talk
 #% voi lyn_vns_sur_01
 voi lyn_vns_sur_01
 #% lyn Wait, so where are you even going?! Ugh, fine, ignore me then!
-lyn Espera, ¡¿entonces adónde vas siquiera?! ¡Ugh, bien, ignórame entonces!
+lyn Espera, ¡¿entonces adónde vas?! ¡Ugh, bien, ignórame entonces!
 #% cha lyn_armup_sad2_closedeye_shout_shadow
 cha lyn_armup_sad2_closedeye_shout_shadow
 #% voi lyn_vns_sad_02
@@ -2469,7 +2469,7 @@ sou sou_fanfare
 #% har All hail King Jaylor di Ryuvia! Long may he reign!
 har ¡Viva el Rey Jaylor di Ryuvia! ¡Larga vida a su reinado!
 #% har Her royal highness, Princess Asaga di Ryuvia, has been found safe and sound by the brave sailors of the Crimson Fleet! Receiving her is the King's honored guest; The Princess' husband to be, the vanquisher of the Dark Prince: Veniczar Arcadius of the Pact of Maan! All glory to Maan! All glory to Pact!
-har ¡Su alteza real la Princesa Asaga di Ryuvia, ha sido encontrada sana y salva por los valientes marines de la Flota Carmesí! ¡Recibiéndola está en honrado invitado del Rey; El futuro esposo de la Princesa, el vencedor del Príncipe Oscuro: Veniczar Arcadius del Pacto de Maan! ¡Gloria a los Maan! ¡Gloria al Pacto!
+har ¡Su alteza real la Princesa Asaga di Ryuvia, ha sido encontrada sana y salva por los valientes marines de la Flota Carmesí! ¡Recibiéndola está el honrado invitado del Rey; El futuro esposo de la Princesa, aquel que venció al Príncipe Oscuro: Veniczar Arcadius del Pacto de Maan! ¡Gloria a los Maan! ¡Gloria al Pacto!
 #% mus mus_fallen_angel_pt1
 mus mus_fallen_angel_pt1
 #% el1 (Long live the King? He seems more liable to be knocked over by the breeze...)
@@ -2517,7 +2517,7 @@ cha jay_neu
 #% jay But...
 jay Pero...
 #% arc Our enemy stirs. Ryuvia and Pact must be aligned now - or else Song will snuff out what remains of this kingdom and the Holy Empire be snuffed out from history for good.
-arc Nuestro enemigo se mueve. Ryuvia y el Pacto deben alinearse ahora - o de lo contrario Song aniquilará lo que queda de este reino y el Sacro Imperio desaparecerá de la historia para siempre.
+arc Nuestro enemigo se mueve. Ryuvia y el Pacto deben alinearse ahora - o de lo contrario Song aniquilará lo que queda de este reino y el Sacro Imperio será eliminado de la historia para siempre.
 #% cha jay_neu
 cha jay_neu
 #% jay Ooh...
@@ -2601,7 +2601,7 @@ cha kay_neu_focus_closed_neutral
 #% kay (We need to rescue Asaga as soon as possible...)
 kay (Necesitamos rescatar a Asaga lo antes posible...)
 #% kay (It'd be wise to ignore side quests for now unless they're absolutely necessary. Until we have a full crew again, we're going to be at a disadvantage.)
-kay (Sería sabio ignorar las misiones laterales por ahora a menos que sean absolutamente necesarias. Hasta que tengamos una tripulación completa de nuevo, estaremos en desventaja.)
+kay (Sería prudente ignorar las misiones laterales por ahora a menos que sean absolutamente necesarias. Hasta que tengamos una tripulación completa de nuevo, estaremos en desventaja.)
 #% map 
 map 
 #% 
@@ -2693,7 +2693,7 @@ cha lyn_armup_sad_wideeyes_yell_shadow
 #% voi lyn_vns_sur_01
 voi lyn_vns_sur_01
 #% lyn W-Wha-?! Hey, what gives?!
-lyn ¡¿Q-Qué-?! Hey, ¡¿qué haces?!
+lyn ¡¿Q-Qué-?! ¡¿Hey, qué haces?!
 #% lyn I'm not- Unhand me, pork chops!
 lyn Yo no soy- ¡Suéltame, chuleta!
 #% lyn Now I'm working overtime!
@@ -2707,7 +2707,7 @@ dbg hide
 #% nar ... ... ...
 nar ... ... ...
 #% nar (Meanwhile, Kayto and company at the castle gate...)
-nar (Mientras tanto, Kayto y compañía ne la puerta del castillo)
+nar (Mientras tanto, Kayto y compañía en la puerta del castillo)
 #% pac You there! Hait! What's the secret password?!
 pac ¡Oigan ustedes! ¡Alto! ¡¿Cuál es la contraseña secreta?!
 #% cha kay_neu_focus_neutral_smalltalk
@@ -2947,7 +2947,7 @@ cha ava_facepalm_sad_closedeye_smalltalk
 #% voi ava_vns_shy_02
 voi ava_vns_shy_02
 #% ava I have no idea how such boons always fall into our captain's lap so casually...
-ava No tengo idea de cómo tales bendiciones siempre caen en el regazo de nuestro capitán tan casualmente...
+ava No tengo idea dce cómo tales bendiciones siempre caen en el regazo de nuestro capitán tan casualmente...
 #% cha sol_back_sad_wide_talk2
 cha sol_back_sad_wide_talk2
 #% voi sol_vns_neu_10
@@ -2991,7 +2991,7 @@ cha sol_side_sad_closedeye_talk_blush
 #% voi sol_vns_sad_01
 voi sol_vns_sad_01
 #% sol A-Ahem... Pay it no heed, merely an accident...
-sol E-Ejem... No le preste atención, solamente un accidente...
+sol E-Ejem... No le presten atención, solamente un accidente...
 #% cha sol_side_angry_neutral_talk
 cha sol_side_angry_neutral_talk
 #% sol Now, let us proceed to the main hall...
@@ -3015,7 +3015,7 @@ cha arc_neu
 #% cha asa_wedding_concern_closedeye_cry_tear_shadow
 cha asa_wedding_concern_closedeye_cry_tear_shadow
 #% cul Dear guests, we have gathered here today to celebrate the union of her royal highness, Princess Asaga di Ryuvia, to her beloved, the Great Veniczar Arcadius: Slayer of the Dark Prince, Unifier of the Asahi Isle, Grand Admiral of the Crimson Fleet, and the supreme leader of all Maan!
-cul ¡Queridos invitados, nos hemos reunido aquí hoy para celebrar la unión de su alteza real, la Princesa Asaga di Ryuvia, con su amado, el Gran Veniczar Arcadius: Verdugo del Príncipe Oscuro, Unificador de la Isla Asahi, Gran Almirante de la Flota Carmesí, y el líder supremo de todos los Maan!
+cul ¡Queridos invitados, nos hemos reunido aquí hoy para celebrar la unión de su alteza real, la Princesa Asaga di Ryuvia, con su amado, el Gran Veniczar Arcadius: el Verdugo del Príncipe Oscuro, el Unificador de la Isla Asahi, el Gran Almirante de la Flota Carmesí, y el líder supremo de todos los Maan!
 #% cul On this happy day, I, Lord Cullen, sworn servant of Veniczar Arcadius, shall proudly officiate the proceedings! Let all the beings of Halla know from henceforth that Ryuvia and New Edar will forever be united not merely in oath, but by blood!
 cul ¡En este feliz día, yo, Lord Cullen, servidor jurado de Veniczar Arcadius, oficiaré orgullosamente los procedimientos! ¡Que todos los seres de Halla sepan de ahora en adelante que Ryuvia y New Edar estarán unidos para siempre no solo en juramento, sino por sangre!
 #% cul Eeeh, it was merely four years ago when this humble Ork first laid eyes upon the mighty Veniczar Arcadius... From that day forth, I knew--
@@ -3055,7 +3055,7 @@ arc Ejem...
 #% cha cul_neu_sad_closed2_bigopensm
 cha cul_neu_sad_closed2_bigopensm
 #% cul Well, anyways, let us cut to the chase then, shall we? From henceforth, two shall become one, in happiness and in sorrow, in sickness and in health! But if there is anyone who objects to this union, speak now or forever hold your peace!
-cul Bueno, de cualquier forma, vayamos al grano, ¿bien? ¡De ahora en adelante, dos se volverán uno, en la felicidad y la angustia, en la enfermedad y la salud! ¡Pero si hay alguien que se oponga a esta unión, hable ahora o calle para siempre!
+cul Bueno, de cualquier forma, vayamos al grano, ¿bien? ¡De ahora en adelante, dos se volverán uno, en la felicidad y la angustia, en la enfermedad y la salud! ¡Pero si hubiera alguien que se oponga a esta unión, hable ahora o calle para siempre!
 #% asa Huhuhu...!
 asa ¡Huhuhu...!
 #% cha cul_neu_sad_narrow_bigopensm
@@ -3193,7 +3193,7 @@ kay B-Bueno... Yo solo...
 #% cha ava_armup_angry_widesmall_clench_shadow
 cha ava_armup_angry_widesmall_clench_shadow
 #% ava What's next, our brilliant leader?
-ava ¿Qué es lo próximo, nuestro brillante líder?
+ava ¿Qué es lo próximo, brillante líder nuestro?
 #% hid ava
 hid ava
 #% cha arc_neu
@@ -3210,8 +3210,8 @@ cha jay_neu
 jay ... ... ...
 #% jay Hahaha...
 jay Hahaha...
-# jay Haaahaaahahahahaha!
-jay Haaahaaahahahahaha!
+#% jay Haaahaaahahahahaha!
+jay ¡Haaahaaahahahahaha!
 #% arc What do you find so amusing, old fool?
 arc ¿Qué hallas tan divertido, viejo tonto?
 #% cha jay_neu
@@ -3221,7 +3221,7 @@ jay El Sacro Imperio Ryuviano no existe más. Hace mucho que desapareció en los
 #% jay You have inherited nothing but the decrepit remains of a Lessor who has lived for long enough.
 jay No has heredado nada más que los restos decrépitos de un Inferior que ha vivido suficiente.
 #% jay You will find no treasure in these halls. Ryuvia is as dead as I am. The only losers here are you... and I.
-jay No encontrarás ningún tesoro en estos salones. Ryuvia está tan muerta como yo. Los únicos perdedores aquí son tú... y yo.
+jay No encontrarás ningún tesoro en estos salones. Ryuvia está tan muerta como yo. Los únicos perdedores aquí somos tú... y yo.
 #% cha arc_fistup
 cha arc_fistup
 #% arc Then I grant you your wish!
@@ -3615,7 +3615,7 @@ cha asa_armscrossed_focus_neutral_smallopen
 #% asa Understood, capt'n!
 asa ¡Entendido, capitán!
 #% obj RAID: Pact Fleet off Versta
-obj ASALTO: Expulsar a la Flota del Pacto de Versta
+obj ASALTO: Fuera de Versta Flota del Pacto
 #% var unlock_main_volaris
 var unlock_main_volaris
 #% var unlock_chap4_asatalk
@@ -3667,13 +3667,13 @@ cha ava_armup_focus_neutral_smalltalk
 #% voi ava_vns_neu_04
 voi ava_vns_neu_04
 #% ava Was something omitted from the report?
-ava ¿Qué se omitió en mi reporte?
+ava ¿Se omitió algo en el reporte?
 #% cha ica_point_angry_wide_yell
 cha ica_point_angry_wide_yell
 #% voi ica_vns_ang_05
 voi ica_vns_ang_05
 #% ica Well, yeah. What about the part we saw spooky ghost Arcadius? Are we not gonna talk about how we cracked open that guy's mask and there was a blue flame where his head should have been?
-ica Pues, qué más. ¿Qué hay de la parte en la que vimos al escalofriante fantasma Arcadius? ¿No vamos a hablar de cómo partimos la máscara de ese tipo y había una llama azul donde debería haber estado su cabeza?
+ica Pues, sí. ¿Qué hay de la parte en la que vimos al escalofriante fantasma Arcadius? ¿No vamos a hablar de cómo partimos la máscara de ese tipo y había una llama azul donde debería haber estado su cabeza?
 #% cha ava_facepalm_angry_closedeye_smalltalk
 cha ava_facepalm_angry_closedeye_smalltalk
 #% voi ava_vns_sad_02
@@ -3781,7 +3781,7 @@ cha ava_armscrossed_focus_closedeye_frown
 #% voi ava_vns_sad_02
 voi ava_vns_sad_02
 #% ava Sigh. In the end, all we have is speculation. I am wary. Imagination will lead us astray if left unchecked.
-ava Haah. Al final, todo lo que tenemos son especulaciones. Soy cautelosa. La imaginación nos llevará por mal camino si no se controla.
+ava Haah. Al final, todo lo que tenemos son especulaciones. Yo soy cautelosa. La imaginación nos llevará por mal camino si no se controla.
 #% obj MAIN: Return to Volaris
 obj PRINCIPAL: Regresar a Volaris
 #% cha kay_neu_focus_closed_smallopen
@@ -3791,7 +3791,7 @@ kay Bueno, escucharon a la comandante. En cualquier caso, nuestra próxima tarea
 #% kay Let's get underway.
 kay Pongámonos en camino.
 #% obj RAID: Pact Fleet off Versta
-obj ASALTO: Expulsar a la Flota del Pacto de Versta
+obj ASALTO: Fuera de Versta Flota del Pacto
 #% var unlock_chap4_asatalk
 var unlock_chap4_asatalk
 #% ifj chap4_sol_check,lostfleetescaped
@@ -3855,7 +3855,7 @@ asa Mira lo que le sucedió.
 #% cha asa_fist_focus_neutral_smalltalk
 cha asa_fist_focus_neutral_smalltalk
 #% asa Now, I am to inherit his legacy. But my first royal act was to flee. I find myself a ruler in exile, my people conquered, our eternal history to be rewritten by Maan to serve their ends. That weighs on me far heavier than my father's murder.
-asa Ahora, debo heredar su legado. Pero mi primer acto real fue huir. Soy una gobernante en el exilio, mi pueblo conquistado, nuestra historia eterna a punto de ser reescrita por Maan para servir a sus fines. Eso me pesa mucho más que el asesinato de mi padre.
+asa Ahora, tendré que heredar su legado. Pero mi primer acto real fue huir. Soy una gobernante en el exilio, mi pueblo conquistado, nuestra historia eterna a punto de ser reescrita por Maan para servir a sus fines. Eso me pesa mucho más que el asesinato de mi padre.
 #% jum chap4_asatalk_merge
 jum chap4_asatalk_merge
 #% 
@@ -3905,7 +3905,7 @@ asa ¿Brilló realmente el Talbur por mí? Porque no soy apta para ser Reina. Y 
 #% cha asa_armscrossed_sad_closedeye_frown
 cha asa_armscrossed_sad_closedeye_frown
 #% asa I have no love for our traditions. And I have long lost my faith in the Monolithic Truth. I am a bad Princess, so just what kind of Queen would I be?
-asa No amo nuestras tradiciones. Y hace mucho perdí mi fe en la Verdad Monolítica. Soy una Princesa mala, ¿entonces qué tipo de Reina sería?
+asa No amo nuestras tradiciones. Y hace mucho perdí mi fe en la Verdad Monolítica. Soy una Princesa mala, ¿por tanto simplemente qué tipo de Reina sería?
 #% cha kay_neu_focus_closed_smalltalk
 cha kay_neu_focus_closed_smalltalk
 #% kay Many Kings and Queens have never asked that question and become rulers terrible and cruel.
@@ -4090,37 +4090,37 @@ cha ava_armscrossed_neutral_neutral_smalltalk
 voi ava_vns_neu_04
 #% ava I don't follow. Should we not be happy with this turn of events?
 ava No le sigo. ¿No deberíamos estar felices con este giro de los acontecimientos?
-# ava With the Veniczar having conquered Ryuvia, a place of great historical significance to the Elves, Princess Asaga's entreaty to the last surviving Elf state for assistance will be well met.
+#% ava With the Veniczar having conquered Ryuvia, a place of great historical significance to the Elves, Princess Asaga's entreaty to the last surviving Elf state for assistance will be well met.
 ava Con el Veniczar habiendo conquistado Ryuvia, un lugar de gran significación histórica para los Elfos, la súplica por ayuda de la Princesa Asaga al último estado Élfico sobreviviente será bien recibida.
 #% cha ava_armup_neutral_neutral_smalltalk
 cha ava_armup_neutral_neutral_smalltalk
-# ava Now, we have fulfilled all the requirements to bring Song into the war against Pact. And quite frankly, we will all be dead otherwise.
+#% ava Now, we have fulfilled all the requirements to bring Song into the war against Pact. And quite frankly, we will all be dead otherwise.
 ava Ahora, hemos cumplido todos los requisitos para traer a Song a la guerra contra el Pacto. Y muy francamente, estaríamos todos muertos de no ser así.
-# ava Even if we somehow survive this conflict, we would be ill welcomed in the world order that Veniczar Arcadius seeks to establish.
+#% ava Even if we somehow survive this conflict, we would be ill welcomed in the world order that Veniczar Arcadius seeks to establish.
 ava Incluso si de alguna forma sobrevivimos a este conflicto, no seríamos bien recibidos en el orden del mundo que Veniczar Arcadius busca establecer.
 #% cha kay_neu_sad_closed_slight
 cha kay_neu_sad_closed_slight
-# kay I dunno, Ava.
+#% kay I dunno, Ava.
 kay No lo sé, Ava.
 #% cha kay_neu_sad_narrowloo_smalltalk
 cha kay_neu_sad_narrowloo_smalltalk
-# kay If only things were so predictable. Who knows what dark secrets lurk beyond the closed walls of Song and Pact.
+#% kay If only things were so predictable. Who knows what dark secrets lurk beyond the closed walls of Song and Pact.
 kay Si tan solo las cosas fueran tan predecibles. Quién sabe qué oscuros secretos asechan más allá de los muros cerrados de Song y el Pacto.
 #% cha ava_armup_neutral_neutral_slight
 cha ava_armup_neutral_neutral_slight
 #% voi ava_vns_neu_04
 voi ava_vns_neu_04
-# ava The matter is beyond your hands in any case.
-ava La cuestión está más allá de nuestras manos en cualquier caso.
-# ava Everyone in Song already has heard of Ryuvia's fall and the Princess' true identity. Somehow, word travels between taverns quicker than the speediest of ships.
+#% ava The matter is beyond your hands in any case.
+ava La cuestión está fuera de nuestras manos en cualquier caso.
+#% ava Everyone in Song already has heard of Ryuvia's fall and the Princess' true identity. Somehow, word travels between taverns quicker than the speediest of ships.
 ava Todo el mundo en Song ya ha escuchado de la caída de Ryuvia y la verdadera identidad de la Princesa. De alguna forma, los rumores viajan entre tabernas más rápido que las naves más veloces.
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
-# kay Aye, it really does make you ponder how that works...
+#% kay Aye, it really does make you ponder how that works...
 kay Sí, realmente te hace meditar sobre cómo eso funciona...
 #% cha ava_armup_surprised_surprise_smalltalk
 cha ava_armup_surprised_surprise_smalltalk
-# ava And now, here comes the Admiral now...
+#% ava And now, here comes the Admiral now...
 ava Y bueno, aquí viene el Almirante ahora...
 #% hid ava
 hid ava
@@ -4128,87 +4128,87 @@ hid ava
 cha gre_neu_angry_wide_yell
 #% voi gre_vns_ang_04
 voi gre_vns_ang_04
-# gre You have found the Princess! And I hear she was among your crew the entire time!
+#% gre You have found the Princess! And I hear she was among your crew the entire time!
 gre ¡Han encontrado a la Princesa! ¡Y escuché que estuvo entre su tripulación todo el tiempo!
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay You have my word that I was as in the dark regarding that as anyone else.
+#% kay You have my word that I was as in the dark regarding that as anyone else.
 kay Tiene mi palabra de que estaba tan a oscuras respecto a eso como cualquier otro.
 #% cha gre_neu_focus_neutral_smile
 cha gre_neu_focus_neutral_smile
 #% voi gre_vns_neu_01
 voi gre_vns_neu_01
-# gre No matter. Did the Talbur glow true?
+#% gre No matter. Did the Talbur glow true?
 gre No importa. ¿Es cierto que el Talbur brilló?
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
-# kay Yes.
+#% kay Yes.
 kay Sí.
 #% cha gre_neu_angry_wide_yell
 cha gre_neu_angry_wide_yell
 #% voi gre_vns_neu_05
 voi gre_vns_neu_05
-# gre Then she is the one! The Sharr has come to us, just as foretold!
+#% gre Then she is the one! The Sharr has come to us, just as foretold!
 gre ¡Entonces es ella! ¡La Sharr ha venido a nosotros, justo como se predijo!
 #% cha ava_armup_focus_neutral_smalltalk
 cha ava_armup_focus_neutral_smalltalk
 #% voi ava_vns_ang_02
 voi ava_vns_ang_02
-# ava All that we are sure of is that she is the Princess. By what evidence do you believe she is the Sharr?
+#% ava All that we are sure of is that she is the Princess. By what evidence do you believe she is the Sharr?
 ava Todo de lo que estamos seguros es que ella es la Princesa. ¿Con qué evidencia cree que ella es la Sharr?
 #% cha gre_neu_focus_surprise_smalltalk
 cha gre_neu_focus_surprise_smalltalk
 #% voi gre_vns_neu_03
 voi gre_vns_neu_03
-# gre You have not been keeping to your studies, Lessor. The Scripture foretells that when the bright light of Old Ryuvia is threatened to be snuffed out, the Sharr will descend from Heaven to rekindle its flame once more. Then we Elves will lead the child races of Halla for another thousand years, until the arrival of the next Sharr. 
+#% gre You have not been keeping to your studies, Lessor. The Scripture foretells that when the bright light of Old Ryuvia is threatened to be snuffed out, the Sharr will descend from Heaven to rekindle its flame once more. Then we Elves will lead the child races of Halla for another thousand years, until the arrival of the next Sharr. 
 gre No has estado manteniendo tus estudios, Inferior. La Escritura predice que cuando la luz brillante de la Antigua Ryuvia sea amenazada con ser apagada, la Sharr descenderá del Cielo para reavivar su llama una vez más. Entonces nosotros los Elfos lideraremos a las razas menores de Halla durante otros mil años, hasta la llegada de la siguiente Sharr.
-# gre The invasion of Maan is a sign. A sign of the Sharr's arrival!
+#% gre The invasion of Maan is a sign. A sign of the Sharr's arrival!
 gre La invasión de los Maan es una señal. ¡Una señal de la llegada de la Sharr!
 #% cha kay_neu_angry_big_smalltalk
 cha kay_neu_angry_big_smalltalk
-# kay Countless Princesses have declared themselves Sharr and failed to live up to their destiny. We do not yet know whether Asaga is the Sharr.
+#% kay Countless Princesses have declared themselves Sharr and failed to live up to their destiny. We do not yet know whether Asaga is the Sharr.
 kay Incontables Princesas se han declarado a sí mismas Sharr y han fallado en estar a la altura de su destino. No sabemos todavía si Asaga es la Sharr o no.
 #% cha gre_neu_angry_closed_neutral
 cha gre_neu_angry_closed_neutral
-# gre It is wrong to question the will of our ancestral elders! The Talbur has spoken!
+#% gre It is wrong to question the will of our ancestral elders! The Talbur has spoken!
 gre ¡Está mal cuestionar la voluntad de nuestros antiguos ancianos! ¡El Talbur ha hablado!
 #% cha ava_facepalm_angry_closedeye_smalltalk
 cha ava_facepalm_angry_closedeye_smalltalk
 #% voi ava_vns_sad_02
 voi ava_vns_sad_02
-# ava (Captain, I do not know how much further we will get with him. He is clearly in the midst of a religious fervor.)
+#% ava (Captain, I do not know how much further we will get with him. He is clearly in the midst of a religious fervor.)
 ava (Capitán, no sé cuán lejos llegaremos con él. Claramente está en medio de un fervor religioso.)
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
-# kay (I say we just go with the flow then. It's obvious he won't listen to anything otherwise.)
+#% kay (I say we just go with the flow then. It's obvious he won't listen to anything otherwise.)
 kay (Yo digo que simplemente sigamos la corriente entonces. Es obvio que no escuchará nada contrario.)
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay If all is as you say, we must assemble a force to defend the rest of Halla from Pact immediately. Having taken Ryuvia from the East, the enemy must secure a sea route into the Dragon's Foot Sea by controlling the Strait of Far Port.
+#% kay If all is as you say, we must assemble a force to defend the rest of Halla from Pact immediately. Having taken Ryuvia from the East, the enemy must secure a sea route into the Dragon's Foot Sea by controlling the Strait of Far Port.
 kay Si todo es como dice, debemos formar una fuerza para defender al resto de Halla del Pacto inmediatamente. Habiendo tomado Ryuvia del Este, el enemigo debe asegurar una ruta marítima al Mar Dragon's Foot al controlar el Estrecho de Far Port.
-# kay That is where we must rout the Crimson Fleet. If they cross the Strait, then Pact will control both of Ryuvia's coasts. From there, they will launch a land war into Song. On land, the ingenuity of Maan is said to be more fearsome than the blood lust of the Orks. 
-kay Es ahí donde debemos derrotar a la Flota Carmesí. Si cruzan el Estrecho, entonces el Pacto controlará ambas costas de Ryuvia. Desde ahí, lanzarán una guerra terrestre hacia Song. En tierra, se dice que el ingenio de los Maan es más temible que la sed de sangre de los Orkos.
+#% kay That is where we must rout the Crimson Fleet. If they cross the Strait, then Pact will control both of Ryuvia's coasts. From there, they will launch a land war into Song. On land, the ingenuity of Maan is said to be more fearsome than the blood lust of the Orks. 
+kay Es ahí donde debemos derrotar a la Flota Carmesí. Si cruzan el Estrecho, entonces el Pacto controlará ambas costas de Ryuvia. Desde ahí, lanzarán una guerra terrestre hacia Song. En tierra, dicen que el ingenio de los Maan es más temible que la sed de sangre de los Orkos.
 #% cha gre_neu_angry_wide_yell
 cha gre_neu_angry_wide_yell
 #% voi gre_vns_hap_03
 voi gre_vns_hap_03
-# gre We have ships far mightier than any the Maan of the Asahi Isle could cobble together! At the Sharr's word, we shall set sail to meet the enemy!
+#% gre We have ships far mightier than any the Maan of the Asahi Isle could cobble together! At the Sharr's word, we shall set sail to meet the enemy!
 gre ¡Tenemos naves mucho más poderosas que cualquiera que los Maan de la Isla Asahi pudieran improvisar! ¡A la orden de la Sharr, partiremos para enfrentarnos al enemigo!
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
-# kay Then it is done.
+#% kay Then it is done.
 kay Entonces está decidido.
 #% cha kay_neu_angry_big_smalltalk
 cha kay_neu_angry_big_smalltalk
-# kay Let us meet the enemy at Far Port and put a stop to this madness.
+#% kay Let us meet the enemy at Far Port and put a stop to this madness.
 kay Enfrentémonos al enemigo en Far Port y pongámosle un fin a esta locura.
 #% cha gre_neu_focus_neutral_bigtalk
 cha gre_neu_focus_neutral_bigtalk
-# gre But first, let us hear from the Sharr herself!
+#% gre But first, let us hear from the Sharr herself!
 gre ¡Pero primero, déjanos escucharlo de la Sharr en persona!
 #% cha kay_neu_focus_neutral_talk
 cha kay_neu_focus_neutral_talk
-# kay Very well. She awaits us at the docks.
+#% kay Very well. She awaits us at the docks.
 kay Muy bien. Nos espera en los muelles.
 #% dbg spr_bg_volarisdock
 dbg spr_bg_volarisdock
@@ -4216,73 +4216,73 @@ dbg spr_bg_volarisdock
 cha asa_excited_raised_wide2_yell
 #% voi asa_vns_sur_05
 voi asa_vns_sur_05
-# asa Woah! I was expecting a crowd, but I didn't expect all the High Elders!
+#% asa Woah! I was expecting a crowd, but I didn't expect all the High Elders!
 asa ¡Woah! ¡Esperaba una multitud, pero nunca esperé a todos los Altos Ancianos!
 #% cha kay_neu_sad_closed_groan
 cha kay_neu_sad_closed_groan
-# kay Ahem... Introducing Princess Asaga di Ryuvia.
+#% kay Ahem... Introducing Princess Asaga di Ryuvia.
 kay Ejem... Les presento a la Princesa Asaga di Ryuvia.
 #% cha gre_neu_angry_neutral_yell
 cha gre_neu_angry_neutral_yell
 #% voi gre_vns_hap_05
 voi gre_vns_hap_05
-# gre Blessed be the Sharr! 
+#% gre Blessed be the Sharr! 
 gre ¡Bendita sea la Sharr!
-# asa The Sharr?
+#% asa The Sharr?
 asa ¿La Sharr?
 #% cha asa_armscrossed_sad_wide_yell
 cha asa_armscrossed_sad_wide_yell
-# asa Wait. Wait. I know what you're going to say...
+#% asa Wait. Wait. I know what you're going to say...
 asa Espera. Espera. Sé lo que van a decir...
 #% cha gre_neu_neutral_surprise_smile
 cha gre_neu_neutral_surprise_smile
-# gre You need not say anything, my lady. We never lost faith for a moment that you would arrive.
+#% gre You need not say anything, my lady. We never lost faith for a moment that you would arrive.
 gre No necesita decir nada, mi señora. Nunca perdimos por un momento la fe en que llegaría.
 #% cha gre_neu_focus_neutral_smalltalk
 cha gre_neu_focus_neutral_smalltalk
-# gre But our time is running short. The bright light that Sharr Minna last rekindled has now grown feeble indeed.
+#% gre But our time is running short. The bright light that Sharr Minna last rekindled has now grown feeble indeed.
 gre Pero nuestro tiempo se agota. La brillante luz que la Sharr Minna avivó por última vez ahora se ha debilitado sin duda.
-# gre Now it is your turn to relight it, Sharr Asaga!
+#% gre Now it is your turn to relight it, Sharr Asaga!
 gre ¡Ahora es su turno de reavivarla, Sharr Asaga!
 #% mus mus_colors_pt1
 mus mus_colors_pt1
 #% cha asa_fist_focus_neutral_smalltalk
 cha asa_fist_focus_neutral_smalltalk
-# asa ...Everyone. I wish to speak.
+#% asa ...Everyone. I wish to speak.
 asa ...Gente. Deseo hablar.
-# asa I am Princess Asaga di Ryuvia. To tell the truth, I never wished to be in this position.
+#% asa I am Princess Asaga di Ryuvia. To tell the truth, I never wished to be in this position.
 asa Soy la Princesa Asaga di Ryuvia. A decir verdad, nunca deseé estar en esta posición.
 #% cha asa_fist_focus_closedeye_bigtalk
 cha asa_fist_focus_closedeye_bigtalk
-# asa I come before you on the run from Veniczar Arcadius. It brings me great pain to tell you that the Pact of Maan has taken Ryuvia. The Scarlet Blossom flies over the Star Palace as we speak.
+#% asa I come before you on the run from Veniczar Arcadius. It brings me great pain to tell you that the Pact of Maan has taken Ryuvia. The Scarlet Blossom flies over the Star Palace as we speak.
 asa Vengo ante ustedes huyendo de Veniczar Arcadius. Me trae un gran dolor decirles que el Pacto de Maan ha tomado Ryuvia. La Bandera Carmesí ondea sobre el Palacio Estelar mientras hablamos.
-# asa My father told me that a Queen must never plead. But I am no Queen. Not yet. So I plead with you now.
+#% asa My father told me that a Queen must never plead. But I am no Queen. Not yet. So I plead with you now.
 asa Mi padre me decía que una Reina nunca debe rogar. Pero no soy una Reina. Aún no. Así que les ruego ahora.
 #% cha asa_fist_angry_wide_yell
 cha asa_fist_angry_wide_yell
-# asa I ask for your help in stopping the Veniczar's madness! Though you are not Ryuvians, that is the ancestral home of all Elves, is it not?
+#% asa I ask for your help in stopping the Veniczar's madness! Though you are not Ryuvians, that is the ancestral home of all Elves, is it not?
 asa ¡Pido su ayuda para detener la locura del Veniczar! Aunque no sean Ryuvianos, ese es el hogar ancestral de todos los Elfos, ¿no es así?
 #% cha asa_bendover_focus_neutral_yell
 cha asa_bendover_focus_neutral_yell
-# asa We are all one! Will you join me?
+#% asa We are all one! Will you join me?
 asa ¡Todos somos uno! ¿Se unirán a mí?
 #% cha gre_neu_angry_wide_yell
 cha gre_neu_angry_wide_yell
 #% voi gre_vns_neu_05
 voi gre_vns_neu_05
-# gre The light of the great elders of the Talbur shine true! The Emerald Fleet shall set sail and meet the Crimson Fleet at the Strait of Far Port!
+#% gre The light of the great elders of the Talbur shine true! The Emerald Fleet shall set sail and meet the Crimson Fleet at the Strait of Far Port!
 gre ¡La luz de los grandes ancianos del Talbur brilla con certeza! ¡La Flota Esmeralda partirá y se enfrentará a la Flota Carmesí en el Estrecho de Far Port!
-# gre By the Sharr's grace, may the light of the Monolithic Truth never dim!
+#% gre By the Sharr's grace, may the light of the Monolithic Truth never dim!
 gre ¡Por la gracia de la Sharr, que la luz de la Verdad Monolítica nunca se apague!
 #% obj MAIN: The Decisive Moment
 obj PRINCIPAL: El Momento Decisivo
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
-# kay It is done...
+#% kay It is done...
 kay Está hecho...
 #% cha kay_neu_focus_neutral_neutral
 cha kay_neu_focus_neutral_neutral
-# kay I feel like I have just witnessed history unfold. Yet I feel no jubilation.
+#% kay I feel like I have just witnessed history unfold. Yet I feel no jubilation.
 kay Siento que he acabado de presenciar el desarrollo de la historia. Sin embargo no siento júbilo.
 #% hid gre
 hid gre
@@ -4292,45 +4292,45 @@ hid asa
 cha sol_side_sad_narrowloo_talk
 #% voi sol_vns_neu_13
 voi sol_vns_neu_13
-# sol In my mind, 'tis been less than a decade since I was baptized Sharr. Yet the Talbur did not shine for me. And fatal that was, as I could not perform the Final Tear and rid the world of Crow Harbor.
+#% sol In my mind, 'tis been less than a decade since I was baptized Sharr. Yet the Talbur did not shine for me. And fatal that was, as I could not perform the Final Tear and rid the world of Crow Harbor.
 sol En mi mente, ha pasado menos de una década de que fui bautizada Sharr. Sin embargo el Talbur no brilló por mí. Y qué fatal fue, ya que no pude realizar la Final Tear y liberar al mundo de Crow Harbor.
-# sol Are the great elders of the Talbur truly so prescient?
+#% sol Are the great elders of the Talbur truly so prescient?
 sol ¿Son los grandes ancianos del Talbur verdaderamente tan prescientes?
 #% cha kay_neu_neutral_wide_smalltalk
 cha kay_neu_neutral_wide_smalltalk
-# kay Are you thinking to entertain your claim?
+#% kay Are you thinking to entertain your claim?
 kay ¿Estás pensando en seguir adelante con tu pretensión?
 #% cha sol_side_sad_closedeye_talk
 cha sol_side_sad_closedeye_talk
 #% voi sol_vns_ang_04
 voi sol_vns_ang_04
-# sol Foolishness.
+#% sol Foolishness.
 sol Tonterías.
 #% cha sol_front_sad_neutral_talk2
 cha sol_front_sad_neutral_talk2
 #% voi sol_vns_sad_03
 voi sol_vns_sad_03
-# sol This is not my war. And the Talbur would not light for me regardless. Furthermore...
+#% sol This is not my war. And the Talbur would not light for me regardless. Furthermore...
 sol Esta no es mi guerra. Y el talbur no brillaría por mí aun así. Además...
-# sol Throughout our history, the destiny of all Sharrs has been to return to Heaven by unleashing the Final Tear. Only then, can the cycle continue and a new Sharr be born.
+#% sol Throughout our history, the destiny of all Sharrs has been to return to Heaven by unleashing the Final Tear. Only then, can the cycle continue and a new Sharr be born.
 sol A lo largo de nuestra historia, el destino de todas las Sharrs ha sido regresar al Cielo desatando la Final Tear. Solo entonces, puede el ciclo continuar y una nueva Sharr nacerá.
 #% cha kay_neu_focus_wide_clench
 cha kay_neu_focus_wide_clench
-# kay Return to Heaven? But that means...
+#% kay Return to Heaven? But that means...
 kay ¿Regresar al Cielo? Pero eso significa...
 #% cha sol_back_sad_narrowloo_talk2
 cha sol_back_sad_narrowloo_talk2
 #% voi sol_vns_sad_01
 voi sol_vns_sad_01
-# sol 'Tis a stiff burden to bear. The poor Princess...
+#% sol 'Tis a stiff burden to bear. The poor Princess...
 sol Es una carga pesada que soportar. La pobre Princesa...
 #% cha kay_neu_focus_wide_clench
 cha kay_neu_focus_wide_clench
-# kay Asaga...!
+#% kay Asaga...!
 kay ¡Asaga...!
 #% cha kay_neu_focus_closed_clench
 cha kay_neu_focus_closed_clench
-# kay (This Final Tear business could be trouble. I'll have to talk with Asaga about it later.)
+#% kay (This Final Tear business could be trouble. I'll have to talk with Asaga about it later.)
 kay (Esto de la Final Tear pudiera ser un problema. Tendré que hablar con Asaga sobre eso luego.)
 #% dbg spr_bg_sunriderbridge
 dbg spr_bg_sunriderbridge
@@ -4340,29 +4340,29 @@ mus mus_colors_mainloop
 cha ava_armup_neutral_neutral_smalltalk
 #% voi ava_vns_neu_08
 voi ava_vns_neu_08
-# ava Captain. We are just about ready to get underway. But first, Sister Kryska wishes to speak with you.
+#% ava Captain. We are just about ready to get underway. But first, Sister Kryska wishes to speak with you.
 ava Capitán. Estamos ya casi listos para ponernos en camino. Pero primero, la Hermana Kryska desea hablar con usted.
 #% cha kay_neu_confuse_big_slight
 cha kay_neu_confuse_big_slight
-# kay Do you have something to report, sister?
+#% kay Do you have something to report, sister?
 kay ¿Tienes algo que reportar, hermana?
 #% cha kry_fistup_focus_neutral_yell
 cha kry_fistup_focus_neutral_yell
 #% voi kry_vns_neu_10
 voi kry_vns_neu_10
-# kry Indeed! I request permission to disembark, actually.
+#% kry Indeed! I request permission to disembark, actually.
 kry ¡Así es! Pido permiso para desembarcar, de hecho.
-# kry I have received orders to take command of the Radiant. Of course, we will escort you to Far Port and face the Crimson Fleet together!
+#% kry I have received orders to take command of the Radiant. Of course, we will escort you to Far Port and face the Crimson Fleet together!
 kry He recibido órdenes de tomar el mando del Radiant. ¡Por supuesto, los escoltaremos a Far Port y nos enfrentaremos a la Flota Carmesí juntos!
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
-# kay Is that so? Well then, I know she will be captained by the Emerald Fleet's finest. Permission granted.
+#% kay Is that so? Well then, I know she will be captained by the Emerald Fleet's finest. Permission granted.
 kay ¿Es así? En fin, sé que ella será comandada por lo mejor de la Flota Esmeralda. Permiso concedido.
 #% cha kry_armdown_focus_neutral_bigtalk
 cha kry_armdown_focus_neutral_bigtalk
 #% voi kry_vns_neu_06
 voi kry_vns_neu_06
-# kry Thank you, captain. Then, we shall speak again at Far Port!
+#% kry Thank you, captain. Then, we shall speak again at Far Port!
 kry Gracias, capitán. ¡Entonces, nos volveremos a hablar en Far Port!
 #% hid kry
 hid kry
@@ -4374,31 +4374,31 @@ ava ... ... ...
 cha ava_armup_focus_closedeye_slight_shadow
 #% voi ava_vns_ang_02
 voi ava_vns_ang_02
-# ava Whew. I was beginning to think her constant preaching and praying would never end...
+#% ava Whew. I was beginning to think her constant preaching and praying would never end...
 ava Uf. Estaba comenzando a pensar que sus constantes sermones y rezos nunca terminarían...
 #% cha kay_neu_confuse_thinking_smirk
 cha kay_neu_confuse_thinking_smirk
-# kay She wasn't that bad, Ava. I'd say she mostly just kept to herself, actually.
+#% kay She wasn't that bad, Ava. I'd say she mostly just kept to herself, actually.
 kay Ella no era tan mala, Ava. Yo diría que en la mayor parte solo se lo guardó para sí, de hecho.
 #% cha kay_neu_confuse_neutral_slight
 cha kay_neu_confuse_neutral_slight
-# kay (It was almost like she was never even here...)
+#% kay (It was almost like she was never even here...)
 kay (Fue casi como si nunca estuvo aquí siquiera...)
 #% cha ava_armup_focus_neutral_smalltalk
 cha ava_armup_focus_neutral_smalltalk
 #% voi ava_vns_neu_08
 voi ava_vns_neu_08
-# ava Now, shall we get underway?
+#% ava Now, shall we get underway?
 ava Ahora, ¿deberíamos ponernos en camino?
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Yes. Our next mission is to sail to the Strait of Far Port and prevent the Crimson Fleet from sailing into the Dragon's Foot Sea. 
+#% kay Yes. Our next mission is to sail to the Strait of Far Port and prevent the Crimson Fleet from sailing into the Dragon's Foot Sea. 
 kay Sí. Nuestra siguiente misión es navegar hacia el Estrecho de Far Port y evitar que la Flota Carmesí navegue hacia el Mar Dragon's Foot.
-# kay Take us out, commander.
+#% kay Take us out, commander.
 kay Partamos, comandante.
 #% cha ava_shout_shout_shout_shout
 cha ava_shout_shout_shout_shout
-# ava Aye aye. All hands: Raise sails!
+#% ava Aye aye. All hands: Raise sails!
 ava Sí. A toda la tripulación: ¡Suelten velas!
 #% map 
 map 
@@ -4416,55 +4416,55 @@ dbg spr_bg_sunriderbridge_fog
 cha ava_armscrossed_focus_neutral_smalltalk
 #% voi ava_vns_neu_08
 voi ava_vns_neu_08
-# ava Good morning, captain.
+#% ava Good morning, captain.
 ava Buenos días, capitán.
 #% cha kay_neu_confuse_neutral_slight
 cha kay_neu_confuse_neutral_slight
-# kay Still foggy?
+#% kay Still foggy?
 kay ¿Sigue la niebla?
 #% cha ava_armscrossed_focus_closedeye_smalltalk
 cha ava_armscrossed_focus_closedeye_smalltalk
 #% voi ava_vns_sad_02
 voi ava_vns_sad_02
-# ava No substantial change in weather since last night. I'm not liking this...
+#% ava No substantial change in weather since last night. I'm not liking this...
 ava Ningún cambio sustancial en el clima desde anoche. No me está gustando esto...
-# ava We've lost sight of the entire Emerald Fleet, much less our escorts.
-ava Hemos perdido de vista a toda la Flota Esmeralda, mucho menos nuestros escoltas.
+#% ava We've lost sight of the entire Emerald Fleet, much less our escorts.
+ava Hemos perdido de vista a toda la Flota Esmeralda, y qué decir de nuestros escoltas.
 #% cha ava_armscrossed_focus_neutral_smalltalk
 cha ava_armscrossed_focus_neutral_smalltalk
-# ava What if this is some Song conspiracy?
+#% ava What if this is some Song conspiracy?
 ava ¿Y si esto es alguna conspiración de Song?
 #% cha kay_neu_confuse_neutral_slight
 cha kay_neu_confuse_neutral_slight
-# kay Not exactly the first time we've encountered fog, is it, Ava?
+#% kay Not exactly the first time we've encountered fog, is it, Ava?
 kay No es exactamente la primera vez que hemos encontrado niebla, ¿no es así, Ava?
 #% cha ica_back_focus_narrow_neutral
 cha ica_back_focus_narrow_neutral
 #% voi ica_vns_neu_08
 voi ica_vns_neu_08
-# ica Oy, buttin' in cap, but the commander's got a point.
+#% ica Oy, buttin' in cap, but the commander's got a point.
 ica Oy, lamento interrumpir capitán, pero la comandante tiene razón.
 #% cha ica_back_focus_smuglooka_smalltalk
 cha ica_back_focus_smuglooka_smalltalk
-# ica It is suspicious, that they pulled out their spy out at the last second before we left Volaris.
+#% ica It is suspicious, that they pulled out their spy out at the last second before we left Volaris.
 ica Es sospechoso, que sacaran a su espía en el último segundo antes de que dejáramos Volaris.
 #% cha ava_armup_focus_neutrallo_bigtalk
 cha ava_armup_focus_neutrallo_bigtalk
-# ava Further, the Admiral appeared all too eager to declare Asaga the Sharr and send us off to Far Port. I still believe something is amiss in all this.
+#% ava Further, the Admiral appeared all too eager to declare Asaga the Sharr and send us off to Far Port. I still believe something is amiss in all this.
 ava Además, el Almirante parecía demasiado entusiasmado en declarar a Asaga la Sharr y enviarnos a Far Port. Yo todavía creo que hay algo raro en todo esto.
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
-# kay Come on now, the Admiral was just overjoyed that the Sharr had been found.
+#% kay Come on now, the Admiral was just overjoyed that the Sharr had been found.
 kay Venga, el Almirante solo estaba muy contento de que se hubiera encontrado a la Sharr.
 #% cha kay_neu_sad_neutral_smile
 cha kay_neu_sad_neutral_smile
-# kay Hold fast now. Hardly befitting of you to lose your wits merely at the sight of some foul weather.
+#% kay Hold fast now. Hardly befitting of you to lose your wits merely at the sight of some foul weather.
 kay Mantengan el curso. No vale la pena que pierdan la calma solamente por ver un mal clima.
 #% cha kay_neu_neutral_closed_smallsmil
 cha kay_neu_neutral_closed_smallsmil
-# kay (The visibility issue certainly is concerning on a tactical level, but ensuring the crew does not lose their cool is more important...)
+#% kay (The visibility issue certainly is concerning on a tactical level, but ensuring the crew does not lose their cool is more important...)
 kay (El problema de visibilidad es ciertamente preocupante a nivel táctico, pero asegurarme de que la tripulación no pierda la calma es más importante...)
-# kay (I will be glad to reach Far Port and put this distrust behind us...)
+#% kay (I will be glad to reach Far Port and put this distrust behind us...)
 kay (Me encantaría llegar a Far Port y dejar esta desconfianza atrás...)
 #% hid ica
 hid ica
@@ -4478,7 +4478,7 @@ nar ... ...
 nar ...
 #% sou sou_warning
 sou sou_warning
-# nar (Alert bell)
+#% nar (Alert bell)
 nar (Campana de alerta)
 #% dbg spr_bg_sunriderbridge
 dbg spr_bg_sunriderbridge
@@ -4486,27 +4486,27 @@ dbg spr_bg_sunriderbridge
 cha ava_armscrossed_angry_surprise_yell
 #% voi ava_vns_neu_08
 voi ava_vns_neu_08
-# ava Captain, the fog is clearing! But...
+#% ava Captain, the fog is clearing! But...
 ava ¡Capitán, la niebla se está aclarando! Pero...
 #% cha kay_neu_raised_wide_talk
 cha kay_neu_raised_wide_talk
-# kay The Fleet...
+#% kay The Fleet...
 kay La Flota...
 #% cha ava_armup_focus_surprise_bigtalk
 cha ava_armup_focus_surprise_bigtalk
 #% voi ava_vns_ang_07
 voi ava_vns_ang_07
-# ava I count... only 13 ships. Could the remaining ships have gotten lost in the fog?
+#% ava I count... only 13 ships. Could the remaining ships have gotten lost in the fog?
 ava Cuento... solo 13 barcos. ¿Pudieron las naves restantes haberse perdido en la niebla?
-# ava The Radiant is signaling to come alongside.
+#% ava The Radiant is signaling to come alongside.
 ava El Radiant está haciendo señales para acercarnos.
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Respond that we want to talk.
+#% kay Respond that we want to talk.
 kay Responde que queremos hablar.
 #% cha ava_shout_shout_shout_shout
 cha ava_shout_shout_shout_shout
-# ava Understood, captain. Raise the parley kite!
+#% ava Understood, captain. Raise the parley kite!
 ava ¡Entendido, capitán! ¡Icen el cometa de parlamentar!
 #% hid ava
 hid ava
@@ -4516,59 +4516,59 @@ nar ... ... ...
 cha kry_fistup_angry_wide_bigtalk
 #% voi kry_vns_sad_03
 voi kry_vns_sad_03
-# kry The bulk of the Emerald Fleet must have went off-course during the fog! Now we are separated, without any idea as to when they will return.
+#% kry The bulk of the Emerald Fleet must have went off-course during the fog! Now we are separated, without any idea as to when they will return.
 kry ¡El grueso de la Flota Esmeralda debe de haberse desviado durante la niebla! Ahora estamos separados, sin ninguna idea de cuándo volverán.
 #% cha ava_facepalm_focus_narrowloo_tch
 cha ava_facepalm_focus_narrowloo_tch
 #% voi ava_vns_ang_06
 voi ava_vns_ang_06
-# ava Captain, we are seeing no emerald sails, and a man's carrying the spotter on his shoulders up there. They must be at least... 18 hours away.
+#% ava Captain, we are seeing no emerald sails, and a man's carrying the spotter on his shoulders up there. They must be at least... 18 hours away.
 ava Capitán, no estamos viendo ninguna vela esmeralda; y un hombre está cargando al observador sobre sus hombros ahí arriba. Deben estar al menos... a 18 horas.
 #% cha ava_armup_focus_closedeye_bigtalk
 cha ava_armup_focus_closedeye_bigtalk
-# ava If we are to run into the Crimson Fleet as we are now, we would be decimated.
+#% ava If we are to run into the Crimson Fleet as we are now, we would be decimated.
 ava Si nos enfrentamos a la Flota Carmesí como estamos ahora, seríamos diezmados.
 #% cha ica_point_angry_wide_shout
 cha ica_point_angry_wide_shout
 #% voi ica_vns_ang_05
 voi ica_vns_ang_05
-# ica Tch, some much for your superior Elvish knowledge! The Emerald Fleet scattered to the four corners under the fog, you fool! 
+#% ica Tch, some much for your superior Elvish knowledge! The Emerald Fleet scattered to the four corners under the fog, you fool! 
 ica ¡Tch, qué desgracia con su superior conocimiento Élfico! ¡La Flota Esmeralda se dispersó por todos lados bajo la niebla, tonta!
 #% cha kry_armout_angry_wide_yell
 cha kry_armout_angry_wide_yell
 #% voi kry_vns_ang_04
 voi kry_vns_ang_04
-# kry T-The reason for the Emerald Fleet's disappearance is merely beyond your capacity to understand! 
+#% kry T-The reason for the Emerald Fleet's disappearance is merely beyond your capacity to understand! 
 kry ¡L-La razón de la desaparición de la Flota Esmeralda está simplemente por encima de su capacidad de comprensión!
 #% cha ava_armscrossed_focus_neutral_smalltalk
 cha ava_armscrossed_focus_neutral_smalltalk
 #% voi ava_vns_sad_04
 voi ava_vns_sad_04
-# ava Captain, this is highly disadvantageous. Should we still sail on to Far Port?
+#% ava Captain, this is highly disadvantageous. Should we still sail on to Far Port?
 ava Capitán, esto es sumamente desventajoso. ¿Deberíamos aun así navegar a Far Port?
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
-# kay Maintain course, commander. The fleet will gather there, just as we promised back at Volaris.
+#% kay Maintain course, commander. The fleet will gather there, just as we promised back at Volaris.
 kay Mantengan el curso, comandante. La flota se reunirá aquí, tal y como prometimos en Volaris.
 #% cha ica_armscrossed_focus_closedeye_smalltalk
 cha ica_armscrossed_focus_closedeye_smalltalk
 #% voi ica_vns_ang_01
 voi ica_vns_ang_01
-# ica And if the Crimson Fleet is waiting for us at Far Port?
+#% ica And if the Crimson Fleet is waiting for us at Far Port?
 ica ¿Y si la Flota Carmesí nos está esperando en Far Port?
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Then we will hold the Strait until help arrives.
+#% kay Then we will hold the Strait until help arrives.
 kay Entonces defenderemos el Estrecho hasta que la ayuda llegue.
-# kay The cross winds of Far Port are feared even by seasoned sailors. They will rend the Crimson Fleet to pieces just as much as cannons there.
+#% kay The cross winds of Far Port are feared even by seasoned sailors. They will rend the Crimson Fleet to pieces just as much as cannons there.
 kay Los vientos cruzados de Far Port son temidos incluso por los más experimentados marineros. Harán pedazos a la Flota Carmesí casi tanto como cañones allí.
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
-# kay You all have your orders. Carry them out and we will get through this.
+#% kay You all have your orders. Carry them out and we will get through this.
 kay Todos ustedes tienen sus órdenes. Llévenlas a cabo y terminaremos esto.
 #% cha ava_shout_shout_shout_shout
 cha ava_shout_shout_shout_shout
-# ava You heard the captain. Get to work!
+#% ava You heard the captain. Get to work!
 ava Escucharon al capitán. ¡Pónganse a trabajar!
 #% dbg spr_bg_sunriderbelowdeck
 dbg spr_bg_sunriderbelowdeck
@@ -4578,85 +4578,85 @@ mus mus_fallen_angel_pt1
 cha ica_back_focus_smuglooka_slight
 #% voi ica_vns_neu_09
 voi ica_vns_neu_09
-# ica I'm not liking how this is unfolding...
+#% ica I'm not liking how this is unfolding...
 ica No me está gustando como se está desarrollando esto...
-# ica You know what I'm starting to think? That the Emerald Fleet didn't accidentally get lost.
+#% ica You know what I'm starting to think? That the Emerald Fleet didn't accidentally get lost.
 ica ¿Sabes qué estoy comenzando a pensar? Que la Flota Esmeralda no se perdió accidentalmente
 #% cha ica_point_angry_wide_shout
 cha ica_point_angry_wide_shout
 #% voi ica_vns_ang_04
 voi ica_vns_ang_04
-# ica Those High Elves must have abandoned us on purpose! I mean, I thought you Elves could see through the fog with your magic! None of this is adding up!
+#% ica Those High Elves must have abandoned us on purpose! I mean, I thought you Elves could see through the fog with your magic! None of this is adding up!
 ica ¡Esos Altos Elfos nos deben de haber abandonado a propósito! ¡Quiero decir, pensaba que ustedes los Elfos podían ver a través de la niebla con su magia! ¡Nada de esto tiene sentido!
 #% cha kry_fistup_angry_wide_yell
 cha kry_fistup_angry_wide_yell
 #% voi kry_vns_ang_03
 voi kry_vns_ang_03
-# kry Silence! There could be any multitude of innocent explanations for the fleet's disappearance! I cannot allow you to impugn our honor by accusing us of betrayal!
-kry ¡Silencio! ¡Pudiera haber una multitud de explicaciones inocentes para la desaparición de la flota! ¡No puedo permitirte impugnar nuestro honor al acusarnos de traición!
+#% kry Silence! There could be any multitude of innocent explanations for the fleet's disappearance! I cannot allow you to impugn our honor by accusing us of betrayal!
+kry ¡Silencio! ¡Pudiera haber una multitud de explicaciones inocentes respecto a la desaparición de la flota! ¡No puedo permitirte impugnar nuestro honor al acusarnos de traición!
 #% cha kry_armout_angry_wide_yell
 cha kry_armout_angry_wide_yell
-# kry Great Sharr, defend us from this... scoundrel.
+#% kry Great Sharr, defend us from this... scoundrel.
 kry Gran Sharr, defiéndanos de esta... sinvergüenza.
 #% cha ica_surprised_annoyed_surprise_cry_shadow
 cha ica_surprised_annoyed_surprise_cry_shadow
 #% voi ica_vns_sur_02
 voi ica_vns_sur_02
-# ica S-Scoundrel?!
+#% ica S-Scoundrel?!
 ica ¡¿S-Sinvergüenza?!
 #% cha asa_armscrossed_focus_closedeye_frown
 cha asa_armscrossed_focus_closedeye_frown
 #% voi asa_vns_ang_04
 voi asa_vns_ang_04
-# asa Now is not the moment to lose our mettle. We've got to back the capt'n here!
+#% asa Now is not the moment to lose our mettle. We've got to back the capt'n here!
 asa Ahora no es el momento para perder la calma. ¡Tenemos que apoyar al capitán aquí!
 #% cha asa_fingerpoint_focus_neutral_smalltalk
 cha asa_fingerpoint_focus_neutral_smalltalk
-# asa If we let the Crimson Fleet cross the strait, then they'll take control of both of Ryuvia's coasts. Even if we're all there is, we gotta hold the line to prevent that.
+#% asa If we let the Crimson Fleet cross the strait, then they'll take control of both of Ryuvia's coasts. Even if we're all there is, we gotta hold the line to prevent that.
 asa Si permitimos que la Flota Carmesí cruce el estrecho, entonces tomarán control de ambas costas de Ryuvia. Incluso si somos todo lo que hay, tenemos que resistir para evitar eso.
 #% cha kry_armdown_focus_neutral_bigtalk
 cha kry_armdown_focus_neutral_bigtalk
-# kry Not to mention, the narrow crossing is the perfect choke point to frustrate their largest ships and leverage their numbers against them.
+#% kry Not to mention, the narrow crossing is the perfect choke point to frustrate their largest ships and leverage their numbers against them.
 kry Sin mencionar, que el estrecho cruce es el cuello de botella perfecto para acabar con sus naves más grandes y aprovechar sus números en su contra.
 #% cha asa_bendover_angry_neutral_bigtalk
 cha asa_bendover_angry_neutral_bigtalk
-# asa Yeah, that's what I'm tryin' to say here!
+#% asa Yeah, that's what I'm tryin' to say here!
 asa ¡Sí, eso es lo que estoy intentando decir!
 #% cha ica_armscrossed_annoyed_closedeye_smalltalk
 cha ica_armscrossed_annoyed_closedeye_smalltalk
 #% voi ica_vns_sad_01
 voi ica_vns_sad_01
-# ica Well, Sola here was the Sharr of her time, but that didn't exactly help her when she found herself vastly outnumbered in a foggy lagoon...
+#% ica Well, Sola here was the Sharr of her time, but that didn't exactly help her when she found herself vastly outnumbered in a foggy lagoon...
 ica Bueno, Sola fue la Sharr de su época, pero eso no la ayudó exactamente cuando se encontró superada enormemente en número en una laguna brumosa...
 #% cha sol_side_confused_narrow_talk2
 cha sol_side_confused_narrow_talk2
 #% voi sol_vns_sad_03
 voi sol_vns_sad_03
-# sol Alas, but I am no Sharr.
+#% sol Alas, but I am no Sharr.
 sol Por desgracia, pero no soy ninguna Sharr.
 #% cha ica_back_sad_funnyangr_pout
 cha ica_back_sad_funnyangr_pout
 #% voi ica_vns_sad_03
 voi ica_vns_sad_03
-# ica What is up with promised ones denying their titles today...
+#% ica What is up with promised ones denying their titles today...
 ica Qué pasa con las personas negando sus títulos hoy en día...
 #% cha kry_armdown_focus_neutral_smalltalk
 cha kry_armdown_focus_neutral_smalltalk
 #% voi kry_vns_neu_04
 voi kry_vns_neu_04
-# kry I mean no disrespect to Sola, but it is clear our ancestral elders believe Asaga will accomplish great things in her future. I have faith that this battle will serve as a rallying call throughout Halla that the Sharr has unquestionably returned to save us all!
+#% kry I mean no disrespect to Sola, but it is clear our ancestral elders believe Asaga will accomplish great things in her future. I have faith that this battle will serve as a rallying call throughout Halla that the Sharr has unquestionably returned to save us all!
 kry No pretendo ser irrespetuosa con Sola, pero está claro que nuestros ancianos ancestrales creen en que Asaga logrará grandes cosas en su futuro. ¡Tengo fe en que esta batalla servirá como un llamado de atención por toda Halla de que la Sharr sin lugar a dudas ha regresado para salvarnos a todos!
 #% cha sol_side_sad_closedeye_neutral
 cha sol_side_sad_closedeye_neutral
 #% voi sol_vns_sad_01
 voi sol_vns_sad_01
-# sol I see. So this is what it must be like to have the Talbur's favor...
+#% sol I see. So this is what it must be like to have the Talbur's favor...
 sol Ya veo. Así que esto es como debe ser tener el favor del Talbur...
 #% cha asa_armup_sad_neutral_smalltalk
 cha asa_armup_sad_neutral_smalltalk
 #% voi asa_vns_sad_01
 voi asa_vns_sad_01
-# asa Not you too, Sola...
+#% asa Not you too, Sola...
 asa Tú también no, Sola...
 #% dbg spr_bg_sunriderbridge
 dbg spr_bg_sunriderbridge
@@ -4664,23 +4664,23 @@ dbg spr_bg_sunriderbridge
 cha ava_armup_focus_neutral_smalltalk
 #% voi ava_vns_ang_02
 voi ava_vns_ang_02
-# ava It's getting rowdy down there. Should I go down and break it up?
+#% ava It's getting rowdy down there. Should I go down and break it up?
 ava Se está poniendo ruidoso ahí abajo. ¿Debería bajar a separarlas?
 #% cha kay_neu_sad_closed_talk
 cha kay_neu_sad_closed_talk
-# kay And rile them up even further? Far Port is nearly in sight. Hold steady.
+#% kay And rile them up even further? Far Port is nearly in sight. Hold steady.
 kay ¿E irritarlas aún más? Far Port está casi a la vista. Manténganse firmes.
 #% cha ava_armup_raised_surprise_smalltalk
 cha ava_armup_raised_surprise_smalltalk
 #% voi ava_vns_shy_04
 voi ava_vns_shy_04
-# ava Wait, what's that?
+#% ava Wait, what's that?
 ava Espere, ¿qué es eso?
 #% cha ava_armup_angry_surprise_yell
 cha ava_armup_angry_surprise_yell
 #% voi ava_vns_ang_06
 voi ava_vns_ang_06
-# ava Sails, spotted! Raise the alarm! It's the Crimson Fleet!
+#% ava Sails, spotted! Raise the alarm! It's the Crimson Fleet!
 ava ¡Velas, avistadas! ¡Suenen la alarma! ¡Es la Flota Carmesí!
 #% mus mus_battleagainsttime
 mus mus_battleagainsttime
@@ -4690,27 +4690,27 @@ sou sou_warning
 cha ica_handsonhips_angry_wide_yell
 #% voi ica_vns_sur_01
 voi ica_vns_sur_01
-# ica Damnit! Are we too late already?
+#% ica Damnit! Are we too late already?
 ica ¡Maldición! ¿Llegamos demasiado tarde ya?
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Calm down. I'm only seeing a few vessels, sniffing about. It's an advance scouting party.
+#% kay Calm down. I'm only seeing a few vessels, sniffing about. It's an advance scouting party.
 kay Cálmense. Solo estoy viendo unos cuantos navíos, husmeando. Es un grupo de reconocimiento de avanzada.
 #% cha kry_fistup_focus_neutral_yell
 cha kry_fistup_focus_neutral_yell
 #% voi kry_vns_ang_05
 voi kry_vns_ang_05
-# kry Then we must sink them before they report our arrival to the main fleet!
-kry ¡Entonces debemos hundiros antes de que reporten nuestra llegada a la flota principal!
+#% kry Then we must sink them before they report our arrival to the main fleet!
+kry ¡Entonces debemos hundirlos antes de que reporten nuestra llegada a la flota principal!
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
-# kay Aye, but then the missing scout will alert them just the same.
+#% kay Aye, but then the missing scout will alert them just the same.
 kay Sí, pero el explorador desaparecido los alertará de igual forma.
 #% cha chi_shocked_neutral_wide1_yell
 cha chi_shocked_neutral_wide1_yell
 #% voi chi_vns_sur_05
 voi chi_vns_sur_05
-# chi Hang on, captain... I'm sensing something from that enemy fleet...
+#% chi Hang on, captain... I'm sensing something from that enemy fleet...
 chi Un momento, capitán... Estoy sintiendo algo en esa flota enemiga...
 #% ifj chap4_metlyn,cosettetakesasaga
 ifj chap4_metlyn,cosettetakesasaga
@@ -4718,39 +4718,39 @@ ifj chap4_metlyn,cosettetakesasaga
 
 #% tag chap4_metlyn_true
 tag chap4_metlyn_true
-# chi It's the same feeling as when that kitsune saboteur infiltrated the ship.
+#% chi It's the same feeling as when that kitsune saboteur infiltrated the ship.
 chi Es la misma sensación que cuando esa saboteadora kitsune se infiltró en la nave.
 #% 
 
 #% tag chap4_metlyn_false
 tag chap4_metlyn_false
-# chi I sense that another kitsune is there!
+#% chi I sense that another kitsune is there!
 chi ¡Siento que otra kitsune está ahí!
 #% cha ava_armup_raised_surprise_smalltalk
 cha ava_armup_raised_surprise_smalltalk
-# ava A kitsune? Among Pact?
+#% ava A kitsune? Among Pact?
 ava ¿Una kitsune? ¿Entre el Pacto?
 #% cha chi_handonchest_focus_neutral_smalltalk
 cha chi_handonchest_focus_neutral_smalltalk
-# chi This could be worth investigating. I am curious myself as to what others of my kind are doing among their ranks.
+#% chi This could be worth investigating. I am curious myself as to what others of my kind are doing among their ranks.
 chi Pudiera valer la pena investigar esto. Yo misma tengo curiosidad en cuanto a qué están haciendo otras de mi raza entre sus filas.
 #% cha ava_armscrossed_focus_neutral_smalltalk
 cha ava_armscrossed_focus_neutral_smalltalk
-# ava I believe this turn of events could actually play to our advantage. If we capture those scouts alive, perhaps we could learn something about the enemy's plans.
+#% ava I believe this turn of events could actually play to our advantage. If we capture those scouts alive, perhaps we could learn something about the enemy's plans.
 ava Creo que este giro de eventos pudiera en realidad jugar a nuestro favor. Si capturamos a esos exploradores vivos, quizás pudiéramos aprender algo sobre los planes del enemigo.
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay And given our present crisis of being without the bulk of the Emerald Fleet, that information by prove critical to our survival.
+#% kay And given our present crisis of being without the bulk of the Emerald Fleet, that information by prove critical to our survival.
 kay Y dada nuestra crisis actual de estar sin el grueso de la Flota Esmeralda, esa información pudiera resultar esencial para nuestra supervivencia.
 #% obj BATTLE: Premonition
 obj BATALLA: Premonición
-# kay All right. Let's move in.
+#% kay All right. Let's move in.
 kay Está bien. Movámonos.
-# kay Signal our escorts to maintain course while we split off to intercept the Pact scouting party.
+#% kay Signal our escorts to maintain course while we split off to intercept the Pact scouting party.
 kay Señalen a nuestros escoltas que mantengan el curso mientras nos separamos para interceptar al grupo de reconocimiento del Pacto.
 #% cha ava_shout_shout_shout_shout
 cha ava_shout_shout_shout_shout
-# ava Aye aye, captain.
+#% ava Aye aye, captain.
 ava Sí, capitán.
 #% roo roo_chap4_battle2
 roo roo_chap4_battle2
@@ -4760,41 +4760,41 @@ roo roo_chap4_battle2
 tag chap4_battle2_start
 #% cha lyn_armup_angry_bigeyes_shout
 cha lyn_armup_angry_bigeyes_shout
-# lyn Tch! You guys just don't let up!
+#% lyn Tch! You guys just don't let up!
 lyn ¡Tch! ¡Ustedes no se rinden!
-# lyn But it's pointless! I've already sent a bird informing the bosses of your numbers! Now the Crimson Fleet knows that your entreaty to Song ended in failure!
+#% lyn But it's pointless! I've already sent a bird informing the bosses of your numbers! Now the Crimson Fleet knows that your entreaty to Song ended in failure!
 lyn ¡Pero es inútil! ¡Ya he enviado un ave informándoles a los jefes de sus números! ¡Ahora la Flota Carmesí sabe que su petición a Song terminó en fracaso!
 #% cha ava_armscrossed_focus_neutrallo_smalltalk
 cha ava_armscrossed_focus_neutrallo_smalltalk
-# ava Captain, she seems to believe that the Song Alliance has abandoned us outright...
+#% ava Captain, she seems to believe that the Song Alliance has abandoned us outright...
 ava Capitán, ella parece creer que la Alianza Song nos ha abandonado por completo...
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
-# kay At least she does not know the full truth of the situation then. Play along with her.
+#% kay At least she does not know the full truth of the situation then. Play along with her.
 kay Al menos no conoce la verdad completa de la situación entonces. Síguele la corriente.
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay Numbers are irrelevant when the Strait of Far Port funnels your entire fleet straight into our firing line! Nor do they matter against the will of the few brave believers of the Monolithic Truth who volunteered to fight alongside us!
+#% kay Numbers are irrelevant when the Strait of Far Port funnels your entire fleet straight into our firing line! Nor do they matter against the will of the few brave believers of the Monolithic Truth who volunteered to fight alongside us!
 kay ¡Los números son irrelevantes cuando el Estrecho de Far Port concentra a toda tu flota directo a nuestra línea de fuego! ¡Ni tampoco importan contra la voluntad de los pocos valientes creyentes de la Verdad Monolítica que se ofrecieron a luchar a nuestro lado!
 #% cha lyn_armup_angry_bigeyes_shout
 cha lyn_armup_angry_bigeyes_shout
-# lyn Hehehe. I'm going to enjoy watching you die when the Crimson Fleet gets here!
+#% lyn Hehehe. I'm going to enjoy watching you die when the Crimson Fleet gets here!
 lyn Hehehe. ¡Disfrutaré viéndolos morir cuando la Flota Carmesí llegue aquí!
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay Not if you're our captive! All ships: Capture that ship and ensure that the saboteur is taken alive!
+#% kay Not if you're our captive! All ships: Capture that ship and ensure that the saboteur is taken alive!
 kay ¡No si eres nuestra prisionera! A todas las naves: ¡Capturen a esa nave y asegúrense de que la saboteadora sea apresada con vida!
 #% cha lyn_armup_sad_wideeyes_yell_shadow
 cha lyn_armup_sad_wideeyes_yell_shadow
-# lyn Ugh, I'm really not high enough on the totem pole for this!
+#% lyn Ugh, I'm really not high enough on the totem pole for this!
 lyn ¡Ugh, realmente no tengo suficiente autoridad para esto!
-# lyn Aggh, no choice! All ships: Prepare for battle!
+#% lyn Aggh, no choice! All ships: Prepare for battle!
 lyn ¡Aggh, no hay opción! A todas las naves: ¡Prepárense para la batalla!
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
-# kay (This mission depends upon taking the enemy commander alive.)
+#% kay (This mission depends upon taking the enemy commander alive.)
 kay (Esta misión depende de capturar a la comandante enemiga con vida.)
-# kay (Thus, we cannot sink the enemy command ship!)
+#% kay (Thus, we cannot sink the enemy command ship!)
 kay (¡Por lo tanto, no podemos hundir la nave comandante enemiga!)
 #% stop
 stop
@@ -4806,7 +4806,7 @@ tag chap4_battle2_lyndead
 cha lyn_armup_sad_wideeyes_yell_shadow
 #% voi lyn_vns_sur_02
 voi lyn_vns_sur_02
-# lyn What gives?! I thought I was gonna be your-
+#% lyn What gives?! I thought I was gonna be your-
 lyn ¡¿Qué haces?! Pensé que sería su-
 #% hid lyn
 hid lyn
@@ -4814,13 +4814,13 @@ hid lyn
 cha ava_armup_angry_surprise_shout
 #% voi ava_vns_sur_01
 voi ava_vns_sur_01
-# ava The target has been destroyed! Captain, I believe your orders were to take the saboteur alive!
+#% ava The target has been destroyed! Captain, I believe your orders were to take the saboteur alive!
 ava ¡El objetivo ha sido destruido! ¡Capitán, creía que sus órdenes eran capturar a la saboteadora con vida!
 #% cha kay_neu_focus_closed_clench
 cha kay_neu_focus_closed_clench
-# kay (We needed to capture her to get intel on the Crimson Fleet...)
+#% kay (We needed to capture her to get intel on the Crimson Fleet...)
 kay (Necesitábamos capturarla para conseguir información de la Flota Carmesí...)
-# kay (This mission is a failure.)
+#% kay (This mission is a failure.)
 kay (Esta misión es un fracaso.)
 #% flag
 flag
@@ -4840,95 +4840,95 @@ xob BATALLA: Premonición
 cha lyn_armup_angry2_closedeye_shout
 #% voi lyn_vns_shy_01
 voi lyn_vns_shy_01
-# lyn All right, all right, all right! I give, I give!
+#% lyn All right, all right, all right! I give, I give!
 lyn ¡Vale, vale, vale! ¡Me rindo, me rindo!
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Ahem. You are now our prisoner. We have some questions we want to ask you...
+#% kay Ahem. You are now our prisoner. We have some questions we want to ask you...
 kay Ejem. Eres ahora nuestra prisionera. Tenemos algunas preguntas que queremos hacerte...
 #% cha lyn_armup_angry_neutral_shout
 cha lyn_armup_angry_neutral_shout
 #% voi lyn_vns_ang_01
 voi lyn_vns_ang_01
-# lyn Ask away! Not like a mook like me would know much anyways!
-lyn ¡Pregunta! ¡No es como si alguien como yo sabría mucho de cualquier forma!
+#% lyn Ask away! Not like a mook like me would know much anyways!
+lyn ¡Pregunta! ¡No es como que alguien como yo supiera mucho de cualquier forma!
 #% cha kay_neu_confuse_thinking_neutral
 cha kay_neu_confuse_thinking_neutral
-# kay Are you a kitsune by any chance?
+#% kay Are you a kitsune by any chance?
 kay ¿Eres una kitsune por alguna casualidad?
 #% cha lyn_armup_angry_neutral_talk
 cha lyn_armup_angry_neutral_talk
-# lyn A kitsune?! Whatever gives you that idea!
+#% lyn A kitsune?! Whatever gives you that idea!
 lyn ¡¿Una kitsune?! ¡Qué te da esa idea!
 #% cha kay_neu_confuse_neutral_slight
 cha kay_neu_confuse_neutral_slight
-# kay Because...
+#% kay Because...
 kay Porque...
 #% cha chi_handtoface_sad_wide2_slight
 cha chi_handtoface_sad_wide2_slight
 #% voi chi_vns_neu_11
 voi chi_vns_neu_11
-# chi You... are me?
+#% chi You... are me?
 chi ¿Tú... eres yo?
 #% cha lyn_armup_angry2_wideeyes_shout
 cha lyn_armup_angry2_wideeyes_shout
 #% voi lyn_vns_ang_04
 voi lyn_vns_ang_04
-# lyn Shit!
+#% lyn Shit!
 lyn ¡Diablos!
-# lyn Dunno what you're talking about! I don't have that whole fox ear and tail thing going on like you!
+#% lyn Dunno what you're talking about! I don't have that whole fox ear and tail thing going on like you!
 lyn ¡No sé de qué estás hablando! ¡No tengo todas esas orejas y cola de zorro como tú!
 #% cha chi_handonchest_sad_neutrallo_smalltalk
 cha chi_handonchest_sad_neutrallo_smalltalk
 #% voi chi_vns_neu_02
 voi chi_vns_neu_02
-# chi Because you are using magic to disguise yourself among the Pact of Maan, aren't you?
+#% chi Because you are using magic to disguise yourself among the Pact of Maan, aren't you?
 chi Porque estás usando magia para disfrazarte entre el Pacto de Maan, ¿no?
-# chi What is your true aim in hiding among them?
+#% chi What is your true aim in hiding among them?
 chi ¿Cuál es tu verdadero objetivo al esconderte entre ellos?
 #% cha lyn_armup_angry_neutral_shout
 cha lyn_armup_angry_neutral_shout
 #% voi lyn_vns_sad_03
 voi lyn_vns_sad_03
-# lyn You know as much as I do!
+#% lyn You know as much as I do!
 lyn ¡Sabes tanto como yo!
-# lyn Look, a kitsune must feed herself, no? It's not like we can subsist on a diet of tricking men!
+#% lyn Look, a kitsune must feed herself, no? It's not like we can subsist on a diet of tricking men!
 lyn Mira, una kitsune debe alimentarse, ¿no? ¡No es como si pudiéramos subsistir con una dieta de engañar a hombres!
-# lyn And I'm the kind of fox demon who wants more than just fried tofu. So yes, I pretend to be a Maan to earn some honest pay from the Crimson Fleet! Is that a problem?!
+#% lyn And I'm the kind of fox demon who wants more than just fried tofu. So yes, I pretend to be a Maan to earn some honest pay from the Crimson Fleet! Is that a problem?!
 lyn Y soy del tipo de demonio zorro que quiere más que solo tofu frito. ¡Así que sí, pretendo ser una Maan para conseguirme una paga honesta de la Flota Carmesí! ¡¿Es eso un problema?!
 #% cha ava_facepalm_focus_closedeye_tch
 cha ava_facepalm_focus_closedeye_tch
 #% voi ava_vns_ang_02
 voi ava_vns_ang_02
-# ava Captain, she is clearly lying through her teeth.
+#% ava Captain, she is clearly lying through her teeth.
 ava Capitán, ella está claramente mintiendo.
 #% cha kay_neu_neutral_closed_talk
 cha kay_neu_neutral_closed_talk
-# kay Hmmm, yes, she's not exactly the fitting the image I have of a kitsune...
+#% kay Hmmm, yes, she's not exactly the fitting the image I have of a kitsune...
 kay Hmmm, sí, ella no se ajusta exactamente a la imagen que tengo de una kitsune...
 #% cha lyn_armdown_angry_closedeye_shout
 cha lyn_armdown_angry_closedeye_shout
 #% voi lyn_vns_ang_04
 voi lyn_vns_ang_04
-# lyn You know what? Fine! I'm just not talking then!
+#% lyn You know what? Fine! I'm just not talking then!
 lyn ¿Sabes qué? ¡Bien! ¡No voy a hablar ahora!
 #% cha kay_neu_focus_closed_smalltalk
 cha kay_neu_focus_closed_smalltalk
-# kay Somehow, I get the opposite impression...
+#% kay Somehow, I get the opposite impression...
 kay De alguna forma, tengo la impresión opuesta...
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Commander, take the prisoner below decks. Find out everything she knows.
+#% kay Commander, take the prisoner below decks. Find out everything she knows.
 kay Comandante, lleva a la prisionera a la cubierta inferior. Averigua todo lo que sabe.
 #% cha ava_armscrossed_angry_narrow_slight_shadow
 cha ava_armscrossed_angry_narrow_slight_shadow
-# ava Yes sir, captain.
+#% ava Yes sir, captain.
 ava Sí señor, capitán.
 #% cha lyn_armup_sad_wideeyes_yell_shadow
 cha lyn_armup_sad_wideeyes_yell_shadow
 #% voi lyn_vns_sur_01
 voi lyn_vns_sur_01
-# lyn Hey wait. Wait!
+#% lyn Hey wait. Wait!
 lyn Hey espera. ¡Espera!
 #% cha ava_armscrossed_angry_widesmall_smirk_shadow
 cha ava_armscrossed_angry_widesmall_smirk_shadow
@@ -4940,7 +4940,7 @@ ava Heh heh heh...
 cha kry_fistup_angry_wide_bigtalk
 #% voi kry_vns_neu_01
 voi kry_vns_neu_01
-# kry I shall assist the commander, in case any unexpected situations arise.
+#% kry I shall assist the commander, in case any unexpected situations arise.
 kry Asistiré a la comandante, en caso de que ocurra alguna situación inesperada.
 #% hid kry
 hid kry
@@ -4954,17 +4954,17 @@ cha chi_handtoface_concern_widesmall_cry_shadow
 chi C-Chiiii...
 #% cha kay_neu_sad_closed_groan
 cha kay_neu_sad_closed_groan
-# kay Don't worry, Chigara. The commander is merely enjoying the thought of frightening our guest. She knows better than to harm her.
+#% kay Don't worry, Chigara. The commander is merely enjoying the thought of frightening our guest. She knows better than to harm her.
 kay No te preocupes, Chigara. La comandante solamente está disfrutando pensar en el miedo de nuestra invitada. Ella sabe que no es bueno hacerle daño.
-# kay I doubt she will have to dig deep into her bag of tricks. Our captive seems the sort to crack easily.
+#% kay I doubt she will have to dig deep into her bag of tricks. Our captive seems the sort to crack easily.
 kay Dudo que tenga que rebuscar mucho en su bolsa de trucos. Nuestra prisionera parece del tipo de romperse fácilmente.
 #% cha chi_holdinghands_sad_closedeye_smalltalk
 cha chi_holdinghands_sad_closedeye_smalltalk
-# chi Oh... Is that so? E-Eh-heh... Thank goodness.
+#% chi Oh... Is that so? E-Eh-heh... Thank goodness.
 chi Oh... ¿Es así? E-Eh-heh... Gracias a dios.
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Resume course to Far Port. Now we wait and see what we can learn from our new friend.
+#% kay Resume course to Far Port. Now we wait and see what we can learn from our new friend.
 kay Reanuden el curso hacia Far Port. Ahora esperemos y veamos qué podemos aprender de nuestra nueva amiga.
 #% var unlock_chap4_lyntalk1
 var unlock_chap4_lyntalk1
@@ -4984,37 +4984,37 @@ var done_chap4_lyntalk1
 cha ava_armup_focus_closedeye_smalltalk
 #% voi ava_vns_neu_13
 voi ava_vns_neu_13
-# ava The captive has revealed that the Crimson Fleet is anchored but four hours from our current position. In other words, we have roughly that amount of time until they realize their scout has gone missing.
+#% ava The captive has revealed that the Crimson Fleet is anchored but four hours from our current position. In other words, we have roughly that amount of time until they realize their scout has gone missing.
 ava La prisionera ha revelado que la Flota Carmesí está anclada a apenas cuatro horas de nuestra posición actual. En otras palabras, tenemos casi esa cantidad de tiempo hasta que se den cuenta de que su explorador ha desaparecido.
 #% cha ava_armscrossed_focus_neutral_smalltalk
 cha ava_armscrossed_focus_neutral_smalltalk
-# ava I have also investigated her ship and found evidence to back her claim that she sent a messenger bird relaying our numbers to Pact.
+#% ava I have also investigated her ship and found evidence to back her claim that she sent a messenger bird relaying our numbers to Pact.
 ava También he investigado su nave y encontré evidencia para respaldar su afirmación de que envió un ave mensajera contándole nuestros números al Pacto.
 #% cha ava_armscrossed_focus_closedeye_frown
 cha ava_armscrossed_focus_closedeye_frown
-# ava Given those facts, I am not sure this is a battle we can win.
+#% ava Given those facts, I am not sure this is a battle we can win.
 ava Dados esos hechos, no estoy segura de que esta sea una batalla que podamos ganar.
 #% cha ava_armup_sad_neutral_smalltalk
 cha ava_armup_sad_neutral_smalltalk
-# ava However, that's not all.
+#% ava However, that's not all.
 ava Sin embargo, eso no es todo.
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
-# kay What, you mean that wasn't the bad news?
+#% kay What, you mean that wasn't the bad news?
 kay ¿Qué, quieres decir que esas no eran las malas noticias?
 #% cha ava_facepalm_focus_closedeye_slight
 cha ava_facepalm_focus_closedeye_slight
-# ava Ahem... You should hear this straight from her mouth, captain.
+#% ava Ahem... You should hear this straight from her mouth, captain.
 ava Ejem... Debería escuchar esto directo de su boca, capitán.
 #% cha lyn_armdown_angry_closedeye_shout
 cha lyn_armdown_angry_closedeye_shout
 #% voi lyn_vns_ang_01
 voi lyn_vns_ang_01
-# lyn First, swear that you'll release me before the battle!
+#% lyn First, swear that you'll release me before the battle!
 lyn ¡Primero, júrame que me liberarás antes de la batalla!
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Tell me and I will.
+#% kay Tell me and I will.
 kay Cuéntame y lo haré.
 #% mus mus_fallen_angel_pt2
 mus mus_fallen_angel_pt2
@@ -5022,69 +5022,69 @@ mus mus_fallen_angel_pt2
 cha lyn_armdown_angry_closedeye_talk
 #% voi lyn_vns_neu_11
 voi lyn_vns_neu_11
-# lyn Fine. Then I'll let you in on a little secret...
+#% lyn Fine. Then I'll let you in on a little secret...
 lyn Bien. Entonces te contaré un pequeño secreto...
 #% cha lyn_armdown_angry_neutral_talk
 cha lyn_armdown_angry_neutral_talk
-# lyn I can't say a mook like me knows much, but even I know that we Kitsune were created by our lady to serve as her eyes and ears...
+#% lyn I can't say a mook like me knows much, but even I know that we Kitsune were created by our lady to serve as her eyes and ears...
 lyn No puedo decir que alguien como yo sepa mucho, pero sé que nosotras las Kitsune fuimos creadas por nuestra señora para servir como sus ojos y oídos...
-# lyn I hear some of us even get our memories rewritten before being sent to spy on important people.
+#% lyn I hear some of us even get our memories rewritten before being sent to spy on important people.
 lyn Escuché que los recuerdos de algunas de nosotras incluso fueron rescritos antes de ser enviadas a espiar a personas importantes.
 #% cha lyn_armdown_angry_narrow_grin
 cha lyn_armdown_angry_narrow_grin
-# lyn Isn't it obvious? Your kitsune friend is one of our spies!
+#% lyn Isn't it obvious? Your kitsune friend is one of our spies!
 lyn ¿No es obvio? ¡Su amiga kitsune es una de nuestras espías!
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay You lie. Your true aim is to foster distrust among the crew, isn't it?
+#% kay You lie. Your true aim is to foster distrust among the crew, isn't it?
 kay Mientes. Tu verdadero objetivo es sembrar desconfianza entre la tripulación, ¿no es así?
 #% cha ava_armup_sad_closedeye_smalltalk
 cha ava_armup_sad_closedeye_smalltalk
 #% voi ava_vns_sad_04
 voi ava_vns_sad_04
-# ava Captain, if you consider all the facts regarding Chigara's relationship with Asaga, nearly everything checks out.
+#% ava Captain, if you consider all the facts regarding Chigara's relationship with Asaga, nearly everything checks out.
 ava Capitán, si considera todos los hechos respecto a la relación de Chigara con Asaga, casi todo concuerda.
 #% cha kay_neu_focus_closed_clench
 cha kay_neu_focus_closed_clench
-# kay Now is not the time, commander. The crew's morale is like a pile of tinder and this spy seeks to drop the matchstick that bursts it into flames.
+#% kay Now is not the time, commander. The crew's morale is like a pile of tinder and this spy seeks to drop the matchstick that bursts it into flames.
 kay Ahora no es el momento, comandante. La moral de la tripulación es como un montón de yesca y esta espía quiere dejar caer la cerilla que la prenda en llamas.
 #% cha kay_neu_focus_closed_smalltalk
 cha kay_neu_focus_closed_smalltalk
-# kay This stays between us.
+#% kay This stays between us.
 kay Esto se queda entre nosotros.
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
-# kay Gag the intruder. She's spoken enough.
+#% kay Gag the intruder. She's spoken enough.
 kay Amordaza a la intrusa. Ha hablado suficiente.
 #% cha lyn_armdown_raised_wideeyes_talk
 cha lyn_armdown_raised_wideeyes_talk
-# lyn Hey, what gives- sttomuuffph...
+#% lyn Hey, what gives- sttomuuffph...
 lyn Hey, qué haces- detenmuuffph...
 #% hid lyn
 hid lyn
 #% cha ava_armup_neutral_neutral_slight
 cha ava_armup_neutral_neutral_slight
-# ava Are you sure of this, captain?
+#% ava Are you sure of this, captain?
 ava ¿Está seguro de esto, capitán?
 #% cha kay_neu_sad_closed_slight
 cha kay_neu_sad_closed_slight
-# kay You heard from the Kitsune. The Crimson Fleet is merely four hours from us and knows we are vulnerable.
+#% kay You heard from the Kitsune. The Crimson Fleet is merely four hours from us and knows we are vulnerable.
 kay Lo escuchaste de la Kitsune. La Flota Carmesí está a apenas cuatro horas de nosotros y sabe que estamos vulnerables.
-# kay With the crew already rattled, we will be no fighting shape if they also begin to suspect each other of treachery.
+#% kay With the crew already rattled, we will be no fighting shape if they also begin to suspect each other of treachery.
 kay Con la tripulación ya nerviosa, no estaremos en condiciones de luchar si también comienzan a sospechar entre ellos de traición.
 #% cha ava_armscrossed_worry_closedeye_smalltalk
 cha ava_armscrossed_worry_closedeye_smalltalk
 #% voi ava_vns_ang_02
 voi ava_vns_ang_02
-# ava ...Sigh. Very well. At least I am aware of the situation, in any matter.
+#% ava ...Sigh. Very well. At least I am aware of the situation, in any matter.
 ava ...Haah. Muy bien. Al menos estoy consciente de la situación, en cualquier caso.
 #% cha kay_neu_sad_neutral_smalltalk
 cha kay_neu_sad_neutral_smalltalk
-# kay Don't worry, Ava. I'll tell everyone once the danger has passed.
+#% kay Don't worry, Ava. I'll tell everyone once the danger has passed.
 kay No te preocupes, Ava. Les contaré a todos una vez el peligro haya pasado.
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Now, we haven't a moment to lose. With Pact merely hours away, we need to get moving, now.
+#% kay Now, we haven't a moment to lose. With Pact merely hours away, we need to get moving, now.
 kay Ahora, no tenemos un momento que perder. Con el Pacto apenas a unas horas, necesitamos movernos, ahora.
 #% sou sou_dooropen
 sou sou_dooropen
@@ -5094,11 +5094,11 @@ dbg spr_bg_sunriderbelowdeck
 cha asa_excited_raised_wide2_yell
 #% voi asa_vns_sur_05
 voi asa_vns_sur_05
-# asa Uwoh!
+#% asa Uwoh!
 asa ¡Uwoh!
 #% cha kay_neu_raised_wide_talk
 cha kay_neu_raised_wide_talk
-# kay Everyone...?
+#% kay Everyone...?
 kay ¿Chicas...?
 #% hid asa
 hid asa
@@ -5106,55 +5106,55 @@ hid asa
 cha ica_back_focus_funnyangr_3mouth
 #% voi ica_vns_sur_02
 voi ica_vns_sur_02
-# ica Well? Tell us WHAT after the danger has passed?
+#% ica Well? Tell us WHAT after the danger has passed?
 ica ¿Y bien? ¿Contarnos QUÉ luego de que el peligro haya pasado?
 #% cha kay_neu_confuse_thinking_talk
 cha kay_neu_confuse_thinking_talk
-# kay U-Uh... Wait until after the danger to find out?
+#% kay U-Uh... Wait until after the danger to find out?
 kay U-Uh... ¿Esperen hasta luego del peligro para averiguarlo?
 #% cha ica_back_sad_funnyangr_pout
 cha ica_back_sad_funnyangr_pout
-# ica Peh!
+#% ica Peh!
 ica ¡Peh!
 #% mus mus_fallen_angel_pt3
 mus mus_fallen_angel_pt3
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay We have far larger problems. The Pact fleet is less than four hours away.
+#% kay We have far larger problems. The Pact fleet is less than four hours away.
 kay Tenemos problemas mucho mayores. La flota del Pacto está a apenas cuatro horas.
 #% cha ica_surprised_annoyed_surprise_yell
 cha ica_surprised_annoyed_surprise_yell
 #% voi ica_vns_sur_01
 voi ica_vns_sur_01
-# ica Four hours?!
+#% ica Four hours?!
 ica ¡¿Cuatro horas?!
 #% cha kry_armdown_surprised_wide_smalltalk
 cha kry_armdown_surprised_wide_smalltalk
 #% voi kry_vns_sur_01
 voi kry_vns_sur_01
-# kry But that means-
+#% kry But that means-
 kry Pero eso significa-
 #% cha sol_surprise_sad_wide_yell
 cha sol_surprise_sad_wide_yell
 #% voi sol_vns_sur_01
 voi sol_vns_sur_01
-# sol Black day!
-sol ¡Día nefasto!
+#% sol Black day!
+sol ¡Día negro!
 #% cha chi_handonchest_sad_wide_smalltalk_shadow
 cha chi_handonchest_sad_wide_smalltalk_shadow
 #% voi chi_vns_sad_04
 voi chi_vns_sad_04
-# chi Heeee...!
+#% chi Heeee...!
 chi ¡Heeee...!
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
-# kay Either we hold the Strait with our present forces, or the Crimson Fleet will gain access to the Dragon's Foot Sea.
+#% kay Either we hold the Strait with our present forces, or the Crimson Fleet will gain access to the Dragon's Foot Sea.
 kay O defendemos el Estrecho con nuestras fuerzas actuales, o la Flota Carmesí obtendrá acceso al Mar Dragon's Foot.
 #% cha ica_point_angry_surprise_yell
 cha ica_point_angry_surprise_yell
 #% voi ica_vns_sur_02
 voi ica_vns_sur_02
-# ica Are you crazy? We saw over a thousand ships in that fleet at Versta! Trying to hold the Strait isn't gonna accomplish anything! This is a suicide mission!
+#% ica Are you crazy? We saw over a thousand ships in that fleet at Versta! Trying to hold the Strait isn't gonna accomplish anything! This is a suicide mission!
 ica ¿Estás loco? ¡Vimos más de mil naves en esa flota en Versta! ¡Intentar defender el Estrecho no va a lograr nada! ¡Esto es una misión suicida!
 #% hid kry
 hid kry
@@ -5168,15 +5168,15 @@ hid chi
 mus mus_colors_scales
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay Everyone! Listen!
+#% kay Everyone! Listen!
 kay ¡Todo el mundo! ¡Escuchen!
-# kay You know I would not throw away our lives. Though we are outnumbered, we have the advantage.
+#% kay You know I would not throw away our lives. Though we are outnumbered, we have the advantage.
 kay Ustedes saben que no arrojaría nuestras vidas.
-# kay The Strait of Far Port will funnel the Crimson Fleet as they traverse the pass, right into our line of fire. Not only that, but the crosswinds will compromise their mobility and leave them vulnerable.
-kay El Estrecho de Far Port juntará a la Flota Carmesí mientras atraviesan el paso, justo a nuestra línea de fuego. No solo eso, sino que los vientos cruzados restringirán su movilidad y los dejarán vulnerables.
-# kay So long as we hold the Dragon Foot Sea, it does not matter if their fleet outnumbers us!
+#% kay The Strait of Far Port will funnel the Crimson Fleet as they traverse the pass, right into our line of fire. Not only that, but the crosswinds will compromise their mobility and leave them vulnerable.
+kay El Estrecho de Far Port juntará a la Flota Carmesí a medida que atraviesen el paso, justo en nuestra línea de fuego. No solo eso, sino que los vientos cruzados restringirán su movilidad y los dejarán vulnerables.
+#% kay So long as we hold the Dragon Foot Sea, it does not matter if their fleet outnumbers us!
 kay ¡Mientras defendamos el Mar Dragon's Foot, no importa si su flota nos supera en número!
-# kay You are all heroes, gathered across the land, to defend it against Veniczar Arcadius!
+#% kay You are all heroes, gathered across the land, to defend it against Veniczar Arcadius!
 kay ¡Todos ustedes son héroes, reunidos por toda esta tierra, para defenderla contra Veniczar Arcadius!
 #% cc0 chap4_farport_speech
 cc0 chap4_farport_speech
@@ -5194,9 +5194,9 @@ cc4 ¡Espero que todos ustedes cumplan su deber!
 tag chap4_farport_speech_cc1
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay The Sharr is on our side!
+#% kay The Sharr is on our side!
 kay ¡La Sharr está de nuestro lado!
-# kay Let this battle send a message throughout Halla! That the Sharr has returned!
+#% kay Let this battle send a message throughout Halla! That the Sharr has returned!
 kay ¡Que esta batalla envíe un mensaje por toda Halla! ¡Que la Sharr ha regresado!
 #% cha asa_fist_focus_closedeye_neutral
 cha asa_fist_focus_closedeye_neutral
@@ -5204,7 +5204,7 @@ cha asa_fist_focus_closedeye_neutral
 var aff_asa
 #% voi asa_vns_neu_08
 voi asa_vns_neu_08
-# asa Capt'n...!
+#% asa Capt'n...!
 asa ¡Capitán...!
 #% cha sol_side_sad_closedeye_frown
 cha sol_side_sad_closedeye_frown
@@ -5212,15 +5212,15 @@ cha sol_side_sad_closedeye_frown
 var aff_sol
 #% voi sol_vns_hap_04
 voi sol_vns_hap_04
-# sol May she be true.
-sol Que sea ella la verdadera.
+#% sol May she be true.
+sol Que demuestre ser verdadera.
 #% cha kry_fistup_focus_neutral_yell
 cha kry_fistup_focus_neutral_yell
 #% var aff_kry
 var aff_kry
 #% voi kry_vns_hap_05
 voi kry_vns_hap_05
-# kry We shall be victorious, in the name of the Sharr!
+#% kry We shall be victorious, in the name of the Sharr!
 kry ¡Seremos los vencedores, en nombre de la Sharr!
 #% jum chap4_farport_speechend
 jum chap4_farport_speechend
@@ -5230,11 +5230,11 @@ jum chap4_farport_speechend
 tag chap4_farport_speech_cc2
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay Believe in our bonds of friendship!
+#% kay Believe in our bonds of friendship!
 kay ¡Crean en nuestros lazos de amistad!
-# kay We have already survived the Forgotten Abyss - wasn't that supposed to have killed us?
+#% kay We have already survived the Forgotten Abyss - wasn't that supposed to have killed us?
 kay Ya hemos sobrevivido al Abismo Olvidado - ¿no se supone que eso debía habernos matado?
-# kay This is but a turkey shoot compared to what we've been through together! If we all join swords, then we will win the day!
+#% kay This is but a turkey shoot compared to what we've been through together! If we all join swords, then we will win the day!
 kay ¡Esto no es más que una paliza comparado con lo que hemos pasado juntos! ¡Si todos unimos espadas, entonces ganaremos el día!
 #% cha chi_handonchest_focus_neutral_smalltalk
 cha chi_handonchest_focus_neutral_smalltalk
@@ -5242,7 +5242,7 @@ cha chi_handonchest_focus_neutral_smalltalk
 var aff_chi
 #% voi chi_vns_neu_14
 voi chi_vns_neu_14
-# chi Chigara believes in the captain...
+#% chi Chigara believes in the captain...
 chi Chigara cree en el capitán...
 #% cha cla_armscrossed_sad_neutral_laugh
 cha cla_armscrossed_sad_neutral_laugh
@@ -5250,7 +5250,7 @@ cha cla_armscrossed_sad_neutral_laugh
 var aff_cla
 #% voi cla_vns_shy_01
 voi cla_vns_shy_01
-# cla My, what a man...
+#% cla My, what a man...
 cla Vaya, qué hombre...
 #% jum chap4_farport_speechend
 jum chap4_farport_speechend
@@ -5260,11 +5260,11 @@ jum chap4_farport_speechend
 tag chap4_farport_speech_cc3
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay We are stronger than the enemy!
+#% kay We are stronger than the enemy!
 kay ¡Somos más fuertes que el enemigo!
-# kay The Crimson Fleet may have newer ships, but we already know their sailors are green behind the ears.
+#% kay The Crimson Fleet may have newer ships, but we already know their sailors are green behind the ears.
 kay La Flota Carmesí podrá tener naves más nuevas, pero ya sabemos que sus marineros son inexpertos.
-# kay They don't know how to navigate the Strait! Half of them will sail into the cliffs in the crosswinds!
+#% kay They don't know how to navigate the Strait! Half of them will sail into the cliffs in the crosswinds!
 kay ¡Ellos no saben cómo navegar el Estrecho! ¡La mitad de ellos navegará hacia los arrecifes en los vientos cruzados!
 #% cha ica_armscrossed_focus_closedeye_smallsmil
 cha ica_armscrossed_focus_closedeye_smallsmil
@@ -5272,7 +5272,7 @@ cha ica_armscrossed_focus_closedeye_smallsmil
 var aff_ica
 #% voi ica_vns_neu_07
 voi ica_vns_neu_07
-# ica He does have a point there...
+#% ica He does have a point there...
 ica Él tiene razón en eso...
 #% ifj chap4_cosettecapture,capturedcosette
 ifj chap4_cosettecapture,capturedcosette
@@ -5290,7 +5290,7 @@ tag chap4_coschk2_true
 cha cos_facepalm_scaredorc_narrow_clench_shadow
 #% voi cos_vns_shy_05
 voi cos_vns_shy_05
-# cos U-Ugh... What am I even doing here...
+#% cos U-Ugh... What am I even doing here...
 cos U-Ugh... Qué estoy haciendo aquí siquiera...
 #% var aff_cos
 var aff_cos
@@ -5298,7 +5298,7 @@ var aff_cos
 cha cos_armscrossed_scaredorc_narrow_guh_shadow
 #% voi cos_vns_shy_02
 voi cos_vns_shy_02
-# cos Err... I mean, y-yeah... Let's go get them...
+#% cos Err... I mean, y-yeah... Let's go get them...
 cos Err... Quiero decir, s-sí... Vayamos a por ellos...
 #% 
 
@@ -5318,7 +5318,7 @@ cha mar_lean_focus_neutral_smallopen
 var aff_mar
 #% voi mar_vns_ang_06
 voi mar_vns_ang_06
-# mar They're gonna eat dirt! Hahaha!
+#% mar They're gonna eat dirt! Hahaha!
 mar ¡Van a comer tierra! ¡Hahaha!
 #% 
 
@@ -5332,7 +5332,7 @@ jum chap4_farport_speechend
 tag chap4_farport_speech_cc4
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
-# kay I expect all of you to do your duty!
+#% kay I expect all of you to do your duty!
 kay ¡Espero que todos ustedes cumplan su deber!
 #% cha ava_armup_focus_neutral_yell
 cha ava_armup_focus_neutral_yell
@@ -5340,11 +5340,11 @@ cha ava_armup_focus_neutral_yell
 var aff_ava
 #% voi ava_vns_neu_08
 voi ava_vns_neu_08
-# ava And I shall stand behind the captain to enforce that!
+#% ava And I shall stand behind the captain to enforce that!
 ava ¡Y yo estaré detrás del capitán para hacer cumplir eso!
 #% cha ava_shout_shout_shout_shout
 cha ava_shout_shout_shout_shout
-# ava Come on now! Remember your training, and you will make it out alive!
+#% ava Come on now! Remember your training, and you will make it out alive!
 ava ¡Venga! ¡Recuerden su entrenamiento, y saldrán vivos!
 #% jum chap4_farport_speechend
 jum chap4_farport_speechend
@@ -5358,7 +5358,7 @@ obj PRINCIPAL: La Batalla de Far Port
 var lyncapturedone
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay Man your stations! We face the Crimson Fleet!
+#% kay Man your stations! We face the Crimson Fleet!
 kay ¡A sus estaciones! ¡Nos enfrentamos a la Flota Carmesí!
 #% map 
 map 
@@ -5378,73 +5378,73 @@ xob PRINCIPAL: La Batalla de Far Port
 cha ava_armscrossed_focus_wide_clench
 #% voi ava_vns_ang_07
 voi ava_vns_ang_07
-# ava ...They've been spotted, captain!
+#% ava ...They've been spotted, captain!
 ava ¡Los hemos avistado, capitán!
-# ava They've got smaller ships leading the formation. It appears they believe their lighter ships may be easier to needle through the pass.
+#% ava They've got smaller ships leading the formation. It appears they believe their lighter ships may be easier to needle through the pass.
 ava Tienen naves más pequeñas liderando la formación. Parece que creen que será más fácil hacer atravesar el paso a sus naves más ligeras.
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
-# kay Then that means their Ships of the Lines will be the last to emerge...
+#% kay Then that means their Ships of the Lines will be the last to emerge...
 kay Entonces eso significa que sus Navíos de Línea serán los últimos en salir...
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay We will divide our fleet into three, each one of us guarding the Strait in these three sectors. We will hold the center, with the Radiant standing by as our escort. The remaining Song ships will split into our wings to hold the other two sectors.
-kay Dividiremos nuestra flota en tres, cada uno de nosotros defenderá el Estrecho en estos tres sectores. Nosotros defenderemos el centro, con el Radiant en posición como nuestra escolta. Las naves de Song restantes se dividirán a nuestros laterales para defender los otros dos sectores.
+#% kay We will divide our fleet into three, each one of us guarding the Strait in these three sectors. We will hold the center, with the Radiant standing by as our escort. The remaining Song ships will split into our wings to hold the other two sectors.
+kay Dividiremos nuestra flota en tres, cada uno de nosotros defenderá el Estrecho en estos tres sectores. Nosotros defenderemos el centro, con el Radiant a nuestro lado como nuestra escolta. Las naves de Song restantes se dividirán a nuestros laterales para defender los otros dos sectores.
 #% sou sou_partygain
 sou sou_partygain
-# nar (The Radiant has been added to your fleet.)
+#% nar (The Radiant has been added to your fleet.)
 nar (El Radiant ha sido agregado a tu flota.)
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay So long as we do not allow them to overwhelm and encircle us, we can knock their ships down one by one, until the Strait itself is walled off by a line of their ruined carcasses.
+#% kay So long as we do not allow them to overwhelm and encircle us, we can knock their ships down one by one, until the Strait itself is walled off by a line of their ruined carcasses.
 kay Mientras no les permitamos abrumarnos y rodearnos, podemos derribar a sus naves una por una, hasta que el Estrecho mismo esté sellado por una línea de sus carcasas en ruinas.
-# kay If they do manage to engage us, then our next advantage is the crosswind.
+#% kay If they do manage to engage us, then our next advantage is the crosswind.
 kay Si logran llegar hasta nosotros, entonces nuestra siguiente ventaja son los vientos cruzados.
-# kay The wind changes drastically in both direction and strength here. Keep me aware of any changes, commander.
+#% kay The wind changes drastically in both direction and strength here. Keep me aware of any changes, commander.
 kay El viento cambia drásticamente tanto en dirección como en fuerza aquí. Mantenme avisado de cualquier cambio, comandante.
 #% cha ava_armup_focus_neutral_smalltalk
 cha ava_armup_focus_neutral_smalltalk
 #% voi ava_vns_neu_08
 voi ava_vns_neu_08
-# ava Aye captain.
+#% ava Aye captain.
 ava Sí capitán.
 #% cha kay_neu_confuse_thinking_neutral
 cha kay_neu_confuse_thinking_neutral
-# kay But first, I suppose we best live up to our end of the bargain with our prisoner...
+#% kay But first, I suppose we best live up to our end of the bargain with our prisoner...
 kay Pero primero, supongo que mejor cumplimos con nuestra parte del trato con nuestra prisionera...
 #% cha ava_armup_focus_neutral_smalltalk
 cha ava_armup_focus_neutral_smalltalk
 #% voi ava_vns_ang_01
 voi ava_vns_ang_01
-# ava I have prepared a small raft. Shall I authorize her release?
+#% ava I have prepared a small raft. Shall I authorize her release?
 ava He preparado una pequeña balsa. ¿Debería autorizar su liberación?
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Do it.
+#% kay Do it.
 kay Hazlo.
 #% por lyn_armup_angry_narrow_pout
 por lyn_armup_angry_narrow_pout
 #% voi lyn_vns_ang_04
 voi lyn_vns_ang_04
-# lyn Pah! Good riddance! Ugh, I'm getting outta here...
+#% lyn Pah! Good riddance! Ugh, I'm getting outta here...
 lyn ¡Pah! ¡Al fin! Ugh, me largo de aquí...
 #% por lyn_armup_angry_wideeyes_shout
 por lyn_armup_angry_wideeyes_shout
-# lyn You guys are all dead, you hear! Deaadd!!!
-lyn ¡Todos ustedes están muertos, oyen! ¡¡¡Mueertoos!!!
+#% lyn You guys are all dead, you hear! Deaadd!!!
+lyn ¡Todos ustedes están muertos, me oyen! ¡¡¡Mueertoos!!!
 #% cha kay_neu_confuse_thinking_smalltalk
 cha kay_neu_confuse_thinking_smalltalk
-# kay Actually, perhaps we should sink her instead...
+#% kay Actually, perhaps we should sink her instead...
 kay En realidad, quizás deberíamos hundirla en cambio...
 #% por lyn_armup_sad_closedeye_grin
 por lyn_armup_sad_closedeye_grin
 #% voi lyn_vns_shy_01
 voi lyn_vns_shy_01
-# lyn Erm, I mean... Y-Yeah, good luck.
+#% lyn Erm, I mean... Y-Yeah, good luck.
 lyn Erm, quiero decir... S-Sí, buena suerte.
 #% por lyn_armdown_sad_narrowloo_pout_shadow
 por lyn_armdown_sad_narrowloo_pout_shadow
-# lyn Ugh, the Veniczar better give me hazard pay for this... Achoo!
+#% lyn Ugh, the Veniczar better give me hazard pay for this... Achoo!
 lyn Ugh, más le vale al Veniczar darme una buena paga por esto... ¡Achú!
 #% hid lyn
 hid lyn
@@ -5452,13 +5452,13 @@ hid lyn
 cha ava_armscrossed_focus_closedeye_smalltalk
 #% voi ava_vns_ang_02
 voi ava_vns_ang_02
-# ava The raft is clear, captain
+#% ava The raft is clear, captain
 ava La balsa ha partido, capitán.
 #% obj BATTLE: The Battle of Far Port
 obj BATALLA: La Batalla de Far Port
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay You all have your orders. All ships! Get into position!
+#% kay You all have your orders. All ships! Get into position!
 kay Todos ustedes tienen sus órdenes. ¡A todas las naves! ¡A sus posiciones!
 #% roo roo_chap4_battle3
 roo roo_chap4_battle3
@@ -5468,35 +5468,35 @@ roo roo_chap4_battle3
 tag chap4_battle3_start
 #% cha ava_armup_focus_neutral_smalltalk
 cha ava_armup_focus_neutral_smalltalk
-# ava Reporting strong crosswinds, captain. Keep your eyes on the wind gauge - the direction of the wind will shift throughout the battle.
+#% ava Reporting strong crosswinds, captain. Keep your eyes on the wind gauge - the direction of the wind will shift throughout the battle.
 ava Reportando fuertes vientos cruzados, capitán. Mantenga sus ojos sobre el marcador de vientos - la dirección del viento cambiará durante toda la batalla.
-# ava I will cast predictive spells to forecast wind patterns, but I can only predict them one turn in advance.
+#% ava I will cast predictive spells to forecast wind patterns, but I can only predict them one turn in advance.
 ava Lanzaré hechizos de predicción para pronosticar los patrones del viento, pero solo puedo predecirlos con un turno de adelanto.
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
-# kay (The wind forecast for the next turn will be indicated by the gray arrow on the wind compass.)
+#% kay (The wind forecast for the next turn will be indicated by the gray arrow on the wind compass.)
 kay (El pronóstico del viento para el siguiente turno será indicado por la flecha gris en la brújula de vientos.)
-# kay (Larger ships are heavily reliant on the wind to move. Using their sails effectively will be necessary to win.)
+#% kay (Larger ships are heavily reliant on the wind to move. Using their sails effectively will be necessary to win.)
 kay (Las naves más grandes son muy susceptibles al viento al moverse. Usar sus velas de manera eficaz será necesario para ganar.)
 #% hid ava
 hid ava
 #% cha cul_neu_sad_closed2_bigopensm
 cha cul_neu_sad_closed2_bigopensm
-# cul Buuhihihihi! To think that you were abandoned by your Song friends in the end!
+#% cul Buuhihihihi! To think that you were abandoned by your Song friends in the end!
 cul ¡Buuhihihihi! ¡Pensar que fueron abandonados por sus amigos de Song al final!
 #% cha cul_neu_focus_neutral_bigopensm
 cha cul_neu_focus_neutral_bigopensm
-# cul Why not surrender? There's no reason for either of us to risk our lives in this futile battle!
+#% cul Why not surrender? There's no reason for either of us to risk our lives in this futile battle!
 cul ¿Por qué no se rinden? ¡No hay razón para ninguno de nosotros de arriesgar nuestras vidas en esta inútil batalla!
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
-# kay No deal, Cullen! Why don't you pull some bigger ships through the pass so we can have a fair battle?
+#% kay No deal, Cullen! Why don't you pull some bigger ships through the pass so we can have a fair battle?
 kay ¡No hay trato, Cullen! ¿Por que no haces pasar algunas naves más grandes por el paso para que podamos tener una batalla justa?
 #% cha cul_neu_angry2_wide1_yell
 cha cul_neu_angry2_wide1_yell
-# cul Buuuhiiii!!! You will pay for underestimating my prowess! To the death it is then!
+#% cul Buuuhiiii!!! You will pay for underestimating my prowess! To the death it is then!
 cul ¡¡¡Buuuhiiii!!! ¡Pagarás por subestimar mi poder! ¡A la muerte entonces!
-# cul Kill them!
+#% cul Kill them!
 cul ¡Mátenlos!
 #% stop
 stop
@@ -5508,9 +5508,9 @@ tag chap4_battle3_phase1
 sou sou_warning
 #% cha ava_armup_angry_surprise_yell
 cha ava_armup_angry_surprise_yell
-# ava Captain, more ships are emerging from the pass!
+#% ava Captain, more ships are emerging from the pass!
 ava ¡Capitán, más naves saliendo del paso!
-# ava We must hold this sector!
+#% ava We must hold this sector!
 ava ¡Debemos defender este sector!
 #% stop
 stop
@@ -5522,7 +5522,7 @@ tag chap4_battle3_phase2
 sou sou_warning
 #% cha cul_neu_raised_narrow_bigopensm
 cha cul_neu_raised_narrow_bigopensm
-# cul Buuhihihi! Getting tired yet?
+#% cul Buuhihihi! Getting tired yet?
 cul ¡Buuhihihi! ¿Se están cansando ya?
 #% stop
 stop
@@ -5534,23 +5534,23 @@ tag chap4_battle3_phase3
 sou sou_warning
 #% cha cul_neu_sad_closed2_bigopensm
 cha cul_neu_sad_closed2_bigopensm
-# cul What's wrong? You didn't expect me here, did you?!
+#% cul What's wrong? You didn't expect me here, did you?!
 cul ¿Qué pasa? ¡¿No me esperaban aquí, verdad?!
 #% cha cul_neu_focus_neutral_bigopensm
 cha cul_neu_focus_neutral_bigopensm
-# cul Behold! I, the great Bas Cullen, shall dispatch you personally!
+#% cul Behold! I, the great Bas Cullen, shall dispatch you personally!
 cul ¡Observen! ¡Yo, el gran Bas Cullen, me encargaré de ustedes personalmente!
 #% cha ava_armup_focus_neutral_yell
 cha ava_armup_focus_neutral_yell
-# ava Captain, we are beginning to get overwhelmed here...!
+#% ava Captain, we are beginning to get overwhelmed here...!
 ava ¡Capitán, estamos comenzando a ser superados aquí...!
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Hang on - If we sink Cullen, then we can throw their ranks into disarray.
+#% kay Hang on - If we sink Cullen, then we can throw their ranks into disarray.
 kay Un momento - Si hundimos a Cullen, entonces podemos lanzar a sus filas al desorden.
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay The Vaendryl is our target! Sink her and the tide will turn!
+#% kay The Vaendryl is our target! Sink her and the tide will turn!
 kay ¡El Vaendryl es nuestro objetivo! ¡Húndanlo y la marea cambiará!
 #% obj BATTLE: Cullen Appears
 obj BATALLA: Cullen Aparece
@@ -5562,23 +5562,23 @@ stop
 tag chap4_battle3_board
 #% cha cul_neu_angry2_wide1_yell
 cha cul_neu_angry2_wide1_yell
-# cul Intruders! Men, get them out of my sight!
+#% cul Intruders! Men, get them out of my sight!
 cul ¡Intrusos! ¡Hombres, sáquenlos de mi vista!
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
-# kay Why not get your hands dirty for once, Cullen?
+#% kay Why not get your hands dirty for once, Cullen?
 kay ¿Por qué no te ensucias tus manos por una vez, Cullen?
 #% cha cul_neu_sad_narrow_grin
 cha cul_neu_sad_narrow_grin
-# cul I am a peaceful Ork! Fighting is simply not for me!
+#% cul I am a peaceful Ork! Fighting is simply not for me!
 cul ¡Soy un Orko pacífico! ¡Luchar simplemente no es para mí!
 #% cha cul_neu_sad_closed2_bigopensm
 cha cul_neu_sad_closed2_bigopensm
-# cul Who needs to fight when you've got soldiers!
+#% cul Who needs to fight when you've got soldiers!
 cul ¡Quién necesita luchar cuando tienes soldados!
 #% cha kay_neu_sad_closed_talk
 cha kay_neu_sad_closed_talk
-# kay (He's even worse than I thought...)
+#% kay (He's even worse than I thought...)
 kay (Él es incluso peor de lo que pensaba...)
 #% stop
 stop
@@ -5588,15 +5588,15 @@ stop
 tag chap4_battle3_boardlegion
 #% cha kay_neu_angry_wide_yell
 cha kay_neu_angry_wide_yell
-# kay We have Arcadius in our sights! Charge!!
+#% kay We have Arcadius in our sights! Charge!!
 kay ¡Tenemos a Arcadius a la vista! ¡¡Carguen!!
 #% cha ava_armup_focus_closedeye_bigtalk
 cha ava_armup_focus_closedeye_bigtalk
 #% voi ava_vns_neu_02
 voi ava_vns_neu_02
-# ava Captain, needless to say, our chances of taking the Legion are slim...
+#% ava Captain, needless to say, our chances of taking the Legion are slim...
 ava Capitán, no hace falta decirlo, nuestras probabilidades de derrotar al Legion son escasas...
-# ava Please keep in mind that it is better to retreat than to waste the crew's morale.
+#% ava Please keep in mind that it is better to retreat than to waste the crew's morale.
 ava Por favor tenga en mente que es mejor retirarnos a desperdiciar la moral de la tripulación.
 #% stop
 stop
@@ -5606,15 +5606,15 @@ stop
 tag chap4_battle3_arcadiusdefeat
 #% cha arc_damage
 cha arc_damage
-# arc Argh!
+#% arc Argh!
 arc ¡Argh!
-# arc Impressive. Most impressive.
+#% arc Impressive. Most impressive.
 arc Impresionante. Muy impresionante.
-# arc But you underestimate my powers!
+#% arc But you underestimate my powers!
 arc ¡Pero han subestimado mis poderes!
 #% cha kay_neu_focus_wide_talk
 cha kay_neu_focus_wide_talk
-# kay So Arcadius, this is your true form!
+#% kay So Arcadius, this is your true form!
 kay ¡Conque Arcadius, esta es tu verdadera forma!
 #% stop
 stop
@@ -5626,23 +5626,23 @@ tag chap4_battle3_arcadiushit
 cha ava_armup_angry_surprise_shout
 #% voi ava_vns_ang_06
 voi ava_vns_ang_06
-# ava It's hopeless, captain! All of our attacks are being countered!
+#% ava It's hopeless, captain! All of our attacks are being countered!
 ava ¡Es inútil, capitán! ¡Todos nuestros ataques están siendo repelidos!
 #% hid ava
 hid ava
 #% cha arc_damage
 cha arc_damage
-# arc Hahaha! I feel our power! Now, be destroyed!
+#% arc Hahaha! I feel our power! Now, be destroyed!
 arc ¡Hahaha! ¡Siento nuestro poder! ¡Ahora, sean destruidos!
 #% hid arc
 hid arc
 #% cha ava_armup_angry_surprise_shout
 cha ava_armup_angry_surprise_shout
-# ava There is nothing further to be gained here! We must retreat!
+#% ava There is nothing further to be gained here! We must retreat!
 ava ¡No tenemos nada más que ganar aquí! ¡Debemos retirarnos!
 #% cha kay_neu_focus_closed_clench
 cha kay_neu_focus_closed_clench
-# kay (Ava's actually right this time... If we remain, Arcadius will slaughter us all!)
+#% kay (Ava's actually right this time... If we remain, Arcadius will slaughter us all!)
 kay (Ava tiene realmente razón esta vez... ¡Si nos quedamos, Arcadius nos matará a todos!)
 #% stop
 stop
@@ -5652,7 +5652,7 @@ stop
 tag chap4_battle3_cullenend
 #% cha cul_neu_angry2_widesmall_shout_shadow
 cha cul_neu_angry2_widesmall_shout_shadow
-# cul Buuhiii...! Time for this Ork to abandon ship!
+#% cul Buuhiii...! Time for this Ork to abandon ship!
 cul ¡Buuhiii...! ¡Hora de que este Orko abandone la nave!
 #% xob BATTLE: Cullen Appears
 xob BATALLA: Cullen Aparece
@@ -5660,13 +5660,13 @@ xob BATALLA: Cullen Aparece
 cha kay_neu_focus_neutral_talk
 #% cha ava_armup_angry_surprise_yell
 cha ava_armup_angry_surprise_yell
-# ava We've got him, captain!
+#% ava We've got him, captain!
 ava ¡Lo tenemos capitán!
 #% cha kay_neu_focus_wide_clench
 cha kay_neu_focus_wide_clench
-# kay No... Hold!
+#% kay No... Hold!
 kay No... ¡Un momento!
-# kay It's...
+#% kay It's...
 kay Es...
 #% flag
 flag
@@ -5674,57 +5674,57 @@ flag
 mus mus_posthumusregnum
 #% cha arc_neu
 cha arc_neu
-# arc You have done well to hold so far, Cullen. Now, I shall deal with this outlaw myself.
+#% arc You have done well to hold so far, Cullen. Now, I shall deal with this outlaw myself.
 arc Has hecho bien en resistir hasta ahora, Cullen. Ahora, me encargaré de este renegado en persona.
-# arc You have something that which belongs to me. I demand its return.
+#% arc You have something that which belongs to me. I demand its return.
 arc Tienes algo que me pertenece. Demando su devolución.
 #% cha kay_neu_focus_neutral_talk
 cha kay_neu_focus_neutral_talk
-# kay Asaga is not your belonging!
+#% kay Asaga is not your belonging!
 kay ¡Asaga no es tu pertenencia!
-# arc Fool! You have no idea what we even speak of!
+#% arc Fool! You have no idea what we even speak of!
 arc ¡Tonto! ¡No tienes idea de lo que hablamos siquiera!
-# arc Return the Princess to me, and I will end the Monolithic Lie and break this cycle once and for all.
+#% arc Return the Princess to me, and I will end the Monolithic Lie and break this cycle once and for all.
 arc Devuélveme a la Princesa, y acabaré con la Mentira Monolítica y romperé este ciclo de una vez por todas.
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
-# kay So you do fear the Sharr's return, Arcadius!
+#% kay So you do fear the Sharr's return, Arcadius!
 kay ¡Así que le temes al regreso de la Sharr, Arcadius!
-# arc Not nearly as much as you should fear me, Half-Elf. For while we were speaking, my ships have already sunk your Elvish allies' ships to the bottom of the sea!
+#% arc Not nearly as much as you should fear me, Half-Elf. For while we were speaking, my ships have already sunk your Elvish allies' ships to the bottom of the sea!
 arc No tanto como tú deberías temerme, Semielfo. ¡Ya que mientras hablábamos, mis naves ya han hundido las naves de tus aliados Élficos al fondo del mar!
-# arc They are now converging at this location as we speak.
+#% arc They are now converging at this location as we speak.
 arc Vienen a esta ubicación mientras hablamos.
 #% cha ava_facepalm_focus_narrow_slight
 cha ava_facepalm_focus_narrow_slight
-# ava Captain, usually we are the ones using that trick! How could we fall for this?
+#% ava Captain, usually we are the ones using that trick! How could we fall for this?
 ava ¡Capitán, usualmente somos nosotros quienes usamos ese truco! ¿Cómo pudimos caer en esto?
 #% hid arc
 hid arc
 #% cha cul_neu_focus_neutral_bigopensm
 cha cul_neu_focus_neutral_bigopensm
-# cul Buuhihihi! Looks like you are at your wit's end!
+#% cul Buuhihihi! Looks like you are at your wit's end!
 cul ¡Buuhihihi! ¡Parece que se te acabó el ingenio!
-# cul Why not surrender? I'd hate to cut down so many lovely lasses!
-cul ¿Por qué no se rinden? ¡Odiaría tener que acabar con tantas damas tan encantadoras!
+#% cul Why not surrender? I'd hate to cut down so many lovely lasses!
+cul ¿Por qué no se rinden? ¡Odiaría acabar con tantas damas tan encantadoras!
 #% cha cul_neu_angry2_wide1_bigopensm_shadow
 cha cul_neu_angry2_wide1_bigopensm_shadow
-# cul Don't worry! I'll take goooooood care of you all!
+#% cul Don't worry! I'll take goooooood care of you all!
 cul ¡No se preocupen! ¡Las cuuuiiiidaaaré a todas!
 #% cha ava_armscrossed_angry_widesmall_shout_shadow
 cha ava_armscrossed_angry_widesmall_shout_shadow
-# ava Ugh... Captain, please order a fight to the death for all our sakes!
+#% ava Ugh... Captain, please order a fight to the death for all our sakes!
 ava Ugh... ¡Capitán, por favor ordene una pelea a muerte por el bien de todas nosotras!
 #% cha cul_neu_angry2_neutral_shout
 cha cul_neu_angry2_neutral_shout
-# cul Buhi! How dare you! Fine, no more Mister Nice Ork! Get them!
+#% cul Buhi! How dare you! Fine, no more Mister Nice Ork! Get them!
 cul ¡Buhi! ¡Cómo te atreves! ¡Bien, no más Señor Buen Orko! ¡A ellos!
 #% cha kay_neu_raised_wide_neutral
 cha kay_neu_raised_wide_neutral
-# kay Well, we do appear to be in a conundrum, commander.
+#% kay Well, we do appear to be in a conundrum, commander.
 kay Bueno, parece que estamos en un aprieto, comandante.
 #% cha ava_facepalm_angry_closedeye_tch
 cha ava_facepalm_angry_closedeye_tch
-# ava Well, captain... Surely, you must have a plan...
+#% ava Well, captain... Surely, you must have a plan...
 ava Bueno, capitán... Seguramente, debe tener un plan...
 #% stop
 stop
@@ -5736,7 +5736,7 @@ tag chap4_battle3_phase4
 mus mus_battleagainsttime
 #% cha ava_armup_focus_surprise_bigtalk
 cha ava_armup_focus_surprise_bigtalk
-# ava Ugh, we are taking fire! We are being encircled!
+#% ava Ugh, we are taking fire! We are being encircled!
 ava ¡Ugh, estamos recibiendo fuego! ¡Nos están rodeando!
 #% hid ava
 hid ava
@@ -5746,85 +5746,85 @@ var asagaawaken
 sav autosave
 #% cha ica_surprised_annoyed_surprise_cry_shadow
 cha ica_surprised_annoyed_surprise_cry_shadow
-# ica Shit! This is seriously how it's gonna end?! Back to back with an Elf?!
+#% ica Shit! This is seriously how it's gonna end?! Back to back with an Elf?!
 ica ¡Diablos! ¡¿En serio es así como va a terminar?! ¡¿Lado a lado con una Elfa?!
 #% cha kry_armdown_angry_widesmall_clench
 cha kry_armdown_angry_widesmall_clench
-# kry I never dreamed I would face this trial alongside a Maan myself!
-kry ¡Yo misma nunca soñé con que me enfrentaría a este reto junto a una Maan!
+#% kry I never dreamed I would face this trial alongside a Maan myself!
+kry ¡Yo misma nunca soñé con que me enfrentaría a este desafío junto a una Maan!
 #% hid kry
 hid kry
 #% hid ica
 hid ica
 #% cha ava_armup_angry_surprise_yell
 cha ava_armup_angry_surprise_yell
-# ava Captain, we must fall back! 
+#% ava Captain, we must fall back! 
 ava ¡Capitán, debemos retirarnos!
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay Hold! Hold position!
-kay Hold! Hold position!
+#% kay Hold! Hold position!
+kay ¡Aguanten! ¡Mantengan la posición!
 #% cha asa_fist_focus_wide2_slight
 cha asa_fist_focus_wide2_slight
-# asa Everyone...
+#% asa Everyone...
 asa Chicos...
 #% cha ava_shout_shout_shout_shout
 cha ava_shout_shout_shout_shout
-# ava Grappling hooks! We are being boarded!
+#% ava Grappling hooks! We are being boarded!
 ava ¡Arpones! ¡Estamos siendo abordados!
 #% hid ava
 hid ava
 #% cha cul_neu_angry2_wide1_bigopensm_shadow
 cha cul_neu_angry2_wide1_bigopensm_shadow
-# cul Buuuhihihihihi!!! I yet live!
+#% cul Buuuhihihihihi!!! I yet live!
 cul ¡¡¡Buuuhihihihihi!!! ¡Todavía estoy vivo!
-# cul Ah, Princess! So we meet again! How fortunate it is for you that the Veniczar has ordered me to take you alive.
+#% cul Ah, Princess! So we meet again! How fortunate it is for you that the Veniczar has ordered me to take you alive.
 cul ¡Ah, Princesa! ¡Conque nos encontramos de nuevo! Qué suerte para ti que el Veniczar me haya ordenado tomarte con vida.
 #% cha asa_fist_angry_wide_yell
 cha asa_fist_angry_wide_yell
-# asa Never! Yaah!
+#% asa Never! Yaah!
 asa ¡Nunca! ¡Yaah!
 #% sou sou_swordswing
 sou sou_swordswing
 #% cha cul_neu_angry2_wide2_yell_shadow
 cha cul_neu_angry2_wide2_yell_shadow
-# cul BUUHHHIIIII!!! How dare you!
+#% cul BUUHHHIIIII!!! How dare you!
 cul ¡¡¡BUUHHHIIIII!!! ¡Cómo te atreves!
-# cul Men! Cut the rest of them down! I shall deal with her myself!
+#% cul Men! Cut the rest of them down! I shall deal with her myself!
 cul ¡Hombres! ¡Maten al resto de ellos! ¡Yo mismo me encargaré de ella!
 #% cha cul_neu_confuse_neutral_bigopensm
 cha cul_neu_confuse_neutral_bigopensm
-# cul Buhihihi...! Lower your weapons, Princess!
+#% cul Buhihihi...! Lower your weapons, Princess!
 cul ¡Buhihihi...! ¡Baja tus armas, Princesa!
-# cul You need not follow him to the grave!
+#% cul You need not follow him to the grave!
 cul ¡No necesitas seguirlo a la tumba!
-# asa What?!
+#% asa What?!
 asa ¡¿Qué?!
 #% cha cul_neu_sad_narrow_grin_shadow
 cha cul_neu_sad_narrow_grin_shadow
-# cul Oh how sad it was, when the poor King died... Oh ho, how his daughter was not even there to lay him to rest!
+#% cul Oh how sad it was, when the poor King died... Oh ho, how his daughter was not even there to lay him to rest!
 cul Oh qué triste fue, cuando el pobre Rey murió... ¡Oh ho, cómo su hija no estuvo siquiera allí para dejarlo descansar!
 #% cha cul_neu_raised_closed2_grin_shadow
 cha cul_neu_raised_closed2_grin_shadow
-# cul Why not return to Ryuvia with me and pay him a visit?
+#% cul Why not return to Ryuvia with me and pay him a visit?
 cul ¿Por qué no regresas a Ryuvia conmigo y le das una visita?
 #% cha asa_bendover_focus_wide2_shout
 cha asa_bendover_focus_wide2_shout
-# asa You swine!
+#% asa You swine!
 asa ¡Escoria!
 #% cha ava_armup_angry_surprise_yell
 cha ava_armup_angry_surprise_yell
-# ava Captain, get back! They are upon us!
+#% ava Captain, get back! They are upon us!
 ava ¡Capitán, retroceda! ¡Están sobre nosotros!
 #% cha kay_neu_focus_wide_clench
 cha kay_neu_focus_wide_clench
-# kay Shit...!
+#% kay Shit...!
 kay ¡Diablos...!
 #% cha asa_fist_angry_wide_yell
 cha asa_fist_angry_wide_yell
-# asa You shall pay, Cullen!
+#% asa You shall pay, Cullen!
 asa ¡Lo pagarás, Cullen!
-# asa Hiiyaaaaahhh---!!!
+#% asa Hiiyaaaaahhh---!!!
 asa ¡¡¡Hiiyaaaaahhh---!!!
 #% dbg spr_bg_white
 dbg spr_bg_white
@@ -5832,11 +5832,11 @@ dbg spr_bg_white
 sou sou_heartbeat
 #% cha cul_neu_angry2_widesmall_shout_shadow
 cha cul_neu_angry2_widesmall_shout_shadow
-# cul What?! W-What's happening?!
+#% cul What?! W-What's happening?!
 cul ¡¿Qué?! ¡¿Q-Qué está pasando?!
 #% cha sol_surprise_raised_wide_yell
 cha sol_surprise_raised_wide_yell
-# sol This is...!
+#% sol This is...!
 sol ¡Esto es...!
 #% dbg hide
 dbg hide
@@ -5850,33 +5850,33 @@ stop
 tag chap4_battle3_rpg
 #% cha asa_fist_angry_awakenwid_yell
 cha asa_fist_angry_awakenwid_yell
-# asa I am... the Sharr of Ryuvia!
+#% asa I am... the Sharr of Ryuvia!
 asa ¡Yo soy... la Sharr de Ryuvia!
 #% cha cul_neu_angry2_neutral_shout
 cha cul_neu_angry2_neutral_shout
-# cul Buhi! Men! Protect me!
+#% cul Buhi! Men! Protect me!
 cul ¡Buhi! ¡Hombres! ¡Protéjanme!
 #% cha ava_armup_focus_neutral_yell
 cha ava_armup_focus_neutral_yell
-# ava Captain, we are overwhelmingly outnumbered in this battle. We must defeat them all at once!
+#% ava Captain, we are overwhelmingly outnumbered in this battle. We must defeat them all at once!
 ava Capitán, nos superan demasiado en número en esta batalla. ¡Debemos derrotarlos a todos de inmediato!
 #% cha asa_fist_angry_awakenneu_yell
 cha asa_fist_angry_awakenneu_yell
-# asa This power... I think I can do that now!
+#% asa This power... I think I can do that now!
 asa ¡Este poder... creo que puedo hacerlo ahora!
-# nar (Asaga has gained a new Lv4 Special: The Legend of the Sharr.)
+#% nar (Asaga has gained a new Lv4 Special: The Legend of the Sharr.)
 nar (Asaga ha obtenido un nuevo Especial Nv4: La Leyenda de la Sharr.)
-# nar (It can only be used in the same turn that three other party members also use their special attacks.)
+#% nar (It can only be used in the same turn that three other party members also use their special attacks.)
 nar (Solo puede ser usado en el mismo turno en que otros tres miembros del grupo también usen sus ataques especiales.)
-# nar (However, it deals a large amount of DMG to all enemy units.)
+#% nar (However, it deals a large amount of DMG to all enemy units.)
 nar (Sin embargo, provoca una gran cantidad de DAÑO a todas las unidades enemigas.)
 #% cha cul_neu_confuse_wide2_neutral
 cha cul_neu_confuse_wide2_neutral
-# cul Buhihi! Is this truly the Sharr of Ryuvia?
+#% cul Buhihi! Is this truly the Sharr of Ryuvia?
 cul ¡Buhihi! ¿Es realmente la Sharr de Ryuvia?
 #% cha cul_neu_angry_neutral_smile
 cha cul_neu_angry_neutral_smile
-# cul Somehow, I expected you to be more... majestic!
+#% cul Somehow, I expected you to be more... majestic!
 cul ¡De alguna forma, esperaba que fueras más... majestuosa!
 #% stop
 stop
@@ -5886,9 +5886,9 @@ stop
 tag chap4_battle3_rpgnag
 #% cha asa_fist_angry_awakenneu_yell
 cha asa_fist_angry_awakenneu_yell
-# asa Get three other girls to use their special attack, then use my special attack!
+#% asa Get three other girls to use their special attack, then use my special attack!
 asa ¡Que otras tres chicas usen su ataque especial, luego usa mi ataque especial!
-# asa I think I can do this...!
+#% asa I think I can do this...!
 asa ¡Creo que puedo hacer esto...!
 #% stop
 stop
@@ -5898,25 +5898,25 @@ stop
 tag chap4_battle3_rpgend
 #% cha cul_neu_angry2_wide1_yell
 cha cul_neu_angry2_wide1_yell
-# cul Buhi?! I-Impossible!
+#% cul Buhi?! I-Impossible!
 cul ¡¿Buhi?! ¡I-Imposible!
 #% cha cul_neu_angry2_wide2_yell_shadow
 cha cul_neu_angry2_wide2_yell_shadow
-# cul Men! A-Attack! Get her! Kill the Princess! Save me!!!
+#% cul Men! A-Attack! Get her! Kill the Princess! Save me!!!
 cul ¡Hombres! ¡A-Ataquen! ¡Atrápenla! ¡Maten a la Princesa! ¡¡¡Sálvenme!!!
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
-# kay Here's our chance! Get Cullen and turn the tide!
-kay ¡Aquí está nuestra oportunidad! ¡Terminen con Cullen y cambien la marea!
+#% kay Here's our chance! Get Cullen and turn the tide!
+kay ¡Aquí está nuestra oportunidad! ¡Acaben con Cullen y cambien la marea!
 #% hid cul
 hid cul
 #% dcg spr_cg_firebird
 dcg spr_cg_firebird
-# asa You will pay for my father!
+#% asa You will pay for my father!
 asa ¡Pagarás por mi padre!
 #% por cul_neu_sad_widesmall_shout_shadow
 por cul_neu_sad_widesmall_shout_shadow
-# cul Hiiiii!!! N-No, I'm sorry! I-I'll do anything, just please don't-!
+#% cul Hiiiii!!! N-No, I'm sorry! I-I'll do anything, just please don't-!
 cul ¡¡¡Hiiiii!!! ¡N-No, lo siento! ¡Haré lo que sea, solo por favor no-!
 #% sou sou_shipexplode
 sou sou_shipexplode
@@ -5926,7 +5926,7 @@ dcg hide
 dbg spr_bg_white
 #% cha cul_neu_sad_widesmall_shout_shadow
 cha cul_neu_sad_widesmall_shout_shadow
-# cul BUUHIIIIIIIIIIIIIIIIIIIII!!!!!!!!!!!!!!!!!!!
+#% cul BUUHIIIIIIIIIIIIIIIIIIIII!!!!!!!!!!!!!!!!!!!
 cul ¡¡¡¡¡¡¡¡¡¡BUUHIIIIIIIIIIIIIIIIIIIII!!!!!!!!!!
 #% var cullendead
 var cullendead
@@ -5934,7 +5934,7 @@ var cullendead
 dbg hide
 #% cha kay_neu_raised_wide_talk
 cha kay_neu_raised_wide_talk
-# kay I-Incredible... So this is the true power of a Sharr!
+#% kay I-Incredible... So this is the true power of a Sharr!
 kay I-Increíble... ¡Conque este es el verdadero poder de una Sharr!
 #% stop
 stop
@@ -5948,29 +5948,29 @@ mus mus_finalbattle1
 cha ava_armup_raised_surprise_smalltalk
 #% voi ava_vns_ang_07
 voi ava_vns_ang_07
-# ava There's more, captain!
+#% ava There's more, captain!
 ava ¡Hay más, capitán!
-# ava The Vanguard Cannon is responding! Another seal has been released!
+#% ava The Vanguard Cannon is responding! Another seal has been released!
 ava ¡El Cañón Vanguard está respondiendo! ¡Otro sello se ha liberado!
 #% cha kay_neu_neutral_wide_smalltalk
 cha kay_neu_neutral_wide_smalltalk
-# kay That must mean Asaga was the one who unsealed it in the first place!
+#% kay That must mean Asaga was the one who unsealed it in the first place!
 kay ¡Eso debe significar que fue Asaga quien le quitó el sello en primer lugar!
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
-# kay (Heh, I knew it would pay off.)
+#% kay (Heh, I knew it would pay off.)
 kay (Heh, sabía que resultaría útil.)
-# nar (The Vanguard Cannon has gained another function!)
+#% nar (The Vanguard Cannon has gained another function!)
 nar (¡El Cañón Vanguard ha ganado otra función!)
-# nar (You can now Overcharge a Vanguard shot by pressing and holding the fire button.)
+#% nar (You can now Overcharge a Vanguard shot by pressing and holding the fire button.)
 nar (Ahora puedes Sobrecargar un disparo del Vanguard manteniendo presionado el botón de fuego.)
-# nar (Overcharging a Vanguard increases its area of effect and damage, but requires TWO Vanguard Charges to perform.)
+#% nar (Overcharging a Vanguard increases its area of effect and damage, but requires TWO Vanguard Charges to perform.)
 nar (Sobrecargar un Vanguard aumenta su área de efecto y daño, pero requiere DOS Cargas del Vanguard para realizarlo.)
-# nar (Press and hold the fire button until its attack radius is filled to its maximum power.)
+#% nar (Press and hold the fire button until its attack radius is filled to its maximum power.)
 nar (Mantén presionado el botón de fuego hasta que el radio de ataque se rellene a su máximo poder.)
 #% var vanguardcharge
 var vanguardcharge
-# kay (Now's our chance! Let's turn this around!)
+#% kay (Now's our chance! Let's turn this around!)
 kay (¡Ahora es nuestra oportunidad! ¡Démosle la vuelta a esto!)
 #% stop
 stop
@@ -5980,29 +5980,29 @@ stop
 tag chap4_battle3_phase6
 #% cha arc_neu
 cha arc_neu
-# arc Argh!
+#% arc Argh!
 arc ¡Argh!
 #% cha fon_neu_angry_neutral_clench
 cha fon_neu_angry_neutral_clench
-# fon My lord! We have reports that Lord Cullen has fallen in battle!
+#% fon My lord! We have reports that Lord Cullen has fallen in battle!
 fon ¡Mi señor! ¡Tenemos reportes de que Lord Cullen ha caído en batalla!
-# fon Worse, the wreckage from the battle is beginning to make the Strait nearly impossible to navigate...
-fon Peor, los escombros de la batalla están comenzando a hacer al Estrecho sea casi imposible de navegar...
-# arc Order the ships to push forward. We will still crush them with our overwhelming numbers!
-arc Ordénale a las naves que sigan adelante. ¡Los seguiremos aplastando con nuestros poderosos números!
+#% fon Worse, the wreckage from the battle is beginning to make the Strait nearly impossible to navigate...
+fon Peor, los escombros de la batalla están comenzando a hacer al Estrecho casi imposible de navegar...
+#% arc Order the ships to push forward. We will still crush them with our overwhelming numbers!
+arc Ordénales a las naves que sigan adelante. ¡Los seguiremos aplastando con nuestros abrumadores números!
 #% cha fon_neu_angry_closedeye_clench
 cha fon_neu_angry_closedeye_clench
-# fon My lord, about that...
+#% fon My lord, about that...
 fon Mi señor, en cuanto a eso...
 #% cha fon_neu_lowfocus_neutral_smalltalk
 cha fon_neu_lowfocus_neutral_smalltalk
-# fon The scout that sent that message has returned to us... and it appears that she was actually held captive by the enemy at one point.
+#% fon The scout that sent that message has returned to us... and it appears that she was actually held captive by the enemy at one point.
 fon La exploradora que envió ese mensaje ha regresado a nosotros... y parece que en realidad fue capturada por el enemigo en un momento.
 #% cha fon_neu_angry_closedeye_smalltalk
 cha fon_neu_angry_closedeye_smalltalk
-# fon Based on what she observed during her captivity, she now has doubts as to whether the Emerald Fleet abandoned them at all...
+#% fon Based on what she observed during her captivity, she now has doubts as to whether the Emerald Fleet abandoned them at all...
 fon En base a lo que observó durante su cautiverio, ahora tiene dudas en cuanto a si la Flota Esmeralda los abandonó en absoluto...
-# arc What?!
+#% arc What?!
 arc ¡¿Qué?!
 #% sou sou_warning
 sou sou_warning
@@ -6022,21 +6022,21 @@ stop
 tag chap4_battle3_phase7
 #% cha ava_armup_focus_neutral_smirk
 cha ava_armup_focus_neutral_smirk
-# ava Captain! New sails spotted!
+#% ava Captain! New sails spotted!
 ava ¡Capitán! ¡Nuevas velas avistadas!
 #% cha ava_armup_focus_neutral_opensmile
 cha ava_armup_focus_neutral_opensmile
-# ava It's the Emerald Fleet!
+#% ava It's the Emerald Fleet!
 ava ¡Es la Flota Esmeralda!
 #% hid ava
 hid ava
 #% cha gre_neu_angry_surprise_shout
 cha gre_neu_angry_surprise_shout
-# gre Gah, curse that damnable fog! But we are here, and in the nick of time!
+#% gre Gah, curse that damnable fog! But we are here, and in the nick of time!
 gre ¡Gah, maldigo a esa maldita niebla! ¡Pero aquí estamos, y justo a tiempo!
-# gre All ships! Attack formation! Move in to relieve the Sunrider at once!
+#% gre All ships! Attack formation! Move in to relieve the Sunrider at once!
 gre ¡A todas las naves! ¡Formación de ataque! ¡Entren para relevar al Sunrider de inmediato!
-# gre In the name of the Sharr!
+#% gre In the name of the Sharr!
 gre ¡En el nombre de la Sharr!
 #% hid gre
 hid gre
@@ -6046,17 +6046,17 @@ cha arc_neu
 arc Rggnnn...
 #% cha fon_neu_angry_closedeye_slight
 cha fon_neu_angry_closedeye_slight
-# fon Shall I belay your order, sire?
+#% fon Shall I belay your order, sire?
 fon ¿Debería anular su orden, señor?
-# arc With the awakening of the Sharr, our war has only just begun. We cannot afford to be slaughtered here!
+#% arc With the awakening of the Sharr, our war has only just begun. We cannot afford to be slaughtered here!
 arc Con el despertar de la Sharr, nuestra guerra solo ha comenzado. ¡No podemos permitirnos ser asesinados aquí!
 #% cha arc_fistup
 cha arc_fistup
-# arc Order the ships to fall back!
-arc ¡Ordénale a las naves retirarse!
+#% arc Order the ships to fall back!
+arc ¡Ordénales a las naves retirarse!
 #% cha fon_neu_lowfocus_neutral_bigtalk
 cha fon_neu_lowfocus_neutral_bigtalk
-# fon Yes, my Veniczar!
+#% fon Yes, my Veniczar!
 fon ¡Sí, mi Veniczar!
 #% flag
 flag
@@ -6076,17 +6076,17 @@ xob BATALLA: La Batalla de Far Port
 cha ava_armup_focus_neutral_opensmile
 #% voi ava_vns_hap_05
 voi ava_vns_hap_05
-# ava We've done it! The Crimson Fleet is in full retreat!
+#% ava We've done it! The Crimson Fleet is in full retreat!
 ava ¡Lo hemos logrado! ¡La Flota Carmesí se está retirando completamente!
 #% cha kay_neu_focus_neutral_smirk
 cha kay_neu_focus_neutral_smirk
-# kay Yes!
+#% kay Yes!
 kay ¡Sí!
 #% cha ava_facepalm_worry_narrow_smallsmil
 cha ava_facepalm_worry_narrow_smallsmil
 #% voi ava_vns_hap_01
 voi ava_vns_hap_01
-# ava And to think, we were outnumbered nearly one-to-hundred.
+#% ava And to think, we were outnumbered nearly one-to-hundred.
 ava Y pensar, que éramos superados casi en uno a cien.
 #% var aff_ava
 var aff_ava
@@ -6094,11 +6094,11 @@ var aff_ava
 cha ava_armscrossed_neutral_neutral_smirk
 #% voi ava_vns_hap_03
 voi ava_vns_hap_03
-# ava Well done, captain. Well done.
+#% ava Well done, captain. Well done.
 ava Bien hecho, capitán. Bien hecho.
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
-# kay I couldn't have done it without you. But before we celebrate, what has happened to Asaga?
+#% kay I couldn't have done it without you. But before we celebrate, what has happened to Asaga?
 kay No pudiera haberlo hecho sin ti. Pero antes de celebrar, ¿qué ha pasado con Asaga?
 #% dbg spr_bg_sunridermaindeck
 dbg spr_bg_sunridermaindeck
@@ -6106,37 +6106,37 @@ dbg spr_bg_sunridermaindeck
 cha asa_bendover_sad_closedeye_smirk
 #% voi asa_vns_shy_03
 voi asa_vns_shy_03
-# asa Haa... Haa... Everyone...
+#% asa Haa... Haa... Everyone...
 asa Haa... Haa... Chicos...
 #% cha sol_front_raised_neutral_smallsmil
 cha sol_front_raised_neutral_smallsmil
 #% voi sol_vns_hap_01
 voi sol_vns_hap_01
-# sol You are merely out of mana. There is nothing to fear.
+#% sol You are merely out of mana. There is nothing to fear.
 sol Estás casi sin maná. No hay nada que temer.
-# sol From now, you will be the Sharr...
+#% sol From now, you will be the Sharr...
 sol A partir de ahora, serás la Sharr...
 #% cha sol_front_concern_closedeye_smallsmil
 cha sol_front_concern_closedeye_smallsmil
-# sol I pledge myself to thee, my Princess.
+#% sol I pledge myself to thee, my Princess.
 sol Me comprometo con usted, mi Princesa.
 #% cha kry_fistup_focus_neutral_bigopensm
 cha kry_fistup_focus_neutral_bigopensm
 #% voi kry_vns_sur_02
 voi kry_vns_sur_02
-# kry At arms! I pledge myself to you, Great Sharr!
+#% kry At arms! I pledge myself to you, Great Sharr!
 kry ¡A las armas! ¡Me comprometo con usted, Gran Sharr!
 #% cha chi_handonchest_raised_closedeye_smallopen
 cha chi_handonchest_raised_closedeye_smallopen
 #% voi chi_vns_hap_01
 voi chi_vns_hap_01
-# chi I pledge myself!
+#% chi I pledge myself!
 chi ¡Me comprometo!
 #% cha cla_armscrossed_raised_closedeye_smallopen
 cha cla_armscrossed_raised_closedeye_smallopen
 #% voi cla_vns_hap_01
 voi cla_vns_hap_01
-# cla I pledge as well!
+#% cla I pledge as well!
 cla ¡Yo también me comprometo!
 #% hid kry
 hid kry
@@ -6150,17 +6150,17 @@ hid sol
 cha gre_neu_focus_surprise_smalltalk
 #% voi gre_vns_neu_05
 voi gre_vns_neu_05
-# gre As do I!
+#% gre As do I!
 gre ¡Igual que yo!
 #% cha asa_armup_raised_wide_bigtalk
 cha asa_armup_raised_wide_bigtalk
-# asa A-Admiral?!
+#% asa A-Admiral?!
 asa ¡¿A-Almirante?!
 #% cha gre_neu_sad_closed_neutral
 cha gre_neu_sad_closed_neutral
-# gre Your grace. I was foolish, and in my arrogance, I nearly lost you.
+#% gre Your grace. I was foolish, and in my arrogance, I nearly lost you.
 gre Su alteza. Fui un tonto, y en mi arrogancia, casi le pierdo.
-# gre Please... grant me forgiveness!
+#% gre Please... grant me forgiveness!
 gre Por favor... ¡concédame el perdón!
 #% cha asa_fist_focus_closedeye_neutral
 cha asa_fist_focus_closedeye_neutral
@@ -6168,141 +6168,141 @@ cha asa_fist_focus_closedeye_neutral
 asa ... ... ...
 #% cha asa_fist_focus_neutral_smalltalk
 cha asa_fist_focus_neutral_smalltalk
-# asa You are forgiven, Admiral.
+#% asa You are forgiven, Admiral.
 asa Estás perdonado, Almirante.
 #% cha gre_neu_raised_neutral_bigopensm
 cha gre_neu_raised_neutral_bigopensm
-# gre Though our light grew dim, we never lost faith that you would return once more!
+#% gre Though our light grew dim, we never lost faith that you would return once more!
 gre ¡Aunque nuestra luz se atenuara, nunca perdimos la fe en que regresaría una vez más!
-# gre Now, our fire shall be reignited and Elves shall reign for ten thousand more years!
+#% gre Now, our fire shall be reignited and Elves shall reign for ten thousand more years!
 gre ¡Ahora, nuestro fuego será reavivado y los Elfos reinarán durante diez mil años más!
 #% cha kry_fistup_focus_neutral_bigopensm
 cha kry_fistup_focus_neutral_bigopensm
-# kry Ten thousand years!
+#% kry Ten thousand years!
 kry ¡Diez mil años!
 #% hid kry
 hid kry
 #% cha asa_armup_focus_wide2_bigtalk
 cha asa_armup_focus_wide2_bigtalk
-# asa Wait! Wait! First, let me speak.
+#% asa Wait! Wait! First, let me speak.
 asa ¡Espera! ¡Espera! Primero, déjame hablar.
 #% cha asa_bendover_angry_neutral_bigtalk
 cha asa_bendover_angry_neutral_bigtalk
-# asa I may be the Sharr, but I am not here to rule Halla for the Elves!
+#% asa I may be the Sharr, but I am not here to rule Halla for the Elves!
 asa ¡Podré ser la Sharr, pero no estoy aquí para gobernar Halla por los Elfos!
 #% cha asa_fingerpoint_focus_neutral_smalltalk
 cha asa_fingerpoint_focus_neutral_smalltalk
-# asa I only want to defeat the Veniczar and free my people from the Pact of Maan!
+#% asa I only want to defeat the Veniczar and free my people from the Pact of Maan!
 asa ¡Solo quiero derrotar al Veniczar y liberar a mi pueblo del Pacto de Maan!
 #% cha gre_neu_sad_neutral_smile
 cha gre_neu_sad_neutral_smile
-# gre You are confused, your grace. You have not yet received the Blessing...
+#% gre You are confused, your grace. You have not yet received the Blessing...
 gre Está confundida, su alteza. Todavía no ha recibido la Bendición...
 #% cha asa_armup_confuse_neutral_slight
 cha asa_armup_confuse_neutral_slight
-# asa The Blessing?
+#% asa The Blessing?
 asa ¿La Bendición?
 #% cha gre_neu_focus_surprise_smalltalk
 cha gre_neu_focus_surprise_smalltalk
-# gre Yes. Before you can unlock your full potential, you must perform your pilgrimage up Mount Destiny and receive the Blessing of the Monolithic Truth!
-gre Sí. ¡Para que pueda desbloquear su completo potencial, debe realizar su peregrinaje al Monte Destino y recibir la Bendición de la Verdad Monolítica!
+#% gre Yes. Before you can unlock your full potential, you must perform your pilgrimage up Mount Destiny and receive the Blessing of the Monolithic Truth!
+gre Sí. ¡Para que pueda desbloquear su completo potencial, debe realizar su peregrinaje al Monte Destiny y recibir la Bendición de la Verdad Monolítica!
 #% cha gre_neu_focus_surprise_yell
 cha gre_neu_focus_surprise_yell
-# gre Only then can you cast the Final Tear and save us all!
+#% gre Only then can you cast the Final Tear and save us all!
 gre ¡Solo entonces podrá lanzar la Final Tear y salvarnos a todos!
 #% cha gre_neu_focus_neutral_neutral
 cha gre_neu_focus_neutral_neutral
 #% cha kay_neu_focus_neutral_talk
 cha kay_neu_focus_neutral_talk
-# kay Hold it right there.
+#% kay Hold it right there.
 kay Deténgase ahí.
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
-# kay We have heard of this Final Tear. And it is no silver bullet in defeating Arcadius.
+#% kay We have heard of this Final Tear. And it is no silver bullet in defeating Arcadius.
 kay Hemos escuchado sobre esta Final Tear. Y no es la solución mágica para derrotar a Arcadius.
 #% cha kay_neu_focus_wide_talk
 cha kay_neu_focus_wide_talk
-# kay In fact, it cannot be cast at all without the death of the Sharr!
+#% kay In fact, it cannot be cast at all without the death of the Sharr!
 kay ¡De hecho, no puede lanzarse en absoluto sin la muerte de la Sharr!
 #% cha gre_neu_angry_neutral_yell
 cha gre_neu_angry_neutral_yell
-# gre Blasphemy! The Sharr does not die, but returns to Heaven, where she will rejoin the Great Elders, until the circle continues and she returns to us once more!
+#% gre Blasphemy! The Sharr does not die, but returns to Heaven, where she will rejoin the Great Elders, until the circle continues and she returns to us once more!
 gre ¡Blasfemia! ¡La Sharr no muere, sino regresa al Cielo, donde se reunirá con los Grandes Ancianos, hasta que el círculo continúe y regrese a nosotros una vez más!
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Religious beliefs aside, it cannot be disputed that every Sharr who has cast it has vanished, along with everything else within a mile long radius.
+#% kay Religious beliefs aside, it cannot be disputed that every Sharr who has cast it has vanished, along with everything else within a mile long radius.
 kay Dejando de lado las creencias religiosas, no se puede discutir que cada Sharr que la ha lanzado se ha desvanecido, junto a todo dentro de un radio de una milla.
 #% cha asa_fist_focus_closedeye_smalltalk
 cha asa_fist_focus_closedeye_smalltalk
-# asa Hang on, captain. It's all right.
+#% asa Hang on, captain. It's all right.
 asa Un momento, capitán. Está bien.
 #% cha asa_fist_angry_neutral_smalltalk
 cha asa_fist_angry_neutral_smalltalk
-# asa If this Final Tear really is as powerful as the legends say, I want to at least have it as an option.
+#% asa If this Final Tear really is as powerful as the legends say, I want to at least have it as an option.
 asa Si esta Final Tear es realmente tan poderosa como cuentan las leyendas, quiero al menos tenerla como una opción.
-# asa It doesn't mean I'll use it. But given what we saw today of the Crimson Fleet, we can't afford to pass up on something so powerful.
+#% asa It doesn't mean I'll use it. But given what we saw today of the Crimson Fleet, we can't afford to pass up on something so powerful.
 asa No significa que la usaré. Pero dado lo que vimos hoy de la Flota Carmesí, no podemos permitirnos dejar pasar a algo tan poderoso.
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay All right. But how about you take us on as your personal guards from now? No offense to the Song Alliance's paladins, but we've formed a good rapport these past months.
+#% kay All right. But how about you take us on as your personal guards from now? No offense to the Song Alliance's paladins, but we've formed a good rapport these past months.
 kay Está bien. ¿Pero qué te parece llevarnos como tus guardias personales a partir de ahora? Sin ofender a los paladines de la Alianza Song, pero hemos formado un buen equipo estos últimos meses.
 #% cha asa_armscrossed_focus_neutral_smallopen
 cha asa_armscrossed_focus_neutral_smallopen
-# asa Of course, captain! I had no intention of leaving this ship in the first place. It's here where I can get the most done.
+#% asa Of course, captain! I had no intention of leaving this ship in the first place. It's here where I can get the most done.
 asa ¡Por supuesto, capitán! No tenía intenciones de dejar esta nave para empezar. Es aquí donde puedo lograr más cosas.
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
-# kay Do you agree, Admiral?
+#% kay Do you agree, Admiral?
 kay ¿Está de acuerdo, Almirante?
 #% cha gre_neu_focus_surprise_smalltalk
 cha gre_neu_focus_surprise_smalltalk
-# gre Very well. But you will accept Paladin Kryska Stares among your ranks, will you not?
+#% gre Very well. But you will accept Paladin Kryska Stares among your ranks, will you not?
 gre Muy bien. Pero aceptarán a la Paladina Kryska Stares entre sus filas, ¿o no?
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
-# kay I'd say she has served this ship well during her time here. We accept.
+#% kay I'd say she has served this ship well during her time here. We accept.
 kay Yo diría que ella ha servido bien a esta nave durante su tiempo aquí. Aceptamos.
 #% cha kry_fistup_focus_neutral_bigopensm
 cha kry_fistup_focus_neutral_bigopensm
-# kry Your word is my command, my Sharr!
+#% kry Your word is my command, my Sharr!
 kry ¡Su palabra es mi orden, mi Sharr!
 #% cha gre_neu_focus_surprise_yell
 cha gre_neu_focus_surprise_yell
-# gre Then, our next destination is the Holy City of Ongess! Let the Sharr's will be done!
-gre ¡Entonces, nuestro próximo destino es la Ciudad Santa de Ongess! ¡Que se haga la voluntad de la Sharr!
+#% gre Then, our next destination is the Holy City of Ongess! Let the Sharr's will be done!
+gre ¡Entonces, nuestro próximo destino es la Santa Ciudad de Ongess! ¡Que se haga la voluntad de la Sharr!
 #% cha kay_neu_neutral_closed_smallsmil
 cha kay_neu_neutral_closed_smallsmil
-# kay (What matters in the end is that the day is won. We'll worry about the Blessing later.)
+#% kay (What matters in the end is that the day is won. We'll worry about the Blessing later.)
 kay (Lo que importa al final es que ganamos el día. Nos preocuparemos por la Bendición más tarde.)
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
-# kay (Whew... I could sure use some time in the hot springs after this...)
+#% kay (Whew... I could sure use some time in the hot springs after this...)
 kay (Uf... Sí que pudiera necesitar un rato en las aguas termales después de esto...)
 #% cha ava_armup_neutral_neutral_smalltalk
 cha ava_armup_neutral_neutral_smalltalk
-# ava Captain, there is one last issue to resolve before the victory celebrations can commence...
+#% ava Captain, there is one last issue to resolve before the victory celebrations can commence...
 ava Capitán, hay un último asunto que resolver antes de que las celebraciones de victoria puedan comenzar...
 #% cha kay_neu_confuse_neutral_slight
 cha kay_neu_confuse_neutral_slight
-# kay Still? What is it?
+#% kay Still? What is it?
 kay ¿Todavía? ¿Qué ocurre?
 #% cha ava_armscrossed_focus_neutral_smalltalk
 cha ava_armscrossed_focus_neutral_smalltalk
-# ava As you know, the Song are infamous for their bureaucracy.
+#% ava As you know, the Song are infamous for their bureaucracy.
 ava Como sabe, Song es infame por su burocracia.
-# ava Apparently, they wish to have a full accounting of the ships that were sunk during the battle. It is your duty to fill out this paperwork.
+#% ava Apparently, they wish to have a full accounting of the ships that were sunk during the battle. It is your duty to fill out this paperwork.
 ava Aparentemente, desean tener un reporte completo de las naves que fueron hundidas durante la batalla. Es su deber rellenar este papeleo.
 #% cha kay_neu_confuse_wide_smalltalk
 cha kay_neu_confuse_wide_smalltalk
-# kay P-Paperwork?! Me?
+#% kay P-Paperwork?! Me?
 kay ¡¿P-Papeleo?! ¿Yo?
 #% cha ava_armup_focus_neutral_opensmile_shadow
 cha ava_armup_focus_neutral_opensmile_shadow
-# ava Here it is, captain.
+#% ava Here it is, captain.
 ava Aquí está, capitán.
 #% cha kay_neu_sad_closed_yell
 cha kay_neu_sad_closed_yell
-# kay S-Somehow, I feel like I've met a powerful new adversary...
+#% kay S-Somehow, I feel like I've met a powerful new adversary...
 kay D-De alguna forma, siento que he conocido a un poderoso nuevo adversario...
 #% mus stop
 mus stop
@@ -6322,11 +6322,11 @@ nar ... ...
 nar ...
 #% sou sou_knock
 sou sou_knock
-# nar (Knock)
+#% nar (Knock)
 nar (Toc)
 #% cha kay_neu_sad_closed_slight
 cha kay_neu_sad_closed_slight
-# kay Come in.
+#% kay Come in.
 kay Entre.
 #% sou sou_dooropen
 sou sou_dooropen
@@ -6334,53 +6334,53 @@ sou sou_dooropen
 cha asa_armup_confuse_narrow2_awkwardsm
 #% voi asa_vns_sad_01
 voi asa_vns_sad_01
-# asa Hey, capt'n...
+#% asa Hey, capt'n...
 asa Hey, capitán...
 #% cha kay_neu_neutral_thinking_smile
 cha kay_neu_neutral_thinking_smile
-# kay Asaga? Did you wish to speak further?
+#% kay Asaga? Did you wish to speak further?
 kay ¿Asaga? ¿Querías hablar más?
 #% cha asa_armup_confuse_narrow2_smalltalk
 cha asa_armup_confuse_narrow2_smalltalk
-# asa Yeah... But not about anything important like what to do next or the war...
+#% asa Yeah... But not about anything important like what to do next or the war...
 asa Sí... No sobre algo importante como lo que haremos ahora o la guerra...
 #% cha asa_fist_focus_neutral_smalltalk
 cha asa_fist_focus_neutral_smalltalk
-# asa Do you truly believe that I am the Sharr?
+#% asa Do you truly believe that I am the Sharr?
 asa ¿Realmente crees que soy la Sharr?
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
-# kay I believe what I saw during the battle. The sorcery you used to defeat Cullen was beyond anything I had witnessed before.
+#% kay I believe what I saw during the battle. The sorcery you used to defeat Cullen was beyond anything I had witnessed before.
 kay Creo en lo que vi durante la batalla. El hechizo que usaste para derrotar a Cullen estaba por encima de cualquier cosa que haya visto antes.
-# kay If the legend is true, and the Sharr truly is our last hope to thwart the Pact of Maan, then yes, I believe she is you, Asaga.
+#% kay If the legend is true, and the Sharr truly is our last hope to thwart the Pact of Maan, then yes, I believe she is you, Asaga.
 kay Si la leyenda es cierta, y la Sharr realmente es nuestra última esperanza para acabar con el Pacto de Maan, entonces sí, creo que tú eres ella, Asaga.
 #% cha asa_fist_focus_closedeye_neutral
 cha asa_fist_focus_closedeye_neutral
-# asa All right, captain.
+#% asa All right, captain.
 asa Está bien, capitán.
 #% cha asa_armscrossed_focus_neutral_bigtalk
 cha asa_armscrossed_focus_neutral_bigtalk
-# asa Then, I suppose this is really happening. All right!
+#% asa Then, I suppose this is really happening. All right!
 asa Entonces, supongo que esto realmente está sucediendo. ¡Muy bien!
 #% cha asa_fist_angry_neutral_smalltalk
 cha asa_fist_angry_neutral_smalltalk
-# asa From today on, I really will be the Sharr of Ryuvia.
+#% asa From today on, I really will be the Sharr of Ryuvia.
 asa A partir de hoy, realmente seré la Sharr de Ryuvia.
 #% cha asa_fist_sad_closedeye_smalltalk
 cha asa_fist_sad_closedeye_smalltalk
-# asa Not the powerless Princess Asaga.
+#% asa Not the powerless Princess Asaga.
 asa No la impotente Princesa Asaga.
 #% cha asa_fist_angry_neutral_smalltalk
 cha asa_fist_angry_neutral_smalltalk
-# asa Now, I'll finally be able to become... the Hero.
+#% asa Now, I'll finally be able to become... the Hero.
 asa Ahora, finalmente seré capaz de volverme... el Héroe.
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
-# kay (The Battle of Far Port is concluded... and the Sharr has awakened at last.)
+#% kay (The Battle of Far Port is concluded... and the Sharr has awakened at last.)
 kay (La Batalla de Far Port ha concluido... y la Sharr ha despertado al fin.)
 #% cha kay_neu_focus_neutral_slight
 cha kay_neu_focus_neutral_slight
-# kay (Yet... Our war has only just begun.)
+#% kay (Yet... Our war has only just begun.)
 kay (Sin embargo... Nuestra guerra solo ha acabado de comenzar.)
 #% roo roo_chap5_story1
 roo roo_chap5_story1
