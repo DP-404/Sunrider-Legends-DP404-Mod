@@ -1393,7 +1393,7 @@ fon Lo confieso. Desde el mismo inicio de esta guerra, no hubo ningún Veniczar 
 #% cha fon_neu_lowfocus_closedeye_clench
 cha fon_neu_lowfocus_closedeye_clench
 #% fon Our great leader perished in battle against the Dark Prince Erizlo and his Ork army. Our victory over the Orks was a Pyrrhic one, for in the end, our leader perished, our great admiral chose to go into self-exile, and our lady descended into madness.
-fon Nuestro gran líder murió en batalla contra el Príncipe Oscuro Erizlo y su ejército de Orkos. Nuestra victoria sobre los Orkos fue pírrica, puesto que al final, nuestro líder murió, nuestra gran almirante decidió ir a un exilio por su cuenta, y nuestra señora cayó en la locura.
+fon Nuestro gran líder murió en batalla contra el Príncipe Oscuro Erizlo y su ejército de Orkos. Nuestra victoria sobre los Orkos fue pírrica, puesto que al final, nuestro líder murió, nuestra gran almirante decidió ir al autoexilio, y nuestra señora cayó en la locura.
 #% fon But that pitiful Kitsune may have been doomed the moment she touched the Ascendant Spear...
 fon Pero esa lamentable Kitsune podría haber estado condenada en el momento en que tocó la Lanza Ascendant...
 #% cha fon_neu_lowfocus_closedeye_slight
