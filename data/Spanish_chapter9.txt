@@ -16,58 +16,58 @@ dbg spr_bg_palace
 sou sou_fanfare
 #% cha kry_armout_angry_wide_yell
 cha kry_armout_angry_wide_yell
-# kry All hail her majesty the Queen! All hail Queen Asaga di Ryuvia!
-kry All hail her majesty the Queen! All hail Queen Asaga di Ryuvia!
-# eve All hail Asaga di Ryuvia!
-eve All hail Asaga di Ryuvia!
+#% kry All hail her majesty the Queen! All hail Queen Asaga di Ryuvia!
+kry ¡Larga vida a su majestad la Reina! ¡Larga vida a la Reina Asaga di Ryuvia!
+#% eve All hail Asaga di Ryuvia!
+eve ¡Larga vida a Asaga di Ryuvia!
 #% hid kry
 hid kry
 #% cha asa_wedding_focus_closedeye_frown
 cha asa_wedding_focus_closedeye_frown
-# asa ... ... ...
+#% asa ... ... ...
 asa ... ... ...
 #% cha asa_wedding_focus_neutral_smalltalk
 cha asa_wedding_focus_neutral_smalltalk
-# asa Everyone... Thank you.
-asa Everyone... Thank you.
-# asa I know I wasn't always the best Princess... In fact, all I did was run away from my responsibilities... I couldn't even be the Sharr who saved everyone.
-asa I know I wasn't always the best Princess... In fact, all I did was run away from my responsibilities... I couldn't even be the Sharr who saved everyone.
-# asa But I swear upon my father's name. I shall be a Queen for all Ryuvians. Not just for the High Elves! But for all the Maan who have come to call our kingdom home. For all the Demonfolk who have left their lands in search of a better life. And for all those of mixed parentage, who represent all the best aspects of our kingdom's heritage.
-asa But I swear upon my father's name. I shall be a Queen for all Ryuvians. Not just for the High Elves! But for all the Maan who have come to call our kingdom home. For all the Demonfolk who have left their lands in search of a better life. And for all those of mixed parentage, who represent all the best aspects of our kingdom's heritage.
-# asa As my first act as Queen, I abolish the Monolithic Truth as a policy of the state! No longer shall age alone determine one's status in our society! For as wise as we High Elves can be, we cannot compare to the ingenuity to be found among the other races of our kingdom. From this day on, let both experience and ability be celebrated in equal measure.
-asa As my first act as Queen, I abolish the Monolithic Truth as a policy of the state! No longer shall age alone determine one's status in our society! For as wise as we High Elves can be, we cannot compare to the ingenuity to be found among the other races of our kingdom. From this day on, let both experience and ability be celebrated in equal measure.
-# asa Further, I shall issue no mandate as to the worship of any gods or religion within the realm. Let that be a personal choice, to be made in light of each of my subject's proud heritage. For no matter what race we belong to, no matter what god we worship, we are all Ryuvians.
-asa Further, I shall issue no mandate as to the worship of any gods or religion within the realm. Let that be a personal choice, to be made in light of each of my subject's proud heritage. For no matter what race we belong to, no matter what god we worship, we are all Ryuvians.
-# asa For my third decree, I turn now to the matter of the peace treaty with the Pact of Maan...
-asa For my third decree, I turn now to the matter of the peace treaty with the Pact of Maan...
-# asa You may speak, Lord Fontana.
-asa You may speak, Lord Fontana.
+#% asa Everyone... Thank you.
+asa A todos... Gracias.
+#% asa I know I wasn't always the best Princess... In fact, all I did was run away from my responsibilities... I couldn't even be the Sharr who saved everyone.
+asa Sé que nunca fui la mejor Princesa... De hecho, todo lo que hice fue huir de mis responsabilidades... Ni siquiera pude ser la Sharr que salvara a todos.
+#% asa But I swear upon my father's name. I shall be a Queen for all Ryuvians. Not just for the High Elves! But for all the Maan who have come to call our kingdom home. For all the Demonfolk who have left their lands in search of a better life. And for all those of mixed parentage, who represent all the best aspects of our kingdom's heritage.
+asa Pero lo juro en nombre de mi padre. Seré una Reina para todos los Ryuvianos. ¡No solo para los Altos Elfos! Sino para todos los Maan que hayan llegado a llamar hogar a nuestro reino.
+#% asa As my first act as Queen, I abolish the Monolithic Truth as a policy of the state! No longer shall age alone determine one's status in our society! For as wise as we High Elves can be, we cannot compare to the ingenuity to be found among the other races of our kingdom. From this day on, let both experience and ability be celebrated in equal measure.
+asa ¡Como mi primer acto como Reina, derogo la Verdad Monolítica como política de estado! ¡Ya no será la edad lo único de determine el estatus de uno en nuestra sociedad! Pues por muy sabios que los Altos Elfos podamos ser, no podemos compararnos con el ingenio de las otras razas de nuestro reino. Desde este día, tanto experiencia como habilidad serán celebradas en igual medida.
+#% asa Further, I shall issue no mandate as to the worship of any gods or religion within the realm. Let that be a personal choice, to be made in light of each of my subject's proud heritage. For no matter what race we belong to, no matter what god we worship, we are all Ryuvians.
+asa Además, no emitiré ningún mandato en cuanto a adorar alguna deidad o religión dentro del reino. Que sea una elección personal, tomada en consideración a la orgullosa herencia de cada uno de mis súbditos. Porque no importa a qué raza pertenezcamos, no importa a qué dios adoremos, todos somos Ryuvianos.
+#% asa For my third decree, I turn now to the matter of the peace treaty with the Pact of Maan...
+asa Para mi tercer decreto, me dirijo al asunto del tratado de paz con el Pacto de Maan...
+#% asa You may speak, Lord Fontana.
+asa Puedes hablar, Lord Fontana.
 #% cha fon_neu_lowfocus_neutral_bigtalk
 cha fon_neu_lowfocus_neutral_bigtalk
-# fon Let it be known to Ryuvia: Veniczar Arcadius was a true hero to the Maan of the Asahi Isle, who tragically fell before his dream of liberating his people from the Dark Prince and his Ork minions could be realized.
-fon Let it be known to Ryuvia: Veniczar Arcadius was a true hero to the Maan of the Asahi Isle, who tragically fell before his dream of liberating his people from the Dark Prince and his Ork minions could be realized.
-# fon The ones who instigated this war stole his name and his valor.
-fon The ones who instigated this war stole his name and his valor.
-# fon But now, with this peace, let that valor be restored to my people.
-fon But now, with this peace, let that valor be restored to my people.
-# fon I, Veniczar Fontana, pledge to return our forces to the Asahi Isle, and to rule it in peace, just as the great Arcadius dreamed.
-fon I, Veniczar Fontana, pledge to return our forces to the Asahi Isle, and to rule it in peace, just as the great Arcadius dreamed.
+#% fon Let it be known to Ryuvia: Veniczar Arcadius was a true hero to the Maan of the Asahi Isle, who tragically fell before his dream of liberating his people from the Dark Prince and his Ork minions could be realized.
+fon Que se sepa esto en Ryuvia: Veniczar Arcadius fue un verdadero héroe para los Maan de la Isla Asahi, que cayó trágicamente antes de que su sueño de liberar a su pueblo del Príncipe Oscuro y sus lacayos Orkos pudiera realizarse.
+#% fon The ones who instigated this war stole his name and his valor.
+fon Quienes instigaron esta guerra robaron su nombre y su valor.
+#% fon But now, with this peace, let that valor be restored to my people.
+fon Pero ahora, con esta paz, que ese valor sea restaurado a mi pueblo.
+#% fon I, Veniczar Fontana, pledge to return our forces to the Asahi Isle, and to rule it in peace, just as the great Arcadius dreamed.
+fon Yo, Veniczar Fontana, me comprometo a regresar nuestras fuerzas a la Isla Asahi, y gobernarla en paz, justo como el gran Arcadius soñó.
 #% cha asa_wedding_neutral_neutral_smirk
 cha asa_wedding_neutral_neutral_smirk
-# asa Ryuvia shall demand no reparations. There shall be no revenge. Let our two nations co-exist in peace.
-asa Ryuvia shall demand no reparations. There shall be no revenge. Let our two nations co-exist in peace.
+#% asa Ryuvia shall demand no reparations. There shall be no revenge. Let our two nations co-exist in peace.
+asa Ryuvia no pedirá indemnizaciones. No habrá venganza. Que nuestras dos naciones coexistan en paz.
 #% cha fon_neu_focus_closedeye_smile
 cha fon_neu_focus_closedeye_smile
-# fon I accept your clemency, your grace. So long as the two of us rule our nations, let there be peace.
-fon I accept your clemency, your grace. So long as the two of us rule our nations, let there be peace.
+#% fon I accept your clemency, your grace. So long as the two of us rule our nations, let there be peace.
+fon Acepto su clemencia, su majestad. Mientras ambos gobernemos nuestras naciones, que haya paz.
 #% cha asa_wedding_focus_wide2_yell
 cha asa_wedding_focus_wide2_yell
-# asa Let there be peace! For this is your Queen's decree!
-asa Let there be peace! For this is your Queen's decree!
+#% asa Let there be peace! For this is your Queen's decree!
+asa ¡Que haya paz! ¡Pues este es el decreto de su Reina!
 #% cha kry_fistup_angry_wide_yell
 cha kry_fistup_angry_wide_yell
-# kry All hail the Queen!
-kry All hail the Queen!
+#% kry All hail the Queen!
+kry ¡Larga vida a la Reina!
 #% hid kry
 hid kry
 #% hid fon
@@ -76,35 +76,35 @@ hid fon
 hid asa
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
-# kay And so, the war is officially over, and Ryuvia has a new Queen...
-kay And so, the war is officially over, and Ryuvia has a new Queen...
+#% kay And so, the war is officially over, and Ryuvia has a new Queen...
+kay Y así, la guerra oficialmente ha terminado, y Ryuvia tiene una nueva Reina...
 #% cha ava_armscrossed_neutral_neutral_smalltalk
 cha ava_armscrossed_neutral_neutral_smalltalk
-# ava I would not be so relieved, captain. The pomp and circumstance of the coronation notwithstanding, the reign of our new queen will not be an easy one.
-ava I would not be so relieved, captain. The pomp and circumstance of the coronation notwithstanding, the reign of our new queen will not be an easy one.
+#% ava I would not be so relieved, captain. The pomp and circumstance of the coronation notwithstanding, the reign of our new queen will not be an easy one.
+ava Yo no estaría tan aliviada, capitán. A pesar del estruendo y las circunstancias de la coronación, el reinado de nuestra nueva reina no será uno fácil.
 #% cha ava_armup_focus_neutral_smalltalk
 cha ava_armup_focus_neutral_smalltalk
-# ava Already, the Song Alliance stirs to the West. The High Elves will not take well to the Queen's heresy of abolishing the Monolithic Truth.
-ava Already, the Song Alliance stirs to the West. The High Elves will not take well to the Queen's heresy of abolishing the Monolithic Truth.
-# ava I fear we may have extinguished one war, merely to fan the flames of another.
-ava I fear we may have extinguished one war, merely to fan the flames of another.
+#% ava Already, the Song Alliance stirs to the West. The High Elves will not take well to the Queen's heresy of abolishing the Monolithic Truth.
+ava Ya mismo, la Alianza Song se agita hacia el Oeste. Los Altos Elfos no se tomarán bien la herejía de la Reina de abolir la Verdad Monolítica.
+#% ava I fear we may have extinguished one war, merely to fan the flames of another.
+ava Temo que hayamos extinguido una guerra, solamente para avivar las llamas de otra.
 #% cha kay_neu_confuse_thinking_smile
 cha kay_neu_confuse_thinking_smile
-# kay Well, good thing Asaga seems up to the challenge. And this Fontana fellow, well, I suppose he's not as bad as I first thought... Ugh, for some reason, I just can't shake the feeling we were sworn enemies in another life though...
-kay Well, good thing Asaga seems up to the challenge. And this Fontana fellow, well, I suppose he's not as bad as I first thought... Ugh, for some reason, I just can't shake the feeling we were sworn enemies in another life though...
+#% kay Well, good thing Asaga seems up to the challenge. And this Fontana fellow, well, I suppose he's not as bad as I first thought... Ugh, for some reason, I just can't shake the feeling we were sworn enemies in another life though...
+kay Bueno, qué bien que Asaga parece estar dispuesta al desafío. Y este tipo Fontana, bueno, supongo que no es tan malo como pensé al principio... Ugh, por alguna razón, simplemente no puedo quitarme la sensación de que aun así éramos enemigos jurados en otra vida...
 #% cha ava_armscrossed_focus_closedeye_smalltalk
 cha ava_armscrossed_focus_closedeye_smalltalk
-# ava We shall see, captain...
-ava We shall see, captain...
+#% ava We shall see, captain...
+ava Ya lo veremos, capitán...
 #% hid ava
 hid ava
 #% mus stop
 mus stop
-# nar ... ... ...
+#% nar ... ... ...
 nar ... ... ...
-# nar ... ...
+#% nar ... ...
 nar ... ...
-# nar ...
+#% nar ...
 nar ...
 #% flag
 flag
@@ -118,114 +118,114 @@ tag chap9_asanormal_false
 mus mus_hatsukoi
 #% cha asa_wedding_neutral_neutral_smirk
 cha asa_wedding_neutral_neutral_smirk
-# asa Hey, capt'n...
-asa Hey, capt'n...
+#% asa Hey, capt'n...
+asa Hey, capitán...
 #% cha kay_neu_confuse_thinking_smile
 cha kay_neu_confuse_thinking_smile
-# kay Your majesty.
-kay Your majesty.
+#% kay Your majesty.
+kay Su majestad.
 #% cha asa_wedding_confuse_neutral_smalltalk
 cha asa_wedding_confuse_neutral_smalltalk
-# asa You remember what I said, all those days ago, when you first found out I was the Princess?
-asa You remember what I said, all those days ago, when you first found out I was the Princess?
+#% asa You remember what I said, all those days ago, when you first found out I was the Princess?
+asa ¿Recuerdas lo que dije, hace tantos días, cuando averiguaste que yo era la Princesa?
 #% cha asa_wedding_sad_closedeye_smirk
 cha asa_wedding_sad_closedeye_smirk
-# asa I'm still Asaga. Just Asaga.
-asa I'm still Asaga. Just Asaga.
+#% asa I'm still Asaga. Just Asaga.
+asa Sigo siendo Asaga. Solo Asaga.
 #% cha kay_neu_confuse_thinking_smile
 cha kay_neu_confuse_thinking_smile
-# kay Heh. I suppose so.
-kay Heh. I suppose so.
+#% kay Heh. I suppose so.
+kay Heh. Supongo.
 #% cha asa_wedding_raised_narrow2_awkwardsm_blush
 cha asa_wedding_raised_narrow2_awkwardsm_blush
-# asa Hey uhh...
-asa Hey uhh...
-# asa Now that the coronation's over and things are settling down a bit... Why don't you stay in Ryuvia for a while?
-asa Now that the coronation's over and things are settling down a bit... Why don't you stay in Ryuvia for a while?
+#% asa Hey uhh...
+asa Oye uhh...
+#% asa Now that the coronation's over and things are settling down a bit... Why don't you stay in Ryuvia for a while?
+asa Ahora que la coronación ha terminado y las cosas se han calmado un poco... ¿Por qué no te quedas en Ryuvia por un rato?
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
-# kay Hmmm...
+#% kay Hmmm...
 kay Hmmm...
 #% cha asa_wedding_confuse_narrow2_catmouth_blush
 cha asa_wedding_confuse_narrow2_catmouth_blush
-# asa You know... For some... private time.
-asa You know... For some... private time.
+#% asa You know... For some... private time.
+asa Sabes... Por algo de... tiempo privado.
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
-# kay Heh... I'm sorry.
-kay Heh... I'm sorry.
-# kay I'm afraid I'll have to decline.
-kay I'm afraid I'll have to decline.
-# kay The sea's where I belong. Not here.
-kay The sea's where I belong. Not here.
-# kay The Sunrider's calling my name.
-kay The Sunrider's calling my name.
-# kay 'Til next time, your majesty.
-kay 'Til next time, your majesty.
+#% kay Heh... I'm sorry.
+kay Heh... Lo siento.
+#% kay I'm afraid I'll have to decline.
+kay Me temo que tengo que rechazarlo.
+#% kay The sea's where I belong. Not here.
+kay El mar es adonde pertenezco. No aquí.
+#% kay The Sunrider's calling my name.
+kay El Sunrider está llamando mi nombre.
+#% kay 'Til next time, your majesty.
+kay Hasta la próxima vez, su majestad.
 #% cha asa_wedding_sad_closedeye_cry
 cha asa_wedding_sad_closedeye_cry
-# asa ... ... ...
+#% asa ... ... ...
 asa ... ... ...
-# asa ... ...
+#% asa ... ...
 asa ... ...
-# asa ...
+#% asa ...
 asa ...
 #% cha asa_wedding_focus_narrow2_laugh_blush
 cha asa_wedding_focus_narrow2_laugh_blush
-# asa Figures as much~!
-asa Figures as much~!
-# asa Well then, time to get outta this ridiculous dress and sneak onboard!
-asa Well then, time to get outta this ridiculous dress and sneak onboard!
+#% asa Figures as much~!
+asa ¡Eso pensaba~!
+#% asa Well then, time to get outta this ridiculous dress and sneak onboard!
+asa ¡En fin, hora de quitarme este ridículo vestido y escabullirme a bordo!
 #% dbg spr_bg_sunriderbridge
 dbg spr_bg_sunriderbridge
 #% mus mus_colors_main
 mus mus_colors_main
 #% cha ava_armup_focus_neutral_smirk
 cha ava_armup_focus_neutral_smirk
-# ava The Sunrider is at your command, captain.
-ava The Sunrider is at your command, captain.
+#% ava The Sunrider is at your command, captain.
+ava El Sunrider está a sus órdenes, capitán.
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
-# kay What news do the tides bring?
-kay What news do the tides bring?
+#% kay What news do the tides bring?
+kay ¿Qué noticias traen la mareas?
 #% cha ava_armscrossed_focus_neutral_smalltalk
 cha ava_armscrossed_focus_neutral_smalltalk
-# ava Though Veniczar Fontana has ordered the Crimson Fleet to fall back to New Edar, some Pact captains have chosen to defect and traded their red sails for black ones.
-ava Though Veniczar Fontana has ordered the Crimson Fleet to fall back to New Edar, some Pact captains have chosen to defect and traded their red sails for black ones.
-# ava Worse, the Emerald Fleet appears to be mobilizing for something big. With their blockade of Far Port, unrest is spreading throughout the realm. It is only a matter of time until a spark ignites a civil war...
-ava Worse, the Emerald Fleet appears to be mobilizing for something big. With their blockade of Far Port, unrest is spreading throughout the realm. It is only a matter of time until a spark ignites a civil war...
+#% ava Though Veniczar Fontana has ordered the Crimson Fleet to fall back to New Edar, some Pact captains have chosen to defect and traded their red sails for black ones.
+ava Aunque Veniczar Fontana ha ordenado que la Flota Carmesí se retire a New Edar, algunos capitanes del Pacto han decidido desertar y cambiar sus velas rojas por negras.
+#% ava Worse, the Emerald Fleet appears to be mobilizing for something big. With their blockade of Far Port, unrest is spreading throughout the realm. It is only a matter of time until a spark ignites a civil war...
+ava Peor, la Flota Esmeralda parece estarse movilizando para algo grande. Con su bloqueo en Far Port, los disturbios se están propagando por todo el reino. Es solo cuestión de tiempo hasta que una chispa estalle una guerra civil...
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
-# kay Well, so long as our paperwork is in order, I'm sure they'll let the heroes of the war pass.
-kay Well, so long as our paperwork is in order, I'm sure they'll let the heroes of the war pass.
+#% kay Well, so long as our paperwork is in order, I'm sure they'll let the heroes of the war pass.
+kay Bueno, siempre y cuando nuestro papeleo esté en orden, estoy seguro de que dejarán dejarán pasar a los héroes de la guerra.
 #% cha ava_facepalm_focus_closedeye_sigh
 cha ava_facepalm_focus_closedeye_sigh
-# ava Yes. So long as our paperwork is in order.
-ava Yes. So long as our paperwork is in order.
+#% ava Yes. So long as our paperwork is in order.
+ava Sí. Siempre y cuando nuestro papeleo esté en orden.
 #% cha ava_facepalm_focus_narrow_smalltalk
 cha ava_facepalm_focus_narrow_smalltalk
-# ava Finally, I am hearing strange rumors about an Ork apparition who now haunts the Forbidden Abyss...
-ava Finally, I am hearing strange rumors about an Ork apparition who now haunts the Forbidden Abyss...
+#% ava Finally, I am hearing strange rumors about an Ork apparition who now haunts the Forbidden Abyss...
+ava Finalmente, estoy escuchando rumores extraños sobre una aparición de un Orko que ahora acecha el Abismo Prohibido...
 #% cha kay_neu_neutral_wide_smalltalk
 cha kay_neu_neutral_wide_smalltalk
-# kay Oh boy... I get the feeling we traded Crow Harbor for someone even worse.
-kay Oh boy... I get the feeling we traded Crow Harbor for someone even worse.
+#% kay Oh boy... I get the feeling we traded Crow Harbor for someone even worse.
+kay Oh vaya... Tengo la sensación de que cambiamos a Crow Harbor por alguien incluso peor.
 #% cha ava_armscrossed_focus_closedeye_smalltalk
 cha ava_armscrossed_focus_closedeye_smalltalk
-# ava Your list of admirers grow ever larger. Well then...
-ava Your list of admirers grow ever larger. Well then...
+#% ava Your list of admirers grow ever larger. Well then...
+ava Su lista de admiradores crece aún más. En fin...
 #% cha ava_armup_neutral_neutral_smalltalk
 cha ava_armup_neutral_neutral_smalltalk
-# ava Your orders, captain?
-ava Your orders, captain?
+#% ava Your orders, captain?
+ava ¿Sus órdenes, capitán?
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
-# kay This is not our mission's end.
-kay This is not our mission's end.
+#% kay This is not our mission's end.
+kay Este no es el fin de nuestra misión.
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
-# kay Set sails! To our next adventure!
-kay Set sails! To our next adventure!
+#% kay Set sails! To our next adventure!
+kay ¡Icen las velas! ¡Hacia nuestra próxima aventura!
 #% hid ava
 hid ava
 #% dbg hide
@@ -248,82 +248,82 @@ ccc kay_nude
 dbg spr_bg_bathhouse
 #% cha kay_neu_neutral_closed_smallsmil
 cha kay_neu_neutral_closed_smallsmil
-# kay ... ... ...
+#% kay ... ... ...
 kay ... ... ...
 #% cha kay_neu_sad_closed_smirk
 cha kay_neu_sad_closed_smirk
-# kay (Whew... I've finally managed to find some downtime between all our adventures...)
-kay (Whew... I've finally managed to find some downtime between all our adventures...)
-# kay (But I am truly surprised... To think a certain someone would actually agree to join me here...)
-kay (But I am truly surprised... To think a certain someone would actually agree to join me here...)
+#% kay (Whew... I've finally managed to find some downtime between all our adventures...)
+kay (Uf... Finalmente logré encontrar un descanso entre todas nuestras aventuras...)
+#% kay (But I am truly surprised... To think a certain someone would actually agree to join me here...)
+kay (Pero estoy verdaderamente sorprendido... Pensar que cierta persona realmente accedería a reunirse conmigo aquí...)
 #% dcg spr_cg_avaonsen
 dcg spr_cg_avaonsen
-# ava Sigh... I... really needed this...
-ava Sigh... I... really needed this...
-# kay Yeah... haha...
-kay Yeah... haha...
-# kay You know, uhh, I thought you were still opposed to the whole mixed bathing thing...
-kay You know, uhh, I thought you were still opposed to the whole mixed bathing thing...
-# ava You know what, Kayto? After having to deal with the Monolithic Truth this and sacred tradition that, I've decided to just stop worrying about it all...
-ava You know what, Kayto? After having to deal with the Monolithic Truth this and sacred tradition that, I've decided to just stop worrying about it all...
-# ava Ugh, you have no idea how much I need this bath... Out of all the horrible adventures you've put me through, this one truly has got to be the worst one out of them all!
-ava Ugh, you have no idea how much I need this bath... Out of all the horrible adventures you've put me through, this one truly has got to be the worst one out of them all!
-# ava Just how many times did we nearly get killed?! Please captain, Wishalls are hard to come by! You cannot keep using them to get out of every mishap!
-ava Just how many times did we nearly get killed?! Please captain, Wishalls are hard to come by! You cannot keep using them to get out of every mishap!
-# kay Don't worry, Ava. I think I still have a spare I got ages ago, which ended up never being used for anything...
-kay Don't worry, Ava. I think I still have a spare I got ages ago, which ended up never being used for anything...
-# ava Unbelievable...
-ava Unbelievable...
-# ava You are truly... unbelievable...
-ava You are truly... unbelievable...
-# kay Don't worry. Despite everything, I still haven't crashed the ship yet. You can count on me.
-kay Don't worry. Despite everything, I still haven't crashed the ship yet. You can count on me.
-# ava Sigh... I am truly going to regret this...
-ava Sigh... I am truly going to regret this...
+#% ava Sigh... I... really needed this...
+ava Haah... Yo... realmente necesitaba esto...
+#% kay Yeah... haha...
+kay Sí... haha...
+#% kay You know, uhh, I thought you were still opposed to the whole mixed bathing thing...
+kay Sabes, uhh, pensaba que todavía te oponías a todo lo de los baños mixtos...
+#% ava You know what, Kayto? After having to deal with the Monolithic Truth this and sacred tradition that, I've decided to just stop worrying about it all...
+ava ¿Sabes qué, Kayto? Después de habernos encargado de la Verdad Monolítica esto y la tradición sagrada aquello, he decidido simplemente dejar de preocuparme por todo...
+#% ava Ugh, you have no idea how much I need this bath... Out of all the horrible adventures you've put me through, this one truly has got to be the worst one out of them all!
+ava Ugh, no tienes idea de lo mucho que necesitaba este baño... ¡De todas las horribles aventuras por las que me has hecho pasar, esta realmente tiene que ser la peor de todas!
+#% ava Just how many times did we nearly get killed?! Please captain, Wishalls are hard to come by! You cannot keep using them to get out of every mishap!
+ava ¡¿Simplemente cuántas veces casi morimos?! ¡Por favor capitán, los Wishalls son difíciles de encontrar! ¡No puede seguir usándolos en cada percance!
+#% kay Don't worry, Ava. I think I still have a spare I got ages ago, which ended up never being used for anything...
+kay No te preocupes, Ava. Creo que todavía tengo uno de reserva que conseguí hace años, que terminó nunca siendo usado para nada...
+#% ava Unbelievable...
+ava Increíble...
+#% ava You are truly... unbelievable...
+ava Eres verdaderamente... increíble...
+#% kay Don't worry. Despite everything, I still haven't crashed the ship yet. You can count on me.
+kay No te preocupes. A pesar de todo, no he estrellado la nave aún. Puedes contar conmigo.
+#% ava Sigh... I am truly going to regret this...
+ava Haah... Realmente voy a lamentar esto...
 #% dcg spr_cg_avaonsen2
 dcg spr_cg_avaonsen2
-# kay ...!
-kay ...!
-# kay A-Ava?!
-kay A-Ava?!
-# ava Yes, captain?
-ava Yes, captain?
-# kay Wha-?
-kay Wha-?
-# ava Oh, don't be such a child. So you can go save the realm, but a little kiss is too much for you?
-ava Oh, don't be such a child. So you can go save the realm, but a little kiss is too much for you?
-# kay W-Well... erm...
-kay W-Well... erm...
-# ava Here, another one... Mm...
-ava Here, another one... Mm...
-# ava A little reward, for the savior of the realm...
-ava A little reward, for the savior of the realm...
-# ava My... is the water hotter than usual? You're turning awfully red...
-ava My... is the water hotter than usual? You're turning awfully red...
-# kay Eh heh... I... don't think it's the water.
-kay Eh heh... I... don't think it's the water.
-# ava Yes, captain. We best stop here, lest we strike an... unexpected shoal beneath our keel, let's say.
-ava Yes, captain. We best stop here, lest we strike an... unexpected shoal beneath our keel, let's say.
-# kay Indeed, that would be most unfortunate...
-kay Indeed, that would be most unfortunate...
-# ava My... We do seem to be properly overheating... What say we relax some more in the night breeze, beneath the stars?
-ava My... We do seem to be properly overheating... What say we relax some more in the night breeze, beneath the stars?
-# kay Exactly my thoughts.
-kay Exactly my thoughts.
-# ava It would be truly unfortunate if the hero of the realm were to pass out in the bath...
-ava It would be truly unfortunate if the hero of the realm were to pass out in the bath...
-# kay Nay, it would be more unfortunate if the first mate to the hero of the realm were to pass out in the bath!
-kay Nay, it would be more unfortunate if the first mate to the hero of the realm were to pass out in the bath!
-# ava Worry not, captain. I am more than capable of withstanding a little bit of heat...
-ava Worry not, captain. I am more than capable of withstanding a little bit of heat...
-# kay No, no! Let us be on our way!
-kay No, no! Let us be on our way!
-# kay The stars are indeed beautiful this night! Among other things...
-kay The stars are indeed beautiful this night! Among other things...
-# ava You certainly do have a way with words, captain...
-ava You certainly do have a way with words, captain...
-# ava Then, let us be on our way...
-ava Then, let us be on our way...
+#% kay ...!
+kay ¡...!
+#% kay A-Ava?!
+kay ¡¿A-Ava?!
+#% ava Yes, captain?
+ava ¿Sí, capitán?
+#% kay Wha-?
+kay ¿Qué-?
+#% ava Oh, don't be such a child. So you can go save the realm, but a little kiss is too much for you?
+ava Oh, no seas tan infantil. ¿Así que puedes salvar al reino, pero un pequeño beso es demasiado para ti?
+#% kay W-Well... erm...
+kay B-Bueno... erm...
+#% ava Here, another one... Mm...
+ava Ten, otro más... Mm...
+#% ava A little reward, for the savior of the realm...
+ava Una pequeña recompensa, para el salvador del reino...
+#% ava My... is the water hotter than usual? You're turning awfully red...
+ava Vaya... ¿está el agua más caliente de lo usual? Te estás poniendo terriblemente rojo...
+#% kay Eh heh... I... don't think it's the water.
+kay Eh heh... Yo... no creo que sea el agua.
+#% ava Yes, captain. We best stop here, lest we strike an... unexpected shoal beneath our keel, let's say.
+ava Sí, capitán. Mejor nos detenemos aquí, no sea que choquemos con... un bajío inesperado bajo la quilla, por así decirlo.
+#% kay Indeed, that would be most unfortunate...
+kay Sin duda, eso sería de lo más desafortunado...
+#% ava My... We do seem to be properly overheating... What say we relax some more in the night breeze, beneath the stars?
+ava Vaya... Parece que nos estamos sobrecalentando apropiadamente... ¿Qué dices si nos relajamos un poco más en la brisa marina, bajo las estrellas?
+#% kay Exactly my thoughts.
+kay Exactamente lo que pensaba.
+#% ava It would be truly unfortunate if the hero of the realm were to pass out in the bath...
+ava Sería realmente desafortunado si el héroe del reino se desmayase en el baño...
+#% kay Nay, it would be more unfortunate if the first mate to the hero of the realm were to pass out in the bath!
+kay ¡No, sería desafortunado si la primer oficial en ser héroe del reino se desmayase en el baño!
+#% ava Worry not, captain. I am more than capable of withstanding a little bit of heat...
+ava No te preocupes, capitán. Soy más que capaz de resistir un poquito de calor...
+#% kay No, no! Let us be on our way!
+kay ¡No, no! ¡Pongámonos en camino!
+#% kay The stars are indeed beautiful this night! Among other things...
+kay ¡Las estrellas sin duda están hermosas esta noche! Entre otras cosas...
+#% ava You certainly do have a way with words, captain...
+ava Ciertamente tienes un don con las palabras, capitán...
+#% ava Then, let us be on our way...
+ava Entonces, pongámonos en camino...
 #% mus stop
 mus stop
 #% dcg hide
@@ -332,14 +332,14 @@ dcg hide
 dbg hide
 #% sou sou_affectiongain
 sou sou_affectiongain
-# nar (2 Affection Points Gained!)
-nar (2 Affection Points Gained!)
-# nar (The waters rejuvenate your soul...)
-nar (The waters rejuvenate your soul...)
+#% nar (2 Affection Points Gained!)
+nar (¡2 Puntos de Afecto Obtenidos!)
+#% nar (The waters rejuvenate your soul...)
+nar (Las aguas rejuvenecen tu alma...)
 #% sou sou_onsengain
 sou sou_onsengain
-# nar (The Communal EN cap has been increased by 10!)
-nar (The Communal EN cap has been increased by 10!)
+#% nar (The Communal EN cap has been increased by 10!)
+nar (¡El límite de EN Comunal ha sido aumentado en 10!)
 # nar ... ... ...
 nar ... ... ...
 # nar ... ...
@@ -356,78 +356,78 @@ ifj normalendepi,claudegone
 tag normalendepi_true
 #% cha cla_pout_focus_funnysmug_pout
 cha cla_pout_focus_funnysmug_pout
-# cla ... ... ...
+#% cla ... ... ...
 cla ... ... ...
-# cla ... ...
+#% cla ... ...
 cla ... ...
-# cla ...
+#% cla ...
 cla ...
-# cla ... ...
+#% cla ... ...
 cla ... ...
-# cla ... ... ...
+#% cla ... ... ...
 cla ... ... ...
 #% cha cla_pout_focus_smug_smalltalk
 cha cla_pout_focus_smug_smalltalk
-# cla How horrible of you captain, leaving poor ol' Claude behind like that. Don't think that reaching this ending forgives you for abandoning your goddess!
-cla How horrible of you captain, leaving poor ol' Claude behind like that. Don't think that reaching this ending forgives you for abandoning your goddess!
-# cla What? You left me because I tried to kill you? Oh no, mon capitaine! I was merely joking around.
-cla What? You left me because I tried to kill you? Oh no, mon capitaine! I was merely joking around.
-# cla How about next time, you don't forget to get me back?
-cla How about next time, you don't forget to get me back?
+#% cla How horrible of you captain, leaving poor ol' Claude behind like that. Don't think that reaching this ending forgives you for abandoning your goddess!
+cla Qué horrible de tu parte capitán, dejando a la pobre Claude atrás de esa forma. ¡Este final malo es tu merecido castigo por abandonar a tu diosa patrona!
+#% cla What? You left me because I tried to kill you? Oh no, mon capitaine! I was merely joking around.
+cla ¿Qué? ¿Me dejaste porque intenté matarte? ¡Oh no, mon capitaine! Solamente estaba bromeando.
+#% cla How about next time, you don't forget to get me back?
+cla ¿Qué te parece si la próxima vez, no te olvidas de traerme de vuelta?
 #% cha cla_pout_sad_smug_pout
 cha cla_pout_sad_smug_pout
-# cla Sigh... Besides that...
-cla Sigh... Besides that...
+#% cla Sigh... Besides that...
+cla Haah... Aparte de eso...
 #% tag normalendepi_false
 tag normalendepi_false
 #% cha cla_armscrossed_sad_smug_laugh
 cha cla_armscrossed_sad_smug_laugh
-# cla Oh la la! What a steamy ending you've found, mon capitaine!
-cla Oh la la! What a steamy ending you've found, mon capitaine!
+#% cla Oh la la! What a steamy ending you've found, mon capitaine!
+cla ¡Oh la la! ¡Qué final tan caliente has encontrado, mon capitaine!
 #% cha cla_handsonhips_confuse_smug_catopensm_blush
 cha cla_handsonhips_confuse_smug_catopensm_blush
-# cla I knew you'd be able to do it, ya big horndog you.
-cla I knew you'd be able to do it, ya big horndog you.
+#% cla I knew you'd be able to do it, ya big horndog you.
+cla Sabía que serías capaz de hacerlo, gran pervertido.
 #% cha cla_armscrossed_neutral_closedeye_laugh
 cha cla_armscrossed_neutral_closedeye_laugh
-# cla Congratulations, you've found the Normal End! Yes, you heard me right! There is still a True End waiting for you!
-cla Congratulations, you've found the Normal End! Yes, you heard me right! There is still a True End waiting for you!
-# cla As a matter of fact, let me unlock that for you now!
-cla As a matter of fact, let me unlock that for you now!
+#% cla Congratulations, you've found the Normal End! Yes, you heard me right! There is still a True End waiting for you!
+cla ¡Felicitaciones, has encontrado el Final Normal! ¡Sí, me escuchaste bien! ¡Aún hay un Final Verdadero esperándote!
+#% cla As a matter of fact, let me unlock that for you now!
+cla ¡Hablando de eso, déjame desbloqueártelo ahora!
 #% cha cla_handsonhips_raised_neutral_laugh
 cha cla_handsonhips_raised_neutral_laugh
-# cla Not only that, but NewGame+ will now commence! All of your stats, affection levels, and gear will carry over into this new mode!
-cla Not only that, but NewGame+ will now commence! All of your stats, affection levels, and gear will carry over into this new mode!
+#% cla Not only that, but NewGame+ will now commence! All of your stats, affection levels, and gear will carry over into this new mode!
+cla ¡No solo eso, sino que NuevoJuego+ comenzará ahora! ¡Todas tus estadísticas, niveles de afecto, y equipamiento se transferirán a este nuevo modo!
 #% cha cla_pout_focus_smug_catopensm
 cha cla_pout_focus_smug_catopensm
-# cla All new story content and items await you in NewGame+!
-cla All new story content and items await you in NewGame+!
-# cla It is highly recommended that you save at this point on a new save slot to always have access to NewGame+!
-cla It is highly recommended that you save at this point on a new save slot to always have access to NewGame+!
+#% cla All new story content and items await you in NewGame+!
+cla ¡Nuevo contenido de historia y objetos te esperan en NuevoJuego+!
+#% cla It is highly recommended that you save at this point on a new save slot to always have access to NewGame+!
+cla ¡Es altamente recomendado que guardes en este punto en un nuevo espacio de guardado para que siempre tengas acceso a NuevoJuego+!
 #% cha cla_pout_sad_smug_pout
 cha cla_pout_sad_smug_pout
-# cla Are you doing it, captain? Save!
-cla Are you doing it, captain? Save!
+#% cla Are you doing it, captain? Save!
+cla ¿Lo estas haciendo, capitán? ¡Guarda!
 #% cha cla_armscrossed_sad_closedeye_awkwardsm
 cha cla_armscrossed_sad_closedeye_awkwardsm
-# cla Ahem... Moving on...
-cla Ahem... Moving on...
+#% cla Ahem... Moving on...
+cla Ejem... Continuando...
 #% cha cla_armscrossed_sad_smug_laugh
 cha cla_armscrossed_sad_smug_laugh
-# cla Beware! It's not all just good stuff in NewGame+. The difficulty of all battles have been increased! Far more enemies will now confront you in all battles!
-cla Beware! It's not all just good stuff in NewGame+. The difficulty of all battles have been increased! Far more enemies will now confront you in all battles!
-# cla Keep your eyes out for special elite ships with familiar sounding names. They are formidable enemies and even better prizes if taken in hand-to-hand combat.
-cla Keep your eyes out for special elite ships with familiar sounding names. They are formidable enemies and even better prizes if taken in hand-to-hand combat.
-# cla But don't go out of control and board ships left and right! In NewGame+, all ships with 0 morale will suffer the demoralized penalty!
-cla But don't go out of control and board ships left and right! In NewGame+, all ships with 0 morale will suffer the demoralized penalty!
-# cla That means if a boarding operation fails, you could be highly vulnerable to an enemy boarding attempt.
-cla That means if a boarding operation fails, you could be highly vulnerable to an enemy boarding attempt.
+#% cla Beware! It's not all just good stuff in NewGame+. The difficulty of all battles have been increased! Far more enemies will now confront you in all battles!
+cla ¡Ten cuidado! No todo es bueno en NuevoJuego+. ¡La dificultad de todas las batallas ha sido aumentada! ¡Muchos más enemigos te confrontarán ahora en todas las batallas!
+#% cla Keep your eyes out for special elite ships with familiar sounding names. They are formidable enemies and even better prizes if taken in hand-to-hand combat.
+cla Mantén tus ojos alerta en busca de naves de élite especiales con nombres familiares. Son enemigos formidables, e incluso mejores recompensas si las capturas en combate cuerpo a cuerpo-
+#% cla But don't go out of control and board ships left and right! In NewGame+, all ships with 0 morale will suffer the demoralized penalty!
+cla ¡Pero no te salgas de control y abordes naves de un lado a otro! ¡En NuevoJuego+, todas las naves con 0 de moral sufrirán la penalización de desmoralizada!
+#% cla That means if a boarding operation fails, you could be highly vulnerable to an enemy boarding attempt.
+cla Eso significa que si una operación de abordaje falla, pudieras ser muy vulnerable a un intento de abordaje enemigo.
 #% cha cla_squish_sad_smug_catopensm
 cha cla_squish_sad_smug_catopensm
-# cla Can you recruit all the girls to your party and unlock the True End?
-cla Can you recruit all the girls to your party and unlock the True End?
-# cla Good luck, captain! And remember... Your goddess is always looking after you!
-cla Good luck, captain! And remember... Your goddess is always looking after you!
+#% cla Can you recruit all the girls to your party and unlock the True End?
+cla ¿Puedes reclutar a todas las chicas en tu grupo y desbloquear el Final Verdadero?
+#% cla Good luck, captain! And remember... Your goddess is always looking after you!
+cla ¡Buena suerte, capitán! Y recuerda... ¡Tu diosa patrona siempre te está observando!
 #% flag
 flag
 #% stop
@@ -442,18 +442,18 @@ dbg spr_bg_sunriderbelowdeck
 mus mus_colors_chigara
 #% cha kay_neu_neutral_closed_smallsmil
 cha kay_neu_neutral_closed_smallsmil
-# kay (With Admiral Grey defeated for good and Pact's retreat back to the Asahi Isle, we've taken a huge step towards restoring peace to the realm...)
-kay (With Admiral Grey defeated for good and Pact's retreat back to the Asahi Isle, we've taken a huge step towards restoring peace to the realm...)
+#% kay (With Admiral Grey defeated for good and Pact's retreat back to the Asahi Isle, we've taken a huge step towards restoring peace to the realm...)
+kay (Con el Almirante Grey derrotado para siempre y el regreso del Pacto a la Isla Asahi, hemos tomado un paso enorme hacia la restauración de la paz en el reino...)
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
-# kay (Yet, I cannot help but feel like our tale's not yet over...)
-kay (Yet, I cannot help but feel like our tale's not yet over...)
-# kay (I should talk with one of the girls...)
-kay (I should talk with one of the girls...)
-# kay (Whoever I decide to talk to could have huge implications for the future.)
-kay (Whoever I decide to talk to could have huge implications for the future.)
-# kay (I better think this through and decide carefully...)
-kay (I better think this through and decide carefully...)
+#% kay (Yet, I cannot help but feel like our tale's not yet over...)
+kay (Sin embargo, no puedo evitar sentir que nuestra historia no ha acabado aún...)
+#% kay (I should talk with one of the girls...)
+kay (Debería hablar con una de las chicas...)
+#% kay (Whoever I decide to talk to could have huge implications for the future.)
+kay (Con quien decida hablar pudiera tener grandes implicaciones para el futuro.)
+#% kay (I better think this through and decide carefully...)
+kay (Mejor pienso esto bien y decido cuidadosamente...)
 #% dbg hide
 dbg hide
 #% flag
@@ -470,56 +470,56 @@ dbg spr_bg_sunriderbridge_night
 mus mus_hinokageri
 #% cha ava_armscrossed_surprised_wide_slight
 cha ava_armscrossed_surprised_wide_slight
-# ava Captain? I did not expect you to be making the rounds at this hour...
-ava Captain? I did not expect you to be making the rounds at this hour...
+#% ava Captain? I did not expect you to be making the rounds at this hour...
+ava ¿Capitán? No esperaba que estuviera haciendo las patrullas a esta hora...
 #% cha kay_neu_confuse_thinking_smirk
 cha kay_neu_confuse_thinking_smirk
-# kay Actually Ava, there's something I wanted to talk to you about...
-kay Actually Ava, there's something I wanted to talk to you about...
+#% kay Actually Ava, there's something I wanted to talk to you about...
+kay En realidad Ava, hay algo de lo que quería conversar contigo...
 #% cha ava_armup_focus_neutral_smalltalk
 cha ava_armup_focus_neutral_smalltalk
-# ava Yes, there certainly is much to discuss. With Queen Asaga's proclamation about the reformed Monolithic Truth, there will be countless High Elves who refuse to accept her decree and turn to Orks. I'd say our troubles may just be beginning...
-ava Yes, there certainly is much to discuss. With Queen Asaga's proclamation about the reformed Monolithic Truth, there will be countless High Elves who refuse to accept her decree and turn to Orks. I'd say our troubles may just be beginning...
+#% ava Yes, there certainly is much to discuss. With Queen Asaga's proclamation about the reformed Monolithic Truth, there will be countless High Elves who refuse to accept her decree and turn to Orks. I'd say our troubles may just be beginning...
+ava Sí, ciertamente hay mucho que discutir. Con la proclama de la Reina Asaga sobre la reformada Verdad Monolítica, habrá incontables Altos Elfos que se rehúsen a aceptar su decreto y convertirse en Orkos. Yo diría que nuestros problemas solo están comenzando...
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
-# kay I'm not talking about that, Ava.
-kay I'm not talking about that, Ava.
+#% kay I'm not talking about that, Ava.
+kay No estoy hablando de eso, Ava.
 #% cha ava_armup_surprised_wide_smalltalk
 cha ava_armup_surprised_wide_smalltalk
-# ava You're not...?
-ava You're not...?
+#% ava You're not...?
+ava ¿No...?
 #% cha kay_neu_sad_neutral_smile
 cha kay_neu_sad_neutral_smile
-# kay I want to talk about us.
-kay I want to talk about us.
+#% kay I want to talk about us.
+kay Quiero hablar de nosotros.
 #% cha ava_armup_surprised_surprise_smalltalk
 cha ava_armup_surprised_surprise_smalltalk
-# ava Us...?
-ava Us...?
+#% ava Us...?
+ava ¿Nosotros...?
 #% cha kay_neu_confuse_thinking_smile
 cha kay_neu_confuse_thinking_smile
-# kay You know, we make a good team together. But I'm not talking about us as just captain and first mate.
-kay You know, we make a good team together. But I'm not talking about us as just captain and first mate.
-# kay You're the one I've always counted on the most. I want us to be together forever, Ava.
-kay You're the one I've always counted on the most. I want us to be together forever, Ava.
-# kay Let's head to Cera after we're finished with business at Ryuvia and get married. It's really about time, isn't it?
-kay Let's head to Cera after we're finished with business at Ryuvia and get married. It's really about time, isn't it?
+#% kay You know, we make a good team together. But I'm not talking about us as just captain and first mate.
+kay Sabes, hacemos un buen equipo juntos. Pero no hablo de nosotros solo como capitán y primer oficial.
+#% kay You're the one I've always counted on the most. I want us to be together forever, Ava.
+kay Eres en quien más he podido contar siempre. Quiero que estemos juntos para siempre, Ava.
+#% kay Let's head to Cera after we're finished with business at Ryuvia and get married. It's really about time, isn't it?
+kay Dirijámonos a Cera luego de que hayamos terminado con los asuntos de Ryuvia y casémonos. Ya es realmente la hora, ¿no es así?
 #% cha ava_armup_surprised_surprise_smalltalk_blush
 cha ava_armup_surprised_surprise_smalltalk_blush
-# ava My... Kayto, I... well...
-ava My... Kayto, I... well...
+#% ava My... Kayto, I... well...
+ava Vaya... Kayto, yo... bueno...
 #% cha ava_armscrossed_raised_closedeye_opensmile_blush
 cha ava_armscrossed_raised_closedeye_opensmile_blush
-# ava ...Heh. Well, I suppose you've certainly earned it.
-ava ...Heh. Well, I suppose you've certainly earned it.
+#% ava ...Heh. Well, I suppose you've certainly earned it.
+ava ...Heh. Bueno, supongo que ciertamente te lo ganaste.
 #% cha ava_armscrossed_neutral_neutral_smirk_blush
 cha ava_armscrossed_neutral_neutral_smirk_blush
-# ava All right, Kayto. From now on, let's embark on our adventures as one.
-ava All right, Kayto. From now on, let's embark on our adventures as one.
+#% ava All right, Kayto. From now on, let's embark on our adventures as one.
+ava Muy bien, Kayto. De ahora en adelante, embarquémonos en nuestras aventuras como uno.
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
-# kay Yeah... As one.
-kay Yeah... As one.
+#% kay Yeah... As one.
+kay Sí... Como uno.
 #% flag
 flag
 #% stop
@@ -528,16 +528,16 @@ stop
 tag chap9_avaoutro
 #% dcg spr_cg_avaend
 dcg spr_cg_avaend
-# nar And so, Captain Kayto Shields and Ava returned to Cera to be happily wedded...
-nar And so, Captain Kayto Shields and Ava returned to Cera to be happily wedded...
-# nar All their family and friends were present to witness the momentous occasion.
-nar All their family and friends were present to witness the momentous occasion.
-# nar After a honey moon filled with what Ava termed "so many typical misadventures," the two of them returned to sea to embark on countless new adventures...
-nar After a honey moon filled with what Ava termed "so many typical misadventures," the two of them returned to sea to embark on countless new adventures...
-# nar Though they would encounter countless new villains in the years ahead, Kayto and Ava defeated them together.
-nar Though they would encounter countless new villains in the years ahead, Kayto and Ava defeated them together.
-# nar Kayto would captain the Sunrider on countless adventures to come, alongside his faithful first mate and wife, Ava...
-nar Kayto would captain the Sunrider on countless adventures to come, alongside his faithful first mate and wife, Ava...
+#% nar And so, Captain Kayto Shields and Ava returned to Cera to be happily wedded...
+nar Y así, el Capitán Kayto Shields y Ava regresaron a Cera para casarse felizmente...
+#% nar All their family and friends were present to witness the momentous occasion.
+nar Toda su familia y amigos estuvieron presentes para ser testigos de la momentánea ocasión.
+#% nar After a honey moon filled with what Ava termed "so many typical misadventures," the two of them returned to sea to embark on countless new adventures...
+nar Tras una luna de miel llena de lo que Ava denominó "tantas desgracias típicas", ambos regresaron al mar para embarcarse en incontables nuevas aventuras...
+#% nar Though they would encounter countless new villains in the years ahead, Kayto and Ava defeated them together.
+nar Aunque encontrarían incontables nuevos villanos en los próximos años, Kayto y Ava los derrotarían juntos.
+#% nar Kayto would captain the Sunrider on countless adventures to come, alongside his faithful first mate and wife, Ava...
+nar Kayto capitanearía al Sunrider en incontables próximas aventuras, junto a su leal primer oficial y esposa, Ava...
 #% flag
 flag
 #% stop
@@ -552,76 +552,76 @@ mus mus_hatsukoi
 dbg spr_bg_sunriderbridge_night
 #% cha asa_armup_confuse_narrow2_awkwardsm
 cha asa_armup_confuse_narrow2_awkwardsm
-# asa Oh, hey capt'n. Fancy seein' you at this hour...
-asa Oh, hey capt'n. Fancy seein' you at this hour...
+#% asa Oh, hey capt'n. Fancy seein' you at this hour...
+asa Oh, hola capitán. Qué raro verte a esta hora...
 #% cha kay_neu_confuse_thinking_smile
 cha kay_neu_confuse_thinking_smile
-# kay Actually Asaga, I was looking for you...
-kay Actually Asaga, I was looking for you...
+#% kay Actually Asaga, I was looking for you...
+kay En realidad Asaga, te estaba buscando...
 #% cha asa_shrug_sad_narrow2_awkwardsm
 cha asa_shrug_sad_narrow2_awkwardsm
-# asa Eh? You were?
-asa Eh? You were?
+#% asa Eh? You were?
+asa ¿Eh? ¿De verdad?
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
-# kay About what you told me earlier, about staying at Ryuvia once all of this was over... I've given it some thought.
-kay About what you told me earlier, about staying at Ryuvia once all of this was over... I've given it some thought.
+#% kay About what you told me earlier, about staying at Ryuvia once all of this was over... I've given it some thought.
+kay Acerca de lo que me contaste antes, sobre quedarme en Ryuvia cuando todo esto hubiera terminado... Lo he pensado.
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
-# kay And I've decided to accept your offer. Even though Admiral Grey is defeated, there will be countless other High Elves who will try to force you to cast the Final Tear.
-kay And I've decided to accept your offer. Even though Admiral Grey is defeated, there will be countless other High Elves who will try to force you to cast the Final Tear.
-# kay More than that, I want to stay with you, Asaga. Now, I know what you're thinking. It's a big responsibility to be with the Queen. But I want you to know, I'm not going to run away just because the going gets tough!
-kay More than that, I want to stay with you, Asaga. Now, I know what you're thinking. It's a big responsibility to be with the Queen. But I want you to know, I'm not going to run away just because the going gets tough!
+#% kay And I've decided to accept your offer. Even though Admiral Grey is defeated, there will be countless other High Elves who will try to force you to cast the Final Tear.
+kay Y he decidido aceptar tu oferta. Incluso si el Almirante Grey fue derrotado, todavía habrá incontables otros Altos Elfos que intentarán obligarte a lanzar la Final Tear.
+#% kay More than that, I want to stay with you, Asaga. Now, I know what you're thinking. It's a big responsibility to be with the Queen. But I want you to know, I'm not going to run away just because the going gets tough!
+kay Más que eso, quiero estar contigo, Asaga. Calma, sé lo que estás pensando. Es una gran responsabilidad estar con la Reina. ¡Pero quiero que sepas, que no voy a huir solo porque las cosas se pongan difíciles!
 #% cha asa_armscrossed_focus_wide_bigopensm
 cha asa_armscrossed_focus_wide_bigopensm
-# asa Oh, that's good to hear! But I wasn't thinkin' that all, capt'n! Heck, ya already had me at "I've decided to accept your offer!"
-asa Oh, that's good to hear! But I wasn't thinkin' that all, capt'n! Heck, ya already had me at "I've decided to accept your offer!"
+#% asa Oh, that's good to hear! But I wasn't thinkin' that all, capt'n! Heck, ya already had me at "I've decided to accept your offer!"
+asa ¡Oh, es bueno oír eso! ¡Pero no estaba pensando eso para nada, capitán! ¡Diablos, ya me tenías cuando dijiste "He decidido aceptar tu oferta"!
 #% cha asa_excited_angry_closedeye_catopensm
 cha asa_excited_angry_closedeye_catopensm
-# asa It's me who needs to stop running away. From now on, let's take on the entire world together!
-asa It's me who needs to stop running away. From now on, let's take on the entire world together!
+#% asa It's me who needs to stop running away. From now on, let's take on the entire world together!
+asa Soy yo quien necesita dejar de huir. ¡A partir de ahora, enfrentémonos al mundo entero juntos!
 #% cha asa_fist_angry_neutral_bigopensm
 cha asa_fist_angry_neutral_bigopensm
-# asa Then, will you rule Ryuvia side-by-side with me forever?
-asa Then, will you rule Ryuvia side-by-side with me forever?
+#% asa Then, will you rule Ryuvia side-by-side with me forever?
+asa Entonces, ¿gobernarás Ryuvia lado a lado conmigo para siempre?
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
-# kay I will.
-kay I will.
+#% kay I will.
+kay Lo haré.
 #% cha asa_excited_focus_wide_bigopensm
 cha asa_excited_focus_wide_bigopensm
-# asa Then good! We have so much old traditions to smash down and new reforms to pass. Oooh man, all the old geezers on the council of elders are gonna be SO upset. Well, if they haven't sprouted snouts already.
-asa Then good! We have so much old traditions to smash down and new reforms to pass. Oooh man, all the old geezers on the council of elders are gonna be SO upset. Well, if they haven't sprouted snouts already.
-# asa The first thing I'm gonna do is tear down the old drapery though. My father did have good sense in many things, but interior decor was never his strong suit... 
-asa The first thing I'm gonna do is tear down the old drapery though. My father did have good sense in many things, but interior decor was never his strong suit... 
+#% asa Then good! We have so much old traditions to smash down and new reforms to pass. Oooh man, all the old geezers on the council of elders are gonna be SO upset. Well, if they haven't sprouted snouts already.
+asa ¡Entonces bien! Tenemos tantas viejas tradiciones que destruir y nuevas reformas que aprobar. Oooh hombre, todos los vejestorios en el consejo de ancianos estarán TAN molestos. Bueno, si es que no les han salido hocicos ya.
+#% asa The first thing I'm gonna do is tear down the old drapery though. My father did have good sense in many things, but interior decor was never his strong suit... 
+asa Sin embargo lo primero que voy a hacer es quitar las viejas cortinas. Mi padre tenía un buen gusto en muchas cosas, pero decoración de interiores nunca fue su punto fuerte...
 #% cha kay_neu_confuse_thinking_smile
 cha kay_neu_confuse_thinking_smile
-# kay Sounds like we'll have our hands full...
-kay Sounds like we'll have our hands full...
+#% kay Sounds like we'll have our hands full...
+kay Suena a que tendremos nuestras manos llenas...
 #% cha asa_armup_confuse_neutral_laugh
 cha asa_armup_confuse_neutral_laugh
-# asa We'll also have to come up with a good lordly title for ya. The Hero of Far Port isn't going to cut it in the royal court...
-asa We'll also have to come up with a good lordly title for ya. The Hero of Far Port isn't going to cut it in the royal court...
+#% asa We'll also have to come up with a good lordly title for ya. The Hero of Far Port isn't going to cut it in the royal court...
+asa También tendremos que pensar en un buen título señorial para ti. El Héroe de Far Port no va a funcionar en la corte real...
 #% cha asa_fingerpoint_angry_narrow2_laugh_blush
 cha asa_fingerpoint_angry_narrow2_laugh_blush
-# asa How about the Lord of the Charged Vanguard?
-asa How about the Lord of the Charged Vanguard?
+#% asa How about the Lord of the Charged Vanguard?
+asa ¿Qué tal el Señor del Vanguard Cargado?
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
-# kay I think I'll pass on that...
-kay I think I'll pass on that...
+#% kay I think I'll pass on that...
+kay Creo que pasaré de ese...
 #% cha asa_bendover_focus_neutral_smirk
 cha asa_bendover_focus_neutral_smirk
-# asa Don't worry, I've got so many other ideas... How about the Lord of the Twin Tail Appreciators?
-asa Don't worry, I've got so many other ideas... How about the Lord of the Twin Tail Appreciators?
+#% asa Don't worry, I've got so many other ideas... How about the Lord of the Twin Tail Appreciators?
+asa No te preocupes, tengo tantas otras ideas... ¿Qué hay del Señor de los Apreciadores de Coletas?
 #% cha kay_neu_sad_closed_talk
 cha kay_neu_sad_closed_talk
-# kay Pass.
-kay Pass.
+#% kay Pass.
+kay Paso.
 #% cha asa_armup_sad_funnyclos_catopensm
 cha asa_armup_sad_funnyclos_catopensm
-# asa Aw man...
-asa Aw man...
+#% asa Aw man...
+asa Aw hombre...
 #% flag
 flag
 #% stop
@@ -630,20 +630,20 @@ stop
 tag chap9_asaoutro
 #% dcg spr_cg_asagaend
 dcg spr_cg_asagaend
-# nar Kayto Shields and Asaga were shortly thereafter wedded in a grand royal ceremony.
-nar Kayto Shields and Asaga were shortly thereafter wedded in a grand royal ceremony.
-# nar As King Consort of Ryuvia, Kayto helped his Queen pass countless edicts granting equal rights to the Maan and Demonfolk of Ryuvia.
-nar As King Consort of Ryuvia, Kayto helped his Queen pass countless edicts granting equal rights to the Maan and Demonfolk of Ryuvia.
-# nar The Elves of Ryuvia became mortal and eventually came to accept the truth of the Great Monolith. The reign of Queen Asaga restored prosperity to her once decaying lands, as people of all trades came to Ryuvia to co-exist in peace.
-nar The Elves of Ryuvia became mortal and eventually came to accept the truth of the Great Monolith. The reign of Queen Asaga restored prosperity to her once decaying lands, as people of all trades came to Ryuvia to co-exist in peace.
-# nar Yet, conflict brewed with Song, which clung to their old ways...
-nar Yet, conflict brewed with Song, which clung to their old ways...
-# nar As Song grew ever more corrupted, its hidden darkness was exposed to the world. The remaining Dark Elves came to rule over an ever growing Ork hoard which once again threatened the security of Halla...
-nar As Song grew ever more corrupted, its hidden darkness was exposed to the world. The remaining Dark Elves came to rule over an ever growing Ork hoard which once again threatened the security of Halla...
-# nar And so, Kayto and Asaga returned to sea with their old allies to deal with this new threat.
-nar And so, Kayto and Asaga returned to sea with their old allies to deal with this new threat.
-# nar However, the full account of that war is a story for another time...
-nar However, the full account of that war is a story for another time...
+#% nar Kayto Shields and Asaga were shortly thereafter wedded in a grand royal ceremony.
+nar Kayto Shields y Asaga se casaron poco después en una gran ceremonia real.
+#% nar As King Consort of Ryuvia, Kayto helped his Queen pass countless edicts granting equal rights to the Maan and Demonfolk of Ryuvia.
+nar Como Rey Consorte de Ryuvia, Kayto ayudó a su Reina a aprobar numerosos decretos garantizando igualdad de derechos a los Maan y Demonios de Ryuvia.
+#% nar The Elves of Ryuvia became mortal and eventually came to accept the truth of the Great Monolith. The reign of Queen Asaga restored prosperity to her once decaying lands, as people of all trades came to Ryuvia to co-exist in peace.
+nar Los Elfos de Ryuvia se volvieron mortales y eventualmente llegaron a aceptar la verdad del Gran Monolito. El reinado de la Reina Asaga restauró la prosperidad a su tierras alguna vez en decadencia, y personas de todos los oficios vinieron a Ryuvia a coexistir en paz.
+#% nar Yet, conflict brewed with Song, which clung to their old ways...
+nar Aun así, surgió un conflicto con Song, que se aferraba a sus antiguas costumbres...
+#% nar As Song grew ever more corrupted, its hidden darkness was exposed to the world. The remaining Dark Elves came to rule over an ever growing Ork hoard which once again threatened the security of Halla...
+nar A medida que Song se volvía cada vez más corrupto, su oscuridad interna fue expuesta al mundo. Los Elfos Oscuros restantes llegaron a gobernar sobre una creciente horda de Orkos que una vez más amenazó la seguridad de Halla...
+#% nar And so, Kayto and Asaga returned to sea with their old allies to deal with this new threat.
+nar Y así, Kayto y Asaga regresaron al mar con sus viejos aliados para encargarse de esta nueva amenaza.
+#% nar However, the full account of that war is a story for another time...
+nar Sin embargo, el relato completo de esa guerra es una historia para otro momento...
 #% flag
 flag
 #% stop
@@ -656,102 +656,102 @@ tag chap9_end_chi
 dbg spr_bg_sunriderbridge_night
 #% cha chi_armsbehind_raised_wide_smile
 cha chi_armsbehind_raised_wide_smile
-# chi Captain? Did you have something to say to Chigara?
-chi Captain? Did you have something to say to Chigara?
+#% chi Captain? Did you have something to say to Chigara?
+chi ¿Capitán? ¿Tenía algo que decirle a Chigara?
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
-# kay The night air certainly is refreshing... Certainly makes the challenges of sea travel worth it.
-kay The night air certainly is refreshing... Certainly makes the challenges of sea travel worth it.
+#% kay The night air certainly is refreshing... Certainly makes the challenges of sea travel worth it.
+kay El aire nocturno sí que es refrescante... Ciertamente hace que los desafíos de viajar por mar valgan la pena.
 #% cha chi_handonchest_raised_closedeye_smile
 cha chi_handonchest_raised_closedeye_smile
-# chi Eh-heh... It sure is...
-chi Eh-heh... It sure is...
+#% chi Eh-heh... It sure is...
+chi Eh-heh... Claro que sí...
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
-# kay Ahem...
-kay Ahem...
+#% kay Ahem...
+kay Ejem...
 #% cha chi_shocked_focus_funnyclos_yell_blush
 cha chi_shocked_focus_funnyclos_yell_blush
-# chi You know, Chigara wants to say something!
-chi You know, Chigara wants to say something!
+#% chi You know, Chigara wants to say something!
+chi ¡Sabes, Chigara quiere decir algo!
 #% cha chi_holdinghands_sad_wide2_smirk
 cha chi_holdinghands_sad_wide2_smirk
-# chi She's glad that we managed to save Alice! So... Thank you, captain!
-chi She's glad that we managed to save Alice! So... Thank you, captain!
+#% chi She's glad that we managed to save Alice! So... Thank you, captain!
+chi ¡Se alegra de que lográramos salvar a Alice! Entonces... ¡Gracias, capitán!
 #% cha kay_neu_focus_closed_smirk
 cha kay_neu_focus_closed_smirk
-# kay Hah, well, it was a piece of cake, really. So any time, Chigara.
-kay Hah, well, it was a piece of cake, really. So any time, Chigara.
+#% kay Hah, well, it was a piece of cake, really. So any time, Chigara.
+kay Hah, bueno, fue pan comido, la verdad. Así que cuando quieras, Chigara.
 #% cha chi_handtoface_sad_closedeye_smirk
 cha chi_handtoface_sad_closedeye_smirk
-# chi Thank goodness in the end, Alice never managed to take over my body or anything like that. Chigara was holding her breath for some really suspenseful moments back there...
-chi Thank goodness in the end, Alice never managed to take over my body or anything like that. Chigara was holding her breath for some really suspenseful moments back there...
+#% chi Thank goodness in the end, Alice never managed to take over my body or anything like that. Chigara was holding her breath for some really suspenseful moments back there...
+chi Gracias a dios que al final, Alice nunca logró controlar mi cuerpo ni nada parecido. Chigara estaba aguantando el aliento durante algunos momentos de verdadero suspense antes...
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
-# kay Haha, as if something that crazy would ever happen. There's no need for us to worry about something like that happening any more, Chigara.
-kay Haha, as if something that crazy would ever happen. There's no need for us to worry about something like that happening any more, Chigara.
+#% kay Haha, as if something that crazy would ever happen. There's no need for us to worry about something like that happening any more, Chigara.
+kay Haha, como si algo tan loco fuera a pasar. No hay necesidad de preocuparnos porque algo como eso vuelva a suceder, Chigara.
 #% cha chi_holdinghands_sad_funnyclos_smirk_blush
 cha chi_holdinghands_sad_funnyclos_smirk_blush
-# chi Yes, captain...
-chi Yes, captain...
+#% chi Yes, captain...
+chi Sí, capitán...
 #% cha chi_holdinghands_sad_wide2_smirk
 cha chi_holdinghands_sad_wide2_smirk
-# chi There is one other thing... Please listen carefully...
-chi There is one other thing... Please listen carefully...
+#% chi There is one other thing... Please listen carefully...
+chi Hay una cosa más... Por favor escuche con cuidado...
 #% cha chi_handonchest_raised_funnyclos_bigopensm_blush
 cha chi_handonchest_raised_funnyclos_bigopensm_blush
-# chi Once we arrive at Ryuvia, Chigara's finally going to pursue her dream of opening a bakery!
-chi Once we arrive at Ryuvia, Chigara's finally going to pursue her dream of opening a bakery!
+#% chi Once we arrive at Ryuvia, Chigara's finally going to pursue her dream of opening a bakery!
+chi ¡Cuando lleguemos a Ryuvia, Chigara finalmente perseguirá su sueño de abrir una pastelería!
 #% cha kay_neu_neutral_wide_smalltalk
 cha kay_neu_neutral_wide_smalltalk
-# kay Oh... Is that so? Well, I guess we'll be parting ways then...
-kay Oh... Is that so? Well, I guess we'll be parting ways then...
+#% kay Oh... Is that so? Well, I guess we'll be parting ways then...
+kay Oh... ¿De verdad? Bueno, supongo que nos separaremos entonces...
 #% cha chi_handtoface_raised_narrow_smile
 cha chi_handtoface_raised_narrow_smile
-# chi But before that, I'll have to sail with the captain throughout the world to collect all the necessary bakery ingredients!
-chi But before that, I'll have to sail with the captain throughout the world to collect all the necessary bakery ingredients!
+#% chi But before that, I'll have to sail with the captain throughout the world to collect all the necessary bakery ingredients!
+chi ¡Pero antes de eso, tendré que navegar con el capitán por todo el mundo recolectado todos los ingredientes para hornear necesarios!
 #% cha chi_handtoface_neutral_funnyclos_bigopensm_blush
 cha chi_handtoface_neutral_funnyclos_bigopensm_blush
-# chi Chigara never knew how many ingredients there are to be found on the high seas! She'll need the captain's help more than ever!
-chi Chigara never knew how many ingredients there are to be found on the high seas! She'll need the captain's help more than ever!
+#% chi Chigara never knew how many ingredients there are to be found on the high seas! She'll need the captain's help more than ever!
+chi ¡Chigara nunca supo cuántos ingredientes se pueden hallar en alta mar! ¡Necesitará la ayuda del capitán más que nunca!
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
-# kay Hah, I see...
-kay Hah, I see...
+#% kay Hah, I see...
+kay Hah, ya veo...
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
-# kay Well then, I look forward to sailing with you for a while longer.
-kay Well then, I look forward to sailing with you for a while longer.
+#% kay Well then, I look forward to sailing with you for a while longer.
+kay En fin, espero con ansias navegar contigo por un tiempo más.
 #% cha chi_handonchest_sad_narrow_smallopen_blush
 cha chi_handonchest_sad_narrow_smallopen_blush
-# chi Ummm... Once Chigara's found all her ingredients though...
-chi Ummm... Once Chigara's found all her ingredients though...
+#% chi Ummm... Once Chigara's found all her ingredients though...
+chi Ummm... Sin embargo cuando Chigara haya encontrado todos sus ingredientes...
 #% cha chi_handonchest_sad_closedeye_bigopensm_blush
 cha chi_handonchest_sad_closedeye_bigopensm_blush
-# chi Will the captain want to run the bakery together with me?
-chi Will the captain want to run the bakery together with me?
+#% chi Will the captain want to run the bakery together with me?
+chi ¿Querría el capitán llevar la pastelería junto a mí?
 #% cha kay_neu_neutral_wide_smalltalk
 cha kay_neu_neutral_wide_smalltalk
-# kay I see... I see... Well, that would be quite a challenge...
-kay I see... I see... Well, that would be quite a challenge...
+#% kay I see... I see... Well, that would be quite a challenge...
+kay Ya veo... Ya veo... Bueno, eso sería un gran desafío...
 #% cha kay_neu_neutral_closed2_smallopen
 cha kay_neu_neutral_closed2_smallopen
-# kay But it would be my honor!
-kay But it would be my honor!
+#% kay But it would be my honor!
+kay ¡Pero será mi honor!
 #% cha chi_shocked_neutral_wide1_bigtalk_blush
 cha chi_shocked_neutral_wide1_bigtalk_blush
-# chi E-Eh?! The captain's okay with it so easily?!
-chi E-Eh?! The captain's okay with it so easily?!
+#% chi E-Eh?! The captain's okay with it so easily?!
+chi ¡¿E-Eh?! ¡¿El capitán está de acuerdo con eso tan fácilmente?!
 #% cha kay_neu_neutral_closed2_smallopen
 cha kay_neu_neutral_closed2_smallopen
-# kay Of course! I know how important your dream of opening a bakery is to you. I will not make light of your resolve.
-kay Of course! I know how important your dream of opening a bakery is to you. I will not make light of your resolve.
-# kay Let's open a bakery together, Chigara!
-kay Let's open a bakery together, Chigara!
+#% kay Of course! I know how important your dream of opening a bakery is to you. I will not make light of your resolve.
+kay ¡Por supuesto! Sé cuánto te importa tu sueño de abrir una pastelería. No tomaré a la ligera tu determinación...
+#% kay Let's open a bakery together, Chigara!
+kay ¡Abramos una pastelería juntos, Chigara!
 #% cha chi_armsdown_raised_closedeye_bigopensm_blush
 cha chi_armsdown_raised_closedeye_bigopensm_blush
-# chi Yes, let's!
-chi Yes, let's!
+#% chi Yes, let's!
+chi ¡Sí, hagámoslo!
 #% flag
 flag
 #% stop
@@ -760,18 +760,18 @@ stop
 tag chap9_chioutro
 #% dcg spr_cg_chigaraend
 dcg spr_cg_chigaraend
-# nar And so Captain Kayto Shields and Chigara sailed the high seas for many years, collecting legendary bakery ingredients from across the world...
-nar And so Captain Kayto Shields and Chigara sailed the high seas for many years, collecting legendary bakery ingredients from across the world...
-# nar After the ship's hold was packed to the brim with ingredients, they sailed back to Ryuvia, where they proudly opened Chigara's Bakery!
-nar After the ship's hold was packed to the brim with ingredients, they sailed back to Ryuvia, where they proudly opened Chigara's Bakery!
-# nar Ryuvians flocked to the bakery to sample all the exotic pastries. Some customers even suggested that the bread might have unexpected medicinal benefits...
-nar Ryuvians flocked to the bakery to sample all the exotic pastries. Some customers even suggested that the bread might have unexpected medicinal benefits...
-# nar It was only a matter of time until travelers arrived from all over the world to try Chigara's creations...
-nar It was only a matter of time until travelers arrived from all over the world to try Chigara's creations...
-# nar Kayto and Chigara realized they would have to expand the scope of their operations to fulfill the demand...
-nar Kayto and Chigara realized they would have to expand the scope of their operations to fulfill the demand...
-# nar And that was how Kayto found himself the viceroy of a vast merchant fleet transporting bakery goods all throughout Halla!
-nar And that was how Kayto found himself the viceroy of a vast merchant fleet transporting bakery goods all throughout Halla!
+#% nar And so Captain Kayto Shields and Chigara sailed the high seas for many years, collecting legendary bakery ingredients from across the world...
+nar Y así el Capitán Kayto Shields y Chigara partieron a alta mar por muchos años, recolectando ingredientes de pastelería legendarios por todo el mundo...
+#% nar After the ship's hold was packed to the brim with ingredients, they sailed back to Ryuvia, where they proudly opened Chigara's Bakery!
+nar ¡Después de que la nave estuviera repleta hasta el borde de ingredientes, navegaron de vuelta a Ryuvia, donde abrieron orgullosamente la Pastelería de Chigara!
+#% nar Ryuvians flocked to the bakery to sample all the exotic pastries. Some customers even suggested that the bread might have unexpected medicinal benefits...
+nar Los Ryuvianos acudieron en masa a la pastelería para probar todos los pasteles exóticos. Algunos clientes incluso sugirieron que el pan podría tener beneficios medicinales inesperados...
+#% nar It was only a matter of time until travelers arrived from all over the world to try Chigara's creations...
+nar Fue solo cuestión de tiempo hasta que viajeros de todo el mundo probaran las creaciones de Chigara...
+#% nar Kayto and Chigara realized they would have to expand the scope of their operations to fulfill the demand...
+nar Kayto y Chigara se dieron cuenta de que tendrían que expandir el alcance de sus operaciones para cumplir la demanda...
+#% nar And that was how Kayto found himself the viceroy of a vast merchant fleet transporting bakery goods all throughout Halla!
+nar ¡Y así fue como Kayto se encontró convertido en el virrey de una vasta flota mercante que transportaba productos de pastelería por toda Halla!
 #% flag
 flag
 #% stop
@@ -787,67 +787,67 @@ dbg spr_bg_sunriderbridge_night
 #% cha mar_lean_confuse_neutral_slight
 cha mar_lean_confuse_neutral_slight
 # mar Eh? What are you doin' bro?
-mar Eh? What are you doin' bro?
+mar ¿Eh? ¿Qué estás haciendo hermano?
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay Nothing. I just thought I'd make my rounds...
-kay Nothing. I just thought I'd make my rounds...
+kay Nada. Solo pensé que haría mis rondas...
 #% cha mar_lean_confuse_smug_smirk
 cha mar_lean_confuse_smug_smirk
 # mar Oh...? Eh-heh... I see, I see....
-mar Oh...? Eh-heh... I see, I see....
+mar ¿Oh...? Eh-heh... Ya veo, ya veo...
 # mar So big bro failed to win the hearts of any of the other women on board the ship, so he's come to his little sister to complain, eh...
-mar So big bro failed to win the hearts of any of the other women on board the ship, so he's come to his little sister to complain, eh...
+mar Así que mi hermano ha fallado en ganarse el corazón de alguna de las otras mujeres a bordo de la nave, por lo que ha venido con su hermanita para quejarse, eh...
 #% cha kay_neu_confuse_narrowloo_smallopen
 cha kay_neu_confuse_narrowloo_smallopen
 # kay Oy... Stop. I'm a pretty popular man, I would say. I've even had some women chase me across the map...
-kay Oy... Stop. I'm a pretty popular man, I would say. I've even had some women chase me across the map...
+kay Oy... Detente. Soy un hombre bastante popular, diría yo. Incluso he tenido a algunas mujeres persiguiéndome por el mapa.
 # kay Maybe I should go chat with Chigara instead...
-kay Maybe I should go chat with Chigara instead...
+kay Tal vez debería ir a hablar con Chigara en cambio...
 #% cha mar_lean_sad_wide2_cry
 cha mar_lean_sad_wide2_cry
 # mar Wait, wait, stop! Okay, okay, sorry... Siggh... I can't believe you, Kayto...
-mar Wait, wait, stop! Okay, okay, sorry... Siggh... I can't believe you, Kayto...
+mar ¡Espera, espera, alto! Okey, okey, lo siento... Haaah... No puedo creerte, Kayto...
 #% cha mar_neu_focus_neutral_smile
 cha mar_neu_focus_neutral_smile
 # mar You know, I did pretty fine on my very first adventure with you, right?
-mar You know, I did pretty fine on my very first adventure with you, right?
+mar Sabes, lo hice bastante bien en mi primera aventura contigo, ¿cierto?
 #% cha mar_excited_raised_closedeye_bigopensm
 cha mar_excited_raised_closedeye_bigopensm
 # mar We managed to save dad and take down the big bad guy! Kapow!
-mar We managed to save dad and take down the big bad guy! Kapow!
+mar ¡Logramos salvar a papá y acabar con el gran tipo malo! ¡Pum!
 #% cha mar_lean_confuse_smug_smirk
 cha mar_lean_confuse_smug_smirk
 # mar So... how about taking me along for your adventures from now?
-mar So... how about taking me along for your adventures from now?
+mar Así que... ¿qué te parece llevarme a tus aventuras a partir de ahora?
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
 # kay Sigh... You know what, Maray? About that...
-kay Sigh... You know what, Maray? About that...
+kay Haah... ¿Sabes qué, Maray? Respecto a eso...
 #% cha kay_neu_sad_narrowloo_smalltalk
 cha kay_neu_sad_narrowloo_smalltalk
 # kay I've been thinking... All this time, I swore I'd be different from my dad. But in the end, I'm turning out exactly like him. And I don't want that.
-kay I've been thinking... All this time, I swore I'd be different from my dad. But in the end, I'm turning out exactly like him. And I don't want that.
+kay He estado pensando... Todo este tiempo, juré que sería diferente a mi papá. Pero al final, me estoy volviendo exactamente como él. Y no quiero eso.
 # kay I'm thinking of settling down in Cera after we've finished our business in Ryuvia. I want the two of us to be able to live together with dad from now, as a family.
-kay I'm thinking of settling down in Cera after we've finished our business in Ryuvia. I want the two of us to be able to live together with dad from now, as a family.
+kay Estoy pensando en quedarme en Cera luego de que hayamos terminado nuestros asuntos en Ryuvia. Quiero que nosotros dos seamos capaces de vivir juntos con papá a partir de ahora, como una familia.
 #% cha mar_excited_raised_wide2_smalltalk
 cha mar_excited_raised_wide2_smalltalk
 # mar Woah... Is that really you, Kayto?
-mar Woah... Is that really you, Kayto?
+mar Woah... ¿Realmente eres tú, Kayto?
 # mar But what about saving the world? Who's gonna do that?
-mar But what about saving the world? Who's gonna do that?
+mar ¿Pero qué hay de salvar al mundo? ¿Quién va a hacer eso?
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
 # kay I'm confident the world can work its problems out without me. Besides, you and dad are much more important.
-kay I'm confident the world can work its problems out without me. Besides, you and dad are much more important.
+kay Confío en que el mundo puede resolver sus problemas sin mí. Aparte, tú y papá son mucho más importantes.
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay Let's go home, Maray...
-kay Let's go home, Maray...
+kay Vayamos a casa, Maray...
 #% cha mar_excited_raised_closedeye_bigopensm
 cha mar_excited_raised_closedeye_bigopensm
 # mar All right!! Let's go home!
-mar All right!! Let's go home!
+mar ¡¡!Está bien! ¡Vayamos a casa!
 #% flag
 flag
 #% stop
@@ -857,15 +857,15 @@ tag chap9_maroutro
 #% dcg spr_cg_marayend
 dcg spr_cg_marayend
 # nar And so, Captain Kayto Shields retired into quiet obscurity with Maray at his dainty seaside hometown...
-nar And so, Captain Kayto Shields retired into quiet obscurity with Maray at his dainty seaside hometown...
+nar Y así, el Capitán Kayto Shields se retiró a la oscuridad silenciosa con Maray en el elegante pueblo costero de su hogar...
 # nar The two of them dragged their father away from his misbegotten ways and forced him to move in with them - after settling his numerous tavern and gambling debts...
-nar The two of them dragged their father away from his misbegotten ways and forced him to move in with them - after settling his numerous tavern and gambling debts...
+nar Ambos alejaron a su padre lejos de sus malos hábitos y lo forzaron a mudarse con ellos - tras resolver sus numerosas deudas de tabernas y apuestas...
 # nar Ava was always there for them as well, as the new village mayor.
-nar Ava was always there for them as well, as the new village mayor.
+nar Ava siempre estuvo ahí para ellos también, como la nueva alcaldesa de la aldea.
 # nar Though the course of history ran on, their little community never found itself the center of attention ever again...
-nar Though the course of history ran on, their little community never found itself the center of attention ever again...
+nar Aunque el curso de la historia continuó, su pequeña comunidad nunca jamás se encontró en el centro de atención otra vez...
 # nar Kayto Shields, once known as the Hero of Far Port, returned home from the war and lived happily ever after as a simple family man...
-nar Kayto Shields, once known as the Hero of Far Port, returned home from the war and lived happily ever after as a simple family man...
+nar Kayto Shields, una vez conocido como el Héroe de Far Port, regresó a su hogar de la guerra y vivió feliz para siempre como un simple hombre de familia...
 #% flag
 flag
 #% stop
@@ -879,89 +879,89 @@ dbg spr_bg_sunriderbridge_night
 #% cha ica_back_confuse_neutral_smallsmil
 cha ica_back_confuse_neutral_smallsmil
 # ica Fancy seeing you at this hour, cap. You need something?
-ica Fancy seeing you at this hour, cap. You need something?
+ica Qué raro verte a esta hora, capitán. ¿Necesitas algo?
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay I only wanted to talk, Icari...
-kay I only wanted to talk, Icari...
+kay Solo quería hablar, Icari...
 #% cha ica_back_raised_closedeye_smalltalk
 cha ica_back_raised_closedeye_smalltalk
 # ica I guess we all have a lot to talk about, considering everything that's happened...
-ica I guess we all have a lot to talk about, considering everything that's happened...
+ica Supongo que todos tenemos un montón de lo que conversar, considerando todo lo que ha sucedido...
 #% cha ica_armscrossed_worry_closedeye_slight
 cha ica_armscrossed_worry_closedeye_slight
 # ica Sigh... In the end, I never was able to avenge my father. To think he was killed by the ghost of an ancient dead Sharr...
-ica Sigh... In the end, I never was able to avenge my father. To think he was killed by the ghost of an ancient dead Sharr...
+ica Haah... Al final, nunca fui capaz de vengar a mi padre. Pensar que fue asesinado por el fantasma de una antigua Sharr muerta...
 # ica All this time, all I ever wanted to kill the Veniczar... But now, my revenge seems insignificant compared to the massive web of conspiracies we uncovered...
-ica All this time, all I ever wanted to kill the Veniczar... But now, my revenge seems insignificant compared to the massive web of conspiracies we uncovered...
+ica Todo este tiempo, todo lo que quise fue matar al Veniczar... Pero ahora, mi venganza parece insignificante comparada con la enorme red de conspiraciones que descubrimos...
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
 # kay That sort of thing does seem to happen quite often with me...
-kay That sort of thing does seem to happen quite often with me...
+kay Ese tipo de cosas parece ocurrirme a menudo...
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 # kay But I'm glad you are no longer blinded by your mission for vengeance. In truth, it may be better to move on.
-kay But I'm glad you are no longer blinded by your mission for vengeance. In truth, it may be better to move on.
+kay Pero me alegro que ya no estés cegada por tu misión de venganza más. En verdad, sería mejor seguir adelante.
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay What matters is that we have exorcised the ghost of Sharr Myren. Now, it's time for the living to figure out what to do next...
-kay What matters is that we have exorcised the ghost of Sharr Myren. Now, it's time for the living to figure out what to do next...
+kay Lo que importa es que hemos exorcizado al fantasma de la Sharr Myren. Ahora, es momento de que los vivos descubran qué hacer luego...
 #% cha ica_armscrossed_neutral_closedeye_smalltalk
 cha ica_armscrossed_neutral_closedeye_smalltalk
 # ica What to do next, huh...
-ica What to do next, huh...
+ica Qué hacer luego, huh...
 #% cha ica_handsonhips_neutral_neutral_smirk
 cha ica_handsonhips_neutral_neutral_smirk
 # ica I've been giving that a lot of thought. You know cap, you saw first hand how important a role mercenaries played in this war, right?
-ica I've been giving that a lot of thought. You know cap, you saw first hand how important a role mercenaries played in this war, right?
+ica He estado pensando en eso bastante. Sabes capitán, viste de primera mano el papel importante que jugaron los mercenarios en esta guerra, ¿cierto?
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 # kay Indeed, they did make the difference between victory and defeat on more than one occasion...
-kay Indeed, they did make the difference between victory and defeat on more than one occasion...
+kay Sin duda, marcaron la diferencia entre la victoria y la derrota en más de una ocasión...
 #% cha ica_handsonhips_focus_neutral_smalltalk
 cha ica_handsonhips_focus_neutral_smalltalk
 # ica Well, even though Admiral Grey's defeated, that doesn't mean the rest of the Song's just going to go down without a fight.
-ica Well, even though Admiral Grey's defeated, that doesn't mean the rest of the Song's just going to go down without a fight.
+ica Bueno, incluso si el Almirante Grey fue derrotado, eso no significa que el resto de Song simplemente vaya a caer sin una lucha.
 # ica With their religious doctrine on the line, I think they'll fight to the bitter end to enforce their version of the Monolithic Truth...
-ica With their religious doctrine on the line, I think they'll fight to the bitter end to enforce their version of the Monolithic Truth...
+ica Con su doctrina religiosa en juego, creo que lucharán hasta el amargo final para imponer su versión de la Verdad Monolítica...
 #% cha ica_handsonhips_neutral_neutral_smirk
 cha ica_handsonhips_neutral_neutral_smirk
 # ica That's where I'm hoping to come in. The realm's gonna need mercenaries to deal with what's gonna come. That's why I'm gonna head the Mercenary Guild myself.
-ica That's where I'm hoping to come in. The realm's gonna need mercenaries to deal with what's gonna come. That's why I'm gonna head the Mercenary Guild myself.
+ica Es ahí donde espero entrar. El reino necesitará mercenarios para encargarse de lo que está por venir. Es por eso que dirigiré el Gremio Mercenario yo misma.
 #% cha ica_back_sad_neutral_3mouth
 cha ica_back_sad_neutral_3mouth
 # ica It's just... I guess I'm looking for a partner. Someone who's worked with lots of mercenaries before who has a half decent sense of battlefield tactics...
-ica It's just... I guess I'm looking for a partner. Someone who's worked with lots of mercenaries before who has a half decent sense of battlefield tactics...
+ica Es solo que... Supongo que estoy buscando un compañero. Alguien que haya trabajado con montones de mercenarios antes y tenga un sentido medianamente decente de tácticas en el campo de batalla...
 #% cha kay_neu_raised_wide_talk
 cha kay_neu_raised_wide_talk
 # kay Huh... Well, I think I fit the bill!
-kay Huh... Well, I think I fit the bill!
+kay Huh... ¡Bueno, creo que soy adecuado!
 #% cha ica_surprised_annoyed_surprise_yell
 cha ica_surprised_annoyed_surprise_yell
 # ica W-Well, t-too bad! N-Not that I even wanted you in the first pla- Wait what?!
-ica W-Well, t-too bad! N-Not that I even wanted you in the first pla- Wait what?!
+ica ¡B-Bueno, q-qué mal! N-No es como si te hubiera querido en primer lug- ¡¿Espera qué?!
 #% cha ica_surprised_surprised_wide_smallopen_blush
 cha ica_surprised_surprised_wide_smallopen_blush
 # ica You're actually fine with heading the Mercenary Guild with me?!
-ica You're actually fine with heading the Mercenary Guild with me?!
+ica ¡¿En serio estás bien con dirigir el Gremio Mercenario conmigo?!
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
 # kay Of course! I had no intention of retiring from my privateering days in the first place, and we are in dire need of crew. What better path forward is there but to operate our very own Mercenary Guild! All within the bounds of the law, of course.
-kay Of course! I had no intention of retiring from my privateering days in the first place, and we are in dire need of crew. What better path forward is there but to operate our very own Mercenary Guild! All within the bounds of the law, of course.
+kay ¡Por supuesto! No tenía ninguna intención de retirarme de mis días de corsario en primer lugar, y necesitamos urgentemente tripulación. ¡Qué mejor camino adelante hay que operar nuestro propio Gremio Mercenario! Todo dentro de los límites de la ley, por supuesto.
 #% cha ica_point_sad_surprise_cry_blush
 cha ica_point_sad_surprise_cry_blush
 # ica H-Eeeeh?! I thought you'd turn me down for sure!
-ica H-Eeeeh?! I thought you'd turn me down for sure!
+ica ¡¿H-Eeeeh?! ¡Pensaba que me rechazarías de seguro!
 #% cha kay_neu_focus_closed_bigopensm
 cha kay_neu_focus_closed_bigopensm
 # kay Of course not, Icari! In fact, I believe we shall share a bright future together!
-kay Of course not, Icari! In fact, I believe we shall share a bright future together!
+kay ¡Por supuesto que no, Icari! ¡De hecho, creo que compartiremos un futuro brillante juntos!
 #% cha ica_surprised_worry_widesmall_bigopensm_blush
 cha ica_surprised_worry_widesmall_bigopensm_blush
 # ica Share... a bright future... together...
-ica Share... a bright future... together...
+ica Compartiremos... un futuro brillante... juntos...
 # ica Oh father... Please give your daughter strength...
-ica Oh father... Please give your daughter strength...
+ica Oh padre... Por favor dale fuerza a tu hija...
 #% flag
 flag
 #% stop
@@ -971,13 +971,13 @@ tag chap9_icaoutro
 #% dcg spr_cg_icariend
 dcg spr_cg_icariend
 # nar And so, it came to pass that Captain Kayto Shields and Icari became the co-heads of the Mercenary Guild...
-nar And so, it came to pass that Captain Kayto Shields and Icari became the co-heads of the Mercenary Guild...
+nar Y así, llegó a pasar que el Capitán Kayto Shields e Icari se volvieron colíderes del Gremio Mercenario...
 # nar Thanks to their fame, Kayto and Icari recruited skilled warriors from across the realm. In the years ahead, their mercenaries gained a reputation for their might, matched only by their immaculate professionalism.
-nar Thanks to their fame, Kayto and Icari recruited skilled warriors from across the realm. In the years ahead, their mercenaries gained a reputation for their might, matched only by their immaculate professionalism.
+nar Gracias a su fama, Kayto e Icari reclutaron guerreros hábiles por todo el reino. En los años venideros, sus mercenarios ganaron una reputación por su poder, rivalizado solo por su inmaculado profesionalismo.
 # nar Icari forever left her mark on the mercenary profession by passing an extensive Code of Conduct during her long tenure as head, which would one day influence the creation of the laws governing warfare.
-nar Icari forever left her mark on the mercenary profession by passing an extensive Code of Conduct during her long tenure as head, which would one day influence the creation of the laws governing warfare.
+nar Icari dejó para siempre su marca en la profesión mercenaria al dejar un extensivo Código de Conducta durante su largo tiempo como líder, el cual un día influenciaría la creación de las leyes que gobernarían la guerra.
 # nar Kayto became the admiral of the largest privateer fleet in Halla, his exploits to forever be remembered in song and legend...
-nar Kayto became the admiral of the largest privateer fleet in Halla, his exploits to forever be remembered in song and legend...
+nar Kayto se volvió el almirante de la flota corsaria más grande en Halla, con sus hazañas recordadas para siempre en canciones y leyendas...
 #% flag
 flag
 #% stop
@@ -991,81 +991,81 @@ dbg spr_bg_sunriderbridge_night
 #% cha kry_armdown_focus_neutral_smallopen
 cha kry_armdown_focus_neutral_smallopen
 # kry Greetings, captain! What news do you have at this hour?
-kry Greetings, captain! What news do you have at this hour?
+kry ¡Saludos, capitán! ¿Qué noticias tienes a esta hora?
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay No news, Kryska. I just wanted to talk...
-kay No news, Kryska. I just wanted to talk...
+kay Ninguna noticia, Kryska. Solo quería hablar...
 #% cha kry_armdown_focus_closedeye_neutral
 cha kry_armdown_focus_closedeye_neutral
 # kry Indeed, with all that has happened, I had been meaning to speak as well...
-kry Indeed, with all that has happened, I had been meaning to speak as well...
+kry Sin duda, con todo lo que ha sucedido, he estado queriendo conversar también...
 #% cha kry_armdown_sad_neutrallo_smalltalk
 cha kry_armdown_sad_neutrallo_smalltalk
 # kry So in the end, the Monolithic Truth was nothing but an ancient sham created by the high elders who first discovered a path to immortality...
-kry So in the end, the Monolithic Truth was nothing but an ancient sham created by the high elders who first discovered a path to immortality...
+kry Así que al final, la Verdad Monolítica no era más que un engaño antiguo creado por los grandes ancianos que primero descubrieron una vía a la inmortalidad...
 # kry I saw the real Monolith of Truth with my own eyes. I now know the true, dark history of our people...
-kry I saw the real Monolith of Truth with my own eyes. I now know the true, dark history of our people...
+kry Vi el verdadero Monolito de la Verdad con mis propios ojos. Ahora sé la verdadera, y oscura historia de nuestro pueblo...
 # kry ...Like how we created the Sharr cycle to designate someone as our sacrifice whenever our monoliths are nearly full with corruption... And how we used the so-called Monolithic Truth to create a world order where we would hold all the positions of power.
-kry ...Like how we created the Sharr cycle to designate someone as our sacrifice whenever our monoliths are nearly full with corruption... And how we used the so-called Monolithic Truth to create a world order where we would hold all the positions of power.
+kry ...Como cómo creamos el ciclo de la Sharr para designar a alguien como nuestro sacrificio siempre que nuestros monolitos estuviesen casi llenos de corrupción... Y cómo utilizamos al supuesto Monolito de la Verdad para crear un orden del mundo en el que ocupásemos todas las posiciones de poder.
 #% cha kry_fistup_worry_narrow_clench
 cha kry_fistup_worry_narrow_clench
 # kry At first, I was so ashamed of my own people upon discovering the truth that I even considered cutting off my own ears!
-kry At first, I was so ashamed of my own people upon discovering the truth that I even considered cutting off my own ears!
+kry ¡Al principio, estaba tan avergonzada de mi propio pueblo al descubrir la verdad que incluso consideré cortarme mis propias orejas!
 #% cha kay_neu_raised_wide_talk
 cha kay_neu_raised_wide_talk
 # kay C-Cutting off your own ears?! Hold, Kryska! There is no need to resort to self-mutilation...
-kay C-Cutting off your own ears?! Hold, Kryska! There is no need to resort to self-mutilation...
+kay ¡¿C-Cortarte tus propias orejas?! ¡Un momento, Kryska! No hay necesidad de que recurras a la automutilación...
 #% cha kry_fistup_raised_neutral_smile
 cha kry_fistup_raised_neutral_smile
 # kry Of course, captain! In fact, that is the very next thing I realized!
-kry Of course, captain! In fact, that is the very next thing I realized!
+kry ¡Por supuesto, capitán! ¡De hecho, eso es lo próximo de lo que me di cuenta!
 #% cha kry_fistup_focus_neutral_bigopensm
 cha kry_fistup_focus_neutral_bigopensm
 # kry Instead of lamenting our sins, I have resolved to help Queen Asaga reform the Church of Ryuvia!
-kry Instead of lamenting our sins, I have resolved to help Queen Asaga reform the Church of Ryuvia!
+kry ¡En lugar de lamentar nuestros pecados, he decidido ayudar a la Reina Asaga a reformar la Iglesia de Ryuvia!
 # kry No longer shall we preach the lies that the Talbur and the Song perpetuate! We must spread the true words of the Great Monolith, as shameful as they may be!
-kry No longer shall we preach the lies that the Talbur and the Song perpetuate! We must spread the true words of the Great Monolith, as shameful as they may be!
+kry ¡Ya no sermonearemos más las mentiras que el Talbur y Song perpetuaron! ¡Debemos promulgar las verdaderas palabras del Gran Monolito, sin importar cuán vergonzosas puedan ser!
 # kry We must preach a new faith, that no matter our age, we still have much to learn from the other races!
-kry We must preach a new faith, that no matter our age, we still have much to learn from the other races!
+kry ¡Debemos sermonear una nueva fe, que sin importar nuestra edad, todavía tenemos mucho que aprender de las otras razas!
 #% cha kry_armdown_focus_closedeye_neutral
 cha kry_armdown_focus_closedeye_neutral
 # kry Countless High Elves will continue to declare themselves superior... Believe me, I was one of them.
-kry Countless High Elves will continue to declare themselves superior... Believe me, I was one of them.
+kry Incontables Altos Elfos continuarán declarándose superiores... Créeme, yo fui uno de ellos.
 #% cha kry_armdown_focus_neutral_smalltalk
 cha kry_armdown_focus_neutral_smalltalk
 # kry I understand now that we believed in the fake Monolithic Truth simply because it made us feel strong. We were arrogant and emotional. Though we claimed to be the learned race, it was us who were acting as children...
-kry I understand now that we believed in the fake Monolithic Truth simply because it made us feel strong. We were arrogant and emotional. Though we claimed to be the learned race, it was us who were acting as children...
+kry Entiendo ahora que creímos en la falsa Verdad Monolítica simplemente porque nos hacía sentir fuertes. Fuimos arrogantes y emocionales. Aunque afirmábamos ser la raza culta, fuimos nosotros quienes actuamos como niños...
 #% cha kay_neu_neutral_thinking_smile
 cha kay_neu_neutral_thinking_smile
 # kay I see... That certainly sounds like quite the mission...
-kay I see... That certainly sounds like quite the mission...
+kay Ya veo... Eso ciertamente suena como una gran misión...
 #% cha kry_fistup_raised_neutral_smile
 cha kry_fistup_raised_neutral_smile
 # kry It will be difficult, perhaps even impossible to achieve...
-kry It will be difficult, perhaps even impossible to achieve...
+kry Será difícil, quizás incluso imposible de lograr...
 # kry Yet, I believe this is the only way we may atone for the lies we have perpetuated...
-kry Yet, I believe this is the only way we may atone for the lies we have perpetuated...
+kry Aun así, creo que esta es la única forma en la que podamos expiar las mentiras que hemos perpetuado...
 #% cha kry_fistup_neutral_closedeye_bigopensm
 cha kry_fistup_neutral_closedeye_bigopensm
 # kry ...That is why I ask for your hand in accomplishing this feat!
-kry ...That is why I ask for your hand in accomplishing this feat!
+kry ¡...Es por eso que te pido tu mano para lograr esta hazaña!
 #% cha kay_neu_raised_wide_talk
 cha kay_neu_raised_wide_talk
 # kay M-My hand?!
-kay M-My hand?!
+kay ¡¿M-Mi mano?!
 #% cha kry_armout_angry_neutral_bigopensm
 cha kry_armout_angry_neutral_bigopensm
 # kry Indeed, your hand, captain!
-kry Indeed, your hand, captain!
+kry ¡Así es, tu mano, capitán!
 # kry Though Admiral Grey may be defeated, I believe our true mission of changing the Song Alliance has only begun! Will you assist me on this quest?
-kry Though Admiral Grey may be defeated, I believe our true mission of changing the Song Alliance has only begun! Will you assist me on this quest?
+kry ¡Aunque el Almirante Grey haya sido derrotado, creo que nuestra verdadera misión al retar a la Alianza Song solo ha comenzado! ¿Me asistirás en esta misión?
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
 # kay Well, you know I never turn down a request from a member of my crew.
-kay Well, you know I never turn down a request from a member of my crew.
+kay Bueno, sabes que nunca rechazaría una petición de un miembro de mi tripulación.
 # kay All right. After we're finished with business at Ryuvia, let us set sail for Song and reform the Church from within.
-kay All right. After we're finished with business at Ryuvia, let us set sail for Song and reform the Church from within.
+kay Está bien. Después de que hayamos terminado los asuntos en Ryuvia, partamos a Song y reformemos la Iglesia desde dentro.
 #% flag
 flag
 #% stop
@@ -1075,25 +1075,25 @@ tag chap9_kryoutro
 #% dcg spr_cg_kryend
 dcg spr_cg_kryend
 # nar And so, Captain Kayto Shields and Kryska sailed to the Song Alliance to spread word of the fake Monolith of Truth...
-nar And so, Captain Kayto Shields and Kryska sailed to the Song Alliance to spread word of the fake Monolith of Truth...
+nar Y así, el Capitán Kayto Shields y Kryska partieron a la Alianza Song para esparcir la palabra del falso Monolito de la Verdad...
 # nar Though they were initially met with scorn, the unveiling of the real Great Monolith caused many High Elves to accept the truth.
-nar Though they were initially met with scorn, the unveiling of the real Great Monolith caused many High Elves to accept the truth.
+nar Aunque inicialmente fueron recibidos con desdén, la revelación del verdadero Gran Monolito causó que muchos Altos Elfos aceptaran la verdad.
 # nar Many elders chose the dignified end of dissolving their bodies into mana, sparing the realm of an immediate Ork invasion.
-nar Many elders chose the dignified end of dissolving their bodies into mana, sparing the realm of an immediate Ork invasion.
+nar Muchos ancianos decidieron el digno final de disolver sus cuerpos en maná, librando al reino de una invasión Orka inmediata.
 # nar However, others refused to abandon their decrepit traditions, and retreated deep underground, clinging to their chests the final remaining fake monoliths...
-nar However, others refused to abandon their decrepit traditions, and retreated deep underground, clinging to their chests the final remaining fake monoliths...
+nar Sin embargo, otros se rehusaron a abandonar sus decrépitas tradiciones, y se retiraron a las profundidades bajo tierra, llevándose a sus pechos los últimos monolitos falsos restantes...
 # nar They would come to be known as Dark Elves, the commanders of a new underground Ork hoard. Talk of the rise of a second Dark King would one day terrify all the free people of Halla...
-nar They would come to be known as Dark Elves, the commanders of a new underground Ork hoard. Talk of the rise of a second Dark King would one day terrify all the free people of Halla...
+nar Ellos llegarían a ser conocidos como Elfos Oscuros, los comandantes de una nueva horda subterránea de Orkos. Rumores del surgimiento de un segundo Rey Oscuro aterrorizarían algún día a todos los pueblos libres de Halla...
 # nar Yet, for as long as Kryska lived, the Dark Elves stayed deep underground, never to reveal themselves.
-nar Yet, for as long as Kryska lived, the Dark Elves stayed deep underground, never to reveal themselves.
+nar Aun así, mientras Kryska viviera, los Elfos Oscuros se quedarían bajo tierra, para nunca revelarse.
 # nar Perhaps they were too intimidated by Kryska, who became the greatest of the Church's paladins.
-nar Perhaps they were too intimidated by Kryska, who became the greatest of the Church's paladins.
+nar Quizás fueron muy intimidados por Kryska, quien se volvió la mayor de los paladines de la Iglesia.
 # nar As for Kayto, he decided to pass up on joining the Paladins, despite never again being called a Lessor by the Song. He was, after all, a terrible swordsman.
-nar As for Kayto, he decided to pass up on joining the Paladins, despite never again being called a Lessor by the Song. He was, after all, a terrible swordsman.
+nar En cuanto a Kayto, él decidió pasar de unirse a los Paladines, a pesar de nunca ser llamado un Inferior por Song otra vez. Él era, después de todo, un terrible espadachín.
 # nar Instead, he would ask Kryska for a seal which granted him free passage through the Strait of Far Port without the filing of any paperwork.
-nar Instead, he would ask Kryska for a seal which granted him free passage through the Strait of Far Port without the filing of any paperwork.
+nar En cambio, le pediría a Kryska un sello que le permitiera el paso libre a través del Estrecho de Far Port sin llenar ningún papeleo.
 # nar That seal would come to embody the eternal bond they shared... And be a source of endless gratitude for Kayto.
-nar That seal would come to embody the eternal bond they shared... And be a source of endless gratitude for Kayto.
+nar Ese sello llegaría a personificar el eterno lazo que compartían... Y ser una fuente de eterna gratitud para Kayto.
 #% flag
 flag
 #% stop
@@ -1108,98 +1108,98 @@ dbg spr_bg_sunriderbridge_night
 mus mus_asifigure
 #% cha cla_armscrossed_neutral_smug_grin
 cha cla_armscrossed_neutral_smug_grin
-# cla My... Hello there, Mr. Big Hero... Come to look for your goddess for a reward?
-cla My... Hello there, Mr. Big Hero... Come to look for your goddess for a reward?
+#% cla My... Hello there, Mr. Big Hero... Come to look for your goddess for a reward?
+cla Vaya... Hola, Sr. Gran Héroe... ¿Vienes a pedirle a tu diosa una recompensa?
 #% cha kay_neu_confuse_thinking_smile
 cha kay_neu_confuse_thinking_smile
-# kay Ahem... Not quite a reward, Claude. Rather, I came to express my gratitude for you looking after my back all this time...
-kay Ahem... Not quite a reward, Claude. Rather, I came to express my gratitude for you looking after my back all this time...
+#% kay Ahem... Not quite a reward, Claude. Rather, I came to express my gratitude for you looking after my back all this time...
+kay Ejem... No una recompensa, Claude. Más bien, vine a expresar mi gratitud por cuidarme la espalda todo este tiempo...
 #% cha kay_neu_confuse_thinking_neutral
 cha kay_neu_confuse_thinking_neutral
 # kay There's also something else...
-kay There's also something else...
+kay Hay algo más...
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
-# kay Look, uhh... I suppose this might sound crazy, but I swear I've seen you in my dreams before... We're both naked in a beautiful Elvish bath house...
-kay Look, uhh... I suppose this might sound crazy, but I swear I've seen you in my dreams before... We're both naked in a beautiful Elvish bath house...
+#% kay Look, uhh... I suppose this might sound crazy, but I swear I've seen you in my dreams before... We're both naked in a beautiful Elvish bath house...
+kay Mira, uhh... Supongo que esto podría sonar loco, pero juro que te he visto en mis sueños antes... Ambos estábamos desnudos en una casa de baños Élfica...
 #% cha cla_armscrossed_sad_smug_laugh
 cha cla_armscrossed_sad_smug_laugh
-# cla My, I think I know where this is going already~
-cla My, I think I know where this is going already~
+#% cla My, I think I know where this is going already~
+cla Vaya, creo que ya sé adónde esta yendo esto~
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
-# kay That's not the important part though. You confess that you were actually inside the Dreadstone all along, and that you needed me to free you from your prison. Pretty crazy, huh?
-kay That's not the important part though. You confess that you were actually inside the Dreadstone all along, and that you needed me to free you from your prison. Pretty crazy, huh?
+#% kay That's not the important part though. You confess that you were actually inside the Dreadstone all along, and that you needed me to free you from your prison. Pretty crazy, huh?
+kay Sin embargo esa no es la parte importante. Confesaste que en realidad estuviste dentro de la Dreadstone todo el tiempo, y que me necesitabas para liberarte de tu prisión. Bastante loco, ¿huh?
 #% cha cla_handsonhips_neutral_smug_smallopen
 cha cla_handsonhips_neutral_smug_smallopen
-# cla What if I told you those were no mere dreams, but rather visions I sent to you?
-cla What if I told you those were no mere dreams, but rather visions I sent to you?
+#% cla What if I told you those were no mere dreams, but rather visions I sent to you?
+cla ¿Y si lo que te dije no fueron simples sueños, sino más bien visiones que te envié?
 #% cha kay_neu_sad_closed_yell
 cha kay_neu_sad_closed_yell
-# kay Dooh... I was afraid of that...
-kay Dooh... I was afraid of that...
+#% kay Dooh... I was afraid of that...
+kay Uh... Eso me temía...
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
 # kay I suppose it's already too late though. The Dreadstone has been shattered, and thus, you are now be free. Strange though, how your powers stayed basically the same...
-kay I suppose it's already too late though. The Dreadstone has been shattered, and thus, you are now be free. Strange though, how your powers stayed basically the same...
+kay Aun así supongo que ya es demasiado tarde. La Dreadstone ha sido destrozada, y por tanto, ahora eres libre. Aun así es extraño, cómo tus poderes permanecieron básicamente iguales...
 #% cha cla_armscrossed_sad_closedeye_awkwardsm
 cha cla_armscrossed_sad_closedeye_awkwardsm
 # cla I'm afraid to say that is indeed the truth. Cosette proved most capable at burning away most of my mana, saving us all from an explosive death when the Dreadstone cracked.
-cla I'm afraid to say that is indeed the truth. Cosette proved most capable at burning away most of my mana, saving us all from an explosive death when the Dreadstone cracked.
+cla Lamento decir que esa es sin dudas la verdad. Cosette demostró ser más que capaz al quemar la mayoría de mi maná, salvándonos a todos de una muerte explosiva cuando la Dreadstone se fracturó.
 #% cha cla_pout_sad_smug_pout
 cha cla_pout_sad_smug_pout
 # cla But that also had the unfortunate effect of severely weakening my abilities. In the end, despite having been freed of my prison, I regret to say my powers remain just as limited as before.
-cla But that also had the unfortunate effect of severely weakening my abilities. In the end, despite having been freed of my prison, I regret to say my powers remain just as limited as before.
+cla Pero eso también tuvo el desafortunado efecto de debilitar severamente mis habilidades. Al final, a pesar de haber sido liberada de mi prisión, lamento decir que mis poderes siguen igual de limitados que antes.
 #% cha cla_handsonhips_focus_neutral_awkwardsm
 cha cla_handsonhips_focus_neutral_awkwardsm
 # cla Therefore, I shall remain your friendly neighborhood goddess of the local pond and light sea breeze.
-cla Therefore, I shall remain your friendly neighborhood goddess of the local pond and light sea breeze.
+cla Por tanto, seguiré siendo tu amigable diosa vecina del charco pequeño y la ligera brisa de mar.
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay I see... Then, I suppose nothing shall change between us.
-kay I see... Then, I suppose nothing shall change between us.
+kay Ya veo... Entonces, supongo que nada cambiará entre nosotros.
 #% cha cla_armscrossed_sad_closedeye_smalltalk
 cha cla_armscrossed_sad_closedeye_smalltalk
 # cla Yes... It will be a thousand or so years until I've regained all my mana...
-cla Yes... It will be a thousand or so years until I've regained all my mana...
+cla Sí... Tomará mil años más o menos para que haya recuperado todo mi maná...
 #% cha cla_armscrossed_focus_funnyclos_grin
 cha cla_armscrossed_focus_funnyclos_grin
 # cla Huehuehue... Once Claude has her powers back though, who knows what kind of pranks I'll be able to pull on unsuspecting sea captains...
-cla Huehuehue... Once Claude has her powers back though, who knows what kind of pranks I'll be able to pull on unsuspecting sea captains...
+cla Huehuehue... Sin embargo cuando Claude tenga sus poderes de vuelta, quién sabe qué tipo de bromas seré capaz de hacer a inocentes capitanes de mar...
 #% cha kay_neu_sad_wide_clench
 cha kay_neu_sad_wide_clench
 # kay I have never been so glad to be mortal in my entire life...
-kay I have never been so glad to be mortal in my entire life...
+kay Nunca he estado tan agradecido de ser mortal en toda mi vida...
 #% cha kay_neu_sad_closed_smirk
 cha kay_neu_sad_closed_smirk
 # kay Well, I suppose this means nothing shall change between us. It is probably for the best this way.
-kay Well, I suppose this means nothing shall change between us. It is probably for the best this way.
+kay Bueno, supongo que esto quiere decir que nada cambiará entre nosotros. Es probablemente lo mejor de esta forma.
 #% cha cla_handsonhips_neutral_smug_smallopen
 cha cla_handsonhips_neutral_smug_smallopen
 # cla Hmm... There is still the question of how to reward our captain...
-cla Hmm... There is still the question of how to reward our captain...
+cla Hmm... Todavía queda la pregunta de cómo recompensar a nuestro capitán...
 #% cha cla_handsonhips_raised_closedeye_smallopen
 cha cla_handsonhips_raised_closedeye_smallopen
 # cla Well, I suppose I still have enough mana for this little party trick...
-cla Well, I suppose I still have enough mana for this little party trick...
+cla Bueno, supongo que aún tengo suficiente maná para este pequeño truco...
 #% cha kay_neu_neutral_wide_smalltalk
 cha kay_neu_neutral_wide_smalltalk
 # kay Wait, Claude, what are you-?
-kay Wait, Claude, what are you-?
+kay Espera, Claude, ¿qué estás-?
 #% cha cla_handsonhips_raised_neutral_laugh
 cha cla_handsonhips_raised_neutral_laugh
 # cla Don't worry, captain. Let your goddess reward you!
-cla Don't worry, captain. Let your goddess reward you!
+cla No te preocupes, capitán. ¡Deja que tu diosa te recompense!
 #% cha cla_squish_raised_closedeye_droolmout
 cha cla_squish_raised_closedeye_droolmout
 # cla The tick tocks on the clock stop! Wisk our glorious captain off to his paradise vacation~!
-cla The tick tocks on the clock stop! Wisk our glorious captain off to his paradise vacation~!
+cla ¡Los tic tocs del reloj se detienen! ¡Envíen a nuestro glorioso capitán a sus vacaciones del paraíso~!
 #% sou sou_holymagic
 sou sou_holymagic
 #% cha kay_neu_raised_wide_talk
 cha kay_neu_raised_wide_talk
 # kay Where are you taking meeee-----
-kay Where are you taking meeee-----
+kay Adónde me estás llevandoooo-----
 #% flag
 flag
 #% stop
@@ -1209,13 +1209,13 @@ tag chap9_claoutro
 #% dcg spr_cg_claudeend
 dcg spr_cg_claudeend
 # nar And so Kayto and Claude spent a whirlwind vacation in their dream world to celebrate their victory...
-nar And so Kayto and Claude spent a whirlwind vacation in their dream world to celebrate their victory...
+nar Y así Kayto y Claude pasaron unas ajetreadas vacaciones en su mundo de los sueños para celebrar su victoria...
 # nar Although his memories of what happened become increasingly fuzzy with each passing day, Kayto enjoyed his long overdue vacation to his heart's content.
-nar Although his memories of what happened become increasingly fuzzy with each passing day, Kayto enjoyed his long overdue vacation to his heart's content.
+nar Aunque sus recuerdos de lo que sucedió se volvieron cada vez más borrosos con cada día que pasaba, Kayto disfrutó sus vacaciones merecidas desde hacía mucho con todo su corazón.
 # nar After all, what happened in the dreamworld stayed in the dreamworld...
-nar After all, what happened in the dreamworld stayed in the dreamworld...
+nar Después de todo, lo que pasó en el mundo de los sueños se quedó en el mundo de los sueños...
 # nar Following what felt like months of fun and relaxation, Kayto and Claude returned to real world, feeling more refreshed and refueled for their next grand adventure than ever.
-nar Following what felt like months of fun and relaxation, Kayto and Claude returned to real world, feeling more refreshed and refueled for their next grand adventure than ever.
+nar Tras lo que se sintió como meses de diversión y relajación, Kayto y Claude volvieron al mundo real, sintiéndose más refrescados y enérgicos para su próxima gran aventura de todos los tiempos.
 #% flag
 flag
 #% stop
@@ -1229,95 +1229,95 @@ dbg spr_bg_sunriderbridge_night
 #% cha sol_back_raised_narrow_smallopen
 cha sol_back_raised_narrow_smallopen
 # sol ...Captain?
-sol ...Captain?
+sol ¿...Capitán?
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay There you are, Sola. I've been meaning to talk to you...
-kay There you are, Sola. I've been meaning to talk to you...
+kay Ahí estás, Sola. He estado queriendo hablar contigo...
 #% cha sol_side_raised_neutral_smallopen
 cha sol_side_raised_neutral_smallopen
 # sol Is that so? Then we have been thinking alike...
-sol Is that so? Then we have been thinking alike...
+sol ¿Es así? Entonces hemos estado pensando igual...
 #% cha kay_neu_sad_closed_slight
 cha kay_neu_sad_closed_slight
 # kay About your mother...
-kay About your mother...
+kay Acerca de tu madre...
 # kay It was a difficult choice to make, but we couldn't sacrifice Asaga and let Song continue to rule the realm. I'm sorry...
-kay It was a difficult choice to make, but we couldn't sacrifice Asaga and let Song continue to rule the realm. I'm sorry...
+kay Fue una decisión difícil que hacer, pero no podíamos sacrificar a Asaga y dejar que Song continuara gobernando el reino. Lo siento...
 #% cha sol_side_sad_closedeye_frown
 cha sol_side_sad_closedeye_frown
 # sol Nay... In the end, I believe we made the right choice.
-sol Nay... In the end, I believe we made the right choice.
+sol No... Al final, creo que hicimos la decisión correcta.
 # sol My mother chose to join us in defeating the Emerald Fleet. She chose this path just as much as we did.
-sol My mother chose to join us in defeating the Emerald Fleet. She chose this path just as much as we did.
+sol Mi madre eligió unírsenos para derrotar a la Flota Esmeralda. Ella eligió este camino tanto como yo.
 #% cha sol_side_sad_narrowloo_talk
 cha sol_side_sad_narrowloo_talk
 # sol I admit, I was overcome with emotion when I saw her for the last time. Yet, she seemed utterly unconcerned about her death. She cast the spell to dissolve into mana as nonchalantly as she would cast a spell to warm her tea.
-sol I admit, I was overcome with emotion when I saw her for the last time. Yet, she seemed utterly unconcerned about her death. She cast the spell to dissolve into mana as nonchalantly as she would cast a spell to warm her tea.
+sol Lo admito, me superaron las emociones cuando la vi por última vez. Sin embargo, parecía completamente despreocupada acerca de su muerte. Lanzó el hechizo para disolverse en maná tan tranquilamente como lanzaría un hechizo para calentar su té.
 #% cha sol_side_sad_narrow_smallopen
 cha sol_side_sad_narrow_smallopen
 # sol A smile did appear on her face though. It was like a distant star. Not warm or radiant like the sun. It may have been but a twinkle in her eye.
-sol A smile did appear on her face though. It was like a distant star. Not warm or radiant like the sun. It may have been but a twinkle in her eye.
+sol Aun así apareció una sonrisa en su rostro. Era como una estrella distante. No cálida ni radiante como el sol. Puede que haya sido solo un destello en sus ojos.
 # sol According to the others, it was the first time they had ever seen her smile.
-sol According to the others, it was the first time they had ever seen her smile.
+sol De acuerdo a los demás, fue la primera vez que la habían visto sonreír.
 # sol I suppose I am too young to even fathom what it must be like to have lived for over one thousand years. Perhaps one day, even life and death shall become so trivial that even I come to forget what it is to smile.
-sol I suppose I am too young to even fathom what it must be like to have lived for over one thousand years. Perhaps one day, even life and death shall become so trivial that even I come to forget what it is to smile.
+sol Supongo que soy muy joven para predecir siquiera cómo debe ser haber vivido más de mil años. Quizá algún día, incluso la vida y la muerte se volverán tan triviales que incluso llegaré a olvidar cómo es sonreír.
 #% cha sol_front_sad_closedeye_smallopen
 cha sol_front_sad_closedeye_smallopen
 # sol Eh-heh... But I suppose, I shall not live nearly as long as my mother. Nor do I have any desire to.
-sol Eh-heh... But I suppose, I shall not live nearly as long as my mother. Nor do I have any desire to.
+sol Eh-heh... Pero supongo, que no viviré ni de cerca tanto como mi madre. Ni tengo deseos de hacerlo.
 #% cha sol_front_raised_neutral_smallopen
 cha sol_front_raised_neutral_smallopen
 # sol In any matter, I owe you a debt of gratitude for many things, captain.
-sol In any matter, I owe you a debt of gratitude for many things, captain.
+sol En cualquier caso, te tengo una deuda de gratitud por muchas cosas, capitán.
 # sol Thanks to you, I was able to see my mother again, and fulfill my duty to save Ryuvia. Though, just not in the way I expected.
-sol Thanks to you, I was able to see my mother again, and fulfill my duty to save Ryuvia. Though, just not in the way I expected.
+sol Gracias a ti, fui capaz de ver a mi madre otra vez, y cumplir mi deber para salvar a Ryuvia. Aunque, simplemente no de la forma que esperaba.
 #% cha sol_side_raised_neutral_smallsmil
 cha sol_side_raised_neutral_smallsmil
 # sol Yet, I have one, last request, captain...
-sol Yet, I have one, last request, captain...
+sol Sin embargo, tengo una última petición, capitán...
 #% cha kay_neu_sad_neutral_smile
 cha kay_neu_sad_neutral_smile
 # kay Of course. What must I do?
-kay Of course. What must I do?
+kay Por supuesto. ¿Qué debo hacer?
 #% cha sol_front_sad_neutral_smallopen
 cha sol_front_sad_neutral_smallopen
 # sol My mother left her final will and testament to me. Ahem. As of now, I am the proprietor of her entire fishing empire, as well as the mistress of the considerable estate you saw back at Far Port...
-sol My mother left her final will and testament to me. Ahem. As of now, I am the proprietor of her entire fishing empire, as well as the mistress of the considerable estate you saw back at Far Port...
+sol Mi madre me dejó su última voluntad y testamento. Ejem. A partir de ahora, soy la propietaria de todo su imperio pesquero, así como la señora del considerable estado que viste en Far Port...
 #% cha sol_front_sad_closedeye_smallopen
 cha sol_front_sad_closedeye_smallopen
 # sol A responsibility which far exceeds my expertise, I confess.
-sol A responsibility which far exceeds my expertise, I confess.
+sol Una responsabilidad que excede por mucho mi experiencia, confieso.
 #% cha sol_side_concern_narrow_smallopen_blush
 cha sol_side_concern_narrow_smallopen_blush
 # sol A-Ahem... B-But... I suppose the captain may know a thing or two about operating ships... And you saw firsthand the natural beauty of my mother's estate! So...
-sol A-Ahem... B-But... I suppose the captain may know a thing or two about operating ships... And you saw firsthand the natural beauty of my mother's estate! So...
+sol E-Ejem... P-Pero... Supongo que el capitán podría saber una o dos cosas sobre operar naves... ¡Y viste de primera mano la belleza natural del estado de mi madre! Así que...
 # sol Will you stay with me and help me take over my mother's work?
-sol Will you stay with me and help me take over my mother's work?
+sol ¿Te quedarías conmigo y me ayudarías a encargarme del trabajo de mi madre?
 #% cha kay_neu_neutral_wide_smalltalk
 cha kay_neu_neutral_wide_smalltalk
 # kay I see... Well, that would be a huge honor!
-kay I see... Well, that would be a huge honor!
+kay Ya veo... ¡!Bueno, ese sería un gran honor!
 #% cha kay_neu_neutral_closed2_smallopen
 cha kay_neu_neutral_closed2_smallopen
 # kay Of course I'll help! Let's spend the rest of our lives together, Sola!
-kay Of course I'll help! Let's spend the rest of our lives together, Sola!
+kay ¡Por supuesto que ayudaré! ¡Pasemos el resto de nuestras vidas juntos, Sola!
 #% cha sol_surprise_raised_wide_smallopen_blush
 cha sol_surprise_raised_wide_smallopen_blush
 # sol E-Eh...?! You will?
-sol E-Eh...?! You will?
+sol ¡¿E-Eh...?! ¿Lo harás?
 #% cha kay_neu_raised_closed2_smirk
 cha kay_neu_raised_closed2_smirk
 # kay Of course! You know, I happen to know a thing or two about operating a navy...
-kay Of course! You know, I happen to know a thing or two about operating a navy...
+kay ¡Por supuesto! Sabes, puede que sepa una o dos cosas sobre operar una marina...
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
 # kay I'm sure we'll build the greatest merchant marine in the realm!
-kay I'm sure we'll build the greatest merchant marine in the realm!
+kay ¡Estoy seguro de que construiremos la mayor marina mercante del reino!
 #% cha sol_front_raised_closedeye_smallsmil_blush
 cha sol_front_raised_closedeye_smallsmil_blush
 # sol E-Eh heh... Our captain certainly never fails to surprise me...
-sol E-Eh heh... Our captain certainly never fails to surprise me...
+sol E-Eh heh... Nuestro capitán ciertamente nunca falla en sorprenderme...
 #% flag
 flag
 #% stop
@@ -1327,13 +1327,13 @@ tag chap9_soloutro
 #% dcg spr_cg_solaend
 dcg spr_cg_solaend
 # nar And so, Captain Kayto Shields went to Far Port with Sola to head her fishing fleet...
-nar And so, Captain Kayto Shields went to Far Port with Sola to head her fishing fleet...
+nar Y así, el Capitán Kayto Shields fue a Far Port con Sola y se dirigió a su flota pesquera...
 # nar Their operations eventually came to encompass the entire Dragon's Foot Sea. A day came when there was not a fishery in Halla that did not do business with Kayto and Sola's vast fleet.
-nar Their operations eventually came to encompass the entire Dragon's Foot Sea. A day came when there was not a fishery in Halla that did not do business with Kayto and Sola's vast fleet.
+nar Sus operaciones llegaron eventualmente a ocupar todo el Mar Dragon's Foot. Llegaría un día en el que no habría una pesquería en Halla que no hiciera negocios con la vasta flota de Kayto y Sola.
 # nar However, Kayto was always the happiest soaking in the onsen with his beautiful wife at their estate.
-nar However, Kayto was always the happiest soaking in the onsen with his beautiful wife at their estate.
+nar Sin embargo, Kayto siempre era más feliz remojándose en el onsen con su hermosa esposa en su estado.
 # nar And so, the girl who once claimed to be destined for woe found happiness in the unlikeliest of places...
-nar And so, the girl who once claimed to be destined for woe found happiness in the unlikeliest of places...
+nar Y así, la chica que una vez afirmaba estar destinada a desgracias encontró felicidad en el menos probable de los lugares...
 #% flag
 flag
 #% stop
@@ -1347,123 +1347,123 @@ dbg spr_bg_sunriderbridge_night
 #% cha lyn_armup_confuse_lookaway_slight
 cha lyn_armup_confuse_lookaway_slight
 # lyn Eh? What are you doing here, Shields...
-lyn Eh? What are you doing here, Shields...
+lyn ¿Eh? Qué estás haciendo aquí, Shields...
 #% cha kay_neu_confuse_neutral_slight
 cha kay_neu_confuse_neutral_slight
 # kay What's with that attitude? Shouldn't you be celebrating our victory with the others, Lynn?
-kay What's with that attitude? Shouldn't you be celebrating our victory with the others, Lynn?
+kay ¿Qué hay con esa actitud? ¿No deberías celebrar nuestra victoria con los demás, Lynn?
 #% cha lyn_armdown_concern_closedeye_talk
 cha lyn_armdown_concern_closedeye_talk
 # lyn Sigh... It hardly feels like much of a victory when you were on the baddies' side for half the war...
-lyn Sigh... It hardly feels like much of a victory when you were on the baddies' side for half the war...
+lyn Haah... Apenas se siente como una victoria cuando estuviste del lado de los malos durante la mitad de la guerra...
 #% cha lyn_armdown_sad_narrowloo_pout
 cha lyn_armdown_sad_narrowloo_pout
 # lyn Honestly, working for Pact was a nightmare... I was just getting pushed around left and right by the bosses with no private time at all...
-lyn Honestly, working for Pact was a nightmare... I was just getting pushed around left and right by the bosses with no private time at all...
+lyn Honestamente, trabajar para el Pacto fue una pesadilla... Simplemente estaba siendo empujada a izquierda y derecha por los jefes sin ningún tiempo privado en absoluto...
 # lyn Heh, you think you had it bad as a Lessor Elf? Well, that's nothing compared to the treatment we Demonfolk get!
-lyn Heh, you think you had it bad as a Lessor Elf? Well, that's nothing compared to the treatment we Demonfolk get!
+lyn Heh, ¿piensas que lo pasaste mal como un Elfo Inferior? ¡Bueno, eso no es nada comparado con el trato que recibimos los Demonios!
 #% cha lyn_armup_angry_closedeye_bigtalk
 cha lyn_armup_angry_closedeye_bigtalk
 # lyn Just because some of us decided to work for the Demon King thousands of years ago, everyone just assumes we're up to no good... Case in point, we Kitsune got kidnapped by mad wizards to be used as lab rats for their experiments!
-lyn Just because some of us decided to work for the Demon King thousands of years ago, everyone just assumes we're up to no good... Case in point, we Kitsune got kidnapped by mad wizards to be used as lab rats for their experiments!
+lyn Solo porque algunos de nosotros decidieron trabajar para el Rey Demonio hace miles de años, todo el mundo asume que no tramas nada bueno... ¡Un ejemplo, las Kitsune fuimos secuestradas por hechiceros dementes para ser usadas como ratas de laboratorio para sus experimentos!
 #% cha lyn_armup_angry_neutral_talk
 cha lyn_armup_angry_neutral_talk
 # lyn But even beyond that, we Demonfolk get, well, demonized just for existing. We gotta work jobs that nobody else wants to do, and even if we do, everyone thinks we're here to steal their jobs anyways! It just goes to show you, there's just no way to win if you're a Demonfolk!
-lyn But even beyond that, we Demonfolk get, well, demonized just for existing. We gotta work jobs that nobody else wants to do, and even if we do, everyone thinks we're here to steal their jobs anyways! It just goes to show you, there's just no way to win if you're a Demonfolk!
+lyn Pero más allá de eso, los Demonios somos, bueno, demonizados solo por existir. ¡Tenemos que hacer trabajos que nadie más quiere hacer, e incluso si lo hacemos, todo el mundo piensa que estamos aquí para robarnos sus trabajos de todos modos! ¡Simplemente te llega a enseñar, que no hay forma de ganar si eres un Demonio!
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
 # kay I see... You've truly had it tough, huh...
-kay I see... You've truly had it tough, huh...
+kay Ya veo... Verdaderamente lo tuviste duro, huh...
 #% cha lyn_armdown_sad_narrowloo_pout
 cha lyn_armdown_sad_narrowloo_pout
 # lyn Sigh... Sorry, Shields. I don't think I can really celebrate with the others.
-lyn Sigh... Sorry, Shields. I don't think I can really celebrate with the others.
+lyn Haah... Lo siento, Shields. No creo que podamos celebrar con los demás.
 #% cha lyn_armdown_concern_closedeye_talk
 cha lyn_armdown_concern_closedeye_talk
 # lyn Now that the war with Pact's winding down, I think I'm finished with fighting. This sort of thing really doesn't suit me. All war gives me is anxiety and grumpiness.
-lyn Now that the war with Pact's winding down, I think I'm finished with fighting. This sort of thing really doesn't suit me. All war gives me is anxiety and grumpiness.
+lyn Ahora que la guerra con el Pacto se está calmando, creo que estoy harta de luchar. Este tipo de cosas realmente no va conmigo. Todo lo que la guerra me da es ansiedad y malhumor.
 #% cha lyn_armdown_sad_narrowloo_pout
 cha lyn_armdown_sad_narrowloo_pout
 # lyn Once we get to Ryuvia, I think we should go our separate ways...
-lyn Once we get to Ryuvia, I think we should go our separate ways...
+lyn Cuando lleguemos a Ryuvia, pienso que deberíamos ir por caminos separados...
 #% cha kay_neu_sad_neutral_smile
 cha kay_neu_sad_neutral_smile
 # kay Very well. If that's truly what you want, Lynn.
-kay Very well. If that's truly what you want, Lynn.
+kay Muy bien. Si eso es realmente lo que quieres, Lynn.
 # kay But you were never a Demonfolk to me. You were a friend.
-kay But you were never a Demonfolk to me. You were a friend.
+kay Pero nunca fuiste un Demonio para mí. Fuiste una amiga.
 #% cha lyn_armdown_sad2_narrowloo_talk_blush
 cha lyn_armdown_sad2_narrowloo_talk_blush
 # lyn U-Uggnn... I know, all right? Ugh, stop, before I hop on a raft and start rowing towards Ryuvia by myself...
-lyn U-Uggnn... I know, all right? Ugh, stop, before I hop on a raft and start rowing towards Ryuvia by myself...
+lyn U-Uggnn... Lo sé, ¿vale? Ugh, detente, antes de que salte a una balsa y comience a remar hacia Ryuvia por mi cuenta...
 #% cha kay_neu_sad_neutral_smile
 cha kay_neu_sad_neutral_smile
 # kay All right. But I want you to know. If there's anything I can do for you, I'll always be there for you.
-kay All right. But I want you to know. If there's anything I can do for you, I'll always be there for you.
+kay Está bien. Pero quiero que sepas. Si hay algo que pueda hacer por ti, siempre estaré ahí para ti.
 #% cha lyn_armdown_concern_closedeye_opensmile_blush
 cha lyn_armdown_concern_closedeye_opensmile_blush
 # lyn Thanks Shields. I really mean it...
-lyn Thanks Shields. I really mean it...
-# nar ... ... ...
+lyn Gracias Shields. Realmente lo aprecio...
+#% nar ... ... ...
 nar ... ... ...
-# nar ... ...
+#% nar ... ...
 nar ... ...
-# nar ...
+#% nar ...
 nar ...
 #% dbg spr_bg_volarisdock
 dbg spr_bg_volarisdock
 # nar (After the ship arrived at Ryuvia...)
-nar (After the ship arrived at Ryuvia...)
+nar (Tras llegar la nave a Ryuvia...)
 #% sou sou_whip
 sou sou_whip
 # elf Git to work, you lot! The bosses want these ships fixed up by tomorrow!
-elf Git to work, you lot! The bosses want these ships fixed up by tomorrow!
+elf ¡Pónganse a trabajar, todos ustedes! ¡Los jefes quieren estas naves arregladas para mañana!
 # dem Kyaaaa-! T-This is too much...
-dem Kyaaaa-! T-This is too much...
+dem ¡Kyaaaa-! E-Esto es demasiado...
 #% sou sou_whip
 sou sou_whip
 # elf Not a word outta you, demon! If you're not gonna do the work, I can always find someone else!
-elf Not a word outta you, demon! If you're not gonna do the work, I can always find someone else!
+elf ¡Ni una palabra de ti, demonio! ¡Si no vas a hacer el trabajo, siempre puedo encontrar a alguien más!
 # elf There's always more of you darklings comin' from beyond the Wall, after all!
-elf There's always more of you darklings comin' from beyond the Wall, after all!
+elf ¡Siempre hay más de ustedes los seres oscuros viniendo de más allá del Muro, después de todo!
 # dem No way...
-dem No way...
+dem No puede ser...
 #% cha lyn_armup_angry_bigeyes_shout
 cha lyn_armup_angry_bigeyes_shout
 # lyn Wait, wait, wait! What are you doing?!
-lyn Wait, wait, wait! What are you doing?!
+lyn ¡Espera, espera, espera! ¡¿Qué estás haciendo?!
 # elf What, you have something to say to my face, Kitsune? Or are you just here to suck my mana?!
-elf What, you have something to say to my face, Kitsune? Or are you just here to suck my mana?!
+elf ¿Qué, tienes algo que decirme en la cara, Kitsune? ¡¿O solo estás aquí para chupar mi maná?!
 # lyn Can't you see the child is on the verge of starvation? There's no way she can work!
-lyn Can't you see the child is on the verge of starvation? There's no way she can work!
+lyn ¿No puedes ver que la niña está al borde la morir de hambre? ¡No hay forma de que pueda trabajar!
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 # kay I do not believe the Queen would want to see these workers harmed in her name. Surely they deserve a break?
-kay I do not believe the Queen would want to see these workers harmed in her name. Surely they deserve a break?
+kay No creo que la Reina querría ver a estos trabajadores heridos en su nombre. ¿Seguramente se merecen un descanso?
 # elf Wait-- The Hero of Far Port?!
-elf Wait-- The Hero of Far Port?!
+elf Espera-- ¡¿El Héroe de Far Port?!
 # elf O-Of course... I'll attend to them right away!
-elf O-Of course... I'll attend to them right away!
+elf P-Por supuesto... ¡Los atenderé ahora mismo!
 #% cha lyn_armdown_concern_closedeye_talk
 cha lyn_armdown_concern_closedeye_talk
 # lyn Sigh... See? This is the sort of thing I was talking about, Shields...
-lyn Sigh... See? This is the sort of thing I was talking about, Shields...
+lyn Haah... ¿Ves? Este es el tipo de cosas de las que estaba hablando, Shields...
 #% cha kay_neu_focus_closed_smalltalk
 cha kay_neu_focus_closed_smalltalk
 # kay But you stood up to that dock master. I can't believe I never noticed the sorry state of this port until now...
-kay But you stood up to that dock master. I can't believe I never noticed the sorry state of this port until now...
+kay Pero te enfrentaste a ese maestro del puerto. No puedo creer que nunca noté el lamentable estado de este puerto hasta ahora.
 #% cha kay_neu_focus_closed_clench
 cha kay_neu_focus_closed_clench
 # kay Starving Demonfolk children, being forced to work jobs that would exhaust even grown men... This is hardly better than slavery.
-kay Starving Demonfolk children, being forced to work jobs that would exhaust even grown men... This is hardly better than slavery.
+kay Niños Demonios muriéndose de hambre, siendo forzados a realizar trabajos que cansarían incluso a hombres grandes... Esto no es mejor que esclavitud.
 #% cha kay_neu_focus_wide_talk
 cha kay_neu_focus_wide_talk
 # kay You know Lynn, we should do something about this...
-kay You know Lynn, we should do something about this...
+kay Sabes Lynn, deberíamos hacer algo sobre esto...
 #% cha lyn_armup_neutral_wideeyes_opensmile_blush
 cha lyn_armup_neutral_wideeyes_opensmile_blush
 # lyn Eh? What do you mean...?
-lyn Eh? What do you mean...?
+lyn ¿Eh? ¿A qué te refieres...?
 #% flag
 flag
 #% stop
@@ -1473,17 +1473,17 @@ tag chap9_lynoutro
 #% dcg spr_cg_lynnend
 dcg spr_cg_lynnend
 # nar And so it came to pass that Captain Kayto Shields and Lynn formed the first labor union in the realm...
-nar And so it came to pass that Captain Kayto Shields and Lynn formed the first labor union in the realm...
+nar Y así llegó a ocurrir que el Capitán Kayto Shields y Lynn formaran la primera unión trabajadora en el reino...
 # nar Though many Ryuvians at first scorned Lynn's efforts, the support of the Hero of Far Port helped turn the tide of public opinion.
-nar Though many Ryuvians at first scorned Lynn's efforts, the support of the Hero of Far Port helped turn the tide of public opinion.
+nar Aunque muchos Ryuvianos al principio rechazaron los esfuerzos de Lynn, el apoyo del Héroe de Far Port ayudó a cambiar la marea de la opinión pública.
 # nar Lynn is now a renown union leader, who traded in her daggers for the picket lines.
-nar Lynn is now a renown union leader, who traded in her daggers for the picket lines.
+nar Lynn es ahora una líder de la unión renovada, que cambió sus dagas por las filas de piquetes.
 # nar With the help of Queen Asaga, she passed the realm's first laws regulating workplace safety.
-nar With the help of Queen Asaga, she passed the realm's first laws regulating workplace safety.
+nar Con la ayuda de la Reina Asaga, elaboró las primeras leyes que regulaban la seguridad de los locales de trabajo.
 # nar After the end of fierce negotiations, Lynn and Kayto were given the construction contract to renovate the Star Palace.
-nar After the end of fierce negotiations, Lynn and Kayto were given the construction contract to renovate the Star Palace.
+nar Tras el fin de las negociaciones, a Lynn y a Kayto se les entregó un contrato de construcción para renovar el Palacio Estelar.
 # nar Restored to its original splendor, it stands to this day as a towering monument to their dedication...
-nar Restored to its original splendor, it stands to this day as a towering monument to their dedication...
+nar Con su esplendor original restaurado, sigue hasta este día como un elevado monumento de su dedicación...
 #% flag
 flag
 #% stop
@@ -1497,53 +1497,53 @@ dbg spr_bg_sunriderbridge_night
 #% cha qis_neu_focus_neutral_smirk
 cha qis_neu_focus_neutral_smirk
 # qis Ah, there you are, captain! Exactly the man I wished to see at this hour!
-qis Ah, there you are, captain! Exactly the man I wished to see at this hour!
+qis ¡Ah, ahí estás, capitán! ¡Exactamente el hombre que deseaba ver a esta hora!
 #% cha qis_neu_raised_neutral_opensmile
 cha qis_neu_raised_neutral_opensmile
 # qis I have a barrel of fine Ryuvian wine I have been saving for an occasion such as this! Let us toast to our great victory!
-qis I have a barrel of fine Ryuvian wine I have been saving for an occasion such as this! Let us toast to our great victory!
+qis ¡Tengo un barril de buen vino Ryuviano que he estado guardando para una ocasión como esta! ¡Brindemos por nuestra gran victoria!
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
 # kay It would be my honor, Pre'ator Qisah!
-kay It would be my honor, Pre'ator Qisah!
+kay ¡Sería mi honor, Pre'ator Qisah!
 #% cha qis_neu_raised_closedeye_opensmile
 cha qis_neu_raised_closedeye_opensmile
 # qis Ah! The wine is exquisite, but the feeling of vanquishing our foe is sweeter still!
-qis Ah! The wine is exquisite, but the feeling of vanquishing our foe is sweeter still!
+qis ¡Ah! ¡El vino es exquisito, pero la sensación de eliminar a nuestro enemigo es aún más dulce!
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
 # kay Indeed it is.
-kay Indeed it is.
+kay Sin duda lo es.
 #% cha qis_neu_focus_neutral_opensmile
 cha qis_neu_focus_neutral_opensmile
 # qis So tell me, Captain Shields. Have you had enough time to decide on my proposition?
-qis So tell me, Captain Shields. Have you had enough time to decide on my proposition?
+qis Entonces cuéntame, Capitán Shields. ¿Has tenido suficiente tiempo para decidir sobre mi propuesta?
 #% cha qis_neu_focus_neutral_bigtalk
 cha qis_neu_focus_neutral_bigtalk
 # qis Wait! Before you give me your answer, allow me to make my final appeal.
-qis Wait! Before you give me your answer, allow me to make my final appeal.
+qis ¡Espera! Antes de que me des tu respuesta, permíteme hacer mi última petición.
 # qis Though you have claimed mastery of the seas, there is yet one final ocean you have yet to conquer! The vast dunes of the Denari Outlands!
-qis Though you have claimed mastery of the seas, there is yet one final ocean you have yet to conquer! The vast dunes of the Denari Outlands!
+qis ¡Aunque hayas reclamado la maestría de los mares, aún queda un último océano que no has conquistado todavía! ¡Las vastas dunas de las Tierras Denari!
 #% cha qis_neu_focus_neutral_smirk
 cha qis_neu_focus_neutral_smirk
 # qis There is yet glory to be found in our lands. Our people have for years whispered of a vast new land beyond the dune sea, resided by the legendary Dwarves of the iron mountains. It is said that their contraptions of metal can sail upon the dune sea like the mighty ships of the Hallaen sea.
-qis There is yet glory to be found in our lands. Our people have for years whispered of a vast new land beyond the dune sea, resided by the legendary Dwarves of the iron mountains. It is said that their contraptions of metal can sail upon the dune sea like the mighty ships of the Hallaen sea.
+qis Aún queda gloria por encontrar en nuestras tierras. Nuestro pueblo ha rumoreado por años de una vasta nueva tierra más allá del mar de dunas, donde residen los legendarios Enanos de las montañas de hierro. Se dice que sus creaciones de metal pueden navegar por las dunas como las naves más poderosas del mar Hallaense.
 #% cha qis_neu_raised_closedeye_opensmile
 cha qis_neu_raised_closedeye_opensmile
 # qis Whoever establishes a trade route through the dune sea shall rule over a Denari kingdom to rival even the greatest Elf nations of Halla! What say we undertake this quest and become the king and queen of our own nation?!
-qis Whoever establishes a trade route through the dune sea shall rule over a Denari kingdom to rival even the greatest Elf nations of Halla! What say we undertake this quest and become the king and queen of our own nation?!
+qis ¡Quienquiera que establezca una ruta de comercio a través del mar de dunas gobernará un reino Denari que rivalizará incluso con las mayores naciones Élficas de Halla! ¡¿Qué dices si tomamos esta misión y nos convertimos en el rey y la reina de nuestra propia nación?!
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
 # kay I see... Well, this certainly does sound like a worthy challenge.
-kay I see... Well, this certainly does sound like a worthy challenge.
+kay Ya veo... Bueno, este ciertamente parece un reto que vale la pena.
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 # kay Very well, Qisah! Once we are finished with business in Ryuvia, I shall join you in your expedition! Let us see these metal ships that sail on sand with our own eyes!
-kay Very well, Qisah! Once we are finished with business in Ryuvia, I shall join you in your expedition! Let us see these metal ships that sail on sand with our own eyes!
+kay ¡Muy bien, Qisah! ¡Cuando hayamos terminado con los asuntos en Ryuvia, me uniré en tu expedición! ¡Veamos estas naves de metal que navegan en arena con nuestros propios ojos!
 #% cha qis_neu_raised_neutral_opensmile
 cha qis_neu_raised_neutral_opensmile
 # qis Hah! I knew you would understand. Indeed, you are the only man in this world worthy of standing by my side!
-qis Hah! I knew you would understand. Indeed, you are the only man in this world worthy of standing by my side!
+qis ¡Hah! Sabía que entenderías. ¡Sin duda, eres el único hombre en este mundo que se merece estar a mi lado!
 #% flag
 flag
 #% stop
@@ -1555,15 +1555,15 @@ mus mus_empireonthedesert
 #% dcg spr_cg_qisend
 dcg spr_cg_qisend
 # nar And so, Captain Kayto Shields and Qisah journeyed to the West, into the vast dune seas of the Denari Outlands...
-nar And so, Captain Kayto Shields and Qisah journeyed to the West, into the vast dune seas of the Denari Outlands...
+nar Y así, el Capitán Kayto Shields y Qisah viajaron al Oeste, hacia el vasto mar de dunas de las Tierras Denari...
 # nar The countless strange and fascinating peoples and contraptions they discovered beyond any map sold in Halla cannot be described in words.
-nar The countless strange and fascinating peoples and contraptions they discovered beyond any map sold in Halla cannot be described in words.
+nar Las incontables extrañas y fascinantes personas e inventos que descubrieron más allá de cualquier mapa vendido en Halla no podían describirse en palabras.
 # nar Many years after they departed Halla, their old friends were shocked when Kayto and Qisah returned from the desert on top of a massive metal ship greater than even the legendary vessels of ancient Ryuvia...
-nar Many years after they departed Halla, their old friends were shocked when Kayto and Qisah returned from the desert on top of a massive metal ship greater than even the legendary vessels of ancient Ryuvia...
+nar Muchos años luego de que partieron de Halla, sus viejos amigos estuvieron impactados cuando Kayto y Qisah regresaron del desierto encima de una enorme nave de metal más grande que incluso el navío más legendario de la antigua Ryuvia...
 # nar Together, they would come to found their own new kingdom after establishing Halla's first trade route to the Dwarven mountains.
-nar Together, they would come to found their own new kingdom after establishing Halla's first trade route to the Dwarven mountains.
+nar Juntos, llegarían a fundar su propio nuevo reino tras establecer la primera ruta de comercio de Halla hacia las montañas Enanas...
 # nar The technology Kayto's fleet of dune ships brought to Halla would come to completely change the realm forever...
-nar The technology Kayto's fleet of dune ships brought to Halla would come to completely change the realm forever...
+nar La tecnología que la flota de naves de dunas de Kayto trajo a Halla llegaría a cambiar completamente el reino para siempre...
 #% flag
 flag
 #% stop
@@ -1577,63 +1577,63 @@ dbg spr_bg_sunriderbridge_night
 #% cha jem_neu_neutral_neutral_smirk
 cha jem_neu_neutral_neutral_smirk
 # jem Kukuku. Perhaps the bonds you share with your crew are not as powerful as I thought, for you to choose to speak to me out of everyone...
-jem Kukuku. Perhaps the bonds you share with your crew are not as powerful as I thought, for you to choose to speak to me out of everyone...
+jem Kukuku. Quizá los lazos que compartes con tu tripulación no son tan poderosos como pensaba, para que escogieras hablar conmigo de entre todo el mundo...
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay That's not the case at all, Jem'hyre. The bond I have with you is as mighty as the bonds that allowed all of us to defeat Admiral Grey.
-kay That's not the case at all, Jem'hyre. The bond I have with you is as mighty as the bonds that allowed all of us to defeat Admiral Grey.
+kay Ese no es para nada el caso, Jem'hyre. El vínculo que tengo contigo es tan fuerte como los vínculos que nos permitieron a todos derrotar al Almirante Grey.
 #% cha jem_neu_neutral_narrowloo_talk
 cha jem_neu_neutral_narrowloo_talk
 # jem Then, why else have you come to speak with an outcast such as I?
-jem Then, why else have you come to speak with an outcast such as I?
+jem Entonces, ¿por qué más has venido a hablar con alguien ajeno como yo?
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay Well, for the very opposite reason, in fact. I believe we have become trusted comrades.
-kay Well, for the very opposite reason, in fact. I believe we have become trusted comrades.
+kay Bueno, por la precisa razón opuesta, de hecho. Creo que nos hemos convertido en compañeros confiables.
 #% cha jem_neu_neutral_narrowloo_slysmile
 cha jem_neu_neutral_narrowloo_slysmile
 # jem Oh? So you will allow a member of Pact among you?
-jem Oh? So you will allow a member of Pact among you?
+jem ¿Oh? ¿Entonces permitirás a un miembro del Pacto entre ustedes?
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay Of course. Though we may have fought Pact once, now it is time for peace. In any matter, you have been exiled from there, so it seems hardly right to call you one of them.
-kay Of course. Though we may have fought Pact once, now it is time for peace. In any matter, you have been exiled from there, so it seems hardly right to call you one of them.
+kay Por supuesto. Aunque hayamos luchado contra el Pacto una vez, ahora es tiempo de paz. En cualquier caso, has sido exiliada de ahí, así que difícilmente parece correcto llamarte una de ellos.
 #% cha jem_neu_concern_neutral_slysmile
 cha jem_neu_concern_neutral_slysmile
 # jem Oya oya... Then, would you surprised to learn that I have been invited back to the Crimson Fleet? Hardly surprising, given the recent turn of events...
-jem Oya oya... Then, would you surprised to learn that I have been invited back to the Crimson Fleet? Hardly surprising, given the recent turn of events...
+jem Oya oya... Entonces, ¿te sorprendería saber que he sido invitada de vuelta a la Flota Carmesí? Difícilmente te sorprenda, dado el reciente giro de los acontecimientos...
 #% cha kay_neu_sad_closed_slight
 cha kay_neu_sad_closed_slight
 # kay I see... So you will leave the ship to rejoin Pact? Well... I will not stop you.
-kay I see... So you will leave the ship to rejoin Pact? Well... I will not stop you.
+kay Ya veo... ¿Así que dejarás la nave para volverte a unir al Pacto? Bueno... No te detendré.
 #% cha jem_neu_concern_neutrallo_smirk
 cha jem_neu_concern_neutrallo_smirk
 # jem Oh? I thought you would be angry with me.
-jem Oh? I thought you would be angry with me.
+jem ¿Oh? Pensaba que te enojarías conmigo.
 #% cha kay_neu_sad_thinking_smallopen
 cha kay_neu_sad_thinking_smallopen
 # kay Nay. Long must have you wished for your exile to be lifted. I will not deprive you of your freedom.
-kay Nay. Long must have you wished for your exile to be lifted. I will not deprive you of your freedom.
+kay No. Mucho debes haber deseado que te levantaran tu exilio. No te privaré de tu libertad.
 # kay However, I want you to know that you will always be welcome among us.
-kay However, I want you to know that you will always be welcome among us.
+kay Sin embargo, quiero que sepas que siempre serás bienvenida entre nosotros.
 #% cha jem_neu_concern_closedeye_smirk
 cha jem_neu_concern_closedeye_smirk
 # jem I see...
-jem I see...
+jem Ya veo...
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 # kay Why don't we join the others in the celebrations? You are a part of the team now.
-kay Why don't we join the others in the celebrations? You are a part of the team now.
+kay ¿Por qué no nos unimos a los demás en las celebraciones? Tú eres parte del equipo ahora.
 # kay Let us make the most out of the time you have remaining onboard.
-kay Let us make the most out of the time you have remaining onboard.
+kay Aprovechemos al máximo el tiempo que te queda a bordo.
 #% cha jem_neu_raised_wide_talk
 cha jem_neu_raised_wide_talk
 # jem Wait... I dunno if-
-jem Wait... I dunno if-
+jem Espera... No sé si-
 #% cha kay_neu_raised_closed2_smirk
 cha kay_neu_raised_closed2_smirk
 # kay Come on! Let's go!
-kay Come on! Let's go!
+kay ¡Venga! ¡Vamos!
 #% flag
 flag
 #% stop
@@ -1643,13 +1643,13 @@ tag chap9_jemoutro
 #% dcg spr_cg_jemend
 dcg spr_cg_jemend
 # nar And so, Captain Kayto Shields convinced Jem'hyre down to the lower decks to celebrate. They joined the others in laughing and partying the night away...
-nar And so, Captain Kayto Shields convinced Jem'hyre down to the lower decks to celebrate. They joined the others in laughing and partying the night away...
+nar Y así, el Capitán Kayto Shields convenció a Jem'hyre de bajar a las cubiertas inferiores a celebrar. Se unieron a los demás para pasar la noche riendo y festejando...
 # nar By morning, Jem'hyre had lost all intention of rejoining the Crimson Fleet.
-nar By morning, Jem'hyre had lost all intention of rejoining the Crimson Fleet.
+nar Para la mañana, Jem'hyre había perdido toda intención de volverse a unir a la Flota Carmesí.
 # nar She decided to leave her old life behind and join the Sunrider as a permanent member of her crew.
-nar She decided to leave her old life behind and join the Sunrider as a permanent member of her crew.
+nar Ella decidió dejar su antigua vida atrás y unirse al Sunrider como una miembro permanente de su tripulación.
 # nar The scars of her past fulled healed, she and Kayto went on countless adventures after that...
-nar The scars of her past fulled healed, she and Kayto went on countless adventures after that...
+nar Con las cicatrices de su pasado completamente sanadas, ella y Kayto fueron a incontables aventuras tras eso eso...
 #% flag
 flag
 #% stop
@@ -1663,59 +1663,59 @@ dbg spr_bg_sunriderbridge_night
 #% cha mii_neu_neutral_narrow_smallopen
 cha mii_neu_neutral_narrow_smallopen
 # mii Good evening, Captain Shields. It is my pleasure to see you...
-mii Good evening, Captain Shields. It is my pleasure to see you...
+mii Buenas noches, Capitán Shields. Es mi placer verle...
 # mii In fact, I have been meaning to speak...
-mii In fact, I have been meaning to speak...
+mii De hecho, he estado queriendo conversar...
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay Of course, Sister. What is it?
-kay Of course, Sister. What is it?
+kay Por supuesto, Hermana. ¿Qué ocurre?
 #% cha mii_neu_sad_narrow_smalltalk
 cha mii_neu_sad_narrow_smalltalk
 # mii Now that the war against Pact is over, I have fulfilled my end of our original bargain, captain. Now, I believe the time has come for me to find my way back to my homeland.
-mii Now that the war against Pact is over, I have fulfilled my end of our original bargain, captain. Now, I believe the time has come for me to find my way back to my homeland.
+mii Ahora que la guerra contra el Pacto ha terminado, he cumplido mi parte de nuestro acuerdo original, capitán. Ahora, creo que ha llegado la hora de que busque una forma de regresar a mi tierra natal.
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 # kay I see... But that would be a problem, indeed...
-kay I see... But that would be a problem, indeed...
+kay Ya veo... Pero ese sería un problema, sin duda...
 #% cha mii_neu_surprised_wide_smalltalk
 cha mii_neu_surprised_wide_smalltalk
 # mii Do you mean you have some other task I must fulfill before I am absolved of my penance?
-mii Do you mean you have some other task I must fulfill before I am absolved of my penance?
+mii ¿Quiere decir que tiene alguna otra tarea que debo cumplir antes de que sea absuelta de mi penitencia?
 #% cha kay_neu_confuse_big_slight
 cha kay_neu_confuse_big_slight
 # kay I do not mean that all. Rather, the I am concerned as to how exactly you would get to the lands beyond Asahi.
-kay I do not mean that all. Rather, the I am concerned as to how exactly you would get to the lands beyond Asahi.
+kay No me refiero a eso. Más bien, que estoy preocupado respecto a cómo exactamente llegaría a las tierras más allá de Asahi.
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 # kay Those are uncharted waters you would need to cross. The few sailors who somehow return from there speak of nothing but unimaginable terrors. In fact, I have never before met a sailor who has seen the lands beyond my entire career.
-kay Those are uncharted waters you would need to cross. The few sailors who somehow return from there speak of nothing but unimaginable terrors. In fact, I have never before met a sailor who has seen the lands beyond my entire career.
+kay Son aguas inexploradas las que tendría que cruzar. Los pocos marineros que de alguna forma regresaron de ahí no hablan sino de terrores inimaginables. De hecho, nunca he conocido a un marinero que haya visto las tierras de más allá en toda mi carrera.
 #% cha mii_neu_focus_closedeye_neutral
 cha mii_neu_focus_closedeye_neutral
 # mii The lands beyond are as real to me as your homeland is to you, captain. I shall entrust my life to the Heavenly Father and make the voyage myself.
-mii The lands beyond are as real to me as your homeland is to you, captain. I shall entrust my life to the Heavenly Father and make the voyage myself.
+mii Las tierras de más allá son tan reales como lo es su tierra natal para usted, capitán. Le confiaré mi vida al Padre Celestial y haré el viaje yo misma.
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 # kay No, you mustn't! Very well. I believe we have our next mission then.
-kay No, you mustn't! Very well. I believe we have our next mission then.
+kay ¡No, no debe! Muy bien. Creo que tenemos nuestra siguiente misión.
 # kay I shall accompany you to your home personally. Let the Sunrider be the first vessel of Halla to reach the lands beyond Asahi and return to tell the tale!
-kay I shall accompany you to your home personally. Let the Sunrider be the first vessel of Halla to reach the lands beyond Asahi and return to tell the tale!
+kay Le acompañaré a su hogar personalmente. ¡Que el Sunrider sea el primer navío de Halla en alcanzar las tierras más allá de Asahi y regresar para contar la historia!
 #% cha mii_neu_surprised_wide_smile
 cha mii_neu_surprised_wide_smile
 # mii Captain Shields! Are you sure? Have you not already given me enough?
-mii Captain Shields! Are you sure? Have you not already given me enough?
+mii ¡Capitán Shields! ¿Está seguro? ¿No me ha dado suficiente ya?
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 # kay Of course I'm sure! This already sounds like an adventure of a lifetime!
-kay Of course I'm sure! This already sounds like an adventure of a lifetime!
+kay ¡Por supuesto que estoy seguro! ¡Esto ya suena como la aventura de mi vida!
 #% cha mii_neu_neutral_closedeye_smile
 cha mii_neu_neutral_closedeye_smile
 # mii Then... very well. Ahem...
-mii Then... very well. Ahem...
+mii Entonces... muy bien. Ejem...
 #% cha mii_neu_raised_closedeye_bigopensm
 cha mii_neu_raised_closedeye_bigopensm
 # mii As a Sister of the Heavenly Father, I am grateful for your assistance, Captain Shields. Let us return home.
-mii As a Sister of the Heavenly Father, I am grateful for your assistance, Captain Shields. Let us return home.
+mii Como una Hermana del Padre Celestial, estoy agradecida con su ayuda, Capitán Shields. Regresemos a casa.
 #% flag
 flag
 #% stop
@@ -1725,13 +1725,13 @@ tag chap9_miioutro
 #% dcg spr_cg_miiend
 dcg spr_cg_miiend
 # nar And so, it came to pass that Kayto and Miirage set out from Ryuvia to reach the lands beyond Asahi...
-nar And so, it came to pass that Kayto and Miirage set out from Ryuvia to reach the lands beyond Asahi...
+nar Y así, llegó a suceder que Kayto y Miirage partieran de Ryuvia para alcanzar las tierras más allá de Asahi...
 # nar The tales of that voyage have become the stuff of minstrel shows and tavern folklore for ages...
-nar The tales of that voyage have become the stuff of minstrel shows and tavern folklore for ages...
+nar Las historias de ese viaje se han vuelto cosa de espectáculos de juglares y folclore por años...
 # nar Nobody knows just what parts of the tales are real and which parts are legends...
-nar Nobody knows just what parts of the tales are real and which parts are legends...
+nar Nadie sabe qué partes exactas de las historias son reales y qué partes son leyendas...
 # nar Hundreds of years later, the denizens of Halla were stunned to be visited by a ship which claimed to be from beyond Asahi, which was crewed by a never before seen race of Maan who looked puzzlingly Elvish...
-nar Hundreds of years later, the denizens of Halla were stunned to be visited by a ship which claimed to be from beyond Asahi, which was crewed by a never before seen race of Maan who looked puzzlingly Elvish...
+nar Cientos de años más tarde, los habitantes de Halla se quedaron impactados al ser visitados por una nave que decía ser de más allá de Asahi, la cual estaba tripulada por una raza de Maan nunca antes vista que se veía extrañamente Élfica...
 #% flag
 flag
 #% stop
@@ -1745,73 +1745,73 @@ dbg spr_bg_sunriderbridge_night
 #% cha kuu_neu_annoyed_neutral_smallopen
 cha kuu_neu_annoyed_neutral_smallopen
 # kuu So you come before me, Shields. Hah! Have you come to confess your undying love for me as well?
-kuu So you come before me, Shields. Hah! Have you come to confess your undying love for me as well?
+kuu Conque has venido a mí, Shields. ¡Hah! ¿Has venido a confesar tu amor eterno por mí también?
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 # kay Why, you read my mind entirely, admiral.
-kay Why, you read my mind entirely, admiral.
+kay Vaya, leíste mi mente completamente, almirante.
 #% cha kuu_neu_focus_closedeye_bigopensm
 cha kuu_neu_focus_closedeye_bigopensm
 # kuu Hahaha! You are a funny man. That is why I like you.
-kuu Hahaha! You are a funny man. That is why I like you.
+kuu ¡Hahaha! Eres un hombre divertido. Es por eso que me gustas.
 #% cha kuu_neu_focus_narrow_smirk
 cha kuu_neu_focus_narrow_smirk
 # kuu Very well, Shields. I suppose you have earned the right to stand by me tonight with your earlier display of skill.
-kuu Very well, Shields. I suppose you have earned the right to stand by me tonight with your earlier display of skill.
+kuu Muy bien, Shields. Supongo que te has ganado el derecho de estar a mi lado esta noche con tu anterior espectáculo de habilidad.
 #% cha kuu_shout_focus_wide_smallopen
 cha kuu_shout_focus_wide_smallopen
 # kuu To think a man of your caliber has escaped my notice until now! Had you stood by my side when we fought against the Orks, we would have defeated the Dark Prince with only half our losses!
-kuu To think a man of your caliber has escaped my notice until now! Had you stood by my side when we fought against the Orks, we would have defeated the Dark Prince with only half our losses!
+kuu ¡Y pensar que un hombre de tu calibre se había escapado a que lo notara hasta ahora! ¡Si hubieras estado a mi lado cuando luchamos contra los Orkos, habríamos derrotado al Príncipe Oscuro con solo la mitad de nuestras pérdidas!
 #% cha kuu_neu_sad_closedeye_smallsmir
 cha kuu_neu_sad_closedeye_smallsmir
 # kuu Perhaps even our greatest loss would not have come to pass...
-kuu Perhaps even our greatest loss would not have come to pass...
+kuu Quizá incluso nuestra mayor pérdida no habría sucedido...
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay Or perhaps fate would remain unchanged. I'm afraid I have little expertise beyond the seas, admiral.
-kay Or perhaps fate would remain unchanged. I'm afraid I have little expertise beyond the seas, admiral.
+kay O quizá el destino se quedaría igual. Me temo que tengo poca experiencia más allá de los mares, almirante.
 #% cha kuu_neu_focus_neutral_smirk
 cha kuu_neu_focus_neutral_smirk
 # kuu I would put a humble man in command over a braggart in a heartbeat. Already far too many of those among our ranks...
-kuu I would put a humble man in command over a braggart in a heartbeat. Already far too many of those among our ranks...
+kuu Yo pondría a un hombre humilde al mando por encima de un charlatán sin dudarlo. Ya tenemos demasiados de esos entre nuestras filas...
 #% cha kay_neu_confuse_thinking_talk
 cha kay_neu_confuse_thinking_talk
 # kay Somehow, I think I know what you're talking about...
-kay Somehow, I think I know what you're talking about...
+kay De alguna forma, creo que sé de qué estás hablando...
 # kuu But I am not merely speaking empty praise. I have a proposition for you, Shields.
-kuu But I am not merely speaking empty praise. I have a proposition for you, Shields.
+kuu Pero no estoy diciendo solamente elogios vacíos. Tengo una propuesta para ti, Shields.
 #% cha kay_neu_confuse_neutral_slight
 cha kay_neu_confuse_neutral_slight
 # kay A proposition?
-kay A proposition?
+kay ¿Una propuesta?
 #% cha kuu_neu_annoyed_neutral_smallopen
 cha kuu_neu_annoyed_neutral_smallopen
 # kuu Once we sign the peace treaty at Ryuvia, how about you visit Asahi with me, Shields?
-kuu Once we sign the peace treaty at Ryuvia, how about you visit Asahi with me, Shields?
+kuu Una vez firmemos el tratado de paz en Ryuvia, ¿qué te parece si visitas Asahi conmigo, Shields?
 # kuu Though the war may be over, there will be countless diplomatic talks on the horizon to fully normalize relations between our nations. As the hero of the Neutral Banners, your voice will be indispensable in creating a new era of peace.
-kuu Though the war may be over, there will be countless diplomatic talks on the horizon to fully normalize relations between our nations. As the hero of the Neutral Banners, your voice will be indispensable in creating a new era of peace.
+kuu Aunque la guerra haya terminado, habrá incontables conversaciones diplomáticas en el horizonte para normalizar completamente las relaciones entre nuestras naciones. Como el héroe de los Territorios Neutrales, tu voz será indispensable en crear una nueva era de paz.
 #% cha kuu_shout_shouttral_lookup_bigopensm
 cha kuu_shout_shouttral_lookup_bigopensm
 # kuu And I shall even offer you a personal tour of New Edar, as an added bonus.
-kuu And I shall even offer you a personal tour of New Edar, as an added bonus.
+kuu Y me ofreceré incluso a darte un tour personal por New Edar, como un bonus adicional.
 #% cha kay_neu_focus_closed_smallopen
 cha kay_neu_focus_closed_smallopen
 # kay Well, who am I to refuse an admiral! Of course, I shall join you in New Edar!
-kay Well, who am I to refuse an admiral! Of course, I shall join you in New Edar!
+kay ¡Bueno, quién soy yo para rechazar a una almirante! ¡Por supuesto, me uniré a ti en New Edar!
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 # kay I look forward to fully hashing out the terms of the peace treaty with you.
-kay I look forward to fully hashing out the terms of the peace treaty with you.
+kay Ansío detallar completamente los términos del tratado de paz contigo.
 #% cha kuu_shout_focus_wide_smallopen
 cha kuu_shout_focus_wide_smallopen
 # kuu Then it is done!
-kuu Then it is done!
+kuu ¡Entonces está hecho!
 # kuu I have no doubt you will find the splendors of New Edar more than accommodating. Let the Pact of Maan come to be known for our fineries and hospitality, not war!
-kuu I have no doubt you will find the splendors of New Edar more than accommodating. Let the Pact of Maan come to be known for our fineries and hospitality, not war!
+kuu No tengo dudas de que encontrarás los esplendores de New Edar más que cómodos. ¡Que el Pacto de Maan sea conocido por nuestras exquisiteces y hospitalidad, no la guerra!
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 # kay I look forward to working with you, admiral...
-kay I look forward to working with you, admiral...
+kay Ansío trabajar contigo, almirante...
 #% flag
 flag
 #% stop
@@ -1821,21 +1821,21 @@ tag chap9_kuuoutro
 #% dcg spr_cg_kuuend
 dcg spr_cg_kuuend
 # nar And so, Captain Kayto Shields came to sail to the Asahi Isle with Admiral Kuushana to open diplomatic ties with Pact.
-nar And so, Captain Kayto Shields came to sail to the Asahi Isle with Admiral Kuushana to open diplomatic ties with Pact.
+nar Y así, el Capitán Kayto Shields llegó a partir a la Isla Asahi con la Almirante Kuushana para abrir lazos diplomáticos con el Pacto.
 # nar Though the negotiations took far longer than originally anticipated, at long last, Pact opened embassies throughout Halla in the name of fostering peace and prosperity.
-nar Though the negotiations took far longer than originally anticipated, at long last, Pact opened embassies throughout Halla in the name of fostering peace and prosperity.
+nar Aunque las negociaciones tomaron más de lo anticipado originalmente, al final, el Pacto abrió embajadas a lo largo y ancho de Halla en nombre de cultivar la paz y prosperidad.
 # nar The agreement was saved largely in part due to the intervention of Kayto and Kuushana.
-nar The agreement was saved largely in part due to the intervention of Kayto and Kuushana.
+nar El acuerdo fue salvado enormemente en parte debido a la intervención de Kayto y Kuushana.
 # nar Their relationship came to mirror the international relations between Pact and Ryuvia.
-nar Their relationship came to mirror the international relations between Pact and Ryuvia.
+nar Su relación llegó a reflejar las relaciones internacionales entre el Pacto y Ryuvia.
 # nar Never did the realm fear total war more than during their brief falling outs, only to then turn to relief each time the two reconciled.
-nar Never did the realm fear total war more than during their brief falling outs, only to then turn to relief each time the two reconciled.
+nar Nunca el reino temió a una guerra total más que durante sus breves riñas, solo para entonces estar aliviados cada vez que ambos se reconciliaban.
 # nar For over one hundred years, Pact never again stirred the pot of conflict, not until long after Admiral Kuushana departed the world.
-nar For over one hundred years, Pact never again stirred the pot of conflict, not until long after Admiral Kuushana departed the world.
+nar Durante más de cien años, el Pacto nunca más agitó la olla del conflicto, no hasta mucho después de que la Almirante Kuushana partió del mundo.
 # nar For Maan's lives were short, and their memories even shorter.
-nar For Maan's lives were short, and their memories even shorter.
+nar Pues las vidas de los Maan eran cortas, y sus recuerdos aún más cortos.
 # nar Thus, it fell upon a new generation of heroes born during the great peace to face that challenge.
-nar Thus, it fell upon a new generation of heroes born during the great peace to face that challenge.
+nar Así, cayó sobre una nueva generación de héroes nacidos durante la gran paz enfrentar ese desafío.
 #% flag
 flag
 #% stop
@@ -1849,93 +1849,93 @@ dbg spr_bg_sunriderbridge_night
 #% cha cos_armscrossed_flat_narrowloo_smirk_blush
 cha cos_armscrossed_flat_narrowloo_smirk_blush
 # cos Arr, why have you come to speak with me? I would much rather be left alone with me rum...
-cos Arr, why have you come to speak with me? I would much rather be left alone with me rum...
+cos Arr, ¿por qué has venido a hablar conmigo? Preferiría mucho más ser dejada sola con mi ron...
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay So you say, Cosette. But I know the look of a sea dog looking for a drinking partner.
-kay So you say, Cosette. But I know the look of a sea dog looking for a drinking partner.
+kay Eso dices, Cosette. Pero conozco la mirada de un perro de mar buscando un compañero de bebidas.
 # kay So... Who would have thought we would find ourselves here.
-kay So... Who would have thought we would find ourselves here.
+kay Así que... Quién habría pensado que nos encontraríamos aquí.
 #% cha cos_fists_confused_narrowloo_guh_blush
 cha cos_fists_confused_narrowloo_guh_blush
 # cos Your surprise is mutual...
-cos Your surprise is mutual...
+cos Tu sorpresa es mutua...
 # cos A Demonfolk pirate like me, with a straight laced captain like you... Peh! The Heavens have a strange sense of humor.
-cos A Demonfolk pirate like me, with a straight laced captain like you... Peh! The Heavens have a strange sense of humor.
+cos Una pirata Demonio como yo, con un capitán correcto como tú... ¡Peh! Los Cielos tienen un extraño sentido del humor.
 #% cha cos_fists_flat_closedeye_grin_blush
 cha cos_fists_flat_closedeye_grin_blush
 # cos But I suppose a good team we do make. I tip my hat at thee.
-cos But I suppose a good team we do make. I tip my hat at thee.
+cos Pero supongo que hacemos un buen equipo. Me quito el sombrero ante ti.
 #% cha cos_armscrossed_neutral_narrow_talk_blush
 cha cos_armscrossed_neutral_narrow_talk_blush
 # cos In truth, I thought I had met my judgment day when the Dreadstone shattered. I did not think you would be able to burn away so much mana...
-cos In truth, I thought I had met my judgment day when the Dreadstone shattered. I did not think you would be able to burn away so much mana...
+cos En verdad, pensé que me había encontrado mi juicio el día en que la Dreadstone se fragmentó. No pensé que serías capaz de quemar tanto maná...
 #% cha kay_neu_confuse_thinking_smirk
 cha kay_neu_confuse_thinking_smirk
 # kay You were the one who did that, Cosette. Magic goes completely above my head. There's no way I would even have been able wield even a drop of that mana.
-kay You were the one who did that, Cosette. Magic goes completely above my head. There's no way I would even have been able wield even a drop of that mana.
+kay Tú fuiste quien hizo eso, Cosette. La magia se me escapa completamente. No hay forma de que yo hubiera sido capaz siquiera de usar aunque sea una gota de ese maná. 
 #% cha cos_armscrossed_neutral_closedeye_talk_blush
 cha cos_armscrossed_neutral_closedeye_talk_blush
 # cos Nay, Shields. There is simply no other explanation. A miracle was performed on that day.
-cos Nay, Shields. There is simply no other explanation. A miracle was performed on that day.
+cos No, Shields. Simplemente no hay otra explicación. Un milagro fue realizado ese día.
 #% cha kay_neu_focus_thinking_smirk
 cha kay_neu_focus_thinking_smirk
 # kay My personal policy is to attribute miracles to simply my good luck and not to think too deeply about it. Trust me, you will become a happier person that way.
-kay My personal policy is to attribute miracles to simply my good luck and not to think too deeply about it. Trust me, you will become a happier person that way.
+kay Mi política personal es atribuir milagros a simplemente mi buena suerte y no pensarlo demasiado. Créeme, te volverás una persona más feliz de esa forma.
 #% cha cos_armscrossed_neutral_narrowloo_neutral_blush
 cha cos_armscrossed_neutral_narrowloo_neutral_blush
 # cos I suppose so... But in the end, I have been granted a new life...
-cos I suppose so... But in the end, I have been granted a new life...
+cos Eso supongo... Pero al final, me fue concedida una nueva vida...
 #% cha cos_facepalm_confused_narrow_neutral_blush
 cha cos_facepalm_confused_narrow_neutral_blush
 # cos Thanks to recent events, I have had somewhat of a personal revelation, Shields.
-cos Thanks to recent events, I have had somewhat of a personal revelation, Shields.
+cos Gracias a los eventos recientes, he tenido algo así como una revelación personal, Shields.
 #% cha cos_fists_flat_narrow_talk_blush
 cha cos_fists_flat_narrow_talk_blush
 # cos All this time, I believed that my mother had turned to an Ork as punishment for sheltering me. Yet, upon reading the real Monolith of Truth, I realized that could not have been.
-cos All this time, I believed that my mother had turned to an Ork as punishment for sheltering me. Yet, upon reading the real Monolith of Truth, I realized that could not have been.
+cos Todo este tiempo, creí que mi madre se había convertido en Orka como castigo por acogerme. Sin embargo, tras leer el verdadero Monolito de la Verdad, me di cuenta de que eso no pudo haber sido.
 # cos I investigated the matter with the others and discovered my mother was no ordinary priestess, but the leader of a rebel group within Song who resisted the fake teachings of Admiral Grey and the other elders...
-cos I investigated the matter with the others and discovered my mother was no ordinary priestess, but the leader of a rebel group within Song who resisted the fake teachings of Admiral Grey and the other elders...
+cos Investigué el asunto con los demás y descubrí que mi madre no era una sacerdotisa ordinaria, sino la líder de un grupo rebelde dentro de Song que se resistía a las falsas enseñanzas del Almirante Grey y los demás ancianos...
 # cos In the end, she was excommunicated from the Church and banned from using the monoliths to purify herself.
-cos In the end, she was excommunicated from the Church and banned from using the monoliths to purify herself.
+cos Al final, fue desvinculada de la Iglesia y prohibida de usar los monolitos para purificarse.
 #% cha cos_fists_angry_closedeye_clench_blush
 cha cos_fists_angry_closedeye_clench_blush
 # cos It was Admiral Grey all along who turned her into an Ork. It was never about me at all...
-cos It was Admiral Grey all along who turned her into an Ork. It was never about me at all...
+cos Fue el Almirante Grey todo el tiempo quien la convirtió en Orka. Nunca se trató de mí para nada...
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
 # kay I see... That does make sense. In the end, turning into an Ork had nothing to do with losing belief in the Monolithic Truth...
-kay I see... That does make sense. In the end, turning into an Ork had nothing to do with losing belief in the Monolithic Truth...
+kay Ya veo... Eso tiene sentido. Al final, convertirse en Orko no tuvo nada que ver con perder la creencia en la Verdad Monolítica...
 #% cha cos_armscrossed_flat_narrow_smirk_blush
 cha cos_armscrossed_flat_narrow_smirk_blush
 # cos Though I always expected I would meet a terrible end as my punishment, I now find myself thinking I may have been spared of that fate. Perhaps you were right, Shields.
-cos Though I always expected I would meet a terrible end as my punishment, I now find myself thinking I may have been spared of that fate. Perhaps you were right, Shields.
+cos Aunque siempre esperé que me encontraría con un terrible final como mi castigo, ahora me encuentro pensando que podría haber sido perdonada de ese destino. Quizás tenías razón, Shields.
 # cos Perhaps the Terror of the Seas truly did die that day, and the me who stands before you now can start anew...
-cos Perhaps the Terror of the Seas truly did die that day, and the me who stands before you now can start anew...
+cos Quizás el Terror de los Mares verdaderamente murió ese día, y la yo que está ante ti puede empezar ahora de nuevo...
 #% cha kay_neu_neutral_neutral_smirk
 cha kay_neu_neutral_neutral_smirk
 # kay Of course. It behooves you to make the most of the Queen's pardon. You truly have been made anew.
-kay Of course. It behooves you to make the most of the Queen's pardon. You truly have been made anew.
+kay Por supuesto. Depende de ti aprovechar al máximo el perdón de la Reina. Realmente te han hecho de nuevo.
 # kay Let me help you make the most out of your second chance, Cosette.
-kay Let me help you make the most out of your second chance, Cosette.
+kay Déjame ayudarte a aprovechar al máximo tu segunda oportunidad, Cosette.
 #% cha cos_armscrossed_confused_narrow_talk_blush
 cha cos_armscrossed_confused_narrow_talk_blush
 # cos You would do that for an Imp?
-cos You would do that for an Imp?
+cos ¿Harías eso por una Diablilla?
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 # kay I have been called Lessor far too many times. I shall not do that to you.
-kay I have been called Lessor far too many times. I shall not do that to you.
+kay Me han llamado Inferior demasiadas veces. Yo no te haré eso.
 #% cha cos_armscrossed_sadorscar_closedeye_neutral_blush
 cha cos_armscrossed_sadorscar_closedeye_neutral_blush
 # cos I see...
-cos I see...
+cos Ya veo...
 #% cha cos_armscrossed_flat_narrow_smirk_blush
 cha cos_armscrossed_flat_narrow_smirk_blush
 # cos Then, I wish to first return to Ongess, to the site of my mother's chapel...
-cos Then, I wish to first return to Ongess, to the site of my mother's chapel...
+cos Entonces, deseo regresar primero a Ongess, al sitio de la capilla de mi madre...
 # cos Perhaps there, I will finally be able to understand why she accepted me, an Imp, as a daughter...
-cos Perhaps there, I will finally be able to understand why she accepted me, an Imp, as a daughter...
+cos Quizás allí, finalmente seré capaz de entender por qué me aceptó, a una Diablilla, como una hija...
 #% flag
 flag
 #% stop
@@ -1945,15 +1945,15 @@ tag chap9_cosoutro
 #% dcg spr_cg_cosend
 dcg spr_cg_cosend
 # nar And so, it came to be that Captain Kayto Shields and Cosette returned to Ongess to visit the site of her adoptive mother's chapel...
-nar And so, it came to be that Captain Kayto Shields and Cosette returned to Ongess to visit the site of her adoptive mother's chapel...
+nar Y así, llegó a suceder que el Capitán Kayto Shields y Cosette regresaron a Ongess para visitar el sitio de la capilla de su madre adoptiva...
 # nar Though initially shocked to find it in ruins, Cosette wordlessly got to work restoring it to its former glory...
-nar Though initially shocked to find it in ruins, Cosette wordlessly got to work restoring it to its former glory...
+nar Aunque inicialmente impactada al encontrarla en ruinas, Cosette se puso a trabajar sin hablar para restaurar su antigua gloria...
 # nar Many years passed, and she opened an orphanage where it stood. Like her mother, she would come to take in all the unwanted children of Halla and raise them as if they were her own, together with Kayto...
-nar Many years passed, and she opened an orphanage where it stood. Like her mother, she would come to take in all the unwanted children of Halla and raise them as if they were her own, together with Kayto...
+nar Muchos años pasaron, y abrió un orfanato donde estaba. Como su madre, ella llegaría a aceptar a todos los niños no queridos de Halla y los criaría como si fueran los suyos, junto con Kayto...
 # nar The legend of the Terror of the Seas eventually faded away from the people's memories. In its place, word spread of a saintly Demonfolk Priestess who looked after all the orphans of the realm.
-nar The legend of the Terror of the Seas eventually faded away from the people's memories. In its place, word spread of a saintly Demonfolk Priestess who looked after all the orphans of the realm.
+nar La leyenda del Terror de los Mares eventualmente se esfumó de los recuerdos de las personas. En su lugar, se esparció el rumor de una santa Sacerdotisa Demonio que cuidaba de todos los huérfanos del reino.
 # nar And so, Cosette never again returned to piracy and lived out her days in peace, surrounded by all her children...
-nar And so, Cosette never again returned to piracy and lived out her days in peace, surrounded by all her children...
+nar Y así, Cosette nunca regresó de nuevo a la piratería y vivió sus días en paz, rodeada de todos sus niños...
 #% flag
 flag
 #% stop
