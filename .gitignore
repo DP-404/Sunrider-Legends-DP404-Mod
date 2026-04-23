@@ -1,3 +1,4 @@
+*.zip
 exported_data/**/*.txt
 generated_data/**/*.txt
 source_data/**/*.txt

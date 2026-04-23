@@ -1,9 +1,9 @@
 #% Yes?
 ¿Sí?
 #% Ready
-Lista
+Lista.
 #% I'm here
-Estoy aquí
+Estoy aquí.
 #% Hya! (Swing baton)
 ¡Hya! (Mueve el bastón)
 #% Hya! (Swing baton)
@@ -19,7 +19,7 @@ Heh.
 #% Prepare to act!
 ¡Preparada para actuar!
 #% Your power is mine!
-¡Tu poder es mío!
+¡Su poder es mío!
 #% New orders!
 ¡Nuevas órdenes!
 #% -1000
@@ -47,11 +47,11 @@ Mm...
 #% This victory belongs to everyone
 Esta victoria les pertenece a todos
 #% At your command
-A sus órdenes
+A sus órdenes.
 #% Standing by
-En posición
+En posición.
 #% All hands report ready
-Toda la tripulación se reporta lista
+Toda la tripulación se reporta lista.
 #% Your orders, captain?
 ¿Sus órdenes, capitán?
 #% Yes, captain?
@@ -61,7 +61,7 @@ Otro buen lío en el que nos ha metido...
 #% Heading to coordinates
 Dirigiéndonos a las coordenadas
 #% Steady as she goes!
-¡Avanzando firme!
+¡Sujétense mientras avanzamos!
 #% Full speed ahead!
 ¡Adelante a toda velocidad!
 #% Aye aye captain!
@@ -75,7 +75,7 @@ Dirigiéndonos a las coordenadas
 #% Load grapeshots!
 ¡Carguen metralla!
 #% Prepare special ordinance!
-¡Preparen el arma especial!
+¡Preparen la munición especial!
 #% Fire!
 ¡Fuego!
 #% Vanguard Cannon, fully charged!
@@ -123,9 +123,9 @@ Nada que no podamos aguantar.
 #% Remount all cannons!
 ¡Vuelvan a montar todos los cañones!
 #% Understood, captain
-Entendido, capitán
+Entendido, capitán.
 #% Order rescinded
-Orden cancelada
+Orden cancelada.
 #% Hey!
 ¡Hey!
 #% I'm ready!
@@ -139,7 +139,7 @@ Orden cancelada
 #% Hya! (Swing Sword)
 ¡Hya! (Mueve la Espada)
 #% Whew!
-¡U!
+¡Uf!
 #% Tututut!
 ¡Tututut!
 #% Toyah!
@@ -191,7 +191,7 @@ Yum...
 #% On route!
 ¡En ruta!
 #% I'm rowrowrowin' mah boat!
-¡Estoy brumbrumbrum mi bote!
+¡Estoy remremremando mi bote!
 #% Let's go!
 ¡Vamos!
 #% C'mon!
@@ -211,7 +211,7 @@ Yum...
 #% TOORAAHHH!!!
 ¡¡¡TOORAAHHH!!!
 #% Let's take 'em out!
-¡Derribémoslos!
+¡Acabemos con ellos!
 #% Fold sails!
 ¡Arríen las velas!
 #% Open sails!
@@ -229,9 +229,9 @@ Yum...
 #% We've taken damage, capt'n!
 ¡Hemos recibido daño, capitán!
 #% She's been hurt!
-¡Recibió daño!
+¡Ha sido dañada!
 #% It's like a beach episode from hell!
-¡Es como el episodio de playa del infierno!
+¡Es como un episodio de playa del infierno!
 #% Water's pouring in from every direction!
 ¡Sale agua de todas direcciones!
 #% Looks like Asaga's goin' for a swim...!
@@ -273,7 +273,7 @@ Yum...
 #% I can build it!
 ¡Puedo construirlo!
 #% You get a bread! Everyone gets a bread!
-¡Ten un panecillo! ¡Todos tengan panecillos!
+¡Ten un panecillo! ¡Tengan todos panecillos!
 #% This is a bakery now!
 ¡Esto es una pastelería ahora!
 #% -1000
@@ -545,7 +545,7 @@ Iyah~
 #% Iyah!
 ¡Iyah!
 #% Oo-oof!
-¡O-oof!
+¡Oo-oof!
 #% Ack!
 ¡Ack!
 #% Clothing damage...!
@@ -565,7 +565,7 @@ Iyah~
 #% Your resident goddess, at your service!
 ¡Tu diosa residente, a tu servicio!
 #% It's everyone's best girl, me!
-¡Aquí la chica favorita de todos, yo!
+¡Es la chica favorita de todos, yo!
 #% What can this goddess do for you?
 ¿Qué puede hacer esta diosa por ti?
 #% I am ready to serve.
@@ -619,7 +619,7 @@ Estoy lista para servir.
 #% There's no clothing damage so please don't do this!
 ¡No hay daño de ropas así que por favor no hagas esto!
 #% Iyaaahhhh....!!! Glub...glub...glubglubglub...
-¡¡¡Iyaaahhhh....!!! Glub...glub...glubglubglub...
+¡¡¡Iyaaahhhh....!!! Glu...glu...glugluglu...
 #% Fwweeh, we're on fire!
 ¡Fweeh, estamos en llamas!
 #% Your goddess hears you! Divine Prayer!
@@ -643,7 +643,7 @@ Olvídenlo.
 #% Hm.
 Hm.
 #% You have my bow.
-Mi arco es suyo.
+Mi arco es tuyo.
 #% Hya! (Shoot arrow)
 ¡Hya! (Dispara flecha)
 #% Hya! (Shoot arrow)
@@ -679,7 +679,7 @@ Adelante. ¡Lluvia de Flechas!
 #% I fall into the abyss...
 Caí al abismo...
 #% Nomunomunomu...
-Nomunomunomu...
+Ñomñomñom...
 #% Got one.
 Tengo a uno.
 #% Come.
@@ -697,7 +697,7 @@ Lista para órdenes.
 #% Hmm...
 Hmm...
 #% Speak.
-Hable.
+Habla.
 #% I obey.
 Obedeceré.
 #% We move.
@@ -723,13 +723,13 @@ Vanguard, listo.
 #% Fire.
 Fuego.
 #% Initiating hand-to-hand combat.
-Iniciando combate mano-a-mano.
+Iniciando combate cuerpo a cuerpo.
 #% Sails, fold.
 Velas, arríen.
 #% Sails, release.
 Velas, suelten.
 #% Enemy craft, dead in the water.
-Nave enemiga, derribada.
+Buque enemigo, derribado.
 #% Enemy sunk.
 Enemigo hundido.
 #% Our mast is down.
@@ -739,15 +739,15 @@ Daños ligeros.
 #% Hull is holding.
 El casco está resistiendo.
 #% We are under attack.
-Estamos bajo ataque
+Estamos bajo ataque.
 #% Damage reported.
-Daños reportados
+Daños reportados.
 #% The ship cannot last.
 La nave no podrá aguantar.
 #% Flooding reported.
 Inundación reportada.
 #% Alas, I return to the abyss...
-Adiós, regreso al abismo...
+Qué desgracia, regreso al abismo...
 #% Fires reported.
 Fuegos reportados.
 #% -1000
@@ -763,7 +763,7 @@ Fuegos reportados.
 #% -1000
 -1000
 #% My bow is yours.
-Mi arco es suyo.
+Mi arco es tuyo.
 #% Very well.
 Muy bien.
 #% Sir!
@@ -771,7 +771,7 @@ Muy bien.
 #% Standing by!
 ¡En posición!
 #% Reporting!
-¡Reportándose!
+¡Reportándome!
 #% HYAH! (Slamming hammer)
 ¡HYAH! (Aplasta el martillo)
 #% HYAH! (Slamming hammer)
@@ -811,7 +811,7 @@ Gracias.
 #% You are defeated!
 ¡Han sido derrotados!
 #% Moving to position!
-¡Moviéndose a la posición!
+¡Moviéndome a la posición!
 #% Justice has prevailed!
 ¡La justicia ha prevalecido!
 #% I am here.
@@ -831,7 +831,7 @@ Que la Sharr nos guíe.
 #% Full speed ahead!
 ¡Adelante a toda velocidad!
 #% Moving to position!
-¡Moviéndose a la posición!
+¡Moviéndome a la posición!
 #% Sir!
 ¡Señor!
 #% Man all oars!
@@ -857,7 +857,7 @@ Que la Sharr nos guíe.
 #% Release sails!
 ¡Suelten las velas!
 #% Enemy craft, dead in the water!
-¡Balsa enemiga, hundida!
+¡Buque enemigo, hundido!
 #% The heretics are sinking!
 ¡Los herejes se están hundiendo!
 #% We've lost our masts!
@@ -865,7 +865,7 @@ Que la Sharr nos guíe.
 #% Our ship shall not fail!
 ¡Nuestra nave no caerá!
 #% Hold fast!
-¡Aguántense rápido!
+¡Aguántense!
 #% Damage reported!
 ¡Daños reportados!
 #% We are taking on water!
@@ -891,9 +891,9 @@ Que la Sharr nos guíe.
 #% -1000
 -1000
 #% You have my hammer!
-¡Mi martillo es suyo!
+¡Mi martillo es tuyo!
 #% Rescinding command.
-Recibiendo orden.
+Cancelando orden.
 #% I'm here!
 ¡Aquí estoy!
 #% Hey!
@@ -907,7 +907,7 @@ Recibiendo orden.
 #% Iyah! (Swinging a frying pan)
 ¡Iyah! (Mueve la sartén)
 #% Whew!
-¡U!
+¡Uf!
 #% Missed!
 ¡Fallo!
 #% Heal!
@@ -1063,7 +1063,7 @@ Hahaha... ¡¡¡Haaahahaahaha!!!
 #% Fuck!
 ¡Demonios!
 #% Chomp chomp chomp...
-Ñom, ñom, ñom...
+Ñom ñom ñom...
 #% Weak!
 ¡Débil!
 #% Move!
@@ -1113,7 +1113,7 @@ Un movimiento atrevido.
 #% Release sails!
 ¡Suelten las velas!
 #% They're dead in the water!
-¡Muertos!
+¡Muertos en el agua!
 #% To the depths they go...
 Van a las profundidades...
 #% Fuck it all, we're dead in the water!
@@ -1127,11 +1127,11 @@ Sin daños reales que reportar.
 #% You fool! Command me better!
 ¡Idiota! ¡Dame mejores órdenes!
 #% You moron! We're taking shots left and right!
-¡Tonto! ¡Estamos recibiendo disparos por la izquierda y derecha!
+¡Tonto! ¡Estamos recibiendo disparos a izquierda y derecha!
 #% You are making me reconsider our alliance!
 ¡Me estás haciendo reconsiderar nuestra alianza!
 #% Fuck! Time to abandon ship!
-¡Demonios! ¡Hora de abandonar la nave!
+¡Diablos! ¡Hora de abandonar la nave!
 #% Argh, we're on fire!
 ¡Argh, estamos en llamas!
 #% -1000
@@ -1153,7 +1153,7 @@ Bien, lo que sea.
 #% Yeah?
 ¿Sí?
 #% Reporting.
-Reportándose.
+Reportándome.
 #% Standing by.
 En posición.
 #% Hya! (Stab dagger)
@@ -1169,7 +1169,7 @@ En posición.
 #% Laying traps...
 Colocando trampas...
 #% Clone jutsu!
-¡Jutsu de clonación!
+¡Jutsu de clon!
 #% Tossing nerve gas!
 ¡Arrojando gas nervioso!
 #% Shuriken storm!!
@@ -1201,11 +1201,11 @@ Bueno, supongo que lo hiciste bastante bien para variar.
 #% Yeah, Shields?
 ¿Sí, Shields?
 #% Yeah, yeah, I can hear you.
-Sí, sí, te escucho.
+Sí, sí, puedo escucharte.
 #% I can't believe I'm doing this...
-No puedo creer que estoy haciendo esto...
+No puedo creer que esté haciendo esto...
 #% I really should have picked another line of work...
-Realmente debería haber escogido otro trabajo...
+Realmente debería haber escogido otro tipo de trabajo...
 #% I don't get paid enough for this...
 No me pagan lo suficiente por esto...
 #% Here we go again...
@@ -1337,7 +1337,7 @@ En posición.
 #% Awaiting orders.
 Esperando órdenes.
 #% I leave this to you.
-Le dejaré esto a usted.
+Te dejaré esto a ti.
 #% Very well.
 Muy bien.
 #% We sail!
@@ -1359,7 +1359,7 @@ Muy bien.
 #% Fire!
 ¡Fuego!
 #% A curious weapon you have, Captain Shields.
-Un arma curiosa la que tiene ahí, Capitán Shields.
+Un arma curiosa la que tienes ahí, Capitán Shields.
 #% Fire!
 ¡Fuego!
 #% Strike the enemy!
@@ -1411,7 +1411,7 @@ Te protegeré.
 #% I am here.
 Estoy aquí.
 #% Let us be in prayer
-Déjanos rezar.
+Recemos.
 #% Hiya! (Swinging staff)
 ¡Hiya! (Mueve el bastón)
 #% Hiya! (Swinging staff)
@@ -1429,7 +1429,7 @@ Déjanos rezar.
 #% You will pay for your sins!
 ¡Pagarás por tus pecados!
 #% Hear ye, may your good deeds bring forth salvation!
-¡Escucha, ya que tus buenos actos traerán la salvación!
+¡Escucha, que tus buenos actos traigan la salvación!
 #% Your vitality withers away, for that is the fate of the wicked!
 ¡Tu vitalidad se marchita, pues ese es el destino de los malvados!
 #% O Great Father, is judgment day truly upon us? Meteor!
@@ -1447,7 +1447,7 @@ Oh Gran Padre, ¿el día del juicio está realmente sobre nosotros? ¡Meteorito!
 #% Ah, I am defeated!
 ¡Ah, fui derrotada!
 #% O Great Father, we thank you for our daily bread...
-Oh Gran Padre, te agradecemos nuestro pan diario...
+Oh Gran Padre, te agradecemos nuestro pan de cada día...
 #% Repent!
 ¡Arrepiéntete!
 #% I move.
@@ -1461,7 +1461,7 @@ Recemos.
 #% We act as one.
 Actuamos como uno.
 #% May the Great Father look over us.
-Que el Gran Padre nos proteja.
+Que el Gran Padre nos cuide.
 #% All is the will of the Great Father.
 Todo es la voluntad del Gran Padre.
 #% May we entrust our fates to the Father.
@@ -1577,7 +1577,7 @@ Levántense, ilusiones mías.
 #% Chomp.
 Ñom.
 #% You were weak.
-Eres débil.
+Fuiste débil.
 #% Moving to position.
 Moviéndome a la posición.
 #% Enemies defeated. They weren't anything special.
@@ -1635,13 +1635,13 @@ Recibimos algún daño ligero.
 #% Our hull's holding.
 Nuestro casco está resistiendo.
 #% Tch, we've been hit.
-Tch, fuimos golpeados.
+Tch, hemos sido golpeados.
 #% They got us.
 Nos tienen.
 #% We're taking on water!
 ¡Nos está entrando agua!
 #% Tch, need backup!
-¡Tch, necesitamos refuerzos!
+¡Tch, necesito refuerzos!
 #% Abandoning ship!
 ¡Abandonen la nave!
 #% We are on fire.
@@ -1705,9 +1705,9 @@ Terminemos con esto.
 #% Not bad.
 Nada mal.
 #% Stay down.
-Quietos.
+Abajo.
 #% Repositioning!
-¡Reposicionándose!
+¡Reposicionándome!
 #% An obvious outcome. [Wolf howls]
 Un resultado obvio. [Aullidos de lobo]
 #% Standing by.
@@ -1715,13 +1715,13 @@ En posición.
 #% I am here.
 Estoy aquí.
 #% We shall see if you live up to your reputation.
-Ya veremos si está a la altura de su reputación.
+Ya veremos si estás a la altura de tu reputación.
 #% Prove yourself.
 Pruébate.
 #% Do not fail me.
-No me falle.
+No me falles.
 #% What are your intentions?
-¿Cuáles son sus intenciones?
+¿Cuáles son tus intenciones?
 #% Very well.
 Muy bien.
 #% Moving to coordinates.

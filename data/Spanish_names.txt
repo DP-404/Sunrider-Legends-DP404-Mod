@@ -75,4 +75,4 @@ Dios
 #% Elf Boss
 Jefe Elfo
 #% Demonfolk Child
-Niño Demonfolk
+Niña Demonio

@@ -95,9 +95,9 @@ ESPECIAL
 #% SWAP
 CAMBIAR
 #% BREAD
-COMIDA
+PANECILLO
 #% SKIP
-SALTAR
+ESPERAR
 #% BACK STEP I
 RETROCESO I
 #% After a basic attack, leap backwards while firing the pistol twice, bypassing one enemy backstab.
@@ -129,7 +129,7 @@ Vacío
 #% Invasion!
 ¡Invasión!
 #% Escape with the villagers.
-Escapa con los aldeanos.
+Escapar con los aldeanos.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Calm
@@ -163,9 +163,9 @@ Legion
 #% Fishing Boat
 Bote Pesquero
 #% Press any input to continue.
-Presione cualquier botón para continuar.
+Pulse cualquier botón para continuar.
 #% PRESS ANY INPUT TO CONTINUE
-PRESIONE CUALQUIER BOTÓN PARA CONTINUAR
+PULSE CUALQUIER BOTÓN PARA CONTINUAR
 #% Below Deck
 Cubierta Inferior
 #% Cargo Hold
@@ -177,7 +177,7 @@ Cubierta Principal
 #% Ready Room
 Cámara de Oficiales
 #% PARTY STATUS
-ESTADO DEL EQUIPO
+ESTADO DEL GRUPO
 #% AVA CRESCENTIA
 AVA CRESCENTIA
 #% ASAGA OAKRUN
@@ -335,7 +335,7 @@ Naves tripuladas por Asaga tienen +20 EN
 #% REVENGE
 VENGANZA
 #% Counterattack all enemies while Awakened in hand-to-hand combat
-Contrataca a todos los enemigos mientras está Despierta en combates mano-a-mano
+Contrataca a todos los enemigos mientras está Despierta en combates cuerpo a cuerpo
 #% CONCENTRATION
 CONCENTRACIÓN
 #% Extend the duration of Awakening
@@ -387,7 +387,7 @@ Corta hasta 3 enemigos a la vez
 #% RASENZAN
 RASENZAN
 #% Strike the enemy and launch it backwards
-Golpea al enemigo y lánzalo hacia atrás
+Golpea al enemigo y lo lanza hacia atrás
 #% SMOKE BOMB
 BOMBA DE HUMO
 #% Temporarily increase Icari's evasion
@@ -407,7 +407,7 @@ Icari no puede fallar cuando el objetivo está cerca de la muerte en acciones de
 #% NOT YET
 AÚN NO
 #% Increase evasion when near death in hand-to-hand combat
-Aumenta la evasión cerca de la muerte en combate mano-a-mano
+Aumenta la evasión cerca de la muerte en combate cuerpo a cuerpo
 #% IT'S NOT LIKE THAT
 NO ES LO QUE PARECE
 #% Increase attack DMG when in party with Kryska
@@ -415,7 +415,7 @@ Aumenta el DAÑO de ataques cuando está en grupo con Kryska
 #% PAYBACK
 REPRESALIA
 #% Counterattack on successful evade in hand-to-hand combat
-Contrataca al evadir exitosamente en combate mano-a-mano
+Contrataca al evadir exitosamente en combate cuerpo a cuerpo
 #% IMPROVED FORMULA
 FÓRMULA MEJORADA
 #% Smoke bomb applies to adjacent party members
@@ -423,7 +423,7 @@ Bomba de humo se aplica a miembros del grupo adyacentes
 #% PANTHER STRIKES
 GOLPES DE PANTERA
 #% Attack twice in hand-to-hand combat
-Ataca dos veces en combate mano-a-mano
+Ataca dos veces en combate cuerpo a cuerpo
 #% LETTERS OF MARQUE
 PATENTES DE CORSO
 #% Increase bounty awards
@@ -485,7 +485,7 @@ MILAGRO
 #% For 1 CMD bar, keep your ship and restore the crew's HP after losing a boarding action
 Por 1 barra de CMD, mantén tu nave y recupera los PS de la tripulación tras perder una acción de abordaje
 #% AWAKENED SHOT
-DISPARO DEL DESPERTAR
+DISP. DE DESPERTAR
 #% Attack with extra DMG, ignoring enemy DEF
 Ataca con DAÑO extra, ignorando la DEF enemiga
 #% CRIPPLE
@@ -525,7 +525,7 @@ DESTROZA-JEFES
 #% Increase DMG of Mark of the Sharr
 Aumenta el DAÑO de Marca de la Sharr
 #% GUARD
-PROTEGER
+PROTECCIÓN
 #% Drastically increase DEF
 Aumenta drásticamente la DEF
 #% TAUNT
@@ -599,7 +599,7 @@ El Sunrider sobrevive un ataque fatal con 1 PS si Maray está a bordo
 #% AFTERCARE
 CUIDADOS POSTERIORES
 #% Restore 25% of her party's HP after winning a hand-to-hand battle.
-Restaura el 25% de los PS de su grupo tras ganar una batalla mano-a-mano
+Restaura el 25% de los PS de su grupo tras ganar una batalla cuerpo a cuerpo
 #% BLESSED RATIONS
 RACIONES BENDECIDAS
 #% Eating a bread increases the party's SP Combo if Maray is in the party
@@ -649,15 +649,15 @@ ARROJAR ABROJO II
 #% Toss 5 caltrops which damage and poison enemies
 Arroja 5 abrojos que dañan y envenenan enemigos
 #% CONFUSION BOMB I
-BOMBA DE CONFUSIÓN I
+BOMBA CONFUSIÓN I
 #% Toss a bomb which makes the target attack at random
 Arroja una bomba que hace que el objetivo ataque aleatoriamente
 #% CLONE JUTSU
-JUTSU DE CLONACIÓN
+JUTSU DE CLON
 #% Create a clone of Lynn which takes hits for her
 Crea un clon de Lynn que recibe golpes por ella
 #% CONFUSION BOMB II
-BOMBA DE CONFUSIÓN II
+BOMBA CONFUSIÓN II
 #% Toss a bomb which makes 3 targets attack at random
 Arroja una bomba que hace que 3 objetivos ataquen aleatoriamente
 #% POISON BOMB
@@ -665,17 +665,17 @@ BOMBA DE VENENO
 #% Toss a bomb which poisons the target
 Arroja una bomba que envenena al objetivo
 #% SHURIKEN STORM
-TORMENTA DE SHURIKEN
+LLUVIA DE SHURIKEN
 #% Throw many shuriken to deal light damage to all enemies
 Lanza muchos shuriken para provocar daño ligero a todos los enemigos
 #% INTERRUPT I
 INTERRUMPIR I
 #% Slight chance to toss a shuriken at an attacking enemy in hand-to-hand combat
-Ligera posibilidad de arrojar un shuriken a un enemigo atacante en combate mano-a-mano
+Ligera posibilidad de arrojar un shuriken a un enemigo atacante en combate cuerpo a cuerpo
 #% INTERRUPT II
 INTERRUMPIR II
 #% Increased chance to Interrupt
-Posibilidad de Interrumpir aumentada
+Probabilidad de Interrumpir aumentada
 #% INTERRUPT III
 INTERRUMPIR III
 #% Chance that Interrupt poisons the enemy
@@ -723,7 +723,7 @@ Realiza una Danza de Espadas, y luego un Aplastar
 #% DESERT STAMINA
 AGUANTE DESÉRTICO
 #% Qisha heals extra HP from Bread
-Qisha cura PS extra por Panecillo
+Qisah cura PS extra por Panecillo
 #% SURVIVAL INSTINCTS
 INSTINTOS DE SUPERVIVENCIA
 #% Evasion increases when below half HP
@@ -751,7 +751,7 @@ Potencia la precisión a 3 objetivos
 #% NULLIFY
 ANULAR
 #% Destroy target's armor and spell res
-Restruye la armadura y la resistencia a hechizos del objetivo
+Destruye la armadura y la resistencia a hechizos del objetivo
 #% NULLIFY II
 ANULAR II
 #% Destroy 3 targets' armor and spell res
@@ -773,7 +773,7 @@ ESCUDO CELESTIAL
 #% Bless regenerates HP of 3 units.
 La bendición regenera los PS de 3 unidades
 #% FORCE FEEDBACK
-RETROALIMENTACIÓN DE FUERZA
+FORZAR RETROALIMENTACIÓN
 #% Nullify applies to 3 enemies.
 Anular se aplica a 3 enemigos
 #% MIND SHIELD
@@ -793,7 +793,7 @@ FRANCOTIRADORA II
 #% Deal large amount of DMG to target and destroy target's armor
 Provoca una gran cantidad de DAÑO al objetivo y destruye la armadura del objetivo
 #% AWAKENED SHOTS
-DISPAROS DEL DESPERTAR
+DISPS. DE DESPERTAR
 #% Snipe 3 targets
 Ataca con Francotiradora a 3 objetivos
 #% SUMMON
@@ -855,7 +855,7 @@ Provoca más DAÑO mientras menor sea la salud de Kuushana
 #% LOYAL RETAINER
 FIEL SERVIDOR
 #% Kuushana spawns a Ronin merc if there is space in the party in hand-to-hand combat
-Kuushana invoca un mercenario Ronin si hay un espacio en el grupo en combate mano-a-mano
+Kuushana invoca un mercenario Ronin si hay un espacio en el grupo en combate cuerpo a cuerpo
 #% NAVIGATOR
 NAVEGANTE
 #% Increases move range of the ship crewed by Kuushana
@@ -871,7 +871,7 @@ Retirarse de una batalla restaura los PS de la tripulación a como estaban antes
 #% SCAVENGE
 APROVECHAR
 #% Winning hand-to-hand combat fully restores the ship crewed by Kuushana to full HP
-Ganar combate mano-a-mano restaura totalmente los PS de la nave tripulada por Kuushana 
+Ganar combate cuerpo a cuerpo restaura totalmente los PS de la nave tripulada por Kuushana 
 #% RAPID RELOAD
 RECARGA RÁPIDA
 #% Unlocks an Order to reload the cannons of all player ships
@@ -891,15 +891,15 @@ Transformación en Forma de Nueve Colas
 #% PUNISH I
 CASTIGAR I
 #% Deal massive DMG to target when Awakened
-Provoca un enorme DAÑO al objetivo mientras etá Despierta
+Provoca un enorme DAÑO al objetivo mientras está Despierta
 #% PUNISH II
 CASTIGAR II
 #% Deal massive DMG to target when Awakened
-Provoca un enorme DAÑO al objetivo mientras etá Despierta
+Provoca un enorme DAÑO al objetivo mientras está Despierta
 #% HELLFIRE
 FUEGO INFERNAL
 #% Deal massive DMG to all enemies when Awakened
-Provoca un enorme DAÑO a todos los enemigos mientras etá Despierta
+Provoca un enorme DAÑO a todos los enemigos mientras está Despierta
 #% DOMINATE
 DOMINAR
 #% Unlocks an Order allowing Alice to instantly commandeer an enemy ship with less HP than the Sunrider so long as her ship has more than one crew member
@@ -961,7 +961,7 @@ Un arma montada en vagón que dispara muchas flechas en llamas, haciendo a las v
 #% ROUND SHOT
 BALAS RASAS
 #% Basic cannons which also destroy the enemy's cannons.
-Cañones básicos que además destruyen los cañones del enemigo.
+Cañones básicos que también destruyen los cañones del enemigo.
 #% CHAIN SHOT
 PALANQUETAS
 #% Fires chained rounds which destroys the enemy's sails and rigging.
@@ -975,7 +975,7 @@ QUITAR
 #% EQUIP
 EQUIPAR
 #% SELL
-VENDER
+VENDE
 #% R: SELL
 R: VENDER
 #% SAIL RADIUS
@@ -993,7 +993,7 @@ VEL. DE VELA
 #% EVASION
 EVASIÓN
 #% RELOAD COST
-COST. DE RECARGA
+COST. DE REC.
 #% ASSIGN CREW
 ASIGNAR TRIPULACIÓN
 #% BAKERY
@@ -1015,7 +1015,7 @@ E-Eh-heh... eso no salió como esperaba...
 #% Oh dear... Is it... edible?
 Oh vaya... ¿Es... comestible?
 #% It was a failure...
-Fue un fallo...
+Fue un fracaso...
 #% SELECT
 SELECCIONAR
 #% ASSIGN
@@ -1069,13 +1069,13 @@ Galleta Marinera Blanda
 #% Egg Tart
 Tarta de Huevo
 #% Anzu Bread
-Pan Anzu
+Pan con Anzu
 #% Sweet Roll
 Pan Dulce
 #% Choco Cornet
 Cornet de Chocolate
 #% Rum Sponge Cake
-Bizcocho de Ron
+Bizcocho con Ron
 #% Cream Puff
 Bollo de Crema
 #% Chicken Sandwich
@@ -1083,7 +1083,7 @@ Sándwich de Pollo
 #% Fruit Tart
 Tarta de Frutas
 #% Curry Bread
-Pan de Curry
+Pan con Curry
 #% Elfbread
 Pan Élfico
 #% Cake
@@ -1095,11 +1095,11 @@ Mousse de Chocolate
 #% Rum Mousse
 Mousse de Ron
 #% Jam Mousse
-Mouse de Jalea
+Mousse de Jalea
 #% Parfait Deluxe
-Parfait De Lujo
+Parfait de Lujo
 #% Chocolate Bar
-Barra de Chocolate
+Tableta de Chocolate
 #% White Chocolate
 Chocolate Blanco
 #% Donut
@@ -1111,7 +1111,7 @@ Dona de Chocolate
 #% Cream Donut
 Dona de Crema
 #% Jelly Donut
-Dona de Gelatina
+Dona de Jalea
 #% Katsu Sandwich
 Sándwich Katsu
 #% Fried Anzu Ball
@@ -1145,7 +1145,7 @@ Omurice
 #% Curry
 Curry
 #% Chicken Curry
-Curry de Pollo
+Curry con Pollo
 #% Mess
 Desastre
 #% CHAPTER 1
@@ -1177,7 +1177,7 @@ SIN TRIPULACIÓN
 #% Who is This Lost, Sassy Child?
 ¿Quién es Esta Niña Perdida y Descarada?
 #% Defeat the pirate fleet.
-Derrota a la flota pirata.
+Derrotar a la flota pirata.
 #% The Sunrider is lost.
 El Sunrider es hundido.
 #% Calm
@@ -1193,7 +1193,7 @@ VERSTA
 #% PORT TOWN>>POPULATION: 5000
 PUEBLO PORTUARIO>>POBLACIÓN: 5000
 #% Long ago, Versta was a hold of the Holy Ryuvian Empire, home to a mighty tower which ascended into the clouds, demonstrating the monolithic power of the Church to all the ships which sailed through the Strait of Far Port. Today, little remains of the ancient tower and a more modest stone light house serves to guide the hundreds of ships which pass by the city on route to the Dragon Foot Sea.
-Hace mucho tiempo, Versta fue un fuerte del Sacro Imperio Ryuviano, hogar de una imponente torre que ascendía hasta las nubes, demostrando el monolítico poder de la Iglesia a todas las naves que navegaran a través del Estrecho de Far Port. Hoy, poco queda de la antigua torre y una faro de piedra más modesto sirve como guía a los cientos de navíos que pasan por la ciudad en ruta al Mar Dragon Foot.
+Hace mucho tiempo, Versta fue un fuerte del Sacro Imperio Ryuviano, hogar de una imponente torre que ascendía hasta las nubes, demostrando el monolítico poder de la Iglesia a todas las naves que navegaran a través del Estrecho de Far Port. Hoy, poco queda de la antigua torre y una faro de piedra más modesto sirve como guía a los cientos de navíos que pasan por la ciudad en ruta al Mar Dragon's Foot.
 #% SET PARTY
 ESTABLECER GRUPO
 #% RAIMEIKEN II
@@ -1293,9 +1293,9 @@ MÁX DEF
 #% +20 HP
 +20 PS
 #% Aid the Verstan ship
-Auxilia a la nave Verstana
+Auxiliar a la nave Verstana
 #% Capture the Pact supply ship
-Captura la nave de suministros del Pacto
+Capturar la nave de suministros del Pacto
 #% Neutral
 Neutral
 #% Pact Frigate
@@ -1309,7 +1309,7 @@ Nave de Suministros
 #% The Versta Affair (A)
 El Incidente de Versta (A)
 #% Take control of the Verstan frigate, then sink all enemies. You must crew at least two girls on a ship to board other ships.
-Toma el control de la fragata Verstana, luego hunde a todos los enemigos. Debes tripular al menos a dos chicas en una nave para abordar otras naves.
+Tomar el control de la fragata Verstana, luego hundir a todos los enemigos. Debes tripular al menos a dos chicas en una nave para abordar otras naves.
 #% The Sunrider or the Verstan frigate is sunk.
 El Sunrider o la fragata Verstana son hundidos.
 #% Breeze
@@ -1319,7 +1319,7 @@ Calma
 #% The Versta Affair (B)
 El Incidente de Versta (B)
 #% Capture the enemy supply ship, then sink all enemies.
-Captura la nave de suministros enemiga, luego hunde a todos los enemigos.
+Capturar la nave de suministros enemiga, luego hundir a todos los enemigos.
 #% The supply ship either escapes or is sunk before you loot it, or the Sunrider is sunk.
 La nave de suministros escapa o es hundida antes de que la saquees, o el Sunrider es hundido.
 #% Breeze
@@ -1331,7 +1331,7 @@ VOLARIS
 #% HOME OF THE HIGH ELVES>>POPULATION: 1000 Elves+5000 Other Races
 HOGAR DE LOS ALTOS ELFOS>>POBLACIÓN: 1000 Elfos + 5000 Otras Razas
 #% In the current age, Old Ryuvia has lost most of its luster and it is Volaris which is the shining jewel of the Dragon's Foot Sea. Ruled by the High Elves of the Song Alliance, absolute devotion to the Church is imposed upon all those who live here. The other races of the realm are considered children to be educated by the elders of Song in the intricacies of culture, science, and magicka. Given the dominance of the Song Alliance, many other races tolerate or even embrace their low status in Elvish society to receive gifts.
-En la era actual, la Antigua Ryuvia ha perdido la mayor parte de su poder y es Volaris quien es la brillante joya del Mar Dragon's Foot. Siendo gobernada por los Altos Elfos de la Alianza Song, la absoluta devoción a la Iglesia es impuesta a todos aquellos que viven aquí. Las otras razas del reino son consideradas niños a ser educados por los ancianos de Song en las intrincadas cultura, ciencia y magicka. Dada la dominación de la Alianza Song, muchas otras razas toleran o incluso aceptan su bajo estatus en la sociedad Élfica para recibir regalos.
+En la era actual, la Antigua Ryuvia ha perdido la mayoría de su poder y es Volaris la brillante joya del Mar Dragon's Foot. Gobernada por los Altos Elfos de la Alianza Song, absoluta devoción a la Iglesia es impuesta a todos los que viven aquí. Las otras razas del reino son consideradas infantes a ser educados por los ancianos de Song en las intrincadas cultura, ciencia y magicka. Dada la dominación de la Alianza Song, muchas otras razas toleran o incluso aceptan su bajo estatus en la sociedad Élfica para recibir obsequios.
 #% Rotate depending on distance of prev. move.
 Rotar en dependencia de la distancia del movimiento anterior.
 #% Reload your fleet's special ammo
@@ -1361,7 +1361,7 @@ Un luchador pelea junto a Icari hasta que sea derrotada o si el grupo tiene meno
 #% ANCIENT KNOWLEDGE
 CONOCIMIENTO ANTIGUO
 #% Clone Jutsu can now be used on party members
-El Jutsu de Clonación puede usarse ahora en miembros del grupo
+Jutsu de Clonación puede usarse ahora en miembros del grupo
 #% KEEN STRIKE
 GOLPE CERTERO
 #% Deal an attack which cannot miss
@@ -1375,9 +1375,9 @@ CARGAR
 #% DONE
 HECHO
 #% RAID: Tydaria
-SAQUEAR: Tydaria
+ASALTO: Tydaria
 #% Sink all enemies
-Hunde a todos los enemigos
+Hundir a todos los enemigos
 #% The Sunrider is lost
 El Sunrider es hundido
 #% Calm
@@ -1389,7 +1389,7 @@ ARPÓN
 #% Deals minor damage, but pulls targets closer.
 Provoca daños menores, pero acerca a los enemigos.
 #% BLACK IRON PLATING
-REFUERZO DE HIERRO NEGRO
+REF. DE HIERRO NEGRO
 #% ARMOR
 ARMADURA
 #% +4 to side armor
@@ -1483,7 +1483,7 @@ PURIFICADOR
 #% The enemy retreats...
 El enemigo se retira...
 #% Use the secret passageway
-Usa el pasadizo secreto
+Usar el pasadizo secreto
 #% Sneak Chigara in
 Escabullir a Chigara
 #% CHAPTER 3
@@ -1499,7 +1499,7 @@ RYUVIA
 #% Ancestral Home of Elves>>Population: 100 000
 Hogar Ancestral de los Elfos>>Población: 100 000
 #% Long ago, Ryuvia was the greatest of the Elf settlements, built atop the great Elf Woods as a symbol of their superiority. Alas, following the collapse of the Holy Ryuvian Empire, much of Ryuvia's old wonder has been lost and it now nearly the same as any other economically depressed Maan city. Over the course of centuries, Elf and Maan came to intermingle here, leading most immortal High Elves to depart for Volaris. The Star Palace, the former seat of the Holy Empire's power, is now a drab stone castle which overlooks the Dragon's Foot Sea.
-Hace mucho tiempo, Ryuvia fue el mayor de los asentamientos de Elfos, construida en la cima del gran Bosque Élfico como un símbolo de su superioridad. Pero, tras el colapso del Sacro Imperio Ryuviano, la mayoría de las antiguas maravillas de Ryuvia se han perdido y ahora es casi como cualquier otra económicamente deprimente ciudad Maan. Con el paso de los siglos, Elfos y Maan llegaron a mezclarse aquí, llevando a la mayoría de los inmortales Altos Elfos a partir hacia Volaris. El Palacio Estelar, el antiguo trono del poder del Sacro Imperio, es ahora un castillo de piedra con vistas al Mar Dragon's Foot.
+Hace mucho, Ryuvia fue el mayor de los poblados Élficos, construido encima del gran Bosque Élfico como un símbolo de su superioridad. Pero, tras el colapso del Sacro Imperio Ryuviano, muchas de las antiguas maravillas de Ryuvia se perdieron y ahora es casi como cualquier ciudad Maan de pobre economía. Con los siglos, Elfos y Maan se mezclaron aquí, llevando a la mayoría de los Altos Elfos inmortales a irse a Volaris. El Palacio Estelar, antiguo trono del poder del Sacro Imperio, es ahora un castillo de piedra con vistas al Mar Dragon's Foot.
 #% SARGASSO
 SARGASSO
 #% Pirate Cove>>Population: 500 or so scalawags
@@ -1519,7 +1519,7 @@ Calma
 #% Sargasso Rescue A
 Rescate en Sargasso A
 #% Defeat the Pact fleet.
-Derrota a la flota del Pacto.
+Derrotar a la flota del Pacto.
 #% The Sunrider or the Havoc is sunk.
 El Sunrider o el Havoc son hundidos.
 #% Calm
@@ -1529,7 +1529,7 @@ Calma
 #% Sargasso Rescue B
 Rescate en Sargasso B
 #% Board and capture the Havoc, then move her to the marked escape zone.
-Aborda y captura al Havor, luego muévela a la zona de escape marcada.
+Abordar y capturar al Havoc, luego moverlo a la zona de escape marcada.
 #% The Sunrider or the Havoc is sunk.
 El Sunrider o el Havoc son hundidos.
 #% Calm
@@ -1545,13 +1545,13 @@ CASCO
 #% Timber from the great elf woods is both sturdy and lightweight, permitting the construction of swift vessels.
 La leña de los grandes bosques élficos es tanto robusta como ligera, permitiendo la construcción de buques ágiles.
 #% IRONWOOD
-MADERA DE HIERRO
+MADERA FÉRREA
 #% HULL
 CASCO
 #% +250 Max HP
 +250 Máx PS
 #% Ironwood is found only atop the highest mountains of the Asahi Isle.
-La madera de hierro solo se encuentra en la cima de las montañas más altas de la Isla Asahi.
+La madera férrea solo se encuentra en la cima de las montañas más altas de la Isla Asahi.
 #% DEMONWOOD
 MADERA DEMONÍACA
 #% HULL
@@ -1565,7 +1565,7 @@ BENDICIÓN DE MAGICKA
 #% ARMOR
 ARMADURA
 #% +10 Move Speed, +5 Turn Speed
-+10 Vel. de Mov., +5 Vel. de Giro
++10 Vel. Mov., +5 Vel. Giro
 #% Who needs armor when you have the power of magic on your side.
 Quién necesita armadura cuando tienes el poder de la magia de tu lado.
 #% FULL COTTON
@@ -1619,21 +1619,21 @@ Estrecho Estratégico
 #% Barely a few hundred meters across in some areas and ravaged by crosswinds, learning to navigate the treacherous passage into the Dragon's Foot Sea is a rite of passage for all the sailors of Halla.
 Con apenas algunos cientos de metros de ancho en algunas áreas y asolado por vientos cruzados, aprender a navegar el traicionero paso hacia el Mar Dragon's Foot es un rito de iniciación para todos los marineros de Halla.
 #% Loot the ship's cargo and equipment then set it ablaze.
-Saque la carga y el equipamiento de la nave y luego incéndiala.
+Saquear carga y equipo de la nave y prenderle fuego.
 #% Automatically transfers everything to the other ship.
 Transfiere automáticamente todo a la otra nave.
 #% Premonition
 Premonición
 #% Board and capture the enemy commander. Sink all other enemies.
-Aborda y captura al comandante enemigo. Hunde a todos los demás enemigos.
+Abordar y capturar al comandante enemigo. Hundir a todos los demás enemigos.
 #% The Sunrider or the enemy commander is sunk.
-El Sunrider o el comandante enemigo es hundido.
+El Sunrider o el comandante enemigo son hundidos.
 #% Choppy
 Agitado
 #% Moderate
 Moderado
 #% Scuttle for 
-Hundir por 
+Hundir +
 #% CHANGE PARTY
 CAMBIAR GRUPO
 #% Pact Ship of the Line
@@ -1641,7 +1641,7 @@ Navío de Línea del Pacto
 #% The Battle of Far Port
 La Batalla de Far Port
 #% Hold out until the Emerald Fleet arrives.
-Resiste hasta que llegue la Flota Esmeralda.
+Resistir hasta que llegue la Flota Esmeralda.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Rough Seas
@@ -1651,7 +1651,7 @@ Vientos cruzados
 #% Vaendryl
 Vaendryl
 #% Advanced cannons which also destroy the enemy's cannons.
-Cañones avanzados que también pueden destruir los cañones del enemigo.
+Cañones avanzados que también destruyen los cañones del enemigo.
 #% Cannons with elongated barrels which increase their accuracy.
 Cañones alargados que aumentan su precisión.
 #% SONG FRIGATE
@@ -1659,7 +1659,7 @@ FRAGATA DE SONG
 #% Radiant
 Radiant
 #% RAID: Versta
-ASALTAR: Versta
+ASALTO: Versta
 #% Vigilantes
 Vigilantes
 #% CREW
@@ -1673,7 +1673,7 @@ Revela todas las naves ocultas.
 #% More Than We Bargained For
 Más De Lo Que Esperábamos
 #% Sink the Pact fleet.
-Hunde la flota del Pacto.
+Hundir la flota del Pacto.
 #% Qisah reaches the escape zone or she is killed in battle. The Sunrider cannot be sunk. Qisah's ship cannot be captured.
 Qisah alcanza la zona de escape o es asesinada en batalla. El Sunrider no puede ser hundido. La nave de Qisah no puede ser capturada.
 #% Moderate
@@ -1681,9 +1681,9 @@ Moderado
 #% Moderate
 Moderado
 #% The Taming of the Shrew
-La Fierecilla Domada
+Domesticando a la Musaraña
 #% Sink the Pact fleet.
-Hunde la flota del Pacto.
+Hundir la flota del Pacto.
 #% Qisah is killed or the Sunrider is sunk.
 Qisah es asesinada o el Sunrider es hundido.
 #% Moderate
@@ -1701,7 +1701,7 @@ Huntress
 #% The Crimson Wolf
 La Loba Carmesí
 #% Defeat the Huntress.
-Derrota al Huntress.
+Derrotar al Huntress.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Moderate
@@ -1715,7 +1715,7 @@ Blue Bird
 #% To Slay the Beast
 Derrotar a la Bestia
 #% Sink or capture the Imperium.
-Hunde o captura al Imperium.
+Hundir o capturar al Imperium.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Fog
@@ -1725,7 +1725,7 @@ Muerto
 #% A Match With Destiny
 Un Encuentro Con El Destino
 #% Sink the enemy fleet.
-Hunde la flota enemiga.
+Hundir la flota enemiga.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Moderate
@@ -1759,7 +1759,7 @@ UNIR:
 #% Pirates in the Holy Land A
 Piratas en la Tierra Santa A
 #% Sink the enemy fleet.
-Hunde la flota enemiga.
+Hundir la flota enemiga.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Moderate
@@ -1769,15 +1769,15 @@ Moderado
 #% Pirates in the Holy Land B
 Piratas en la Tierra Santa B
 #% Capture all 3 stolen Song frigates and sink all other enemies.
-Captura las 3 fragatas Song robadas y hunde a todos los demás enemigos.
+Capturar las 3 fragatas de Song robadas y hundir a todos los demás enemigos.
 #% The Sunrider or a Song frigate is sunk.
-El Sunrider o una fragata Song son hundidos.
+El Sunrider o una fragata de Song son hundidos.
 #% Moderate
 Moderado
 #% Moderate
 Moderado
 #% SELF DESTRUCT
-AUTO DESTRUCCIÓN
+AUTODESTRUCCIÓN
 #% SPECIAL
 ESPECIAL
 #% Destroy self to deal heavy damage to nearby enemies.
@@ -1803,7 +1803,7 @@ Vapor del Pacto
 #% Ambush at Ongess
 Emboscada en Ongess
 #% Sink the enemy fleet.
-Hunde la flota enemiga.
+Hundir la flota enemiga.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Moderate
@@ -1813,7 +1813,7 @@ Moderado
 #% Pirates in the Storm
 Piratas en la Tormenta
 #% Sink the enemy fleet.
-Hunde la flota enemiga.
+Hundir la flota enemiga.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Gale
@@ -1823,7 +1823,7 @@ Traicionero
 #% The Madness of Petite Cosette
 La Locura de la Pequeña Cosette
 #% Capture the Havoc to disrupt Cosette's powers then sink all enemies.
-Captura al Havoc o interrumpe los poderes de Cosette y luego hunde a todos los enemigos.
+Capturar al Havoc para interrumpir los poderes de Cosette y luego hundir a todos los enemigos.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Gale
@@ -1833,7 +1833,7 @@ Traicionero
 #% Her Destiny
 Su Destino
 #% Sink the enemy fleet.
-Hunde la flota enemiga.
+Hundir la flota enemiga.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Moderate
@@ -1853,7 +1853,7 @@ Moderado
 #% The Mask of Arcadius
 La Máscara de Arcadius
 #% Defeat Veniczar Arcadius and sink the enemy fleet.
-Derrota a Veniczar Arcadius y hunde la flota enemiga.
+Derrotar a Veniczar Arcadius y hundir la flota enemiga.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Moderate
@@ -1863,9 +1863,9 @@ Moderado
 #% Fortress
 Fuerte
 #% DISRUPT ARCADIUS
-INTERRUMPIR A ARCADIUS
+INTERRUMPIR ARCADIUS
 #% Prevent Arcadius from resurrecting
-Evitar que Arcadius resucite
+Evita que Arcadius resucite
 #% ONGESS
 ONGESS
 #% The Holy Land
@@ -1897,7 +1897,7 @@ Reduce el daño de cañón
 #% Fortify firing points, reducing the destruction of cannons during battle.
 Fortificar los puntos de disparo, reduciendo la destrucción de cañones durante la batalla.
 #% FIREPROOF SAILS
-VELAS A PRUEBA DE FUEGO
+VELAS ANTIINCENDIOS
 #% SAILS
 VELAS
 #% Immunity to fire
@@ -1925,7 +1925,7 @@ PÍCAROS
 #% CREW
 TRIP
 #% Double bounty
-Duplica la recompensa
+Recompensa doble
 #% These scallywags know how to pilfer every coin from bounties.
 Estos sinvergüenzas saben cómo birlar cada centavo de las recompensas.
 #% MASTERWORK SAILS
@@ -1937,7 +1937,7 @@ VELAS
 #% These priceless sails have been created by an Elvish master.
 Estas velas invaluables han sido creadas por un maestro Élfico.
 #% BLACK IRON CANNONS
-CAÑONES DE HIERRO NEGRO
+CAÑONES DE HIERRO NEG.
 #% ROUNDSHOT
 BALAS RASAS
 #% +5 DMG
@@ -2031,7 +2031,7 @@ Moderado
 #% Moderate
 Moderado
 #% BLACK IRON GUNS
-CAÑONES DE HIERRO NEGRO
+CAÑONES DE HIERRO NEG.
 #% Powerful cannons forged from black iron.
 Poderosos cañones forjados de hierro negro.
 #% AMBUSH AT RYUVIA
@@ -2047,7 +2047,7 @@ Moderado
 #% THE BATTLE OF VOLARIS
 LA BATALLA DE VOLARIS
 #% Defeat the enemy fleet.
-Derrota la flota enemiga.
+Derrotar la flota enemiga.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Heavy
@@ -2057,7 +2057,7 @@ Intenso
 #% THE WITCH OF ASAHI
 LA BRUJA DE ASAHI
 #% Defeat the enemy fleet.
-Derrota la flota enemiga.
+Derrotar la flota enemiga.
 #% The Sunrider is sunk.
 El Sunrider es hundido.
 #% Heavy
@@ -2075,7 +2075,7 @@ Recompensas x3
 #% Increase bounty from boarding actions.
 Aumenta las recompensas de acciones de abordaje.
 #% FIRE PROOF SAILS
-VELAS A PRUEBA DE FUEGO
+VELAS ANTIINCENDIOS
 #% Fire immunity
 Inmunidad al fuego
 #% Sails cannot catch fire.
@@ -2151,7 +2151,7 @@ Calamity
 #% The Holy Sister's Sins
 Los Pecados de la Santa Hermana
 #% Sink the pirate fleet.
-Hunde la flota pirata.
+Hundir la flota pirata.
 #% Championship
 Campeonato
 #% Mild
@@ -2169,17 +2169,17 @@ Captura al Havoc o interrumpe los poderes de Cosette y luego hunde a todos los e
 #% Her Destiny
 Su Destino
 #% Sink all enemies. You cannot keep any ships captured during this battle.
-Hunde a todos los enemigos. No puedes conservar ninguna nave capturada durante esta batalla.
+Hundir a todos los enemigos. No puedes conservar ninguna nave capturada durante esta batalla.
 #% Dissension
-Discordia
+Desacuerdo
 #% Sink all Pact ships.
-Hunde todas las naves del Pacto.
+Hundir todas las naves del Pacto.
 #% An Elvish ship is sunk or the Sunrider is sunk.
 Una nave Élfica es hundida o el Sunrider es hundido.
 #% Homunculi
 Homúnculo
 #% Destroy the fort then sink all reinforcements.
-Destruye el fuerte y luego hunde todos los refuerzos.
+Destruir el fuerte y luego hundir a todos los refuerzos.
 #% Escape From Ryuvia... Again.
 Escapar de Ryuvia... Otra vez.
 #% All player ships must reach the escape zone.
@@ -2187,17 +2187,17 @@ Todas las naves deben alcanzar la zona de escape.
 #% Operation Rescue Dad
 Operación Rescatar a Papá
 #% Capture all three transport ships before any of them reaches the escape zone.
-Captura las tres naves de transporte antes de que alguna de ellas llegue a la zona de escape.
+Capturar las tres naves de transporte antes de que alguna de ellas llegue a la zona de escape.
 #% A transport ship is sunk before it is captured, or one reaches the escape zone, or the Sunrider is sunk.
 Una nave de transporte es hundida antes de que sea capturada, o alguna alcanza la zona de escape, o el Sunrider es hundido.
 #% Our Path
-Nuestro Rumbo
+Nuestro Camino
 #% Capture the Legion.
-Captura al Legion.
+Capturar al Legion.
 #% The Legion or the Sunrider is sunk.
 El Legion o el Sunrider son hundidos.
 #% End the Monolithic Truth
-Termina la Verdad Monolítica
+Terminar la Verdad Monolítica
 #% Weaker Enemy Ships
 Naves Enemigas Más Débiles
 #% Your Ships Regain HP

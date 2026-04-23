@@ -35,7 +35,7 @@ cul El Legion no es solamente una nave de guerra, sino un símbolo: ¡Una demost
 #% cul Statecraft is more than winning the passing favor of the masses, boy. It is might that wins the enduring respect of the people!
 cul El arte de gobernar es más que ganarse el favor pasajero de las masas, chico. ¡Es el poder lo que gana el respeto perdurable del pueblo!
 #% cul The power of our new nation must be put on display if all the beings of Halla are to bow before the great Veniczar Arcadius!
-cul ¡El poder de nuestra nueva nación debe mostrarse si todos los seres de Halla deberán inclinarse ante el gran Veniczar Arcadius!
+cul ¡El poder de nuestra nueva nación debe mostrarse si todos los seres de Halla han de inclinarse ante el gran Veniczar Arcadius!
 #% cha fon_neu_angry_closedeye_slight
 cha fon_neu_angry_closedeye_slight
 #% fon Tch...
@@ -45,11 +45,11 @@ cha arc_neu
 #% arc My Fontana. You have served our cause since you were a boy. You are my most beloved retainer.
 arc Mi Fontana. Has servido a nuestra causa desde que fuiste un niño. Eres mi sirviente más querido.
 #% arc Heed not the details of these opening days of the war. Our true aim is not the subjugation of these... disorganized Lessor Elves. Nor the throne of the dying Ryuvian King.
-arc No le prestes atención a los detalles de estos primeros días de la guerra. Nuestro verdadero objetivo no es la subyugación de estos... desorganizados Elfos Inferiores. Ni el trono del moribundo Rey Ryuviano.
+arc No le prestes atención a los detalles de estos primeros días de la guerra. Nuestro verdadero objetivo no es subyugar a estos... desorganizados Elfos Inferiores. Ni el trono del moribundo Rey Ryuviano.
 #% arc Song is our true enemy - the last remaining bastion of the accursed Church of Ryuvia.
 arc Song es nuestro verdadero enemigo - el último bastión restante de la maldita Iglesia de Ryuvia.
 #% arc Until we have overthrown the High Elves and their decrepit ways, we Maan will be doomed to serve them from birth until our deaths, our accomplishments turned to dust... All of our industry, our blood, our tears amounting to nothing in the eyes of the Elves.
-arc Hasta que hayamos destronado a los Altos Elfos y sus decrépitas costumbres, nosotros los Maan estaremos condenados a servirles desde que nacemos hasta nuestras muertes, con nuestros logros vueltos polvo... Toda nuestra industria, nuestra sangre, y nuestras lágrimas no representan nada a los ojos de los Elfos.
+arc Hasta que hayamos destronado a los Altos Elfos y sus decrépitas costumbres, nosotros los Maan estaremos condenados a servirles desde que nacemos hasta nuestras muertes, con nuestros logros vueltos polvo... Toda nuestra industria, nuestra sangre, y nuestras lágrimas no representan nada ante los ojos de los Elfos.
 #% arc You must be patient. You are both skilled and talented... but save your energy for the war to come.
 arc Debes ser paciente. Eres tanto hábil como talentoso... pero guarda tu energía para la guerra que se avecina.
 #% cha fon_neu_lowfocus_closedeye_smalltalk
@@ -61,7 +61,7 @@ cha cul_neu_neutralan_neutral_smile
 #% cul There now, that's more like it my boy.
 cul Muy bien, me pareces mejor así mi chico.
 #% cul Now, we are in agreement? My forces will proceed north, through the Neutral Banners and into old Ryuvia. There, we will seize... errm, I mean... celebrate our dear leader's glorious marriage to the Ryuvian princess - and your ascendance to the throne. All in a single day!
-cul Ahora, ¿estamos de acuerdo? Mis fuerzas seguirán al norte, a través de los Territorios Neutrales y hacia la antigua Ryuvia. Allí, capturaremos... errm, quiero decir, celebraremos el glorioso matrimonio de nuestro querido líder con la princesa Ryuviana - y su ascensión al trono. ¡Todo en un solo día!
+cul Ahora, ¿estamos de acuerdo? Mis fuerzas seguirán al norte, a través de los Territorios Neutrales y hacia la antigua Ryuvia. Allí, capturaremos... errm, quiero decir, celebraremos el glorioso matrimonio de nuestro querido líder con la  princesa Ryuviana - y su ascensión al trono. ¡Todo en un solo día!
 #% cha fon_neu_lowfocus_neutral_smalltalk
 cha fon_neu_lowfocus_neutral_smalltalk
 #% fon Ahem. On that note, an issue may have arisen, my Veniczar...
@@ -69,7 +69,7 @@ fon Ejem. Respecto a eso, un problema podría haber surgido, mi Veniczar...
 #% fon My spies indicate that the princess of Ryuvia... has gone missing.
 fon Mis espías indican que la princesa de Ryuvia... ha desaparecido.
 #% arc It is of no consequence. Ryuvia is but a dead kingdom. We shall ransack the Star Palace for what Lost Treasures it still holds before finally snuffing out that old monument to Elvish arrogance.
-arc No tiene ninguna consecuencia. Ryuvia no es más que un reino muerto. Saquearemos el Palacio Estelar en búsqueda de cualquier Tesoro Perdido que todavía tenga antes de finalmente derribar ese antiguo monumento de la arrogancia Élfica.
+arc No tiene ninguna consecuencia. Ryuvia no es sino un reino muerto. Saquearemos el Palacio Estelar en búsqueda de cualquier Tesoro Perdido que todavía tenga antes de finalmente derribar ese antiguo monumento de la arrogancia Élfica.
 #% cha fon_neu_lowfocus_closedeye_smalltalk
 cha fon_neu_lowfocus_closedeye_smalltalk
 #% fon Very well, my Veniczar.
@@ -103,7 +103,7 @@ fon El renegado se ha marchado, mi señora Alice...
 #% cha ali_neu_focus_closedeye_talk
 cha ali_neu_focus_closedeye_talk
 #% ali So he has. I noticed that the air had freshened.
-ali Así que se ha ido. Noté que el aire se había refrescado.
+ali Sí que lo ha hecho. Noté que el aire se había refrescado.
 #% cha fon_neu_lowfocus_closedeye_slight
 cha fon_neu_lowfocus_closedeye_slight
 #% fon ... ... ...
@@ -137,7 +137,7 @@ cha ali_neu_angry_neutral_talk
 #% ali The dogma of the High Elves... So long as their heresy continues to be spoken in Halla, Maan will have no future in this world.
 ali El dogma de los Altos Elfos... Mientras su herejía continúe difundiéndose en Halla, los Maan no tendrán futuro en este mundo.
 #% ali The Monolithic Truth which the High Elves claim is the natural order of things...
-ali La Verdad Monolítica que los Altos Elfos afirman ser el orden natural de las cosas...
+ali La Verdad Monolítica que los Altos Elfos afirman que es el orden natural de las cosas...
 #% cha fon_neu_focus_neutral_smalltalk
 cha fon_neu_focus_neutral_smalltalk
 #% fon Elder above younger. They believe that it is unholy to question those higher in age...
@@ -271,7 +271,7 @@ kay Ahora mismo, esta tripulación me necesita. Maray... ella era todo para mí.
 #% cha kay_neu_focus_neutral_smalltalk
 cha kay_neu_focus_neutral_smalltalk
 #% kay I've got to be the captain. Or else everyone that was saved will be lost. And all would have been for nothing.
-kay Tengo que ser el capitán. O de lo contrario se perderán todos los que se salvaron. Y todo habría sido en vano.
+kay Tengo que ser el capitán. O de lo contrario todos los que se salvaron se perderán. Y todo habría sido en vano.
 #% cha chi_holdinghands_concern_narrow_neutral
 cha chi_holdinghands_concern_narrow_neutral
 #% chi ... ... ...
@@ -331,7 +331,7 @@ chi Vengo de una tierra lejos de aquí, capitán. ¿Ha escuchado hablar de la Tr
 #% cha kay_neu_confuse_neutral_smalltalk
 cha kay_neu_confuse_neutral_smalltalk
 #% kay Indeed. Long ago, there was a mystical city past the Great Wall, ruled by a cabal of magicians from all of Halla and beyond. But in their reckless pursuit of magic, the magisters of Diode brought about their own destruction. It is now nothing but smattering of stone ruins, hidden in the dusty dunes of the Demon realm.
-kay Sin duda. Hace mucho, hubo una ciudad mítica más allá del Gran Muro, gobernada por una camarilla de magos de toda Halla y más. Pero en su imprudente búsqueda de la magia, los magistrados de Diode provocaron su propia destrucción. Ahora no es más que un puñado de ruinas de piedra, ocultas en las dunas polvorientas del reino de los Demonios.
+kay Sin duda. Hace mucho, hubo una ciudad mítica más allá del Gran Muro, gobernada por una camarilla de magos de toda Halla y más. Pero en su imprudente búsqueda de la magia, los magistrados de Diode provocaron su propia destrucción. Ahora no es sino un puñado de ruinas de piedra, ocultas en las dunas polvorientas del reino de los Demonios.
 #% mus mus_fallen_angel_pt1
 mus mus_fallen_angel_pt1
 #% cha chi_handonchest_sad_closedeye_smalltalk
@@ -349,7 +349,7 @@ cha chi_handtoface_sad_closedeye_smalltalk_shadow
 #% voi chi_vns_sad_01
 voi chi_vns_sad_01
 #% chi My memories of Diode aren't clear... They almost seem dream-like. My parents... they must have been magisters... but they committed a grave sin. But... what was it? Something must have happened during the doom which muddled my memories.
-chi Mis recuerdos de Diode no son claros... Casi parecen un sueño. Mis padres... deben de haber sido magistrados... pero cometieron un grave pecado. Pero... ¿qué fue? Algo debe de haber ocurrido durante la tragedia que nubló mis recuerdos.
+chi Mis recuerdos de Diode no son claros... Casi parecen un sueño. Mis padres... deben de haber sido magistrados... pero cometieron un grave pecado. Pero... ¿qué fue? Algo debe haber pasado durante la tragedia que nubló mis recuerdos.
 #% cha kay_neu_sad_closed_talk
 cha kay_neu_sad_closed_talk
 #% kay It's common to have fuzzy memories of great calamities. I can barely remember what happened at Cera and it was just days past. Chaos is all that I am certain transpired.
@@ -373,7 +373,7 @@ chi Um, una cosa más, capitán. ¡Con todo lo que ha pasado, Chigara quiere ayu
 #% cha chi_armsbehind_neutral_closedeye_smile
 cha chi_armsbehind_neutral_closedeye_smile
 #% chi It may not look like it, but I'm pretty handy with making all sorts of equipment. To be honest, there's a lot of improvements that can be made to our gear and the ship. Ah, all with the captain's permission, of course.
-chi No lo parecerá, pero soy bastante hábil creando todo tipo de equipamiento. Para ser honesta, hay un montón de mejores que se le puede hacer a nuestro equipo y a la nave. Ah, todo con el permiso del capitán, por supuesto.
+chi No lo parecerá, pero soy bastante hábil creando todo tipo de equipamiento. Para ser honesta, hay un montón de mejoras que se le puede hacer a nuestro equipo y a la nave. Ah, todo con el permiso del capitán, por supuesto.
 #% cha kay_neu_confuse_thinking_smirk
 cha kay_neu_confuse_thinking_smirk
 #% kay Aye, you've certainly got a keen hand for that sort of labor. You are right that this old lady sure could use a fixer upper after all these years...
@@ -411,7 +411,7 @@ cha chi_handonchest_neutral_closedeye_smallopen
 #% voi chi_vns_hap_04
 voi chi_vns_hap_04
 #% chi Welcome to Chigara's Bake... erm, Research and Development, captain! Here, you can spend the gil you've earned to improve the crew's abilities, upgrade your ships' equipment, and bake some bread.
-chi ¡Bienvenido a la Pastelería de Chig... erm, a Investigación y Desarrollo, capitán! Aquí, puede gastar los guiles que ha ganado para mejorar las habilidades de la tripulación, mejorar el equipamiento de tus naves, y hornear algunos panecillos.
+chi ¡Bienvenido a la Pastelería de Chig... erm, a Investigación y Desarrollo, capitán! Aquí, puede gastar los guiles que ha ganado para mejorar las habilidades de la tripulación, mejorar el equipamiento de sus naves, y hornear unos panecillos.
 #% cha kay_neu_confuse_wide_smalltalk
 cha kay_neu_confuse_wide_smalltalk
 #% kay Bake bread? One of those things is not like the others!
@@ -421,7 +421,7 @@ cha chi_handonchest_sad_funnyclos_smirk_blush
 #% voi chi_vns_neu_10
 voi chi_vns_neu_10
 #% chi Yes... It's always been Chigara's dream to open a bakery, you see. Unfortunately, everyone seems far more interested in my inventions rather than the bread. Ah, but don't worry. I've already upgraded the ship's stove to function as both a forge and a bread oven! Mm, don't you just love the smell of the dough as it rises?
-chi Sí... Siempre ha sido el sueño de Chigara abrir una pastelería, verá. desafortunadamente, todos parecen mucho más interesados en mis inventos que en los panecillos. Ah, pero no se preocupe. ¡Ya he mejorado la estufa de la nave para que funcione tanto como una forja como un horno de panecillos! Mm, ¿no ama el olor de la masa mientras crece?
+chi Sí... Siempre ha sido el sueño de Chigara abrir una pastelería, sabe. Por desgracia, todos parecen mucho más interesados en mis inventos que en los panecillos. Ah, pero no se preocupe. ¡Ya he mejorado la estufa de la nave para que funcione tanto como una forja como un horno de panecillos! Mm, ¿no ama el olor de la masa mientras crece?
 #% cha kay_neu_confuse_big_slight
 cha kay_neu_confuse_big_slight
 #% kay O...kay... Well, walk me through what you can do.
@@ -435,11 +435,11 @@ dcg spr_cg_tut1
 #% por chi_holdinghands_neutral_neutral_smile
 por chi_holdinghands_neutral_neutral_smile
 #% chi After opening the Journal, press the next button at the top of the screen to access the Party Status screen.
-chi Tras abrir el Diario, presiona el siguiente botón en la parte superior de la pantalla para acceder a la pantalla de Estado del Grupo.
+chi Tras abrir el Diario, presione el siguiente botón en la parte superior de la pantalla para acceder a la pantalla de Estado del Grupo.
 #% chi Here, you can spend gil to strengthen the party during boarding actions. To select a girl to upgrade, select from the left side of the screen.
 chi Aquí, puede gastar guiles para fortalecer al grupo durante acciones de abordaje. Para seleccionar una chica a mejorar, selecciónela en el lado izquierdo de la pantalla.
 #% chi HP increases the health of the selected crew mate. EN increases the rate at which she gains EN. ATK increases her basic attack while S.ATK increases the power of her special attacks. ACC increases the likelihood of a basic attack hitting.
-chi Los PS aumentan la salud del tripulante seleccionado. La EN aumenta la velocidad a la que obtiene EN. El ATQ aumenta el ataque de su ataque básico mientras que ATQ ESP. aumenta la potencia de sus ataques especiales. PREC aumenta la probabilidad de que un ataque básico acierte.
+chi Los PS aumentan la salud del tripulante seleccionado. La EN aumenta la velocidad a la que obtiene EN. El ATQ aumenta su ataque básico mientras que ATQ ESP. aumenta la potencia de sus ataques especiales. PREC aumenta la probabilidad de que un ataque básico acierte.
 #% chi DEF reduces the damage she takes from enemy basic attacks while S.DEF reduces the damage of enemy special attacks. Finally, EVADE reduces the chance of getting hit by basic attacks.
 chi La DEF reduce el daño que recibe de ataques básicos enemigos mientras que la DEF ESP. reduce el daño de los ataques especiales enemigos. Finalmente, EVASIÓN reduce la probabilidad de ser golpeada por ataques básicos.
 #% dcg spr_cg_tut3
@@ -485,7 +485,7 @@ voi chi_vns_hap_01
 #% chi Yes! It holds Chigara's heart and soul!
 chi ¡Sí! ¡Tiene el corazón y el alma de Chigara!
 #% chi Whenever you capture an enemy ship, you are awarded bakery ingredients as loot. The Bakery screen lists all of the ingredients in your possession. Press the ingredients you want to put into the bread, then press the Bake button!
-chi Siempre que capture una nave enemiga, será recompensado con ingredientes de pastelería como recompensa. La pantalla de Pastelería lista todos los ingredientes en su posesión. ¡Presione los ingredientes que quiera poner en el panecillo y presione el botón Hornear!
+chi Siempre que capture una nave enemiga, será recompensado con ingredientes de pastelería como botín. La pantalla de Pastelería lista todos los ingredientes en su posesión. ¡Presione los ingredientes que quiera poner en el panecillo y presione el botón Hornear!
 #% por chi_handonchest_raised_funnyclos_smallopen_blush
 por chi_handonchest_raised_funnyclos_smallopen_blush
 #% chi Who knows what bread will come out. I'm looking forward to it~
@@ -597,11 +597,11 @@ ava Puede tomar esas decisiones y más abriendo la pantalla de Asignar Tripulaci
 #% ava In the right column, you will see a list of party members who have not yet been assigned to a ship.
 ava En la columna derecha, verá una lista de miembros del grupo que no han sido asignados todavía a una nave.
 #% ava You can transfer party members between your ships by clicking on their chibi icon, but ships must be crewed by at least one party member in order to be deployed in battle. Keep in mind that this requirement is extended to two party members if you wish to use that ship for boarding actions.
-ava Puede transferir a miembros del grupo entre sus naves haciendo click en el ícono de su chibi, pero las naves deben estar tripuladas por al menos un miembro del grupo para poder ser desplegadas en batalla. Tenga en mente que este requisito se extiende a dos miembros del grupo si desea usar esa nave en acciones de abordaje.
+ava Puede transferir a miembros del grupo entre sus naves haciendo click en el ícono de su chibi, pero las naves deben estar tripuladas por al menos un miembro del grupo para poder ser desplegadas en batalla. Tenga en mente que este requisito se extiende a dos miembros del grupo si desea usar esa nave para acciones de abordaje.
 #% ava It's wise to scuttle any ships you deem unnecessary so that our forces are not spread too thin. If you scuttle a ship, you will receive some gil and its equipment will still be available for use on other ships.
 ava Es sabio hundir cualquier nave que considere innecesaria para que nuestras fuerzas no se dispersen demasiado. Si hunde una nave, recibirá algunos guiles y su equipamiento seguirá estando disponible para ser usado en otras naves.
 #% ava For a bit of personal flair, you can select someone to act as the ship's foreman. She will relay her ship's status to you during battle, but otherwise it confers no tactical advantage, so feel free to pick simply whoever you wish to hear from.
-ava Para un toque personal, puede elegir a alguien como capataz de la nave. Ella le informará el estado de la nave a usted durante la batalla, pero en otro sentido no confiere ninguna ventaja táctica, así que siéntase libre de escoger simplemente a quién desea escuchar.
+ava Para un toque personal, puede elegir a alguien como capataz de la nave. Ella le informará el estado de la nave a usted durante la batalla, pero en otro sentido no confiere ninguna ventaja táctica, así que siéntase libre de simplemente seleccionar a quién desea escuchar.
 #% ava That just about covers the Crew Screen.
 ava Eso cubre la Pantalla de Tripulación.
 #% dcg hide
@@ -641,7 +641,7 @@ cha asa_fist_angry_neutral_smalltalk
 #% voi asa_vns_neu_08
 voi asa_vns_neu_08
 #% asa I hear ya. It was only for a moment, but even I could tell how close you were to your people while I was at Cera. But we can't afford to get down now. Not when there's now a war to win against Pact.
-asa Te entiendo. Fue solo por un momento, pero incluso yo pude ver lo cercano que eras con tu pueblo cuando estuve en Cera. Pero no podemos permitir rendirnos ahora. No cuando hay una guerra que ganar contra el Pacto.
+asa Te entiendo. Fue solo por un momento, pero incluso yo pude ver lo cercano que eras con tu pueblo cuando estuve en Cera. Pero no nos podemos permitir rendirnos ahora. No cuando hay una guerra que ganar contra el Pacto.
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay I couldn't agree more.
@@ -677,7 +677,7 @@ por asa_shrug_neutral_neutral_laugh
 #% asa Check out the Affection screen to see how many affection points you have to spend with each girl. Depending on what suits your fancy, you might wanna consider impressing certain gals over others...
 asa Revisa la pantalla de Afecto para ver cuántos puntos de afecto tienes para gastar con cada chica. Dependiendo de lo que te guste, quizás quieras considerar impresionar a ciertas chicas por encima de otras...
 #% asa Affection Abilities come in two varieties. Active abilities are special attacks that girl can perform in boarding actions. Passive abilities are active all the time and can give buffs in all sorts of situations.
-asa Las Habilidades de Afecto vienen en dos variantes. Las habilidades activas son ataques especiales que la chica puede ejecutar en acciones de abordaje. Las habilidades pasivas están activas todo el tiempo y pueden otorgar bonificaciones en todo tipo de situaciones.
+asa Las Habilidades de Afecto vienen en dos variantes. Las habilidades activas son ataques especiales que la chica puede ejecutar en acciones de abordaje. Las habilidades pasivas están activas todo el tiempo y pueden proporcionar bonificaciones en todo tipo de situaciones.
 #% asa Active abilities come in levels. This corresponds with the number of SP Combos you need during a boarding action to use that ability. You can only have one active ability per special level.
 asa Las habilidades activas vienen en niveles. Esto corresponde al número de Combos ESP que necesitas durante una acción de abordaje para usar esa habilidad. Solo puedes tener una habilidad activa por nivel especial.
 #% asa You can check out a girl's special attack slots in the Party Status screen to get the full list of her active special attacks.
@@ -697,7 +697,7 @@ cha asa_armup_sad_closedeye_catopensm
 #% voi asa_vns_neu_07
 voi asa_vns_neu_07
 #% asa Love and loyalty may be separate matters all together, capt'n. The Affection screen may reveal to you the skills we're willing to put on the line for ya, but where it comes to personal relations, there's no metric in Halla capable of getting to the heart of the matter.
-asa El amor y la lealtad pudieran ser asuntos completamente distintos, capitán. La pantalla de Afecto pudiera revelarte las habilidades que estamos dispuestas a ofrecer por ti, pero en lo que respecta a relaciones personales, no existe ninguna métrica en Halla capaz de llegar al corazón del asunto.
+asa El amor y la lealtad pudieran ser asuntos completamente distintos, capitán. La pantalla de Afecto pudiera revelarte las habilidades que estamos dispuestas a ofrecer por ti, pero cuando se trata de relaciones personales, no existe ningún medidor en Halla capaz de llegar al corazón del asunto.
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
 #% kay Aye, the hearts of women cannot be reduced down to a statistic, that's for sure...
@@ -813,7 +813,7 @@ ava Capitán, los piratas nos superan por mucho en número...
 #% cha kay_neu_confuse_neutral_smalltalk
 cha kay_neu_confuse_neutral_smalltalk
 #% kay I'm not too concerned. Their leader appears to be but a child - probably a band of misguided youth on some makeshift rafts and nothing more.
-kay No me preocupa demasiado. Su líder no parece ser más que una niña - probablemente una banda de jóvenes confundidos en algunas balsas improvisadas y nada más.
+kay No me preocupa demasiado. Su líder no parece más que una niña - probablemente una banda de jóvenes confundidos en algunas balsas improvisadas y nada más.
 #% cha ava_armup_focus_closedeye_smalltalk
 cha ava_armup_focus_closedeye_smalltalk
 #% ava I would not be so sure. I have heard rumors of diminutive Maan who follow no law but that of the sea - the dwarf pirates of the Asahi coast. Perhaps these pirates have drifted to our shores in the wake of the Crimson Fleet...
@@ -879,7 +879,7 @@ tag chap2_battle2_tut
 #% cha kay_neu_focus_closed_neutral
 cha kay_neu_focus_closed_neutral
 #% kay (Ship morale plays a major role in boarding actions.)
-kay (La moral la nave juega un papel mayor en acciones de abordaje.)
+kay (La moral de la nave juega un papel mayor en acciones de abordaje.)
 #% kay (It increases when the ship deals damage and decreases when it takes damage.)
 kay (Aumenta cuando la nave provoca daño y disminuye cuando recibe daño.)
 #% kay (Further, morale decreases by one for each turn which passes during a boarding action. Therefore, it is essential not to exhaust your crew.)
@@ -1011,7 +1011,7 @@ cha ava_armscrossed_worry_closedeye_smalltalk
 #% voi ava_vns_neu_06
 voi ava_vns_neu_06
 #% ava Very well, captain. I bid you luck; I would rather face a hundred Pact swords than the mutiny of a starving crew.
-ava Muy bien, capitán. Le deseo suerte; Preferiría enfrentarme a cien espadas del Pacto que al motín de una tripulación hambrienta.
+ava Muy bien, capitán. Le deseo suerte; preferiría enfrentarme a cien espadas del Pacto que al motín de una tripulación hambrienta.
 #% cha kay_neu_focus_closed_smalltalk
 cha kay_neu_focus_closed_smalltalk
 #% kay We will return before nightfall. Come, let us be off.
@@ -1053,7 +1053,7 @@ kay ¿Del antiguo Imperio Élfico, del que todos nosotros descendemos? Es un lug
 #% cha kay_neu_neutral_neutral_smalltalk
 cha kay_neu_neutral_neutral_smalltalk
 #% kay Long ago, the Holy Ryuvian Empire extended all across Halla, establishing the Elves as the ruling race of the land. But the Ryuvian Court became arrogant and splintered into two factions.
-kay Hace mucho tiempo, el Sacro Imperio Ryuviano se extendía por toda Halla, estableciendo a los Elfos como la raza gobernante de la tierra. Pero la Corte Ryuviana se volvió arrogante y se separó en dos facciones.
+kay Hace mucho tiempo, el Sacro Imperio Ryuviano se extendía a lo largo de Halla, estableciendo a los Elfos como la raza gobernante de la tierra. Pero la Corte Ryuviana se volvió arrogante y se separó en dos facciones.
 #% kay The devout followers of the Church, bound to their ancient rites, left Ryuvia and founded the Song Alliance, a great Elvish land of magic deep in the Northern woodlands.
 kay Los seguidores devotos de la Iglesia, atados a sus ritos ancestrales, dejaron Ryuvia y fundaron la Alianza Song, una gran tierra mágica Élfica en lo profundo de los bosques del Norte.
 #% kay Those who pursued industry founded the New Empire on the Asahi Isle, where they enslaved Maan to toil in their mines and their fields. Those Elves were punished for their greed by the Monolithic Truth and they turned into Orks.
@@ -1399,7 +1399,7 @@ ava Sí capitán. ¡Leven el ancla!
 #% cha kay_neu_focus_closed_slight
 cha kay_neu_focus_closed_slight
 #% kay (To Versta we head... but what trials awaits there?)
-kay (A Versta nos dirigimos.. ¿pero qué desafíos nos esperan allí?)
+kay (A Versta nos dirigimos... ¿pero qué desafíos nos esperan allí?)
 #% kay (Dark clouds loom in the horizon... An ill omen.)
 kay (Nubes oscuras se ciernen en el horizonte... Un mal presagio.)
 #% var unlock_icatalk1
@@ -1633,7 +1633,7 @@ ava ¿Habló con nuestra invitada?
 #% cha kay_neu_neutral_neutral_smalltalk
 cha kay_neu_neutral_neutral_smalltalk
 #% kay I did. I do not believe she is our enemy. She is on a mission to retrieve a Lost Treasure called the Talbur from Versta.
-kay Sí. No creo que sea nuestra enemiga. Está en una misión para retirar un Tesoro Perdido llamado el Talbur de Versta.
+kay Sí. No creo que sea nuestra enemiga. Está en una misión para recuperar un Tesoro Perdido llamado el Talbur de Versta.
 #% cha ava_armscrossed_focus_closedeye_smalltalk
 cha ava_armscrossed_focus_closedeye_smalltalk
 #% voi ava_vns_ang_02
@@ -1649,7 +1649,7 @@ cha ava_armup_neutral_neutral_smalltalk
 #% voi ava_vns_neu_02
 voi ava_vns_neu_02
 #% ava Whatever this "Talbur" may be, I have never heard of such an artifact being in Versta. And if such a thing does exist, would it not be tucked away in the Star Palace rather than in a minor trade port?
-ava Sea lo que sea este "Talbur", nunca he escuchado de tal artefacto estuviera en Versta. Y si tal cosa existiera, ¿no estaría escondido en el Palacio Estelar en lugar de un pequeño puerto comercial?
+ava Sea lo que sea este "Talbur", nunca he escuchado que tal artefacto estuviera en Versta. Y si tal cosa existiera, ¿no estaría escondido en el Palacio Estelar en lugar de un pequeño puerto comercial?
 #% cha kay_neu_confuse_neutral_slight
 cha kay_neu_confuse_neutral_slight
 #% kay W-Well, who knows. You are speculating.
@@ -1657,7 +1657,7 @@ kay B-Bueno, quién sabe. Estás especulando.
 #% cha ava_armscrossed_focus_neutral_smalltalk
 cha ava_armscrossed_focus_neutral_smalltalk
 #% ava I have made every attempt to investigate the mercenary, including trying to search through her belongings. However, her skills in counter-espionage are beyond reproach - every one of my attempts have been thwarted.
-ava He realizado cada intento que pude para investigar a la mercenaria, incluyendo intentar revisar en sus pertenencias. Sin embargo, sus habilidades en contraespionaje están más allá de todo reproche - cada uno de mis intentos fue frustrado.
+ava He realizado cada intento que pude para investigar a la mercenaria, incluyendo intentar revisar en sus pertenencias. En cualquier caso, sus habilidades en contraespionaje están más allá de todo reproche - cada uno de mis intentos fue frustrado.
 #% cha kay_neu_focus_wide_talk
 cha kay_neu_focus_wide_talk
 #% kay Ava, you can't just snoop through other people's belongings!
@@ -1745,7 +1745,7 @@ kay ... ... ...
 #% kay (Could we sail through the Strait of Far Port and resupply at the Denari port of Ferros? But we are low on provisions already and the Denari Outlands are a far cry from the lush forests of the Neutral Banners...)
 kay (¿Pudiéramos intentar navegar a través del Estrecho de Far Port y reabastecernos en el puerto Denari de Ferros? Pero ya nos quedan pocas provisiones y las Tierras Denari son completamente opuestas a los exuberantes bosques de los Territorios Neutrales...)
 #% kay (Yet attempting to dock at Versta would be suicide... We are truly up the creek without a paddle.)
-kay (Aun así intentar atracar en Versta sería un suicidio... Estamos realmente yendo el arroyo sin remos.)
+kay (Aun así intentar atracar en Versta sería un suicidio... Estamos realmente subiendo el arroyo sin remos.)
 #% mus mus_missionbriefing
 mus mus_missionbriefing
 #% cha ica_armscrossed_focus_neutral_smalltalk
@@ -1901,7 +1901,7 @@ mar ¡Hiyah!
 #% cha kay_neu_sad_closed_groan
 cha kay_neu_sad_closed_groan
 #% kay (Please Maray. Those are for making omelets, not combat...)
-kay (Por favor Maray. Esos son para hacer tortillas, no para combatir...)
+kay (Por favor Maray. Esas son para hacer tortillas, no para combatir...)
 #% dbg hide
 dbg hide
 #% fade
@@ -2199,7 +2199,7 @@ sou sou_dreadstone_whisper
 #% cha ica_handsonhips_focus_neutral_smalltalk
 cha ica_handsonhips_focus_neutral_smalltalk
 #% ica This is the Dreadstone, a gift I received from the High Elves of the Song Alliance. A Lost Treasure which turns men into undead.
-ica Esta es la Piedra del Terror, un regalo que recibí de los Altos Elfos en la Alianza Song. Un Tesoro Perdido que convierte hombres en no muertos.
+ica Esta es la Dreadstone, un regalo que recibí de los Altos Elfos en la Alianza Song. Un Tesoro Perdido que convierte hombres en no muertos.
 #% cha ica_armscrossed_angry_smug_smirk
 cha ica_armscrossed_angry_smug_smirk
 #% ica I will have a clear shot at the Pact fleet from this tower. From here, I can turn the whole lot of them into mindless zombies...
@@ -2279,7 +2279,7 @@ ica Palabras vacías, capitán. Todos aquellos cercanos a mí han sido asesinado
 #% cha kay_neu_focus_big_yell
 cha kay_neu_focus_big_yell
 #% kay That couldn't be further from the truth. You have everyone on the ship. And you have me! I shall be your closest friend!
-kay Eso no pudiera estás más lejos de la verdad. Tienes a todos en la nave. ¡Y me tienes a mí! ¡Yo seré tu amigo más cercano!
+kay Eso no pudiera estar más lejos de la verdad. Tienes a todos en la nave. ¡Y me tienes a mí! ¡Yo seré tu amigo más cercano!
 #% cha ica_armscrossed_angry_surprise_smalltalk
 cha ica_armscrossed_angry_surprise_smalltalk
 #% ica ...Huh?
@@ -2315,7 +2315,7 @@ cha ica_point_annoyed_smuglooka_yell_blush
 #% ica FINE! FINE!
 ica ¡BIEN! ¡BIEN!
 #% ica I won't use the stupid Dreadstone, okay?!
-ica ¡¿No usaré la estúpida Piedra del Terror, okey?!
+ica ¡¿No usaré la estúpida Dreadstone, okey?!
 #% cha kay_neu_focus_wide_talk
 cha kay_neu_focus_wide_talk
 #% kay And let's not forget what'll happen to your -
@@ -2329,7 +2329,7 @@ cha ica_armscrossed_focus_closedeye_neutral_blush
 #% voi ica_vns_sad_01
 voi ica_vns_sad_01
 #% ica Sigh... You've got a point.
-ica Suspiro... Tienes razón.
+ica Haah... Tienes razón.
 #% cha ica_handsonhips_angry_narrowloo_bigtalk
 cha ica_handsonhips_angry_narrowloo_bigtalk
 #% ica You're right. It's obvious the High Elves intend to sacrifice us all if it means sinking the Crimson Fleet. I should have known I was being used as a puppet.
@@ -2469,7 +2469,7 @@ kay ¿Qué... estaba pensando? Desatar a los no muertos sobre Halla... No habrí
 #% cha kay_neu_focus_closed_clench
 cha kay_neu_focus_closed_clench
 #% kay To have come so close to damnation... I don't know what I was thinking...
-kay Habiendo estado tan cerca de la condena... No sé en qué estaba pensando...
+kay Habiendo estado tan cerca de la perdición... No sé en qué estaba pensando...
 #% cha ica_armscrossed_worry_closedeye_clench
 cha ica_armscrossed_worry_closedeye_clench
 #% ica ... ... ...
@@ -2477,11 +2477,11 @@ ica ... ... ...
 #% cha kay_neu_sad_closed_smalltalk
 cha kay_neu_sad_closed_smalltalk
 #% kay This is for the best, mercenary. If we had unleashed the Dreadstone's power, we would simply have exchanged Pact for the undead. The only winner would have been the Song Alliance, and all of us the losers.
-kay Esto es lo mejor, mercenaria. Si hubiéramos desatado el poder de la Piedra del Terror, simplemente hubiéramos cambiado al Pacto por los no muertos. El único ganador hubiera sido la Alianza Song, y todos nosotros los perdedores.
+kay Esto es lo mejor, mercenaria. Si hubiéramos desatado el poder de la Dreadstone, simplemente hubiéramos cambiado al Pacto por los no muertos. El único ganador hubiera sido la Alianza Song, y todos nosotros los perdedores.
 #% cha ica_armscrossed_sad_closedeye_bigtalk
 cha ica_armscrossed_sad_closedeye_bigtalk
 #% ica It doesn't matter. The Dreadstone has been lost to the sea.
-ica No importa. La Piedra del Terror se ha perdido en el mar.
+ica No importa. La Dreadstone se ha perdido en el mar.
 #% ica We must leave this place, before Pact finds us.
 ica Debemos dejar este lugar, antes de que el Pacto nos encuentre.
 #% sou sou_warningbells
@@ -2573,7 +2573,7 @@ cha ava_armscrossed_focus_neutral_smalltalk
 #% voi ava_vns_neu_12
 voi ava_vns_neu_12
 #% ava Two paths lay before us... Attempting to capture the Pact supply ship presents the higher danger - we will find ourselves heavily outnumbered by the enemy. But if we are successful, the loot will be ours and ours alone.
-ava Dos rutas se presentan ante nosotros... Intentar capturar la nave de suministros del Pacto representa el mayor peligro - nos veremos superados en número por mucho por el enemigo. Pero si tenemos éxito, el botín será nuestro y solo nuestro.
+ava Dos rutas se presentan ante nosotros... Intentar capturar la nave de suministros del Pacto representa el mayor peligro - nos veremos superados en número por mucho por el enemigo. Pero si tenemos éxito, el botín será nuestro y solamente nuestro.
 #% cha ava_armup_focus_neutral_smalltalk
 cha ava_armup_focus_neutral_smalltalk
 #% ava On the other hand, if we were to assist the Verstans, our chances of escaping safely will increase. But we have no way of knowing what supplies they possess or whether they will be willing to share with us.
@@ -2635,7 +2635,7 @@ ica Mira, probablemente no tenga mucho derecho a decir esto ya que los he estado
 #% ica I'm much more confident that I could capture the Pact supply ship than I could convince the Verstans to share their supplies with us.
 ica Siento mucha más confianza de poder capturar una nave de suministros del Pacto que de poder convencer a los Verstanos de compartir sus suministros con nosotros.
 #% ica Hitting the supply ship is the better option. I'm sure of that.
-ica Atacar la nave de suministros es la mejor opción. Estoy segura de es.
+ica Atacar la nave de suministros es la mejor opción. Estoy segura de eso.
 #% cva ica1
 cva ica1
 #% cre chap2_versta_choice
@@ -2673,7 +2673,7 @@ kay (Debo tomar una decisión... ¿Qué debería hacer?)
 #% cc0 chap2_versta_battlechoice
 cc0 chap2_versta_battlechoice
 #% cc1 Aid the Verstan ship
-cc1 Ayudar a la nave Verstana
+cc1 Auxiliar a la nave Verstana
 #% cc2 Capture the Pact supply ship
 cc2 Capturar la nave de suministros del Pacto
 #% 
@@ -2875,7 +2875,7 @@ cha ica_back_focus_smug_neutral
 #% voi ica_vns_ang_04
 voi ica_vns_ang_04
 #% ica Tsch, I've heard of this Ork. He's a former New Imperial Admiral who turned coat as soon as Pact gained the upper hand. He's nothing but a political opportunist who backs whoever happens to be winning.
-ica Tsch, he oído hablar de este Orko. Es un antiguo Almirante del Nuevo Imperio que los traicionó tan pronto el Pacto tomó la delantera. No es más que un oportunista político que apoya a quien parezca estar ganando.
+ica Tsch, he oído hablar de este Orko. Es un antiguo Almirante del Nuevo Imperio que los traicionó tan pronto como el Pacto tomó la delantera. No es más que un oportunista político que apoya a quien parezca estar ganando.
 #% cha cul_neu_focus_neutral_bigopensm
 cha cul_neu_focus_neutral_bigopensm
 #% voi cul_vns_ang_01
@@ -2891,7 +2891,7 @@ cha cul_neu_angry2_wide1_yell
 #% voi cul_vns_sur_01
 voi cul_vns_sur_01
 #% cul Har! I will not abide by this racist drivel! All hands: Sink these interlopers to the bottom of the sea!
-cul ¡Har! ¡No toleraré estas tonterías racistas! ¡Tripulación: Hundan a estos entrometidos al fondo del mar!
+cul ¡Har! ¡No voy a tolerar estas tonterías racistas! ¡Tripulación: Hundan a estos entrometidos al fondo del mar!
 #% cha ava_facepalm_focus_closedeye_sigh
 cha ava_facepalm_focus_closedeye_sigh
 #% voi ava_vns_ang_02
@@ -2923,7 +2923,7 @@ cha ava_armup_focus_neutral_smirk
 #% voi ava_vns_hap_05
 voi ava_vns_hap_05
 #% ava The battle is won! And fortune favors us - the mist will mask our escape. 
-ava ¡La batalla está ganada! Y la fortuna nos favorece - la niebla enmascarará nuestro escape.
+ava ¡La batalla está ganada! Y la fortuna nos favorece - la niebla nos enmascarará nuestro escape.
 #% ava Let is be free of this place while we still can.
 ava Salgamos de este lugar mientras todavía podamos.
 #% hid ava
@@ -2933,7 +2933,7 @@ ver ¡Ahoy! ¡Tienen nuestros agradecimientos por ayudarnos a escapar en una pie
 #% cha kay_neu_neutral_neutral_smallopen
 cha kay_neu_neutral_neutral_smallopen
 #% kay Well met! We are short on supplies to make the journey to Song alone! Might we join together so that we can make the journey?
-kay ¡Bienhallados! ¡Nos estamos quedando cortos de suministros para viajar a Song solos! ¿Pudiéramos unirnos para poder lograr la travesía?
+kay ¡De nada! ¡Nos estamos quedando cortos de suministros para viajar a Song solos! ¿Pudiéramos unirnos para poder lograr la travesía?
 #% ver Of course! We managed to steal the Veniczar's entire larder! There's more food here than we could possibly eat!
 ver ¡Por supuesto! ¡Logramos robar toda la despensa del Veniczar! ¡Hay más comida aquí de la que pudiésemos comer!
 #% cha kay_neu_neutral_closed2_smirk
@@ -2955,7 +2955,7 @@ cha ava_armup_focus_neutral_smirk
 #% voi ava_vns_hap_05
 voi ava_vns_hap_05
 #% ava The battle is won! And fortune favors us - this morning mist will mask our escape. 
-ava ¡La batalla está ganada! Y la fortuna nos favorece - esta niebla mañanera enmascarará nuestro escape.
+ava ¡La batalla está ganada! Y la fortuna nos favorece - esta niebla mañanera nos enmascarará nuestro escape.
 #% cha ava_armscrossed_focus_closedeye_smirk
 cha ava_armscrossed_focus_closedeye_smirk
 #% ava Let is be free of this place while we still can.

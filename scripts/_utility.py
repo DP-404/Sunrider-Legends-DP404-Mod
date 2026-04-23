@@ -1,5 +1,7 @@
 import base64
 import os
+import string
+import configparser
 from traceback import format_exc
 
 GAME_NAME = 'Sunrider Legends Tactics'
@@ -11,17 +13,37 @@ BASE_PATH = os.path.dirname(os.path.dirname(__file__))
 SOURCE_PATH = os.path.join(BASE_PATH, 'source_data')
 '''Stores `"{workspaceFolder}/source_data"` if folder exists and there is any file therein.
 Otherwise, uses Steam path to the game.'''
-disk_unit = os.environ.get('ProgramFiles(x86)')
-if disk_unit is None:
-    disk_unit = 'C:'
-STEAM_PATH = os.path.join(
-    disk_unit,
-    f'Steam/steamapps/common/{GAME_NAME}'
-)
+
+_CP = configparser.ConfigParser()
+_CP.read(os.path.join(BASE_PATH, "scripts", "config.cfg"))
+STEAM_PATH = _CP.get("main", "STEAM_PATH")
+
+if (
+    STEAM_PATH is None
+    or len(STEAM_PATH) == 0
+    or not os.path.exists(STEAM_PATH)
+):
+    STEAM_PATH = ""
+    disk_unit = os.environ.get('ProgramFiles(x86)')
+    if disk_unit is not None:
+        STEAM_PATH = os.path.join(
+            disk_unit, "Steam", "steamapps", "common", f"{GAME_NAME}"
+        )
+    if not os.path.exists(STEAM_PATH):
+        for disk_unit in string.ascii_letters.upper():
+            STEAM_PATH = os.path.join(
+                disk_unit+":"+os.sep, "Steam", "steamapps", "common", f"{GAME_NAME}"
+            )
+            if os.path.exists(STEAM_PATH):
+                break
+            STEAM_PATH = ""
+
 if not os.path.exists(SOURCE_PATH) or len(os.listdir(SOURCE_PATH)) <= 1:
     SOURCE_PATH = STEAM_PATH
     if not os.path.exists(SOURCE_PATH):
         SOURCE_PATH = ''
+
+VALID_SOURCE = os.path.exists(SOURCE_PATH)
 
 DATA_PATH = os.path.join(BASE_PATH, 'data')
 DATA_FILES = [

@@ -45,7 +45,7 @@ PRINCIPAL: ¡Invasión!
 #% War has come to Halla! I've got to escort Maray and the rest of the villagers safely out of town!
 ¡La guerra ha llegado a Halla! ¡Tengo que escoltar a Maray y al resto de los aldeanos a salvo fuera del pueblo!
 #% Capture the nearby enemy Pact brig. Maray's ship cannot be sunk!
-Captura la balsa del Pacto enemiga cercana. ¡La nave de Maray no puede ser hundida!
+Capturar la balsa del Pacto enemiga cercana. ¡La nave de Maray no puede ser hundida!
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% -1000
@@ -127,9 +127,9 @@ roo_chap2_story2
 #% BATTLE: Who is This Lost, Sassy Child?
 BATALLA: ¿Quién es Esta Niña Perdida y Descarada?
 #% After arriving at Tydaria, we found it ransacked by pirates. After a good faith attempt at negotiations, their leader, a child by the name of Cosette Cosmos, ordered her ships to open fire upon us without any provocative action on our part. 
-Tras llegar a Tydaria, nos la encontramos saqueada por piratas. Después de un intento de negociaciones de buena fe, su líder, una niña por el nombre de Cosette Cosmos, le ordenó a sus naves abrir fuego sobre nosotros sin ninguna acción provocativa de nuestra parte.
+Tras llegar a Tydaria, nos la encontramos saqueada por piratas. Después de un intento de negociaciones de buena fe, su líder, una niña por el nombre de Cosette Cosmos, les ordenó a sus naves abrir fuego sobre nosotros sin ninguna acción provocativa de nuestra parte.
 #% Defeat the pirate fleet.
-Derrotar la flota pirata.
+Derrotar a la flota pirata.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Tydaria
@@ -155,7 +155,7 @@ roo_chap2_story4
 #% BATTLE: To the Verstans' Aid
 BATALLA: Al Auxilio de los Verstanos
 #% In a twist of fate, it turned out the mercenary Icari was sent to Versta by the High Elves of the Song Alliance to unleash the dreadstone upon the Pact fleet. Fortunately, we managed to thwart her mission, but at the cost of missing our chance to loot Pact's supplies. As luck would have it, we have spotted a Verstan frigate attempting to escape just as we were taking flight ourselves. Our only hope now is to join forces with the Verstans and attempt to reach the Song Alliance together.
-En un giro del destino, resultó que la mercenaria Icari fue enviada a Versta por los Altos Elfos de la Alianza Song para desatar la piedra del terror sobre la flota del Pacto. Afortunadamente, logramos frustrar su misión, pero al costo de perder nuestra oportunidad de saquear los suministros del Pacto. Por suerte, hemos avistado una fragata Verstana intentando escapar mientras nos dábamos a la fuga nosotros mismos. Nuestra única esperanza ahora es unir fuerzas con los Verstanos e intentar llegar a la Alianza Song juntos.
+En un giro del destino, resultó que la mercenaria Icari fue enviada a Versta por los Altos Elfos de la Alianza Song para desatar la Dreadstone sobre la flota del Pacto. Afortunadamente, logramos frustrar su misión, pero a costa de perder nuestra oportunidad de saquear los suministros del Pacto. Por suerte, hemos avistado una fragata Verstana intentando escapar mientras nos dábamos a la fuga nosotros mismos. Nuestra única esperanza ahora es unir fuerzas con los Verstanos e intentar llegar a la Alianza Song juntos.
 #% Take command of the Verstan frigate by boarding it, then defeat the Pact fleet. Both the Sunrider and the Verstan frigate must survive.
 Tomar el control de la fragata Verstana abordándola, y luego derrotar a la flota del Pacto. Tanto el Sunrider como la fragata Verstana deben sobrevivir.
 #% spr_ui_talkicon_kay
@@ -169,7 +169,7 @@ roo_chap2_battle2a
 #% BATTLE: Smash and Grab
 BATALLA: Aplastar y Tomar
 #% In a twist of fate, it turned out the mercenary Icari was sent to Versta by the High Elves of the Song Alliance to unleash the dreadstone upon the Pact fleet. Fortunately, we managed to thwart her mission, but at the cost of missing our chance to loot Pact's supplies. As luck would have it, we spotted a Pact supply ship among the enemy fleet as we were taking flight. Our only hope now is to capture the supply ship and loot its cargo before we make our escape.
-En un giro del destino, resultó que la mercenaria Icari fue enviada a Versta por los Altos Elfos de la Alianza Song para desatar la piedra del terror sobre la flota del Pacto. Afortunadamente, logramos frustrar su misión, pero al costo de perder nuestra oportunidad de saquear los suministros del Pacto. Por suerte, hemos avistado una nave de suministros del Pacto entre la flota enemiga mientras nos dábamos a la fuga. Nuestra única esperanza ahora es capturar la nave de suministros y saquear su carga antes de escapar.
+En un giro del destino, resultó que la mercenaria Icari fue enviada a Versta por los Altos Elfos de la Alianza Song para desatar la Dreadstone sobre la flota del Pacto. Afortunadamente, logramos frustrar su misión, pero a costa de perder nuestra oportunidad de saquear los suministros del Pacto. Por suerte, hemos avistado una nave de suministros del Pacto entre la flota enemiga mientras nos dábamos a la fuga. Nuestra única esperanza ahora es capturar la nave de suministros y saquear su carga antes de escapar.
 #% Loot the supply ship by capturing it, then defeat the Pact fleet. The Sunrider cannot be sunk.
 Saquear la nave de suministros capturándola, luego derrotar a la flota del Pacto. El Sunrider no puede ser hundido.
 #% spr_ui_talkicon_kay
@@ -195,7 +195,7 @@ roo_chap3_story2
 #% 1
 1
 #% RAID: Pact Fleet off Tydaria
-ASALTO: Expulsar a la Flota del Pacto de Tydaria
+ASALTO: Fuera de Tydaria Flota del Pacto
 #% The Pact supply line is particularly vulnerable off the coast of Tydaria. What say we strike and liberate some of their goods for better use?
 La línea de suministros del Pacto es particularmente vulnerable en la costa de Tydaria. ¿Qué dice si atacamos y les arrebatamos algunos de sus bienes para un mejor uso?
 #% Sink the Pact fleet off the coast of Tydaria.
@@ -206,7 +206,7 @@ spr_ui_talkicon_ava
 Tydaria
 #% roo_chap3_raidbattle1
 roo_chap3_raidbattle1
-# 2
+#% 2
 2
 #% MAIN: Investigate the Forgotten Abyss
 PRINCIPAL: Investigar el Abismo Olvidado
@@ -237,9 +237,9 @@ roo_chap3_battle1
 #% 1
 1
 #% MAIN: Head to the Sharr'Lac
-PRINCIPAL: Dirígete al Sharr'Lac
+PRINCIPAL: Dirigirse al Sharr'Lac
 #% After rescuing Claude from the dastardly pirates, I used my honed intuition and captaining experience to deduce that this woman was more than what she appeared. As fortune would have it, she knew the location of the Sharr'Lac, the ancient flagship of the Ryuvian Empire. According to a tome of ancient history belonging to Claude, that will be where we will find Sharr Sola's resting place and our target: The Talbur.
-Tras rescatar a Claude de los ruines piratas, use mi perfeccionada intuición y experiencia de capitán para deducir que esta mujer era más de lo que aparentaba. Por fortuna, conocía la ubicación del Sharr'Lac, la antigua nave insignia del Imperio Ryuviano. De acuerdo a un tomo de historia antigua perteneciente a Claude, sería ahí donde encontraremos el lugar de descanso de la Sharr Sola y nuestro objetivo: El Talbur.
+Tras rescatar a Claude de los ruines piratas, usé mi perfeccionada intuición y experiencia de capitán para deducir que esta mujer era más de lo que aparentaba. Por fortuna, conocía la ubicación del Sharr'Lac, la antigua nave insignia del Imperio Ryuviano. De acuerdo a un tomo de historia antigua perteneciente a Claude, sería ahí donde encontraremos el lugar de descanso de la Sharr Sola y nuestro objetivo: El Talbur.
 #% Head to the location of the Sharr'Lac.
 Dirigirse a la ubicación del Sharr'Lac.
 #% spr_ui_talkicon_kay
@@ -253,7 +253,7 @@ roo_chap3_story5
 #% BATTLE: The Lost Fleet Attacks!
 BATALLA: ¡La Flota Perdida Ataca!
 #% We definitely got more than we bargained for on this mission. We went inside the Sharr'Lac and not only found the Talbur, but Sharr Sola herself. Upon our arrival, she awoke, along with a hoard of undead. Long ago, Crow Harbor unleashed a familiar sounding artifact to turn his crew into undead in a last, desperate attempt to defeat Sola. Unfortunately, his gambit backfired and damned his forces to an eternity of shambling over the shoals of the Forgotten Abyss.
-Definitivamente obtuvimos más de lo esperado en esta misión. Entramos al Sharr'Lac y no solo encontramos el Talbur, sino a la mismísima Sharr Sola. Tras nuestra llegada, se despertó, junto con una horda de no muertos. Hace mucho, Crow Harbor desató un artefacto que suena familiar para convertir a su tripulación en no muertos en un último intento desesperado de derrotar a Sola. desafortunadamente, su apuesta falló y condenó a sus fuerzas a una eternidad de arrastrarse por los bajíos del Abismo Olvidado.
+Definitivamente obtuvimos más de lo esperado en esta misión. Entramos al Sharr'Lac y no solo encontramos el Talbur, sino a la mismísima Sharr Sola. Tras nuestra llegada, se despertó, junto con una horda de no muertos. Hace mucho, Crow Harbor desató un artefacto que suena familiar para convertir a su tripulación en no muertos en un último intento desesperado de derrotar a Sola. Desafortunadamente, su apuesta falló y condenó a sus fuerzas a una eternidad de arrastrarse por los bajíos del Abismo Olvidado.
 #% The Sunrider reaches the marked location.
 El Sunrider alcanza la ubicación marcada.
 #% spr_ui_talkicon_kay
@@ -267,7 +267,7 @@ roo_chap3_battle2
 #% MAIN: Infiltrate the Star Palace A
 PRINCIPAL: Infiltrarse en el Palacio Estelar A
 #% Princess Asaga has been kidnapped by the dastardly Cullen of Pact. They are presently on route to Ryuvia, where Asaga is to be wedded to Veniczar Arcadius. Our best hope of rescuing her is to infiltrate the Star Palace through an ancient hidden passageway known to Sola. Let us pray that the passageway still exists, even after all these centuries.
-La Princesa Asaga ha sido secuestrada por el vil Cullen del Pacto. Están ahora en ruta a Ryuvia, donde Asaga se casará con Veniczar Arcadius. Nuestra mejor opción para rescatarla es infiltrarnos en el Palacio Estelar a través de un antiguo pasadizo oculto conocido por Sola. Recemos por que el pasadizo todavía exista, incluso después de todos estos siglos.
+La Princesa Asaga ha sido secuestrada por el vil Cullen del Pacto. Están ahora en ruta a Ryuvia, donde Asaga se casará con Veniczar Arcadius. Nuestra mejor opción para rescatarla es infiltrarnos en el Palacio Estelar a través de un antiguo pasadizo oculto conocido por Sola. Recemos porque el pasadizo todavía exista, incluso después de todos estos siglos.
 #% Go to Ryuvia and enter the secret passageway.
 Ir a Ryuvia y entrar al pasadizo secreto.
 #% spr_ui_talkicon_kay
@@ -286,17 +286,17 @@ La Princesa Asaga ha sido secuestrada por el vil Cullen del Pacto. Están ahora 
 Ir a Ryuvia y esperar a que Chigara nos deje entrar.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap4_story3
 roo_chap4_story3
 #% 1
 1
-# BATTLE: Escape Ryuvia
+#% BATTLE: Escape Ryuvia
 BATALLA: Escapar de Ryuvia
-# After we rescued Asaga, we managed to injure what we believed was Veniczar Arcadius, only to realize that we had been fighting an enchanted suit of armor instead. Thankfully, that gave us the opening to beat a hasty retreat back to the ship. Now we must escape Ryuvia with our lives intact.
+#% After we rescued Asaga, we managed to injure what we believed was Veniczar Arcadius, only to realize that we had been fighting an enchanted suit of armor instead. Thankfully, that gave us the opening to beat a hasty retreat back to the ship. Now we must escape Ryuvia with our lives intact.
 Tras rescatar a Asaga, logramos herir a lo que creíamos que era Veniczar Arcadius, solo para darnos cuenta de que habíamos estado luchando contra una armadura encantada en su lugar. Por suerte, eso nos dio la apertura para realizar una retirada apresurada de vuelta a la nave. Ahora debemos escapar de Ryuvia con nuestras vidas intactas.
-# Sink the enemy fleet or move the Sunrider to the marked escape zone.
+#% Sink the enemy fleet or move the Sunrider to the marked escape zone.
 Hundir la flota enemiga o mover al Sunrider a la zona de escape marcada.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
@@ -307,7 +307,7 @@ roo_chap4_battle1a
 #% 1
 1
 #% MAIN: Pirate of the Shattered Rocks A
-PRINCIPAL: Pirata de las Rocas Destrozadas A
+PRINCIPAL: Pirata de las Rocas Astilladas A
 #% With the Crimson Fleet not far behind both our tails, our best move would be to declare a truce with Cosette and face the enemy together. One thing is clear from all this: That little pirate is no mere child!
 Con la Flota Carmesí pisándonos los talones, nuestro mejor movimiento sería declarar una tregua con Cosette y enfrentar al enemigo juntos. Hay algo claro en todo esto: ¡Esa pequeña pirata no es una simple niña!
 #% Go to Sargasso and form a truce with Cosette.
@@ -321,7 +321,7 @@ roo_chap4_story5
 #% 1
 1
 #% MAIN: Pirate of the Shattered Rocks B
-PRINCIPAL: Pirata de las Rocas Destrozadas B
+PRINCIPAL: Pirata de las Rocas Astilladas B
 #% It doesn't get tougher than this: We must enter the deadly Sargasso Bay and rescue Asaga from the pirates, all while a hostile Pact fleet pursues us with the same goal in mind. We better move quickly - any hesitation could derail this mission.
 No hay nada más difícil que esto: Debemos entrar en la mortal Bahía de Sargasso y rescatar a Asaga de los piratas, todo mientras una hostil flota del Pacto nos persigue con el mismo objetivo en mente. Más nos vale movernos rápido - cualquier duda pudiera arruinar esta misión. 
 #% Go to Sargasso and rescue Asaga.
@@ -353,7 +353,7 @@ BATALLA: Rescate en Sargasso B
 #% Sandwiched between pirates and Pact with nothing but Sargasso's rocky shoals by our side, it's times like these when I have to step up as the captain. Our first order of business is to board and capture the Havoc. Once Asaga has been freed from Cosette, we must then escape the bay before the Pact fleet seals it off.
 Atrapados entre los piratas y el Pacto con nada más que los rocosos bajíos de Sargasso a nuestro lado, es en momentos como estos cuando tengo que asumir el papel de capitán. Nuestra primera tarea es abordar y capturar el Havoc. Una vez Asaga haya sido liberada de Cosette, deberemos entonces escapar de la bahía antes de que la flota del Pacto la selle.
 #% Board and capture the Havoc, then move her to the marked escape zone.
-Abordar y capturar el Havoc, luego moverlo a la zona de escape marcada.
+Abordar y capturar al Havoc, luego moverlo a la zona de escape marcada.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Sargasso
@@ -376,11 +376,11 @@ Volaris
 roo_chap4_story9
 #% 1
 1
-# MAIN: The Decisive Moment
+#% MAIN: The Decisive Moment
 PRINCIPAL: El Momento Decisivo
-# Rallied by Asaga, the High Elves will engage the Crimson Fleet at the strategic Strait of Far Port. Denying Pact access to the Dragon's Foot Sea will be pivotal to stopping Arcadius' juggernaut.
+#% Rallied by Asaga, the High Elves will engage the Crimson Fleet at the strategic Strait of Far Port. Denying Pact access to the Dragon's Foot Sea will be pivotal to stopping Arcadius' juggernaut.
 Vueltos a aliar por Asaga, los Altos Elfos se enfrentarán a la Flota Carmesí en el estratégico Estrecho de Far Port. Negar el acceso del Pacto al Mar Dragon's Foot será crucial para detener el ataque de Arcadius.
-# Go to Far Port.
+#% Go to Far Port.
 Ir a Far Port.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
@@ -390,25 +390,25 @@ FarPort
 roo_chap4_story10
 #% 1
 1
-# SIDE: Defeat Crow Harbor
-SIDE: Defeat Crow Harbor
-# When you rescued me from the Forgotten Abyss, we escaped Crow Harbor with nary our lives. When the time is right, I wish to return to that damned place and destroy what remains of that man, once and for all.
-When you rescued me from the Forgotten Abyss, we escaped Crow Harbor with nary our lives. When the time is right, I wish to return to that damned place and destroy what remains of that man, once and for all.
-# Go to the Forgotten Abyss and defeat Crow Harbor once and for all.
-Go to the Forgotten Abyss and defeat Crow Harbor once and for all.
+#% SIDE: Defeat Crow Harbor
+LATERAL: Derrotar a Crow Harbor
+#% When you rescued me from the Forgotten Abyss, we escaped Crow Harbor with nary our lives. When the time is right, I wish to return to that damned place and destroy what remains of that man, once and for all.
+Cuando me rescataste del Abismo Olvidado, escapamos de Crow Harbor con nuestras vidas. Cuando el momento sea el indicado, deseo regresar a ese lugar maldito y destruir lo que queda de ese hombre, de una vez por todas.
+#% Go to the Forgotten Abyss and defeat Crow Harbor once and for all.
+Ir al Abismo Olvidado y derrotar a Crow Harbor de una vez por todas.
 #% spr_ui_talkicon_sol
 spr_ui_talkicon_sol
-# ForgottenAbyss
+#% ForgottenAbyss
 ForgottenAbyss
 #% roo_chap5_battle3
 roo_chap5_battle3
 #% 1
 1
-# BATTLE: Premonition
+#% BATTLE: Premonition
 BATALLA: Premonición
-# While on route to Far Port, we became separated from the Emerald Fleet in heavy fog. With the crew already rattled by this development, we further encountered a Pact scouting party upon arrival. If we act fast and capture the enemy commander, we might be able to gain intel as to the Crimson Fleet's plans.
+#% While on route to Far Port, we became separated from the Emerald Fleet in heavy fog. With the crew already rattled by this development, we further encountered a Pact scouting party upon arrival. If we act fast and capture the enemy commander, we might be able to gain intel as to the Crimson Fleet's plans.
 Mientras estábamos en ruta hacia Far Port, nos separamos de la Flota Esmeralda en una densa niebla. Con la tripulación ya asustada por esta nueva situación, encontramos además un grupo de reconocimiento del Pacto tras llegar. Si actuamos rápido y capturamos a la comandante enemiga, podríamos ser capaces de obtener información respecto a los planes de la Flota Carmesí.
-# Board and capture the enemy commander. Sink all other enemies.
+#% Board and capture the enemy commander. Sink all other enemies.
 Abordar y capturar a la comandante enemiga. Hundir a todas las otras naves.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
@@ -418,11 +418,11 @@ FarPort
 roo_chap4_battle2
 #% 1
 1
-# MAIN: The Battle of Far Port
+#% MAIN: The Battle of Far Port
 PRINCIPAL: La Batalla de Far Port
-# It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
+#% It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
 Todo se reduce a esto: O defendemos Far Port o de lo contrario la Flota Carmesí obtendrá acceso al Mar Dragon's Foot e iniciará una invasión por tierra a Halla. El destino del reino depende de esta batalla. Sin importar el resultado, la historia será escrita hoy.
-# Face the Crimson Fleet.
+#% Face the Crimson Fleet.
 Enfrentar a la Flota Carmesí.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
@@ -432,11 +432,11 @@ FarPort
 roo_chap4_story12
 #% 1
 1
-# BATTLE: The Battle of Far Port
-BATALLA: La Batalla de Far Port.
-# It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
+#% BATTLE: The Battle of Far Port
+BATALLA: La Batalla de Far Port
+#% It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
 Todo se reduce a esto: O defendemos Far Port o de lo contrario la Flota Carmesí obtendrá acceso al Mar Dragon's Foot e iniciará una invasión por tierra a Halla. El destino del reino depende de esta batalla. Sin importar el resultado, la historia será escrita hoy.
-# Hold out until the Emerald Fleet arrives.
+#% Hold out until the Emerald Fleet arrives.
 Resistir hasta que la Flota Esmeralda llegue.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
@@ -446,11 +446,11 @@ FarPort
 roo_chap4_battle3
 #% 1
 1
-# BATTLE: Cullen Appears
+#% BATTLE: Cullen Appears
 BATALLA: Cullen Aparece
-# It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
+#% It all comes down to this: Either we hold Far Port or else the Crimson Fleet will gain access to the Dragon's Foot Sea and  initiate a land invasion of Halla. The fate of the realm hinges on this battle. No matter the outcome, history will be written today.
 Todo se reduce a esto: O defendemos Far Port o de lo contrario la Flota Carmesí obtendrá acceso al Mar Dragon's Foot e iniciará una invasión por tierra a Halla. El destino del reino depende de esta batalla. Sin importar el resultado, la historia será escrita hoy.
-# Sink or capture the Vaendryl.
+#% Sink or capture the Vaendryl.
 Hundir o capturar al Vaendryl.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
@@ -461,252 +461,252 @@ roo_chap4_battle3
 #% 1
 1
 #% RAID: Pact Fleet off Versta
-ASALTO: Expulsar a la Flota del Pacto de Versta
+ASALTO: Fuera de Versta Flota del Pacto
 #% Pact has set up a supply line here to feed their ground forces. A hit-and-run attack on their ships here will hamper their army and hurt their troop morale.
 El Pacto ha montado una línea de suministros aquí para sustentar sus fuerzas terrestres. Un ataque de golpe y fuga a sus naves aquí obstaculizará a su armada y herirá la moral de sus tropas.
 #% Sink the Pact fleet off the coast of Versta.
 Hundir la flota del Pacto en la costa de Versta.
 #% spr_ui_talkicon_ava
 spr_ui_talkicon_ava
-# Versta
+#% Versta
 Versta
 #% roo_chap4_raidbattle1
 roo_chap4_raidbattle1
-# 2
+#% 2
 2
-# SIDE: Investigate Cera
-SIDE: Investigate Cera
-# Hey Kayto, I heard from some sailors while I was shopping that Pact has abandoned Cera. We should return to our home and see how the rest of the villagers are doing!
-Hey Kayto, I heard from some sailors while I was shopping that Pact has abandoned Cera. We should return to our home and see how the rest of the villagers are doing!
-# Go to Cera.
-Go to Cera.
+#% SIDE: Investigate Cera
+LATERAL: Investigar Cera
+#% Hey Kayto, I heard from some sailors while I was shopping that Pact has abandoned Cera. We should return to our home and see how the rest of the villagers are doing!
+Hey Kayto, escuché de algunos marineros mientras estaba de compras que el Pacto ha abandonado Cera. ¡Deberíamos regresar a nuestro hogar y ver cómo les va al resto de los aldeanos!
+#% Go to Cera.
+Ir a Cera.
 #% spr_ui_talkicon_mar
 spr_ui_talkicon_mar
-# Cera
+#% Cera
 Cera
 #% roo_chap5_story2_mar1
 roo_chap5_story2_mar1
 #% 1
 1
-# SIDE: The Silver Shrew
-SIDE: The Silver Shrew
-# Hey cap, I got a letter from an old associate of mine that she and the Silver Shrew managed to steal a chest of 50 000 gil from Pact. Unfortunately, the heist went south and now they need our help. I'm sure if we were to extricate them from their situation, we could get half the take.
-Hey cap, I got a letter from an old associate of mine that she and the Silver Shrew managed to steal a chest of 50 000 gil from Pact. Unfortunately, the heist went south and now they need our help. I'm sure if we were to extricate them from their situation, we could get half the take.
-# Go to Cera
-Go to Cera
+#% SIDE: The Silver Shrew
+LATERAL: La Musaraña Plateada
+#% Hey cap, I got a letter from an old associate of mine that she and the Silver Shrew managed to steal a chest of 50 000 gil from Pact. Unfortunately, the heist went south and now they need our help. I'm sure if we were to extricate them from their situation, we could get half the take.
+Hey capitán, recibí una carta de una antigua socia mía de que ella y la Musaraña Plateada lograron robar un cofre de 50 000 guiles del Pacto. Desafortunadamente, el atraco salió mal y ahora necesitan nuestra ayuda. Estoy segura de que si les sacásemos de su situación, pudiéramos obtener la mitad del botín.
+#% Go to Cera
+Ir a Cera
 #% spr_ui_talkicon_ica
 spr_ui_talkicon_ica
-# Cera
+#% Cera
 Cera
 #% roo_chap5_story3_ica1
 roo_chap5_story3_ica1
 #% 1
 1
-# SIDE: Request from Dad
-SIDE: Request from Dad
-# Dad and his friend need our help delivering their chest of gold to Ferros. We've got to do this, Kayto. Who knows what kind of trouble that much gil will attract...
-Dad and his friend need our help delivering their chest of gold to Ferros. We've got to do this, Kayto. Who knows what kind of trouble that much gil will attract...
-# Get to Cera and rendezvous with dad's friend.
-Get to Cera and rendezvous with dad's friend.
+#% SIDE: Request from Dad
+LATERAL: Petición de Papá
+#% Dad and his friend need our help delivering their chest of gold to Ferros. We've got to do this, Kayto. Who knows what kind of trouble that much gil will attract...
+Papá y su amiga necesitan nuestra ayuda para enviar su cofre de oro a Ferros. Tenemos que hacer esto., Kayto. Quién sabe qué tipo de problemas atraerán tantos guiles...
+#% Get to Cera and rendezvous with dad's friend.
+Ir a Cera y reunirse con la amiga de papá.
 #% spr_ui_talkicon_mar
 spr_ui_talkicon_mar
-# Cera
+#% Cera
 Cera
 #% roo_chap5_story2_mar2
 roo_chap5_story2_mar2
 #% 1
 1
-# BATTLE: More Than We Bargained For
-BATTLE: More Than We Bargained For
-# Oh no... Looks like dad's in trouble again! His friend isn't actually his friend and she's going to run away with the money! And as if that's not bad enough, we've got Pact on our tail!
-Oh no... Looks like dad's in trouble again! His friend isn't actually his friend and she's going to run away with the money! And as if that's not bad enough, we've got Pact on our tail!
-# Sink the Pact Fleet. Ensure Qisah does not reach the escape zone. Qisah cannot be sunk.
-Sink the Pact Fleet. Ensure Qisah does not reach the escape zone. Qisah cannot be sunk.
+#% BATTLE: More Than We Bargained For
+BATALLA: Más De Lo Que Esperábamos
+#% Oh no... Looks like dad's in trouble again! His friend isn't actually his friend and she's going to run away with the money! And as if that's not bad enough, we've got Pact on our tail!
+Oh no... ¡Parece que papá está en problemas de nuevo! ¡Su amiga no es realmente su amiga y huirá con el dinero! ¡Y como si no fuera suficientemente malo, tenemos al Pacto pisándonos los talones!
+#% Sink the Pact Fleet. Ensure Qisah does not reach the escape zone. Qisah cannot be sunk.
+Hundir la Flota del Pacto. Asegurar que Qisah no alcance la zona de escape. Qisah no puede ser hundida.
 #% spr_ui_talkicon_mar
 spr_ui_talkicon_mar
-# Cera
+#% Cera
 Cera
 #% roo_chap5_battle1a
 roo_chap5_battle1a
 #% 1
 1
-# BATTLE: The Taming of the Shrew
-BATTLE: The Taming of the Shrew
-# Sigh... Just what kind of a man is your father, cap? He seems to have swindled even his partner and left her for dead. We need to make sure everyone plus the gil make it out of this mess safe and sound.
-Sigh... Just what kind of a man is your father, cap? He seems to have swindled even his partner and left her for dead. We need to make sure everyone plus the gil make it out of this mess safe and sound.
-# Sink the Pact Fleet. Qisah cannot be sunk.
-Sink the Pact Fleet. Qisah cannot be sunk.
+#% BATTLE: The Taming of the Shrew
+BATALLA: Domesticando a la Musaraña
+#% Sigh... Just what kind of a man is your father, cap? He seems to have swindled even his partner and left her for dead. We need to make sure everyone plus the gil make it out of this mess safe and sound.
+Haah... ¿Simplemente qué tipo de hombre es tu padre, capitán? Parece haber estafado incluso a su propia compañera y dejado a su suerte. Necesitamos asegurarnos de que todos más los guiles salgan de este apuro sanos y salvos.
+#% Sink the Pact Fleet. Qisah cannot be sunk.
+Hundir la Flota del Pacto. Qisah no puede ser hundida.
 #% spr_ui_talkicon_ica
 spr_ui_talkicon_ica
-# Cera
+#% Cera
 Cera
 #% roo_chap5_battle1b
 roo_chap5_battle1b
 #% 1
 1
-# SIDE: Passage to Ferros
-SIDE: Passage to Ferros
-# Now that you have saved me from the Crimson Fleet and my unsavory partner, I request passage to the Denari port of Ferros. Given the high value of my prize, I am sure we are bound to run into trouble on route. Deal with them, and half the loot is yours.
-Now that you have saved me from the Crimson Fleet and my unsavory partner, I request passage to the Denari port of Ferros. Given the high value of my prize, I am sure we are bound to run into trouble on route. Deal with them, and half the loot is yours.
-# Go to Ferros.
-Go to Ferros.
+#% SIDE: Passage to Ferros
+LATERAL: Viaje a Ferros
+#% Now that you have saved me from the Crimson Fleet and my unsavory partner, I request passage to the Denari port of Ferros. Given the high value of my prize, I am sure we are bound to run into trouble on route. Deal with them, and half the loot is yours.
+Ahora que me has salvado de la Flota Carmesí y mi infame compañero, solicito un viaje al puerto Denari de Ferros. Dado el alto valor de mi tesoro, estoy segura de que estamos destinados a encontrarnos con problemas en la ruta. Encárgate de ellos y la mitad del botín es tuyo.
+#% Go to Ferros.
+Ir a Ferros.
 #% spr_ui_talkicon_qis
 spr_ui_talkicon_qis
-# Ferros
+#% Ferros
 Ferros
 #% roo_chap5_story2_mar4
 roo_chap5_story2_mar4
 #% 1
 1
-# BATTLE: The Crimson Wolf
-BATTLE: The Crimson Wolf
-# My worst fears are confirmed! The Crimson Wolf herself awaited us at Ferros' gate. We will have to defeat her flagship, the Huntress, to make it into the harbor. Steel yourself - Emil Kuushana is a mighty foe, worthy of our greatest respect!
-My worst fears are confirmed! The Crimson Wolf herself awaited us at Ferros' gate. We will have to defeat her flagship, the Huntress, to make it into the harbor. Steel yourself - Emil Kuushana is a mighty foe, worthy of our greatest respect!
-# Defeat the Huntress.
-Defeat the Huntress.
+#% BATTLE: The Crimson Wolf
+BATALLA: La Loba Carmesí
+#% My worst fears are confirmed! The Crimson Wolf herself awaited us at Ferros' gate. We will have to defeat her flagship, the Huntress, to make it into the harbor. Steel yourself - Emil Kuushana is a mighty foe, worthy of our greatest respect!
+¡Mis peores miedos están confirmados! La mismísima Loba Carmesí nos esperaba a las puertas de Ferros. Tendremos que derrotar a su nave insignia, el Huntress, para llegar al puerto. ¡Prepárate - Emil Kuushana es una poderosa enemiga, digna de nuestro mayor respeto!
+#% Defeat the Huntress.
+Derrotar al Huntress.
 #% spr_ui_talkicon_qis
 spr_ui_talkicon_qis
-# Ferros
+#% Ferros
 Ferros
 #% roo_chap5_battle2
 roo_chap5_battle2
 #% 1
 1
-# SIDE: The Colosseum
-SIDE: The Colosseum
-# We had quite the battle, oniichama... Methinks you might have what it takes to make it big in this town. What say we hold a rematch in the Colosseum? Don't bother showing up until you've improved your skills though.
-We had quite the battle, oniichama... Methinks you might have what it takes to make it big in this town. What say we hold a rematch in the Colosseum? Don't bother showing up until you've improved your skills though.
-# Visit the Colosseum
-Visit the Colosseum
+#% SIDE: The Colosseum
+LATERAL: El Coliseo
+#% We had quite the battle, oniichama... Methinks you might have what it takes to make it big in this town. What say we hold a rematch in the Colosseum? Don't bother showing up until you've improved your skills though.
+Tuvimos una batalla feroz, oniichama... Creo que podrías tener lo que hace falta para hacer historia en este pueblo. ¿Qué te parece si tenemos un enfrentamiento en el Coliseo? Aun así te molestes en aparecerte hasta que hayas mejorado tus habilidades.
+#% Visit the Colosseum
+Visitar el Coliseo
 #% spr_ui_talkicon_jem
 spr_ui_talkicon_jem
-# Ferros
+#% Ferros
 Ferros
 #% roo_chap5_story_jem1
 roo_chap5_story_jem1
 #% 1
 1
-# SIDE: Lost History
-SIDE: Lost History
-# Crow Harbor is dead and my mission is complete. Yet, I feel no great relief, knowing that all I have fought for is now ancient history. I desire to return to my birthplace, Far Port, and investigate if any part of my life yet remains...
-Crow Harbor is dead and my mission is complete. Yet, I feel no great relief, knowing that all I have fought for is now ancient history. I desire to return to my birthplace, Far Port, and investigate if any part of my life yet remains...
-# Go to Far Port.
-Go to Far Port.
+#% SIDE: Lost History
+LATERAL: Historia Perdida
+#% Crow Harbor is dead and my mission is complete. Yet, I feel no great relief, knowing that all I have fought for is now ancient history. I desire to return to my birthplace, Far Port, and investigate if any part of my life yet remains...
+Crow Harbor está muerto y mi misión completada. Sin embargo, no siento un gran alivio, sabiendo que todo por lo que he luchado es ahora historia antigua. Deseo regresar a mi lugar de nacimiento, Far Port, e investigar si alguna parte de mi vida aún queda...
+#% Go to Far Port.
+Ir a Far Port.
 #% spr_ui_talkicon_sol
 spr_ui_talkicon_sol
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap5_story_sol2
 roo_chap5_story_sol2
 #% 1
 1
-# BATTLE: A Match With Destiny
-BATTLE: A Match With Destiny
-# My, how bold you have become, my dear captain. Let us tango here and find out who wears the pants in our relationship!
-My, how bold you have become, my dear captain. Let us tango here and find out who wears the pants in our relationship!
-# Sink all enemy ships.
-Sink all enemy ships.
+#% BATTLE: A Match With Destiny
+BATALLA: Un Encuentro Con El Destino
+#% My, how bold you have become, my dear captain. Let us tango here and find out who wears the pants in our relationship!
+Vaya, qué atrevido te has vuelto, mi querido capitán. ¡Bailemos tango y descubramos quién lleva los pantalones en nuestra relación!
+#% Sink all enemy ships.
+Hundir todas las naves enemigas.
 #% spr_ui_talkicon_cla
 spr_ui_talkicon_cla
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap5_battle4
 roo_chap5_battle4
 #% 1
 1
-# SIDE: Fox Call
-SIDE: Fox Call
-# Ever since the Battle of Far Port, I can sense another kitsune crying out for help nearby... We must investigate, captain!
-Ever since the Battle of Far Port, I can sense another kitsune crying out for help nearby... We must investigate, captain!
-# Go to Far Port.
-Go to Far Port.
+#% SIDE: Fox Call
+LATERAL: La Llamada de la Zorra
+#% Ever since the Battle of Far Port, I can sense another kitsune crying out for help nearby... We must investigate, captain!
+Desde la Batalla de Far Port, puedo sentir a otra kitsune llorando por ayuda cerca... ¡Debemos investigar, capitán!
+#% Go to Far Port.
+Ir a Far Port.
 #% spr_ui_talkicon_ch2
 spr_ui_talkicon_ch2
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap5_story_chi1
 roo_chap5_story_chi1
 #% 1
 1
-# SIDE: The River of the Dead
-SIDE: The River of the Dead
-# Diode might be deep within the Great Desert, but there's a shortcut we can take to go there - The River of the Dead. We can sail the ship through the spirit realm thanks to the holes in our reality caused by the two big mana explosions at Far Port and Diode. Ugh, you better watch out for vengeful spirits though...
-Diode might be deep within the Great Desert, but there's a shortcut we can take to go there - The River of the Dead. We can sail the ship through the spirit realm thanks to the holes in our reality caused by the two big mana explosions at Far Port and Diode. Ugh, you better watch out for vengeful spirits though...
-# Go to the Forgotten Abyss
-Go to the Forgotten Abyss
+#% SIDE: The River of the Dead
+LATERAL: El Río de los Muertos
+#% Diode might be deep within the Great Desert, but there's a shortcut we can take to go there - The River of the Dead. We can sail the ship through the spirit realm thanks to the holes in our reality caused by the two big mana explosions at Far Port and Diode. Ugh, you better watch out for vengeful spirits though...
+Diode podrá estar en lo profundo del Gran Desierto, pero hay un atajo que podemos tomar para ir allí - El Río de los Muertos. Podemos navegar con la nave a través del reino espiritual gracias a agujeros en nuestra realidad causados por las dos explosiones de maná en Far Port y Diode. Ugh, más te vale cuidarte de los espíritus vengativos...
+#% Go to the Forgotten Abyss
+Ir al Abismo Olvidado
 #% spr_ui_talkicon_lyn
 spr_ui_talkicon_lyn
-# ForgottenAbyss
+#% ForgottenAbyss
 ForgottenAbyss
 #% roo_chap5_story_chi2
 roo_chap5_story_chi2
 #% 1
 1
-# SIDE: Clear the Forgotten Abyss
-SIDE: Clear the Forgotten Abyss
-# Look, we can't get to Diode until we take care of the undead fleet lurking about at the Forgotten Abyss. So first, knock Crow Harbor out, then we can investigate Diode.
-Look, we can't get to Diode until we take care of the undead fleet lurking about at the Forgotten Abyss. So first, knock Crow Harbor out, then we can investigate Diode.
-# Defeat Crow Harbor at the Forgotten Abyss
-Defeat Crow Harbor at the Forgotten Abyss
+#% SIDE: Clear the Forgotten Abyss
+LATERAL: Limpiar el Abismo Olvidado
+#% Look, we can't get to Diode until we take care of the undead fleet lurking about at the Forgotten Abyss. So first, knock Crow Harbor out, then we can investigate Diode.
+Mira, no podemos llegar a Diode hasta que nos hayamos hecho cargo de la flota de no muertos que asecha en el Abismo Olvidado. Así que primero, derrota a Crow Harbor, y luego podremos investigar Diode.
+#% Defeat Crow Harbor at the Forgotten Abyss
+Derrotar a Crow Harbor en el Abismo Olvidado
 #% spr_ui_talkicon_lyn
 spr_ui_talkicon_lyn
-# ForgottenAbyss
+#% ForgottenAbyss
 ForgottenAbyss
 #% roo_chap5_battle3
 roo_chap5_battle3
-# 2
+#% 2
 2
-# BATTLE: Porkchops?!
-BATTLE: Porkchops?!
-# We entered the spirit realm, but it looks like Chigara's worries were right! The ghost of Cullen appeared to confront us and now we're surrounded by a fleet of angry spirits! Please take care of them, captain...
-We entered the spirit realm, but it looks like Chigara's worries were right! The ghost of Cullen appeared to confront us and now we're surrounded by a fleet of angry spirits! Please take care of them, captain...
-# Every ship in your fleet reaches the escape zone.
-Every ship in your fleet reaches the escape zone.
+#% BATTLE: Porkchops?!
+BATALLA: ¡¿Chuleta?!
+#% We entered the spirit realm, but it looks like Chigara's worries were right! The ghost of Cullen appeared to confront us and now we're surrounded by a fleet of angry spirits! Please take care of them, captain...
+¡Entramos al reino espiritual, pero parece que las preocupaciones de Chigara estaban en lo correcto! ¡El fantasma de Cullen apareció para confrontarnos y ahora estamos rodeados por una flota de espíritus furiosos! Por favor cuídese de ellos, capitán...
+#% Every ship in your fleet reaches the escape zone.
+Cada nave en tu flota alcanza la zona de escape.
 #% spr_ui_talkicon_ch2
 spr_ui_talkicon_ch2
-# ForgottenAbyss
+#% ForgottenAbyss
 ForgottenAbyss
 #% roo_chap5_battle5
 roo_chap5_battle5
 #% 1
 1
-# RPG BATTLE: The Healer From Beyond Asahi
-RPG BATTLE: The Healer From Beyond Asahi
-# So you think you have what it takes to become the champion, eh? I've got my doubts. Prove yourself by defeating Sister Foster and maybe I'll consider accepting your challenge.
-So you think you have what it takes to become the champion, eh? I've got my doubts. Prove yourself by defeating Sister Foster and maybe I'll consider accepting your challenge.
-# Defeat Sister Foster and her squad.
-Defeat Sister Foster and her squad.
+#% RPG BATTLE: The Healer From Beyond Asahi
+BATALLA RPG: La Curandera De Más Allá de Asahi
+#% So you think you have what it takes to become the champion, eh? I've got my doubts. Prove yourself by defeating Sister Foster and maybe I'll consider accepting your challenge.
+Conque crees que tienes lo que hace falta para convertirte en el campeón, ¿eh? Tengo mis dudas. Pruébate derrotando a la Hermana Foster y tal vez consideraré aceptar tu desafío.
+#% Defeat Sister Foster and her squad.
+Derrotar a la Hermana Foster y su escuadrón.
 #% spr_ui_talkicon_jem
 spr_ui_talkicon_jem
-# Ferros
+#% Ferros
 Ferros
 #% roo_chap5_story_jem1a
 roo_chap5_story_jem1a
 #% 1
 1
-# RPG BATTLE: The Star Seer
-RPG BATTLE: The Star Seer
-# Not bad, oniichama. But now you've got to face me, before you even have a shot of becoming the champion. I'm pretty tough, you know. Kukuku...
-Not bad, oniichama. But now you've got to face me, before you even have a shot of becoming the champion. I'm pretty tough, you know. Kukuku...
-# Defeat Jem'hyre and her squad.
-Defeat Jem'hyre and her squad.
+#% RPG BATTLE: The Star Seer
+BATALLA RPG: La Visionaria de Estrellas
+#% Not bad, oniichama. But now you've got to face me, before you even have a shot of becoming the champion. I'm pretty tough, you know. Kukuku...
+Nada mal, oniichama. Pero ahora tienes que enfrentarte a mí, antes de que tengas siquiera la oportunidad de volverte el campeón. Soy bastante fuerte, sabes. Kukuku...
+#% Defeat Jem'hyre and her squad.
+Derrotar a Jem'hyre y su escuadrón.
 #% spr_ui_talkicon_jem
 spr_ui_talkicon_jem
-# Ferros
+#% Ferros
 Ferros
 #% roo_chap5_storyjem4
 roo_chap5_storyjem4
 #% 1
 1
-# BATTLE: Championship
-BATTLE: Championship
-# It all comes down to this. Can you really defeat the Crimson Wolf and claim the title of the champion of the coliseum?
-It all comes down to this. Can you really defeat the Crimson Wolf and claim the title of the champion of the coliseum?
-# Defeat the enemy fleet.
-Defeat the enemy fleet.
+#% BATTLE: Championship
+BATALLA: Campeonato
+#% It all comes down to this. Can you really defeat the Crimson Wolf and claim the title of the champion of the coliseum?
+Todo se resuelve a esto. ¿Podrás realmente derrotar a la Loba Carmesí y reclamar el título de el campeón del coliseo?
+#% Defeat the enemy fleet.
+Derrotar a la flota enemiga.
 #% spr_ui_talkicon_jem
 spr_ui_talkicon_jem
-# Ferros
+#% Ferros
 Ferros
 #% roo_chap5_battle7
 roo_chap5_battle7
@@ -717,7 +717,7 @@ BATALLA RPG: Guardias del Pacto
 #% We managed to infiltrate the Light Tower of Versta with Icari. Now, we just have to take care of the guards...
 Logramos infiltrarnos en el Faro de Versta con Icari. Ahora, solo tenemos que encargarnos de los guardias...
 #% Defeat the Pact soldiers.
-Derrota a los soldados del Pacto.
+Derrotar a los soldados del Pacto.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Versta
@@ -730,11 +730,11 @@ roo_chap2_rpgbattle1
 BATALLA RPG: No Muertos de la Flota Perdida
 #% While exploring the ruined remains of the Sharr'Lac, we found a girl who was trapped in magicite. Claude attempted to undo the crystal, but somehow awakened the undead instead. Thanks to that misfire, we now find ourselves facing a zombie hoard...
 Mientras explorábamos los restos arruinados del Sharr'Lac, encontramos a una chica que estaba atrapada en magicita. Claude intentó deshacer el cristal, pero en su lugar de alguna forma despertó a los no muertos. Debido a ese fallo, ahora nos encontramos enfrentándonos a una horda de zombis...
-# Defeat all undead.
-Defeat all undead.
+#% Defeat all undead.
+Derrotar a todos los no muertos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# ForgottenAbyss
+#% ForgottenAbyss
 ForgottenAbyss
 #% roo_chap3_rpgbattle1
 roo_chap3_rpgbattle1
@@ -745,7 +745,7 @@ BATALLA RPG: Ninja Intrusa
 #% We narrowly escaped Sargasso, but then only found ourselves attacked by Pact agents. Now we must defeat them before they slit our throats...
 Escapamos a duras penas de Sargasso, pero luego fuimos atacados por agentes del Pacto. Ahora debemos derrotarlos antes de que nos corten la garganta...
 #% Defeat all Pact soldiers.
-Derrota a todos los soldados del Pacto.
+Derrotar a todos los soldados del Pacto.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Sargasso
@@ -759,7 +759,7 @@ BATALLA RPG: Arcadius en la Boda
 #% Could the war be decided here? Taking the Veniczar out at his own wedding might seem somewhat unscrupulous, but would bring the war to a quick and unexpected end. He certainly does deserve it, after everything he's done.
 ¿Pudiera decidirse aquí la guerra? Acabar con el Veniczar en su propia boda podría parecer algo inescrupuloso, pero llevaría la guerra a un rápido e inesperado fin. Él ciertamente se lo merece, después de todo lo que ha hecho.
 #% Defeat Veniczar Arcadius and his soldiers.
-Derrota a Veniczar Arcadius y sus soldados.
+Derrotar a Veniczar Arcadius y sus soldados.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
 #% Ryuvia
@@ -768,561 +768,561 @@ Ryuvia
 roo_chap4_rpgbattle1a
 #% 1
 1
-# RPG BATTLE: Specimen Omega
-RPG BATTLE: Specimen Omega
-# This is truly a scene from a nightmare! Deep within the ruins of Diode, we discovered that the magisters were conducting dark magical experiments on kidnapped Demonfolk. Now we are face-to-face with one of their twisted creations!
-This is truly a scene from a nightmare! Deep within the ruins of Diode, we discovered that the magisters were conducting dark magical experiments on kidnapped Demonfolk. Now we are face-to-face with one of their twisted creations!
-# Defeat Omega and her soldiers.
-Defeat Omega and her soldiers.
+#% RPG BATTLE: Specimen Omega
+BATALLA RPG: Espécimen Omega
+#% This is truly a scene from a nightmare! Deep within the ruins of Diode, we discovered that the magisters were conducting dark magical experiments on kidnapped Demonfolk. Now we are face-to-face with one of their twisted creations!
+¡Esta es verdaderamente una escena de una pesadilla! En lo profundo de las ruinas de Diode, descubrimos que los magisterios estaban haciendo experimentos de magia negra a Demonios secuestrados. ¡Ahora estamos cara a cara con una de sus retorcidas creaciones! 
+#% Defeat Omega and her soldiers.
+Derrotar a Omega y sus soldados.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# ForgottenAbyss
+#% ForgottenAbyss
 ForgottenAbyss
 #% roo_chap5_rpgbattle1
 roo_chap5_rpgbattle1
 #% 1
 1
-# MAIN: The Blessing
-MAIN: The Blessing
-# The Admiral and the High Elves are insistent that Asaga perform a pilgrimage up Mount Destiny to receive a Blessing from the Monolith of Truth itself. Just what is this Blessing and what bearing does it have on the Final Tear?
-The Admiral and the High Elves are insistent that Asaga perform a pilgrimage up Mount Destiny to receive a Blessing from the Monolith of Truth itself. Just what is this Blessing and what bearing does it have on the Final Tear?
-# Go to Ongess.
-Go to Ongess.
+#% MAIN: The Blessing
+PRINCIPAL: La Bendición
+#% The Admiral and the High Elves are insistent that Asaga perform a pilgrimage up Mount Destiny to receive a Blessing from the Monolith of Truth itself. Just what is this Blessing and what bearing does it have on the Final Tear?
+El Almirante y los Altos Elfos están insistentes en que Asaga realice el peregrinaje al Monte Destiny para recibir una Bendición del mismísimo Monolito de la Verdad. ¿Simplemente qué es esta Bendición y qué relación tiene con la Final Tear?
+#% Go to Ongess.
+Ir a Ongess.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ongess
+#% Ongess
 Ongess
 #% roo_chap6_story1
 roo_chap6_story1
 #% 1
 1
-# BATTLE: Pirates in the Holy Land A
-BATTLE: Pirates in the Holy Land A
-# Just when we thought we were safe in the Holy Land, we were interdicted by dastardly pirates lead by Cosette Cosmos. I guess we'll just have to teach her another lesson.
-Just when we thought we were safe in the Holy Land, we were interdicted by dastardly pirates lead by Cosette Cosmos. I guess we'll just have to teach her another lesson.
-# Sink all enemies.
-Sink all enemies.
+#% BATTLE: Pirates in the Holy Land A
+BATALLA: Piratas en la Tierra Santa A
+#% Just when we thought we were safe in the Holy Land, we were interdicted by dastardly pirates lead by Cosette Cosmos. I guess we'll just have to teach her another lesson.
+Justo cuando pensábamos que estábamos a salvo en la Tierra Santa, fuimos interceptados por cobardes piratas liderados por Cosette Cosmos. Supongo que tendremos que enseñarle otra lección.
+#% Sink all enemies.
+Hundir a todos los enemigos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ongess
+#% Ongess
 Ongess
 #% roo_chap6_battle1a
 roo_chap6_battle1a
 #% 1
 1
-# BATTLE: Pirates in the Holy Land B
-BATTLE: Pirates in the Holy Land B
-# Cosette just doesn't die, even when she's killed. Despite being blown up at Sargasso, she somehow miraculously survived and now seeks to thwart Asaga's Blessing. Will we finally be able to end her once and for all?
-Cosette just doesn't die, even when she's killed. Despite being blown up at Sargasso, she somehow miraculously survived and now seeks to thwart Asaga's Blessing. Will we finally be able to end her once and for all?
-# Sink all enemies.
-Sink all enemies.
+#% BATTLE: Pirates in the Holy Land B
+BATALLA: Piratas en la Tierra Santa B
+#% Cosette just doesn't die, even when she's killed. Despite being blown up at Sargasso, she somehow miraculously survived and now seeks to thwart Asaga's Blessing. Will we finally be able to end her once and for all?
+Cosette simplemente no se muere, incluso cuando fue asesinada. A pesar de haber explotado en Sargasso, de alguna forma sobrevivió milagrosamente y ahora busca frustrar la Bendición de Asaga. ¿Finalmente seremos capaces de acabar con ella de una vez por todas?
+#% Sink all enemies.
+Hundir a todos los enemigos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ongess
+#% Ongess
 Ongess
 #% roo_chap6_battle1b
 roo_chap6_battle1b
 #% 1
 1
-# BATTLE: Pirates in the Holy Land C
-BATTLE: Pirates in the Holy Land C
-# Well, it seems I might have goofed. To nobody's surprise, Cosette has backstabbed us by stealing the Song Alliance's ships. Now I find myself surrounded by both pirates and angry allies. I better fix this before it's too late.
-Well, it seems I might have goofed. To nobody's surprise, Cosette has backstabbed us by stealing the Song Alliance's ships. Now I find myself surrounded by both pirates and angry allies. I better fix this before it's too late.
-# Recover all of the stolen Song ships and sink the pirate fleet.
-Recover all of the stolen Song ships and sink the pirate fleet.
+#% BATTLE: Pirates in the Holy Land C
+BATALLA: Piratas en la Tierra Santa C
+#% Well, it seems I might have goofed. To nobody's surprise, Cosette has backstabbed us by stealing the Song Alliance's ships. Now I find myself surrounded by both pirates and angry allies. I better fix this before it's too late.
+Bueno, parece que podría haber sido engañado. Para sorpresa de nadie, Cosette nos ha traicionado al robarse las naves de la Alianza Song. Ahora me hallo rodeado tanto por piratas como por aliados furiosos. Mejor arreglo esto antes de que sea demasiado tarde.
+#% Recover all of the stolen Song ships and sink the pirate fleet.
+Recuperar todas las naves de Song perdidas y hundir la flota pirata.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ongess
+#% Ongess
 Ongess
 #% roo_chap6_battle1b
 roo_chap6_battle1b
 #% 1
 1
-# BATTLE: Ambush at Ongess
-BATTLE: Ambush at Ongess
-# Right when Asaga was about to receive the Blessing, we were ambushed by a fleet of Pact ships. Just how did they breach the blockade at Far Port to get here?
-Right when Asaga was about to receive the Blessing, we were ambushed by a fleet of Pact ships. Just how did they breach the blockade at Far Port to get here?
-# Sink all enemies.
-Sink all enemies.
+#% BATTLE: Ambush at Ongess
+BATALLA: Emboscada en Ongess
+#% Right when Asaga was about to receive the Blessing, we were ambushed by a fleet of Pact ships. Just how did they breach the blockade at Far Port to get here?
+Justo cuando Asaga estaba a punto de recibir la Bendición, fuimos emboscados por una flota de naves del Pacto. ¿Simplemente cómo atravesaron el bloqueo en Far Port para llegar hasta aquí?
+#% Sink all enemies.
+Hundir a todos los enemigos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ongess
+#% Ongess
 Ongess
 #% roo_chap6_battle2
 roo_chap6_battle2
 #% 1
 1
-# MAIN: Return to Ryuvia
-MAIN: Return to Ryuvia
-# There is no other option. We must chase Fontana and Cosette to Ryuvia and recover the Monolith of Truth no matter the cost. We sail with the Emerald Fleet to retake the city...
-There is no other option. We must chase Fontana and Cosette to Ryuvia and recover the Monolith of Truth no matter the cost. We sail with the Emerald Fleet to retake the city...
-# Go to Ryuvia.
-Go to Ryuvia.
+#% MAIN: Return to Ryuvia
+PRINCIPAL: Regreso a Ryuvia
+#% There is no other option. We must chase Fontana and Cosette to Ryuvia and recover the Monolith of Truth no matter the cost. We sail with the Emerald Fleet to retake the city...
+No hay otra opción. Debemos perseguir a Fontana y a Cosette a Ryuvia y recuperar el Monolito de la Verdad a toda costa. Navegaremos con la Flota Esmeralda para retomar la ciudad...
+#% Go to Ryuvia.
+Ir a Ryuvia.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap7_story1
 roo_chap7_story1
 #% 1
 1
-# MAIN: Return to Far Port
-MAIN: Return to Far Port
-# Refusing to take Fontana's bait, we decided to part ways with the Emerald Fleet to shore up the blockade at Far Port. Now, we must return to the site of that great battle before our victory is undone by Fontana's trap.
-Refusing to take Fontana's bait, we decided to part ways with the Emerald Fleet to shore up the blockade at Far Port. Now, we must return to the site of that great battle before our victory is undone by Fontana's trap.
-# Go to Far Port.
-Go to Far Port.
+#% MAIN: Return to Far Port
+PRINCIPAL: Regreso a Far Port
+#% Refusing to take Fontana's bait, we decided to part ways with the Emerald Fleet to shore up the blockade at Far Port. Now, we must return to the site of that great battle before our victory is undone by Fontana's trap.
+Negándonos a caer en la trampa de Fontana, decidimos separarnos de la Flota Esmeralda para reforzar el bloqueo en Far Port. Ahora, debemos regresar al sitio de aquella gran batalla antes de que nuestra victoria sea anulada por la trampa de Fontana.
+#% Go to Far Port.
+Ir a Far Port.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap7_story1
 roo_chap7_story1
 #% 1
 1
-# BATTLE: Pirates in the Storm A
-BATTLE: Pirates in the Storm A
-# While caught in a storm on route to our destination, we were beset upon by pirate ships lead by Cosette Cosmos. Will this be where we settle our feud once and for all? Cosette... We could have been allies...
-While caught in a storm on route to our destination, we were beset upon by pirate ships lead by Cosette Cosmos. Will this be where we settle our feud once and for all? Cosette... We could have been allies...
-# Sink all enemies.
-Sink all enemies.
+#% BATTLE: Pirates in the Storm A
+BATALLA: Piratas en la Tormenta A
+#% While caught in a storm on route to our destination, we were beset upon by pirate ships lead by Cosette Cosmos. Will this be where we settle our feud once and for all? Cosette... We could have been allies...
+Mientras estábamos atrapados en una tormenta en ruta a nuestro destino, fuimos interceptados por naves piratas lideradas por Cosette Cosmos. ¿Será aquí donde resolvamos nuestra disputa de una vez por todas? Cosette... Pudimos haber sido aliados..
+#% Sink all enemies.
+Hundir a todos los enemigos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap7_battle1
 roo_chap7_battle1
 #% 1
 1
-# BATTLE: Pirates in the Storm B
-BATTLE: Pirates in the Storm B
-# While caught in a storm on route to our destination, we were beset upon by pirate ships lead by Cosette Cosmos. Will this be where we settle our feud once and for all? Cosette... We could have been allies...
-While caught in a storm on route to our destination, we were beset upon by pirate ships lead by Cosette Cosmos. Will this be where we settle our feud once and for all? Cosette... We could have been allies...
-# Sink all enemies.
-Sink all enemies.
+#% BATTLE: Pirates in the Storm B
+BATALLA: Piratas en la Tormenta B
+#% While caught in a storm on route to our destination, we were beset upon by pirate ships lead by Cosette Cosmos. Will this be where we settle our feud once and for all? Cosette... We could have been allies...
+Mientras estábamos atrapados en una tormenta en ruta a nuestro destino, fuimos interceptados por naves piratas lideradas por Cosette Cosmos. ¿Será aquí donde resolvamos nuestra disputa de una vez por todas? Cosette... Pudimos haber sido aliados..
+#% Sink all enemies.
+Hundir a todos los enemigos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap7_battle1
 roo_chap7_battle1
 #% 1
 1
-# BATTLE: The Madness of Petite Cosette A
-BATTLE: The Madness of Petite Cosette A
-# The worst has come to pass. Cosette has unleashed the power of the Dreadstone, turning herself and the remnants of her pirate fleet into undead. There is no other choice: We must cull the sea of these abominations.
-The worst has come to pass. Cosette has unleashed the power of the Dreadstone, turning herself and the remnants of her pirate fleet into undead. There is no other choice: We must cull the sea of these abominations.
-# Capture the Havoc to disrupt Cosette's powers then sink all enemies.
-Capture the Havoc to disrupt Cosette's powers then sink all enemies.
+#% BATTLE: The Madness of Petite Cosette A
+BATALLA: La Locura de la Pequeña Cosette A
+#% The worst has come to pass. Cosette has unleashed the power of the Dreadstone, turning herself and the remnants of her pirate fleet into undead. There is no other choice: We must cull the sea of these abominations.
+Lo peor ha sucedido. Cosette ha desatado el poder de la Dreadstone, convirtiéndose a sí misma y los que quedaban de su flota pirata en no muertos. No hay otra opción: Debemos liberar al mar de estas abominaciones.
+#% Capture the Havoc to disrupt Cosette's powers then sink all enemies.
+Capturar al Havoc para interrumpir los poderes de Cosette y luego hundir a todos los enemigos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap7_battle2
 roo_chap7_battle2
 #% 1
 1
-# BATTLE: The Madness of Petite Cosette B
-BATTLE: The Madness of Petite Cosette B
-# The worst has come to pass. Cosette has unleashed the power of the Dreadstone, turning herself and the remnants of her pirate fleet into undead. There is no other choice: We must cull the sea of these abominations.
-The worst has come to pass. Cosette has unleashed the power of the Dreadstone, turning herself and the remnants of her pirate fleet into undead. There is no other choice: We must cull the sea of these abominations.
-# Capture the Havoc to disrupt Cosette's powers then sink all enemies.
-Capture the Havoc to disrupt Cosette's powers then sink all enemies.
+#% BATTLE: The Madness of Petite Cosette B
+BATALLA: La Locura de la Pequeña Cosette B
+#% The worst has come to pass. Cosette has unleashed the power of the Dreadstone, turning herself and the remnants of her pirate fleet into undead. There is no other choice: We must cull the sea of these abominations.
+Lo peor ha sucedido. Cosette ha desatado el poder de la Dreadstone, convirtiéndose a sí misma y los que quedaban de su flota pirata en no muertos. No hay otra opción: Debemos liberar al mar de estas abominaciones.
+#% Capture the Havoc to disrupt Cosette's powers then sink all enemies.
+Capturar al Havoc para interrumpir los poderes de Cosette y luego hundir a todos los enemigos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap7_battle2
 roo_chap7_battle2
 #% 1
 1
-# BATTLE: Her Destiny A
-BATTLE: Her Destiny A
-# The impossible must be done: God herself must be defeated if Cosette's life is to be saved. Perhaps the quest is impossible...
-The impossible must be done: God herself must be defeated if Cosette's life is to be saved. Perhaps the quest is impossible...
-# Rewrite her fate.
-Rewrite her fate.
+#% BATTLE: Her Destiny A
+BATALLA: Su Destino A
+#% The impossible must be done: God herself must be defeated if Cosette's life is to be saved. Perhaps the quest is impossible...
+Se debe hacer lo imposible: Dios en persona debe de ser derrotada si se pretende salvar la vida de Cosette. Quizá la misión sea imposible...
+#% Rewrite her fate.
+Reescribir su destino.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap7_battle3
 roo_chap7_battle3
 #% 1
 1
-# BATTLE: Her Destiny B
-BATTLE: Her Destiny B
-# The impossible must be done: God herself must be defeated if Cosette's life is to be saved. Perhaps the quest is impossible...
-The impossible must be done: God herself must be defeated if Cosette's life is to be saved. Perhaps the quest is impossible...
-# Rewrite her fate.
-Rewrite her fate.
+#% BATTLE: Her Destiny B
+BATALLA: Su Destino B
+#% The impossible must be done: God herself must be defeated if Cosette's life is to be saved. Perhaps the quest is impossible...
+Se debe hacer lo imposible: Dios en persona debe de ser derrotada si se pretende salvar la vida de Cosette. Quizá la misión sea imposible...
+#% Rewrite her fate.
+Reescribir su destino.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap7_battle3
 roo_chap7_battle3
 #% 1
 1
-# MAIN: The Liberation of Ryuvia
-MAIN: The Liberation of Ryuvia
-# This is it. All that stands between us and the liberation of Ryuvia is a fleet of captured Ryuvian ships and a fort.
-This is it. All that stands between us and the liberation of Ryuvia is a fleet of captured Ryuvian ships and a fort.
-# Go to Ryuvia and liberate it.
-Go to Ryuvia and liberate it.
+#% MAIN: The Liberation of Ryuvia
+PRINCIPAL: La Liberación de Ryuvia
+#% This is it. All that stands between us and the liberation of Ryuvia is a fleet of captured Ryuvian ships and a fort.
+Este es el final. Todo lo que hay entre nosotros y la liberación de Ryuvia es una flota de naves Ryuvianas capturadas y un fuerte.
+#% Go to Ryuvia and liberate it.
+Ir a Ryuvia y liberarla.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap7_story3
 roo_chap7_story3
 #% 1
 1
-# BATTLE: The Liberation of Ryuvia
-BATTLE: The Liberation of Ryuvia
-# This is it. All that stands between us and the liberation of Ryuvia is a fleet of captured Ryuvian ships and a fort.
-This is it. All that stands between us and the liberation of Ryuvia is a fleet of captured Ryuvian ships and a fort.
-# Defeat all enemies.
-Defeat all enemies.
+#% BATTLE: The Liberation of Ryuvia
+BATALLA: La Liberación de Ryuvia
+#% This is it. All that stands between us and the liberation of Ryuvia is a fleet of captured Ryuvian ships and a fort.
+Este es el final. Todo lo que hay entre nosotros y la liberación de Ryuvia es una flota de naves Ryuvianas capturadas y un fuerte.
+#% Defeat all enemies.
+Derrotar a todos los enemigos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap7_battle4
 roo_chap7_battle4
 #% 1
 1
-# BATTLE: The Mask of Arcadius
-BATTLE: The Mask of Arcadius
-# Though we got past Ryuvia's defenses, Veniczar Arcadius (several of them) appeared to stop us. It's time to discover the truth behind that mask...
-Though we got past Ryuvia's defenses, Veniczar Arcadius (several of them) appeared to stop us. It's time to discover the truth behind that mask...
-# Defeat Veniczar Arcadius. All of them.
-Defeat Veniczar Arcadius. All of them.
+#% BATTLE: The Mask of Arcadius
+BATALLA: La Máscara de Arcadius
+#% Though we got past Ryuvia's defenses, Veniczar Arcadius (several of them) appeared to stop us. It's time to discover the truth behind that mask...
+Aunque logramos atravesar las defensas de Ryuvia, Veniczar Arcadius (montones de ellos) apareció para detenernos. Es hora de descubrir la verdad detrás de esa máscara...
+#% Defeat Veniczar Arcadius. All of them.
+Derrotar a Veniczar Arcadius. A todos ellos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap7_battle5
 roo_chap7_battle5
 #% 1
 1
-# RPG BATTLE: Betrayal
-RPG BATTLE: Betrayal
-# An unthinkable tragedy has befallen us. Just as Asaga was on the cusp of ascending to the throne, the masked homunculi attacked and struck down Admiral Grey before our eyes. We must defeat them at all costs - yet, why does one of them seem familiar?
-An unthinkable tragedy has befallen us. Just as Asaga was on the cusp of ascending to the throne, the masked homunculi attacked and struck down Admiral Grey before our eyes. We must defeat them at all costs - yet, why does one of them seem familiar?
-# Defeat the strange homunculus.
-Defeat the strange homunculus.
+#% RPG BATTLE: Betrayal
+BATALLA RPG: Traición
+#% An unthinkable tragedy has befallen us. Just as Asaga was on the cusp of ascending to the throne, the masked homunculi attacked and struck down Admiral Grey before our eyes. We must defeat them at all costs - yet, why does one of them seem familiar?
+Una tragedia impensable ha sucedido ante nosotros. Justo cuando Asaga estaba a punto de ascender al trono, el homúnculo enmascarado atacó y abatió al Almirante Grey ante nuestros ojos. Debemos derrotarlos a toda costa - sin embargo, ¿por qué uno de ellos parece familiar?
+#% Defeat the strange homunculus.
+Derrotar al homúnculo extraño.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap8_rpgbattle1
 roo_chap8_rpgbattle1
 #% 1
 1
-# BATTLE: The Bitter Conclusion
-BATTLE: The Bitter Conclusion
-# We have been betrayed and all hope seems lost. Can we survive this hopeless situation?
-We have been betrayed and all hope seems lost. Can we survive this hopeless situation?
-# Survive for as long as possible.
-Survive for as long as possible.
+#% BATTLE: The Bitter Conclusion
+BATALLA: La Amarga Conclusión
+#% We have been betrayed and all hope seems lost. Can we survive this hopeless situation?
+Hemos sido traicionados y toda esperanza parece perdida. ¿Podremos sobrevivir a esta situación sin esperanza?
+#% Survive for as long as possible.
+Sobrevivir todo lo posible.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap8_battle1
 roo_chap8_battle1
 #% 1
 1
-# MAIN: The Battle of Volaris
-MAIN: The Battle of Volaris
-# The Crimson Fleet has broken past Far Port and blockaded Volaris itself! We must thwart Fontana's plans if we are to win this war.
-The Crimson Fleet has broken past Far Port and blockaded Volaris itself! We must thwart Fontana's plans if we are to win this war.
-# Go to Volaris.
-Go to Volaris.
+#% MAIN: The Battle of Volaris
+PRINCIPAL: La Batalla de Volaris
+#% The Crimson Fleet has broken past Far Port and blockaded Volaris itself! We must thwart Fontana's plans if we are to win this war.
+¡La Flota Carmesí ha atravesado Far Port y se ha encerrado dentro de la misma Volaris! Debemos frustrar los planes de Fontana si pretendemos ganar esta guerra.
+#% Go to Volaris.
+Ir a Volaris.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Volaris
+#% Volaris
 Volaris
 #% roo_chap8_story4
 roo_chap8_story4
 #% 1
 1
-# BATTLE: The Battle of Volaris
-BATTLE: The Battle of Volaris
-# The Crimson Fleet has broken past Far Port and blockaded Volaris itself! We must thwart Fontana's plans if we are to win this war.
-The Crimson Fleet has broken past Far Port and blockaded Volaris itself! We must thwart Fontana's plans if we are to win this war.
-# Defeat the Pact Fleet.
-Defeat the Pact Fleet.
+#% BATTLE: The Battle of Volaris
+BATALLA: La Batalla de Volaris
+#% The Crimson Fleet has broken past Far Port and blockaded Volaris itself! We must thwart Fontana's plans if we are to win this war.
+¡La Flota Carmesí ha atravesado Far Port y se ha encerrado dentro de la misma Volaris! Debemos frustrar los planes de Fontana si pretendemos ganar esta guerra.
+#% Defeat the Pact Fleet.
+Derrotar a la Flota del Pacto.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Volaris
+#% Volaris
 Volaris
 #% roo_chap8_battle3
 roo_chap8_battle3
 #% 1
 1
-# BATTLE: The Witch of Asahi
-BATTLE: The Witch of Asahi
-# This is it... The Witch of Asahi has launched a full scale assault upon the Holy Land of Ongess. We must somehow force her to cast the Final Tear. Only then can we save Asaga from her grim destiny.
-This is it... The Witch of Asahi has launched a full scale assault upon the Holy Land of Ongess. We must somehow force her to cast the Final Tear. Only then can we save Asaga from her grim destiny.
-# Defeat Alice Ashada.
-Defeat Alice Ashada.
+#% BATTLE: The Witch of Asahi
+BATALLA: La Bruja de Asahi
+#% This is it... The Witch of Asahi has launched a full scale assault upon the Holy Land of Ongess. We must somehow force her to cast the Final Tear. Only then can we save Asaga from her grim destiny.
+Este es el final. La Bruja de Asahi ha lanzado un asalto a gran escala sobre la Tierra Santa de Ongess. Debemos obligarla de alguna manera a lanzar la Final Tear. Solo entonces podremos salvar a Asaga de su siniestro destino.
+#% Defeat Alice Ashada.
+Derrotar a Alice Ashada.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ongess
+#% Ongess
 Ongess
 #% roo_chap8_battle4
 roo_chap8_battle4
 #% 1
 1
-# BATTLE: Ambush at Ryuvia
-BATTLE: Ambush at Ryuvia
-# Before we could even catch our breath after the Admiral's betrayal, we were ambushed by the Crimson Fleet. It is clear now that the theft of the Monolith was nothing but a distraction to lure us away from Far Port. Despite the Admiral's betrayal, we've got to deal with Pact first.
-Before we could even catch our breath after the Admiral's betrayal, we were ambushed by the Crimson Fleet. It is clear now that the theft of the Monolith was nothing but a distraction to lure us away from Far Port. Despite the Admiral's betrayal, we've got to deal with Pact first.
-# Defeat the Pact Fleet.
-Defeat the Pact Fleet.
+#% BATTLE: Ambush at Ryuvia
+BATALLA: Emboscada en Ryuvia
+#% Before we could even catch our breath after the Admiral's betrayal, we were ambushed by the Crimson Fleet. It is clear now that the theft of the Monolith was nothing but a distraction to lure us away from Far Port. Despite the Admiral's betrayal, we've got to deal with Pact first.
+Antes de que pudiéramos siquiera recuperar nuestro aliento luego de la traición del Almirante, fuimos emboscados por la Flota Carmesí. Está claro ahora que el robo del Monolito no fue más que una distracción para alejarnos de Far Port. A pesar de la traición del Almirante, tenemos que encargarnos del Pacto primero.
+#% Defeat the Pact Fleet.
+Derrotar a la Flota del Pacto.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap8_battle2
 roo_chap8_battle2
 #% 1
 1
-# RPG BATTLE: The Monolithic Truth
-RPG BATTLE: The Monolithic Truth
-# Asaga's coronation revealed a horrific truth: The High Elves were mortal all along and need to ritualistically sacrifice Asaga, or else they will all turn to Orks. Admiral Grey has ordered his guards to detain us. We have no other choice than to fight our way out!
-Asaga's coronation revealed a horrific truth: The High Elves were mortal all along and need to ritualistically sacrifice Asaga, or else they will all turn to Orks. Admiral Grey has ordered his guards to detain us. We have no other choice than to fight our way out!
-# Defeat the High Elves.
-Defeat the High Elves.
+#% RPG BATTLE: The Monolithic Truth
+BATALLA RPG: La Verdad Monolítica
+#% Asaga's coronation revealed a horrific truth: The High Elves were mortal all along and need to ritualistically sacrifice Asaga, or else they will all turn to Orks. Admiral Grey has ordered his guards to detain us. We have no other choice than to fight our way out!
+La coronación de Asaga reveló una verdad horrenda: Los Altos Elfos fueron mortales todo el tiempo y necesitaban sacrificar ritualmente a Asaga, o de lo contrario todos se convertirían en Orkos. El Almirante Grey les ha ordenado a sus guardias detenernos. ¡No tenemos más opción que salir luchando!
+#% Defeat the High Elves.
+Derrotar a los Altos Elfos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap8_rpgbattle2
 roo_chap8_rpgbattle2
 #% 1
 1
-# RPG BATTLE: Inside the Volcano
-RPG BATTLE: Inside the Volcano
-# This is our final battle: Defeat the Witch of Asahi once and for all!
-This is our final battle: Defeat the Witch of Asahi once and for all!
-# Defeat Alice.
-Defeat Alice.
+#% RPG BATTLE: Inside the Volcano
+BATALLA RPG: Dentro del Volcán
+#% This is our final battle: Defeat the Witch of Asahi once and for all!
+Esta es nuestra batalla final: ¡Derrotemos a la Bruja de Asahi de una vez por todas!
+#% Defeat Alice.
+Derrotar a Alice.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ongess
+#% Ongess
 Ongess
 #% roo_chap8_rpgbattle3
 roo_chap8_rpgbattle3
 #% 1
 1
-# RAID: Pact and Pirate Fleets off Sargasso
-RAID: Pact and Pirate Fleets off Sargasso
-# Pact ships now frequent Sargasso to hire pirate mercenaries. We should ambush them here.
-Pact ships now frequent Sargasso to hire pirate mercenaries. We should ambush them here.
-# Sink the Pirate and Pact Fleets off Sargasso.
-Sink the Pirate and Pact Fleets off Sargasso.
+#% RAID: Pact and Pirate Fleets off Sargasso
+ASALTO: Fuera de Sargasso Flotas del Pacto y Pirata
+#% Pact ships now frequent Sargasso to hire pirate mercenaries. We should ambush them here.
+Las naves del Pacto ahora frecuentan Sargasso para contratar mercenarios pirata. Deberíamos emboscarlos aquí.
+#% Sink the Pirate and Pact Fleets off Sargasso.
+Hundir las Flotas Pirata y del Pacto en Sargasso.
 #% spr_ui_talkicon_ava
 spr_ui_talkicon_ava
-# Sargasso
+#% Sargasso
 Sargasso
 #% roo_chap6_raidbattle1
 roo_chap6_raidbattle1
-# 2
+#% 2
 2
-# BATTLE: The Holy Sister's Sins A
-BATTLE: The Holy Sister's Sins A
-# Though we have escaped from the dungeon, I fear the pirates who are holding me captive seek to steal your ship. We must go to the docks before it is too late.
-Though we have escaped from the dungeon, I fear the pirates who are holding me captive seek to steal your ship. We must go to the docks before it is too late.
-# Sink the pirate fleet.
-Sink the pirate fleet.
+#% BATTLE: The Holy Sister's Sins A
+BATALLA: Los Pecados de la Santa Hermana A
+#% Though we have escaped from the dungeon, I fear the pirates who are holding me captive seek to steal your ship. We must go to the docks before it is too late.
+Aunque hemos escapado de la mazmorra, temo que los piratas que me tienen prisionera quieran robar su nave. Debemos ir a los muelles antes de que sea demasiado tarde.
+#% Sink the pirate fleet.
+Hundir la flota pirata.
 #% spr_ui_talkicon_mii
 spr_ui_talkicon_mii
-# Ferros
+#% Ferros
 Ferros
 #% roo_chap5_battle6a
 roo_chap5_battle6a
-# 2
+#% 2
 2
-# BATTLE: The Holy Sister's Sins B
-BATTLE: The Holy Sister's Sins B
-# Though I may be a holy woman, I have no other choice but to obey my pirate captors if I am to ever return home. Your ship must be captured. May the Holy Father forgive me...
-Though I may be a holy woman, I have no other choice but to obey my pirate captors if I am to ever return home. Your ship must be captured. May the Holy Father forgive me...
-# Sink the pirate fleet. Optional: Capture Sister Foster.
-Sink the pirate fleet. Optional: Capture Sister Foster.
+#% BATTLE: The Holy Sister's Sins B
+BATALLA: Los Pecados de la Santa Hermana B
+#% Though I may be a holy woman, I have no other choice but to obey my pirate captors if I am to ever return home. Your ship must be captured. May the Holy Father forgive me...
+Si bien soy una mujer sagrada, no tengo otra alternativa mas que obedecer a los piratas que me tienen prisionera si pretendo regresar alguna vez a mi hogar. Su nave debe ser capturada. Que el Santo Padre me perdone...
+#% Sink the pirate fleet. Optional: Capture Sister Foster.
+Hundir la flota pirata. Opcional: Capturar a la Hermana Foster.
 #% spr_ui_talkicon_mii
 spr_ui_talkicon_mii
-# Ferros
+#% Ferros
 Ferros
 #% roo_chap5_battle6b
 roo_chap5_battle6b
-# 2
+#% 2
 2
-# MAIN: Dissension
-MAIN: Dissension
-# We called Fontana's bluff and returned to Far Port in anticipation of a Pact surprise attack. I really hope this gambit pays off, as we have had to separate with the Emerald Fleet to get here.
-We called Fontana's bluff and returned to Far Port in anticipation of a Pact surprise attack. I really hope this gambit pays off, as we have had to separate with the Emerald Fleet to get here.
-# Go to Far Port.
-Go to Far Port.
+#% MAIN: Dissension
+PRINCIPAL: Desacuerdo
+#% We called Fontana's bluff and returned to Far Port in anticipation of a Pact surprise attack. I really hope this gambit pays off, as we have had to separate with the Emerald Fleet to get here.
+Ignoramos el farol de Fontana y regresamos a Far Port anticipando un ataque sorpresa del Pacto. Realmente espero que esta apuesta dé resultado, ya que hemos tenido que separarnos de la Flota Esmeralda para llegar aquí.
+#% Go to Far Port.
+Ir a Far Port.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap7_story9
 roo_chap7_story9
 #% 1
 1
-# BATTLE: Dissension
-BATTLE: Dissension
-# When we arrived at Far Port, we found the remnants of the Emerald Fleet sailing alongside Pact ships. Could Pact have captured the fleet while we were gone? We must investigate.
-When we arrived at Far Port, we found the remnants of the Emerald Fleet sailing alongside Pact ships. Could Pact have captured the fleet while we were gone? We must investigate.
-# Sink all Pact ships. The enemy Elf ships cannot be sunk.
-Sink all Pact ships. The enemy Elf ships cannot be sunk.
+#% BATTLE: Dissension
+BATALLA: Desacuerdo
+#% When we arrived at Far Port, we found the remnants of the Emerald Fleet sailing alongside Pact ships. Could Pact have captured the fleet while we were gone? We must investigate.
+Cuando llegamos a Far Port, encontramos lo que quedaba de la Flota Esmeralda navegando junto a naves del Pacto. ¿Pudiera haber capturado el Pacto la flota mientras no estábamos? Debemos investigar.
+#% Sink all Pact ships. The enemy Elf ships cannot be sunk.
+Hundir todas las naves del Pacto. Las naves Elfas no pueden ser hundidas.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# FarPort
+#% FarPort
 FarPort
 #% roo_chap7_battle6
 roo_chap7_battle6
 #% 1
 1
-# MAIN: The Homunculi
-MAIN: The Homunculi
-# In a shocking turn of events, it turned out that the Neutral Banner Elves and Fontana have joined forces in rebellion against the Song. Fontana now wants us to work together to defeat the Witch of Asahi and her homunculi. For now, it seems our interests are aligned.
-In a shocking turn of events, it turned out that the Neutral Banner Elves and Fontana have joined forces in rebellion against the Song. Fontana now wants us to work together to defeat the Witch of Asahi and her homunculi. For now, it seems our interests are aligned.
-# Go to Sargasso and investigate the secret fort.
-Go to Sargasso and investigate the secret fort.
+#% MAIN: The Homunculi
+PRINCIPAL: Los Homúnculos
+#% In a shocking turn of events, it turned out that the Neutral Banner Elves and Fontana have joined forces in rebellion against the Song. Fontana now wants us to work together to defeat the Witch of Asahi and her homunculi. For now, it seems our interests are aligned.
+En un impactante giro de los acontecimientos, resultó que los Elfos de los Territorios Neutrales y Fontana habían unido fuerzas en una rebelión contra Song. Fontana ahora quiere que trabajemos juntos para derrotar a la Bruja de Asahi y sus homúnculos. Por ahora, parece que nuestros intereses están alineados.
+#% Go to Sargasso and investigate the secret fort.
+Ir a Sargasso e investigar el fuerte secreto.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Sargasso
+#% Sargasso
 Sargasso
 #% roo_chap7_story11
 roo_chap7_story11
 #% 1
 1
-# BATTLE: The Homunculi
-BATTLE: The Homunculi
-# We have arrived at Sargasso, where we found Alice's secret fort where the homunculi are being constructed. We must destroy it for good with the Black Iron bomb.
-We have arrived at Sargasso, where we found Alice's secret fort where the homunculi are being constructed. We must destroy it for good with the Black Iron bomb.
-# Destroy the fort's defenses, then sink all enemy reinforcements.
-Destroy the fort's defenses, then sink all enemy reinforcements.
+#% BATTLE: The Homunculi
+BATALLA: Los Homúnculos
+#% We have arrived at Sargasso, where we found Alice's secret fort where the homunculi are being constructed. We must destroy it for good with the Black Iron bomb.
+Hemos arribado a Sargasso, donde hallamos el fuerte secreto de Alice donde los homúnculos son construidos. Debemos destruirlo para siempre con la bomba de Hierro Negro.
+#% Destroy the fort's defenses, then sink all enemy reinforcements.
+Destruir las defensas del fuerte, luego hundir todos los refuerzos enemigos.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Sargasso
+#% Sargasso
 Sargasso
 #% roo_chap7_battle7
 roo_chap7_battle7
 #% 1
 1
-# MAIN: The Coronation
-MAIN: The Coronation
-# We have put off liberating Ryuvia for long enough. Now that we know Far Port is secure and Alice's plot has been thwarted for now, we must sail to Ryuvia and rejoin the Emerald Fleet.
-We have put off liberating Ryuvia for long enough. Now that we know Far Port is secure and Alice's plot has been thwarted for now, we must sail to Ryuvia and rejoin the Emerald Fleet.
-# Go to Ryuvia.
-Go to Ryuvia.
+#% MAIN: The Coronation
+PRINCIPAL: La Coronación
+#% We have put off liberating Ryuvia for long enough. Now that we know Far Port is secure and Alice's plot has been thwarted for now, we must sail to Ryuvia and rejoin the Emerald Fleet.
+Hemos dejado de lado liberar Ryuvia suficiente tiempo. Ahora que sabemos que Far Port está seguro y el plan de Alice ha sido frustrado por ahora, debemos navegar a Ryuvia y reunirnos con la Flota Esmeralda.
+#% Go to Ryuvia.
+Ir a Ryuvia.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap7_story13
 roo_chap7_story13
 #% 1
 1
-# BATTLE: Escape From Ryuvia... Again.
-BATTLE: Escape From Ryuvia... Again.
-# In an unbelievable twist, it turned out Admiral Grey planned to sacrifice Asaga all along by casting the Final Tear. Now we must escape from Ryuvia once again, this time from our former allies.
-In an unbelievable twist, it turned out Admiral Grey planned to sacrifice Asaga all along by casting the Final Tear. Now we must escape from Ryuvia once again, this time from our former allies.
-# All player ships must reach the escape zone.
-All player ships must reach the escape zone.
+#% BATTLE: Escape From Ryuvia... Again.
+BATALLA: Escape De Ryuvia... De Nuevo.
+#% In an unbelievable twist, it turned out Admiral Grey planned to sacrifice Asaga all along by casting the Final Tear. Now we must escape from Ryuvia once again, this time from our former allies.
+En un giro increíble, resultó que el Almirante Grey planeaba sacrificar a Asaga todo el tiempo al lanzar la Final Tear. Ahora debemos escapar de Ryuvia de nuevo, esta vez de nuestros antiguos aliados.
+#% All player ships must reach the escape zone.
+Todas las naves del jugador deben alcanzar la zona de escape.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ryuvia
+#% Ryuvia
 Ryuvia
 #% roo_chap8_battle5
 roo_chap8_battle5
 #% 1
 1
-# MAIN: Operation Rescue Dad
-MAIN: Operation Rescue Dad
-# Dad had no other choice but to sacrifice himself so that we can escape Ryuvia. He has been taken prisoner and is being sent to stand trial at Volaris. We've got to break him out before the Song sentence him to death.
-Dad had no other choice but to sacrifice himself so that we can escape Ryuvia. He has been taken prisoner and is being sent to stand trial at Volaris. We've got to break him out before the Song sentence him to death.
-# Go to Volaris.
-Go to Volaris.
+#% MAIN: Operation Rescue Dad
+PRINCIPAL: Operación Rescatar a Papá
+#% Dad had no other choice but to sacrifice himself so that we can escape Ryuvia. He has been taken prisoner and is being sent to stand trial at Volaris. We've got to break him out before the Song sentence him to death.
+Papá no tuvo más opción que sacrificarse para que pudiéramos escapar de Ryuvia. Ha sido tomado prisionero y está siendo enviado a juicio en Volaris. Tenemos que rescatarlo antes de que Song lo sentencie a muerte.
+#% Go to Volaris.
+Ir a Volaris.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Volaris
+#% Volaris
 Volaris
 #% roo_chap8_story10
 roo_chap8_story10
 #% 1
 1
-# BATTLE: Operation Rescue Dad
-BATTLE: Operation Rescue Dad
-# Dad had no other choice but to sacrifice himself so that we can escape Ryuvia. He has been taken prisoner and is being sent to stand trial at Volaris. We've got to break him out before the Song sentence him to death.
-Dad had no other choice but to sacrifice himself so that we can escape Ryuvia. He has been taken prisoner and is being sent to stand trial at Volaris. We've got to break him out before the Song sentence him to death.
-# Capture all three transport ships before any of them reaches the escape zone.
-Capture all three transport ships before any of them reaches the escape zone.
+#% BATTLE: Operation Rescue Dad
+BATALLA: Operación Rescatar a Papá
+#% Dad had no other choice but to sacrifice himself so that we can escape Ryuvia. He has been taken prisoner and is being sent to stand trial at Volaris. We've got to break him out before the Song sentence him to death.
+Papá no tuvo más opción que sacrificarse para que pudiéramos escapar de Ryuvia. Ha sido tomado prisionero y está siendo enviado a juicio en Volaris. Tenemos que rescatarlo antes de que Song lo sentencie a muerte.
+#% Capture all three transport ships before any of them reaches the escape zone.
+Capturar las tres naves de transporte antes de que cualquiera alcance la zona de escape.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Volaris
+#% Volaris
 Volaris
 #% roo_chap8_battle6
 roo_chap8_battle6
 #% 1
 1
-# MAIN: Speak to Fontana
-MAIN: Speak to Fontana
-# Now that we've rescued dad, we should rendezvous with Fontana. Now that we know the secret of the Monolithic Truth, we may have no other choice but to join forces to save Asaga from her fate.
-Now that we've rescued dad, we should rendezvous with Fontana. Now that we know the secret of the Monolithic Truth, we may have no other choice but to join forces to save Asaga from her fate.
-# Go to Ferros.
-Go to Ferros.
+#% MAIN: Speak to Fontana
+PRINCIPAL: Hablar con Fontana
+#% Now that we've rescued dad, we should rendezvous with Fontana. Now that we know the secret of the Monolithic Truth, we may have no other choice but to join forces to save Asaga from her fate.
+Ahora que hemos rescatado a papá, deberíamos reunirnos con Fontana. Ahora que conocemos el secreto de la Verdad Monolítica, podríamos no tener más elección que unir fuerzas para salvar a Asaga de su destino.
+#% Go to Ferros.
+Ir a Ferros.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ferros
+#% Ferros
 Ferros
 #% roo_chap8_story12
 roo_chap8_story12
 #% 1
 1
-# BATTLE: Our Path
-BATTLE: Our Path
-# We've finally uncovered all the secrets to this war. Our path is now clear: We must save Alice Ashada from her fate as Sharr Myren's pawn and end the cycle of the Monolithic Truth once and for all.
-We've finally uncovered all the secrets to this war. Our path is now clear: We must save Alice Ashada from her fate as Sharr Myren's pawn and end the cycle of the Monolithic Truth once and for all.
-# Go to Ongess.
-Go to Ongess.
+#% BATTLE: Our Path
+BATALLA: Nuestro Camino
+#% We've finally uncovered all the secrets to this war. Our path is now clear: We must save Alice Ashada from her fate as Sharr Myren's pawn and end the cycle of the Monolithic Truth once and for all.
+Finalmente hemos descubierto todos los secretos de esta guerra. Nuestro camino ahora está claro: Debemos salvar a Alice Ashada de su destino como un peón de la Sharr Myren y terminar el ciclo de la Verdad Monolítica de una vez por todas.
+#% Go to Ongess.
+Ir a Ongess.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ongess
+#% Ongess
 Ongess
 #% roo_chap8_battle7
 roo_chap8_battle7
 #% 1
 1
-# BATTLE: End the Monolithic Truth
-BATTLE: End the Monolithic Truth
-# This is it. The entire Emerald Fleet has arrived to stop us. We must win this battle if we are to free the world from the Monolithic Truth.
-This is it. The entire Emerald Fleet has arrived to stop us. We must win this battle if we are to free the world from the Monolithic Truth.
-# Sink the enemy fleet.
-Sink the enemy fleet.
+#% BATTLE: End the Monolithic Truth
+BATALLA: Terminar la Verdad Monolítica
+#% This is it. The entire Emerald Fleet has arrived to stop us. We must win this battle if we are to free the world from the Monolithic Truth.
+Este es el fin. Toda la Flota Esmeralda ha llegado para detenernos. Debemos ganar esta batalla si queremos liberar al mundo de la Verdad Monolítica.
+#% Sink the enemy fleet.
+Hundir la flota enemiga.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ongess
+#% Ongess
 Ongess
 #% roo_chap8_battle8
 roo_chap8_battle8
 #% 1
 1
-# RPG BATTLE: The Dark King
-RPG BATTLE: The Dark King
-# Admiral Grey has tapped into black magic and fallen to his corruption. Now the Dark King has arisen to rule the world. We must defeat him!
-Admiral Grey has tapped into black magic and fallen to his corruption. Now the Dark King has arisen to rule the world. We must defeat him!
-# Defeat the Dark King
-Defeat the Dark King
+#% RPG BATTLE: The Dark King
+BATALLA RPG: El Rey Oscuro
+#% Admiral Grey has tapped into black magic and fallen to his corruption. Now the Dark King has arisen to rule the world. We must defeat him!
+El Almirante Grey se ha metido en la magia negra y ha caído ante su corrupción. Ahora el Rey Oscuro se ha levantado para gobernar el mundo. ¡Debemos derrotarlo!
+#% Defeat the Dark King
+Derrotar al Rey Oscuro.
 #% spr_ui_talkicon_kay
 spr_ui_talkicon_kay
-# Ongess
+#% Ongess
 Ongess
 #% roo_chap8_rpgbattle4
 roo_chap8_rpgbattle4

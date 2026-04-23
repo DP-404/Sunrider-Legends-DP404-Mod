@@ -1,4 +1,5 @@
 import os
+import shutil
 
 import _utility as utility
 
@@ -29,6 +30,12 @@ def export(filename:str):
 def export_all():
     for filename in utility.DATA_FILES:
         export(filename)
+    if os.path.exists(utility.STEAM_PATH):
+        for filename in os.listdir(PATH_DECODED):
+            shutil.copy(
+                os.path.join(PATH_DEFAULT, filename),
+                os.path.join(utility.STEAM_PATH, filename)
+            )
 
 if __name__ == '__main__':
     export_all()
